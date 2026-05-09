@@ -1,6 +1,6 @@
 import { Card } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import { Heart, Star } from 'lucide-react'
+import { Heart } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import type { Game } from '@/types'
 
