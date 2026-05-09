@@ -1,0 +1,21325 @@
+# Lista de Jogos - R36S
+
+## Total de Jogos: ~14.747
+
+---
+
+## Arcade (2 jogos)
+
+- galaga.zip
+- galaga88.zip
+
+---
+
+## CPS-1 (32 jogos)
+
+- 1941.zip
+- 3wonders.zip
+- captcomm.zip
+- cawing.zip
+- dino.zip
+- dynwarjr.zip
+- ffight.zip
+- ghouls.zip
+- knights.zip
+- kod.zip
+- mbombrd.zip
+- megaman.zip
+- mercsj.zip
+- msword.zip
+- mtwins.zip
+- nemo.zip
+- pang3.zip
+- pnickj.zip
+- punisher.zip
+- sf2.zip
+- sf2ce.zip
+- sf2hf.zip
+- sfzch.zip
+- slammast.zip
+- strider.zip
+- unsquad.zip
+- varth.zip
+- willow.zip
+- wofa.zip
+- wofch.zip
+- wofj.zip
+- wofsjc.zip
+
+---
+
+## CPS-2 (37 jogos)
+
+- 1944.zip
+- armwar.zip
+- avsp.zip
+- batcir.zip
+- csclub.zip
+- cybots.zip
+- ddsom.zip
+- ddtod.zip
+- dimahoo.zip
+- dstlk.zip
+- ecofghtr.zip
+- gigawing.zip
+- hsf2.zip
+- jyangoku.zip
+- megaman2.zip
+- mmatrix.zip
+- mpang.zip
+- msh.zip
+- mshvsf.zip
+- mvsc.zip
+- nwarr.zip
+- progear.zip
+- pzloop2.zip
+- ringdest.zip
+- sfa.zip
+- sfa2.zip
+- sfa3.zip
+- sfz2al.zip
+- sgemf.zip
+- spf2t.zip
+- ssf2.zip
+- ssf2t.zip
+- vhunt2.zip
+- vsav.zip
+- vsav2.zip
+- xmcota.zip
+- xmvsf.zip
+
+---
+
+## CPS-3 (4 jogos)
+
+- jojoba.zip
+- redearth.zip
+- sfiii2.zip
+- sfiii3.zip
+
+---
+
+
+---
+
+## Dreamcast (5 jogos)
+
+- Crazy Taxi 2.cdi
+- Dead or Alive 2 (USA)[RDC].cdi
+- GigaWing 2 (USA)[RDC].cdi
+- Legacy of Kain - Soul Reaver (USA)[RDC].cdi
+- Marvel Vs Capcom 2 (USA).cdi
+
+---
+
+## EasyRPG (2 jogos)
+
+- Scan_for_new_games.easyrpg
+- menu.ldb
+
+---
+
+## Famicom / NES (Japan) (~1064 jogos)
+
+- 1942 (Japan, USA).zip
+- 1943 - The Battle of Midway (USA).zip
+- 1991 Du Ma Racing (Asia) (Unl) (T).zip
+- 25th Anniversary Super Mario Bros. (Europe) (Promo, Virtual Console).zip
+- 3-D WorldRunner (USA).zip
+- 4 Nin Uchi Mahjong (Japan) (Rev A) (T).zip
+- 720 Degrees (USA).zip
+- Abadox - The Deadly Inner War (USA).zip
+- Action 52 (USA) (Rev A) (Unl).zip
+- Adan y Eva (Spain) (Gluk Video) (Unl).zip
+- Addams Family, The - Pugsley's Scavenger Hunt (USA).zip
+- Advanced Dungeons & Dragons - DragonStrike (USA).zip
+- Advanced Dungeons & Dragons - Heroes of the Lance (USA).zip
+- Advanced Dungeons & Dragons - Hillsfar (USA).zip
+- Advanced Dungeons & Dragons - Pool of Radiance (USA).zip
+- Adventure Island 3 (USA).zip
+- Adventure Island II (USA).zip
+- Adventures in the Magic Kingdom (USA).zip
+- Adventures of Bayou Billy, The (USA).zip
+- Adventures of Dino Riki (USA).zip
+- Adventures of Dr. Franken, The (USA) (Proto).zip
+- Adventures of Gilligan's Island, The (USA).zip
+- Adventures of Lolo 3 (USA).zip
+- Adventures of Rad Gravity, The (USA).zip
+- Adventures of Rocky and Bullwinkle and Friends, The (USA).zip
+- Adventures of Tom Sawyer (USA).zip
+- After Burner (USA) (Unl).zip
+- Aigina no Yogen - Balubalouk no Densetsu Yori (Japan) (T).zip
+- Air Fortress (USA).zip
+- Airball (Unknown) (Proto 2).zip
+- Airwolf (Japan) (T).zip
+- Airwolf (USA).zip
+- Akira (Japan) (T).zip
+- Akumajou Densetsu (Japan) (T).zip
+- Al Unser Jr. Turbo Racing (USA).zip
+- Aladdin (Europe).zip
+- Alfred Chicken (USA).zip
+- Alien 3 (USA).zip
+- Alien Syndrome (USA) (Unl).zip
+- All-Pro Basketball (USA).zip
+- Alpha Mission (USA).zip
+- American Gladiators (USA).zip
+- Ankoku Shinwa - Yamato Takeru Densetsu (Japan) (T).zip
+- Anticipation (USA).zip
+- Arcadia VI (USA) (Proto).zip
+- Arch Rivals - A Basketbrawl! (USA).zip
+- Archon (USA).zip
+- Arkista's Ring (USA).zip
+- Armadillo (Japan) (T).zip
+- Artelius (Japan) (T).zip
+- Asterix (Europe) (En,Fr,De,Es,It).zip
+- Astro Fang - Super Machine (Japan) (T).zip
+- Athena (USA).zip
+- Athletic World (USA).zip
+- Atlantis no Nazo (Japan) (T).zip
+- Attack of the Killer Tomatoes (USA).zip
+- Aussie Rules Footy (Australia).zip
+- Baby Boomer (USA) (Unl).zip
+- Back to the Future (USA).zip
+- Back to the Future Part II & III (USA).zip
+- Bad News Baseball (USA).zip
+- Bad Street Brawler (USA).zip
+- Banana (Japan) (T).zip
+- Bandai Golf - Challenge Pebble Beach (USA).zip
+- Bandit Kings of Ancient China (USA).zip
+- Bard's Tale, The (USA).zip
+- Barker Bill's Trick Shooting (USA).zip
+- Baseball (USA) (GameCube Edition).zip
+- Baseball (USA, Europe).zip
+- Baseball Stars II (USA).zip
+- Bases Loaded 3 (USA).zip
+- Bases Loaded 4 (USA).zip
+- Bases Loaded II - Second Season (USA).zip
+- Bashi Bazook - Morphoid Masher (USA) (Proto).zip
+- Batman Returns (USA).zip
+- Batsu & Terry - Makyou no Tetsujin Race (Japan) (T).zip
+- Battle Chess (USA).zip
+- Battle of Olympus, The (USA).zip
+- Battle Storm (Japan) (T).zip
+- Battleship (USA).zip
+- Battletoads-Double Dragon (USA).zip
+- BB Car (Unknown) (Unl).zip
+- Beauty and the Beast (Europe).zip
+- Bee 52 (USA) (Unl).zip
+- Beetlejuice (USA).zip
+- Best of the Best - Championship Karate (USA).zip
+- Bible Adventures (USA) (v1.4) (Unl).zip
+- Bible Buffet (USA) (v6.0) (Unl).zip
+- Big Nose the Caveman (USA) (Unl).zip
+- Bigfoot (USA).zip
+- Bikkuriman World - Gekitou Sei Senshi (Japan) (T).zip
+- Bill & Ted's Excellent Video Game Adventure (USA).zip
+- Bill Elliott's NASCAR Challenge (USA).zip
+- Bio Force Ape (Japan) (En) (Proto).zip
+- Bio Miracle Bokutte Upa (Japan) (T).zip
+- Bio Senshi Dan - Increaser Tono Tatakai (Japan) (T).zip
+- Black Bass, The (Japan) (T).zip
+- Black Bass, The (USA).zip
+- Blackjack (USA) (Unl).zip
+- Blaster Master (USA).zip
+- Bloody Warriors - Shan-Go no Gyakushuu (Japan) (T).zip
+- Blue Marlin, The (USA).zip
+- Blues Brothers, The (USA).zip
+- Bo Jackson Baseball (USA).zip
+- Bomberman II (USA).zip
+- Bonk's Adventure (USA).zip
+- Boulder Dash (USA).zip
+- Bram Stoker's Dracula (USA).zip
+- Break Time - The National Pool Tour (USA).zip
+- BreakThru (USA).zip
+- Bubble Bath Babes (USA) (Unl).zip
+- Bubble Bobble Part 2 (USA).zip
+- Bucky O'Hare (USA).zip
+- Bugs Bunny Birthday Blowout, The (USA).zip
+- Burai Fighter (USA).zip
+- BurgerTime (USA).zip
+- Buzz & Waldog (USA) (Proto) (Unl).zip
+- Cabal (USA).zip
+- Cadillac (Japan) (T).zip
+- Caesars Palace (USA).zip
+- California Games (USA).zip
+- California Raisins - The Grape Escape (USA) (Proto 2).zip
+- Caltron - 6 in 1 (USA) (Unl).zip
+- Capcom's Gold Medal Challenge '92 (USA).zip
+- Captain Comic - The Adventure (USA) (Unl).zip
+- Captain Planet and the Planeteers (USA).zip
+- Captain Silver (Japan) (T).zip
+- Captain Tsubasa Vol. II - Super Striker (Japan) (T).zip
+- Casino Kid (USA).zip
+- Casino Kid II (USA).zip
+- Castelian (USA).zip
+- Castle of Deceit (USA) (Unl).zip
+- Castle of Dragon (USA).zip
+- Castle Quest (Japan) (T).zip
+- Castlequest (USA).zip
+- Castlevania (USA) (Rev A).zip
+- Caveman Games (USA).zip
+- Challenge of the Dragon (USA) (Unl).zip
+- Championship Bowling (USA).zip
+- Championship Pool (USA).zip
+- Chao Ji Han Man - The Hummer (China) (Unl) (T).zip
+- Chaos World (Japan) (T).zip
+- Cheetahmen II (USA) (Unl).zip
+- Chess Academy (Asia) (NTSC) (Unl) (T).zip
+- Chester Field - Ankoku Shin e no Chousen (Japan) (T).zip
+- Chiisana Obake - Acchi Socchi Kocchi (Japan) (T).zip
+- Chik Bik Ji Jin - Saam Gwok Ji (Asia) (Unl) (T).zip
+- Chiller (USA) (Unl).zip
+- Chip 'n Dale - Rescue Rangers 2 (USA).zip
+- Chip's Challenge (USA) (v0.924B) (Proto).zip
+- Choplifter (Japan) (En) (Rev 1).zip
+- Choujin Sentai Jetman (Japan) (T).zip
+- Choujinrou Senki Warwolf (Japan) (T).zip
+- Chris Evert & Ivan Lendl in Top Players' Tennis (USA).zip
+- Chuck Yeager's Fighter Combat (USA) (Proto).zip
+- Chuuka Taisen (Japan) (T).zip
+- Circus Caper (USA).zip
+- City Adventure Touch - Mystery of Triangle (Japan) (T).zip
+- City Connection (USA).zip
+- Clash at Demonhead (USA).zip
+- Classic Concentration (USA).zip
+- Cliffhanger (USA).zip
+- Clu Clu Land (World).zip
+- Cobra Command (USA).zip
+- Cobra Triangle (USA).zip
+- Cocoron (Japan) (T).zip
+- Code Name - Viper (USA).zip
+- Color a Dinosaur (USA).zip
+- Columbus - Ougon no Yoake (Japan) (T).zip
+- Conan (USA).zip
+- Conquest of the Crystal Palace (USA).zip
+- Contra (USA).zip
+- Contra Force (USA).zip
+- Cool World (USA).zip
+- Cosmic Epsilon (Japan) (T).zip
+- Cosmic Wars (Japan) (T).zip
+- Cosmo Genesis (Japan) (T).zip
+- Cowboy Kid (USA).zip
+- Crackout (USA) (Proto).zip
+- Crash 'n' the Boys - Street Challenge (USA).zip
+- Creatom (Spain) (Gluk Video) (Unl).zip
+- Crime Busters (Unknown) (Unl).zip
+- Crisis Force (Japan) (T).zip
+- Cross Fire (USA) (Proto).zip
+- Crystal Mines (USA) (Unl).zip
+- Crystalis (USA).zip
+- Cyber Stadium Series - Base Wars (USA).zip
+- Cyberball (USA).zip
+- Cybernoid - The Fighting Machine (USA).zip
+- Dai-2-ji Super Robot Taisen (Japan) (T).zip
+- Daisenryaku (Japan) (T).zip
+- Daiva - Imperial of Nirsartia (Japan) (T).zip
+- Danny Sullivan's Indy Heat (USA).zip
+- Dark Lord (Japan) (T).zip
+- Darkman (USA).zip
+- Dash Galaxy in the Alien Asylum (USA).zip
+- Dash Yarou (Japan) (T).zip
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).zip
+- Days of Thunder (USA).zip
+- Deadly Towers (USA).zip
+- Death Race (USA) (Unl).zip
+- Deathbots (USA) (Rev 1) (Unl).zip
+- Deep Dungeon III - Yuushi e no Tabi (Japan) (T).zip
+- Deep Dungeon IV - Kuro no Youjutsushi (Japan) (T).zip
+- Defender II (USA).zip
+- Defender of the Crown (USA).zip
+- Defenders of Dynatron City (USA).zip
+- Deja Vu (USA).zip
+- Demon Sword (USA).zip
+- Desert Commander (USA).zip
+- Destination Earthstar (USA).zip
+- Destructor, El (Spain) (Gluk Video) (Unl).zip
+- Devil Man (Japan) (T).zip
+- Dick Tracy (USA).zip
+- Die Hard (USA).zip
+- Digger - The Legend of the Lost City (USA).zip
+- Digital Devil Story - Megami Tensei (Japan) (T).zip
+- Dino-Hockey (USA) (Proto).zip
+- Dirty Harry (USA).zip
+- Dizzy the Adventurer (USA) (Aladdin Compact Cartridge) (Unl).zip
+- Don Doko Don 2 (Japan) (T).zip
+- Donkey Kong 3 (World).zip
+- Donkey Kong Classics (USA, Europe).zip
+- Donkey Kong Jr. (World) (Rev A).zip
+- Donkey Kong Jr. Math (USA, Europe).zip
+- Doraemon - Giga Zombie no Gyakushuu (Japan) (T).zip
+- Doraemon (Japan) (Rev A) (T).zip
+- Double Dare (USA).zip
+- Double Dribble (USA) (Rev A).zip
+- Double Moon Densetsu (Japan) (T).zip
+- Double Strike - Aerial Attack Force (USA) (v1.1) (Unl).zip
+- Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan) (T).zip
+- Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) (T).zip
+- Dr. Chaos (USA).zip
+- Dr. Jekyll and Mr. Hyde (USA).zip
+- Drac's Night Out (USA) (Proto).zip
+- Dragon Ball - Daimaou Fukkatsu (Japan) (T).zip
+- Dragon Ball - Shen Long no Nazo (Japan) (T).zip
+- Dragon Ball 3 - Gokuu Den (Japan) (Rev 1) (T).zip
+- Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (T).zip
+- Dragon Ball Z II - Gekishin Freeza!! (Japan) (Rev 1) (T).zip
+- Dragon Ball Z III - Ressen Jinzou Ningen (Japan) (T).zip
+- Dragon Buster II - Yami no Fuuin (Japan) (T).zip
+- Dragon Fighter (USA).zip
+- Dragon Knife (China) (Unl) (T).zip
+- Dragon Ninja (Japan) (T).zip
+- Dragon Scroll - Yomigaerishi Maryuu (Japan) (T).zip
+- Dragon Warrior II (USA).zip
+- Dragon Warrior III (USA).zip
+- Dragon Warrior IV (USA).zip
+- Dragon Wars (USA) (Proto).zip
+- Dragon's Lair (USA).zip
+- Dream Master (Japan) (T).zip
+- Dropzone (Europe).zip
+- Duck Hunt (World).zip
+- Duck Maze (Australia) (Unl).zip
+- DuckTales (USA).zip
+- DuckTales 2 (USA).zip
+- Dudes with Attitude (USA) (Rev 1) (Unl).zip
+- Dungeon Magic - Sword of the Elements (USA).zip
+- Dusty Diamond's All-Star Softball (USA).zip
+- Dynowarz - Destruction of Spondylus (USA).zip
+- Eggerland - Meikyuu no Fukkatsu (Japan) (T).zip
+- Egypt (Japan) (T).zip
+- Eliminator Boat Duel (USA).zip
+- Elite (USA) (Proto) [b].zip
+- Elnark no Zaihou (Japan) (T).zip
+- Elysion (Japan) (T).zip
+- Empereur, L' (USA).zip
+- Escape from Atlantis, The (USA) (Proto 2) (Unl).zip
+- Esper Bouken Tai (Japan) (T).zip
+- Esper Dream 2 - Aratanaru Tatakai (Japan) (T).zip
+- Exciting Rally - World Rally Championship (Japan) (T).zip
+- Exerion (Japan) (En).zip
+- Exodus - Journey to the Promised Land (USA) (v5.0) (Unl).zip
+- Exploding Fist (USA) (Proto 2).zip
+- F1 Circus (Japan) (T).zip
+- F-117A - Stealth Fighter (USA).zip
+- F15 City War (USA) (v1.1) (Unl).zip
+- F-15 Strike Eagle (USA).zip
+- Famicom Wars (Japan) (T).zip
+- Family Circuit (Japan) (T).zip
+- Family Circuit '91 (Japan) (En).zip
+- Family Feud (USA).zip
+- Family Jockey (Japan) (T).zip
+- Family Pinball (Japan) (T).zip
+- Family Tennis (Japan) (T).zip
+- Family Trainer 4 - Jogging Race (Japan) (T).zip
+- Family Trainer 8 - Totsugeki! Fuuun Takeshi-jou (Japan) (T).zip
+- Fantastic Adventures of Dizzy, The (USA) (Unl).zip
+- Fantasy Zone (USA) (Unl).zip
+- Faria - A World of Mystery & Danger! (USA).zip
+- Ferrari Grand Prix Challenge (USA).zip
+- Fester's Quest (USA).zip
+- Fighting Road (Japan) (T).zip
+- Final Fantasy II (Japan) (T).zip
+- Final Fantasy II (USA) (Proto).zip
+- Final Fantasy III (Japan) (T).zip
+- Final Mission (Japan) (T).zip
+- Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (Japan) (T).zip
+- Fire Emblem Gaiden (Japan) (T).zip
+- Fire Hawk (USA) (Unl).zip
+- Fire 'n Ice (USA).zip
+- Fisher-Price - Firehouse Rescue (USA).zip
+- Fisher-Price - I Can Remember (USA).zip
+- Fisher-Price - Perfect Fit (USA).zip
+- Fist of the North Star (USA).zip
+- Fleet Commander (Japan) (T).zip
+- Flight of the Intruder (USA).zip
+- Flintstones, The - The Rescue of Dino & Hoppy (USA).zip
+- Flintstones, The - The Surprise at Dinosaur Peak! (USA).zip
+- Flipull - An Exciting Cube Game (Japan) (En) (Rev 1).zip
+- Flying Dragon - The Secret Scroll (USA).zip
+- Flying Warriors (USA).zip
+- Formula 1 Sensation (Europe).zip
+- Formula One - Built to Win (USA).zip
+- Four Players' Tennis (Europe).zip
+- Fox's Peter Pan & the Pirates - The Revenge of Captain Hook (USA).zip
+- Frankenstein - The Monster Returns (USA).zip
+- Free Fall (USA) (Proto).zip
+- Freedom Force (USA).zip
+- Fudou Myouou Den (Japan) (T).zip
+- Fun Blaster Pak (Australia) (Unl).zip
+- Fun House (USA).zip
+- Fushigi no Umi no Nadia (Japan) (T).zip
+- Future Wars - Mirai Senshi Lios (Japan) (T).zip
+- G.I. Joe - The Atlantis Factor (USA).zip
+- Galactic Crusader (USA) (Unl).zip
+- Galaga - Demons of Death (USA).zip
+- Game Designer Yousei Soft - Dezaemon (Japan) (T).zip
+- Game Party (Japan) (T).zip
+- Ganbare Goemon 2 (Japan) (T).zip
+- Ganbare Goemon! - Karakuri Douchuu (Japan) (T).zip
+- Ganso Saiyuuki - Super Monkey Daibouken (Japan) (T).zip
+- Gargoyle's Quest II (USA).zip
+- Garry Kitchen's BattleTank (USA).zip
+- Gauntlet (USA).zip
+- Gauntlet II (USA).zip
+- Gegege no Kitarou - Youkai Daimakyou (Japan) (T).zip
+- Gemfire (USA).zip
+- Genghis Khan (USA).zip
+- George Foreman's KO Boxing (USA).zip
+- Getsu Fuuma Den (Japan) (T).zip
+- Ghost Lion (USA).zip
+- Ghostbusters (USA).zip
+- Ghostbusters II (USA).zip
+- Ghoul School (USA).zip
+- Goal! (USA).zip
+- Goal! Two (USA).zip
+- Godzilla - Monster of Monsters! (USA).zip
+- Godzilla 2 - War of the Monsters (USA).zip
+- Gojira (Japan) (T).zip
+- Golf '92, The (Japan) (T).zip
+- Golf Club - Birdy Rush (Japan) (T).zip
+- Golf Grand Slam (USA).zip
+- Golgo 13 - Top Secret Episode (USA).zip
+- Gomoku Narabe (Japan) (T).zip
+- Goonies II, The (USA).zip
+- Gorby no Pipeline Daisakusen (Japan) (T).zip
+- Gotcha! - The Sport! (USA).zip
+- Gradius (USA).zip
+- Grand Master (Japan) (T).zip
+- Great Waldo Search, The (USA).zip
+- Greg Norman's Golf Power (USA).zip
+- Gremlins 2 - The New Batch (USA).zip
+- Guerrilla War (USA).zip
+- Gumshoe (USA, Europe).zip
+- Gun Nac (Japan) (T).zip
+- Gun Nac (USA).zip
+- Gun.Smoke (USA).zip
+- Gun-Dec (Japan) (T).zip
+- Gyromite (World).zip
+- Gyruss (USA).zip
+- Hacker, The (China) (Unl) (T).zip
+- Hammerin' Harry (Europe).zip
+- Hana no Star Kaidou (Japan) (T).zip
+- Happily Ever After (USA) (Proto).zip
+- Harlem Globetrotters (USA).zip
+- Hatris (USA).zip
+- Heavy Barrel (USA).zip
+- Heavy Shreddin' (USA).zip
+- Hebereke (Japan) (T).zip
+- Heisei Tensai Bakabon (Japan) (T).zip
+- Hello Kitty World (Japan) (T).zip
+- Heracles no Eikou - Toujin Makyou Den (Japan) (T).zip
+- Heracles no Eikou II - Titan no Metsubou (Japan) (T).zip
+- Hero Quest (USA) (Proto).zip
+- Higemaru - Makai-jima - Nanatsu no Shima Daibouken (Japan) (T).zip
+- High Speed (USA).zip
+- Hinotori - Houou Hen - Gaou no Bouken (Japan) (T).zip
+- Hirake! Ponkikki (Japan) (T).zip
+- Hit the Ice - VHL - The Video Hockey League (USA) (Proto).zip
+- Hitler no Fukkatsu - Top Secret (Japan) (T).zip
+- Hogan's Alley (World).zip
+- Hollywood Squares (USA).zip
+- Holy Diver (Japan) (T).zip
+- Home Alone (USA) (Rev A).zip
+- Home Alone 2 - Lost in New York (USA).zip
+- Honoo no Toukyuuji - Dodge Danpei (Japan) (T).zip
+- Honoo no Toukyuuji - Dodge Danpei 2 (Japan) (T).zip
+- Honshougi - Naitou 9 Dan Shougi Hiden (Japan) (T).zip
+- Hook (USA).zip
+- Hoops (USA).zip
+- Hottarman no Chitei Tanken (Japan) (T).zip
+- Houma ga Toki (Japan) (T).zip
+- Hudson's Adventure Island (USA).zip
+- Hunt for Red October, The (USA) (Rev A).zip
+- Hyaku no Sekai no Monogatari - The Tales on a Watery Wilderness (Japan) (T).zip
+- Hydlide (USA).zip
+- Hydlide 3 - Yami kara no Houmonsha (Japan) (T).zip
+- Ice Climber (USA, Europe).zip
+- Ice Hockey (USA).zip
+- Igo - Kyuu Roban Taikyoku (Japan) (T).zip
+- Ikari III - The Rescue (USA).zip
+- Ikari Warriors (USA) (Rev A).zip
+- Ikari Warriors II - Victory Road (USA).zip
+- Ikinari Musician (Japan) (T).zip
+- Ikki (Japan) (T).zip
+- Image Fight (USA).zip
+- Impossible Mission II (USA) (Unl).zip
+- Incredible Crash Dummies, The (USA).zip
+- Indiana Jones and the Last Crusade (USA) (Taito).zip
+- Indiana Jones and the Last Crusade (USA) (UBI Soft).zip
+- Indora no Hikari (Japan) (T).zip
+- Infiltrator (USA).zip
+- Insector X (Japan) (T).zip
+- Iron Tank - The Invasion of Normandy (USA).zip
+- IronSword - Wizards & Warriors II (USA).zip
+- Isolated Warrior (USA).zip
+- Itadaki Street - Watashi no Omise ni Yottette (Japan) (T).zip
+- Ivan 'Ironman' Stewart's Super Off Road (USA).zip
+- J.League Winning Goal (Japan) (T).zip
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (USA).zip
+- Jackie Chan's Action Kung Fu (USA).zip
+- Jackpot (Australia) (Unl).zip
+- Jajamaru Gekimaden - Maboroshi no Kinmajou (Japan) (T).zip
+- Jajamaru no Daibouken (Japan) (T).zip
+- James Bond Jr (USA).zip
+- Janggun-ui Adeul (Korea) (Unl) (T).zip
+- Jaws (USA).zip
+- Jeopardy! (USA) (Rev A).zip
+- Jeopardy! 25th Anniversary Edition (USA).zip
+- Jeopardy! Junior Edition (USA).zip
+- Jesus - Kyoufu no Bio Monster (Japan) (T).zip
+- Jigoku Gokuraku Maru (Japan) (T).zip
+- Jikuu Yuuden - Debias (Japan) (T).zip
+- Jimmy Connors Tennis (USA).zip
+- Jing Hua Yuan (China) (Unl) (T).zip
+- JJ (Japan) (T).zip
+- Joe & Mac (USA).zip
+- John Elway's Quarterback (USA).zip
+- Jordan vs Bird - One On One (USA).zip
+- Joshua & the Battle of Jericho (USA) (v6.0) (Unl).zip
+- Journey to Silius (USA).zip
+- Joust (USA).zip
+- Jovial Race (Unknown) (Unl).zip
+- Joy Mech Fight (Japan) (T).zip
+- Jungle Book, The (USA).zip
+- Jurassic Park (USA).zip
+- Just Breed (Japan) (T).zip
+- Juuryoku Soukou Metal Storm (Japan) (T).zip
+- Juvei Quest (Japan) (Rev 1) (T).zip
+- Kaguya Hime Densetsu (Japan) (T).zip
+- Kaijuu Monogatari (Japan) (T).zip
+- Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (T).zip
+- Kaiketsu Yanchamaru 2 - Karakuri Land (Japan) (T).zip
+- Kamen no Ninja - Akakage (Japan) (T).zip
+- Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi (Japan) (T).zip
+- Karakuri Kengou Den Musashi Lord - Karakuribito Hashiru (Japan) (T).zip
+- Karate Champ (USA) (Rev A).zip
+- Karate Kid, The (USA).zip
+- Karnov (USA).zip
+- Kart Fighter (Unl) (T).zip
+- Kawa no Nushi Tsuri (Japan) (T).zip
+- Kekkyoku Nankyoku Daibouken (Japan) (Rev 1) (T).zip
+- Kero Kero Keroppi no Daibouken (Japan) (T).zip
+- Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi! (Japan) (T).zip
+- Keroppi to Keroriinu no Splash Bomb! (Japan) (T).zip
+- Ki no Bouken - The Quest of Ki (Japan) (T).zip
+- Kick Master (USA).zip
+- Kick Off (Europe).zip
+- Kickle Cubicle (USA).zip
+- Kid Klown in Night Mayor World (USA).zip
+- Kid Kool and the Quest for the Seven Wonder Herbs (USA).zip
+- Kid Niki - Radical Ninja (USA) (Rev A).zip
+- King Kong 2 - Ikari no Megaton Punch (Japan) (T).zip
+- King Neptune's Adventure (USA) (Unl).zip
+- King of Kings (Japan) (T).zip
+- King of Kings, The (USA) (v5.0) (Unl).zip
+- King's Knight (USA).zip
+- Kings of the Beach - Professional Beach Volleyball (USA).zip
+- King's Quest V (USA).zip
+- Kinnikuman - Muscle Tag Match (Japan) (T).zip
+- Kirby's Adventure (USA) (Rev A).zip
+- Kiteretsu Daihyakka (Japan) (T).zip
+- Kitty's Catch (USA) (Proto) (Unl).zip
+- Kiwi Kraze - A Bird-Brained Adventure! (USA).zip
+- KlashBall (USA).zip
+- Klax (USA) (Unl).zip
+- Knight Rider (USA).zip
+- Konami Hyper Soccer (Europe).zip
+- Kouryuu Densetsu Villgust Gaiden (Japan) (T).zip
+- Krazy Kreatures (USA) (Unl).zip
+- Krusty's Fun House (USA).zip
+- Kujaku Ou (Japan) (T).zip
+- Kung Fu (Japan, USA).zip
+- Kung-Fu Heroes (USA).zip
+- Kunio-kun no Nekketsu Soccer League (Japan) (T).zip
+- Kyatto Ninden Teyandee (Japan) (T).zip
+- Kyouryuu Sentai Zyuranger (Japan) (T).zip
+- Kyuukyoku Harikiri Stadium (Japan) (T).zip
+- Labyrinth (Japan) (T).zip
+- Lagrange Point (Japan) (T).zip
+- Laser Invasion (USA).zip
+- Last Action Hero (USA).zip
+- Last Armageddon (Japan) (T).zip
+- Last Ninja, The (USA).zip
+- Last Starfighter, The (USA).zip
+- Lee Trevino's Fighting Golf (USA).zip
+- Legacy of the Wizard (USA).zip
+- Legend of Kage, The (USA).zip
+- Legend of Prince Valiant, The (Europe).zip
+- Legend of Robin Hood, The (USA) (Proto).zip
+- Legend of Zelda, The (USA) (Rev A).zip
+- Legendary Wings (USA).zip
+- Legends of the Diamond - The Baseball Championship Game (USA).zip
+- Lei Dian Huang Bi Ka Qiu Chuan Shuo (China) (Unl) (T).zip
+- Lemmings (USA).zip
+- Lethal Weapon (USA).zip
+- Life Force (USA).zip
+- Lin Ze Xu Jin Yan (China) (Unl) (T).zip
+- Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es) (Unl).zip
+- Lion King, The (Europe).zip
+- Little League Baseball - Championship Series (USA).zip
+- Little Ninja Brothers (USA).zip
+- Little Red Hood (Australia) (Unl).zip
+- Little Samson (USA).zip
+- Lone Ranger, The (USA).zip
+- Loopz (USA).zip
+- Low G Man - The Low Gravity Man (USA).zip
+- Lu Ye Xian Zong (China) (Unl) (T).zip
+- Lunar Pool (USA).zip
+- Lupin Sansei - Pandora no Isan (Japan) (T).zip
+- M.C. Kids (USA).zip
+- M.U.L.E. (USA).zip
+- Mach Rider (Japan, USA) (Rev A).zip
+- Mad City (Japan) (T).zip
+- Mad Max (USA).zip
+- Mafat Conspiracy, The (USA).zip
+- Magic Candle, The (Japan) (T).zip
+- Magic Darts (USA).zip
+- Magic John (Japan) (T).zip
+- Magic Johnson's Fast Break (USA).zip
+- Magic of Scheherazade, The (USA).zip
+- Magical Kid's Doropie (Japan) (T).zip
+- Magician (USA).zip
+- Magmax (USA).zip
+- Magnum Kikiippatsu - Empire City - 1931 (Japan) (T).zip
+- Maharaja (Japan) (T).zip
+- Mahjong (Japan) (Rev B) (T).zip
+- Mahjong Block (Unknown) (Unl).zip
+- Major League Baseball (USA) (Rev A).zip
+- Majou Densetsu II - Daimashikyou Galious (Japan) (T).zip
+- Makai Island (USA) (Proto).zip
+- Maniac Mansion (USA).zip
+- Mappy Kids (Japan) (T).zip
+- Marble Madness (USA).zip
+- Mario & Yoshi (Europe).zip
+- Mario Bros. (World).zip
+- Mario Bros. Classic (Europe).zip
+- Mario Is Missing! (USA).zip
+- Mario's Time Machine (USA).zip
+- Mashin Eiyuu Den Wataru Gaiden (Japan) (T).zip
+- Master Chu and the Drunkard Hu (USA) (Unl).zip
+- Matendouji (Japan) (T).zip
+- Maxi 15 (USA) (Rev 1) (Unl).zip
+- McDonaldland (Europe).zip
+- Mechanized Attack (USA).zip
+- Mega Man 3 (USA).zip
+- Mega Man 4 (USA) (Rev A).zip
+- Mega Man 6 (USA).zip
+- Meikyuu no Tatsujin - Daimeiro (Japan) (T).zip
+- Menace Beach (USA) (Unl).zip
+- Mendel Palace (USA).zip
+- Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).zip
+- Metal Fighter (USA) (Unl).zip
+- Metal Gear (USA).zip
+- Metal Mech - Man & Machine (USA).zip
+- Metal Storm (USA).zip
+- Michael Andretti's World GP (USA).zip
+- Mickey Mouse III - Yume Fuusen (Japan) (T).zip
+- Mickey Mousecapade (USA).zip
+- Mickey's Adventure in Numberland (USA).zip
+- Mickey's Safari in Letterland (USA).zip
+- Micro Machines (USA) (Unl).zip
+- Micro Mages.zip
+- MiG 29 - Soviet Fighter (USA) (Unl).zip
+- Might & Magic - Secret of the Inner Sanctum (USA).zip
+- Mighty Bomb Jack (USA).zip
+- Mike Tyson's Punch-Out!! (Europe).zip
+- Millipede (USA).zip
+- Milon's Secret Castle (USA).zip
+- Mind Blower Pak (Australia) (Unl).zip
+- Minelvaton Saga - Ragon no Fukkatsu (Japan) (T).zip
+- Mini Putt (Japan) (T).zip
+- Minna no Taabou no Nakayoshi Daisakusen (Japan) (T).zip
+- Miracle Piano Teaching System, The (USA).zip
+- Mirai Shinwa Jarvas (Japan) (T).zip
+- Mission Cobra (USA) (Unl).zip
+- Mission Impossible (USA).zip
+- Mississippi Satsujin Jiken (Japan) (T).zip
+- Moai-kun (Japan) (T).zip
+- Moero TwinBee - Cinnamon Hakase o Sukue! (Japan) (T).zip
+- Momotarou Densetsu (Japan) (T).zip
+- Monkey King (China) (Unl) (T).zip
+- Monopoly (USA).zip
+- Monster Truck Rally (USA).zip
+- Moon Crystal (Japan) (T).zip
+- Moon Ranger (USA) (Unl).zip
+- Mother (Japan) (T).zip
+- Motocross Champion (Japan) (T).zip
+- MotorCity Patrol (USA).zip
+- Mottomo Abunai Deka (Japan) (T).zip
+- Mouryou Senki Madara (Japan) (T).zip
+- Mr. Gimmick (Europe).zip
+- Ms. Pac-Man (USA) (Unl).zip
+- Ms. Pac-Man (USA).zip
+- Mugen Senshi Valis (Japan) (T).zip
+- Muppet Adventure - Chaos at the Carnival (USA).zip
+- Musashi no Bouken (Japan) (T).zip
+- Musashi no Ken - Tadaima Shugyou Chuu (Japan) (T).zip
+- Mutant Virus, The - Crisis in a Computer World (USA).zip
+- Mystery Quest (USA).zip
+- Mystery World Dizzy (Europe) (En,Pt,Pl) (Unl).zip
+- Nagagutsu o Haita Neko - Sekai Isshuu 80 Nichi Daibouken (Japan) (T).zip
+- Nakayoshi to Issho (Japan) (T).zip
+- Namco Classic II (Japan) (T).zip
+- NARC (USA).zip
+- Nekketsu Kakutou Densetsu (Japan) (T).zip
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan) (T).zip
+- NES Open Tournament Golf (USA).zip
+- NES Play Action Football (USA).zip
+- New Ghostbusters II (Europe).zip
+- New Ghostbusters II (USA) (Proto).zip
+- NewZealand Story, The (Europe).zip
+- NFL (USA).zip
+- Nigel Mansell's World Championship Challenge (USA).zip
+- Nightmare on Elm Street, A (USA).zip
+- Nightshade (USA).zip
+- Niji no Silk Road (Japan) (T).zip
+- Ninja Crusaders (USA).zip
+- Ninja Gaiden III - The Ancient Ship of Doom (USA).zip
+- Ninja Hattori-kun - Ninja wa Syugyou de Gozaru (Japan) (T).zip
+- Ninja Jajamaru-kun (Japan) (T).zip
+- Ninja Kid (USA).zip
+- Ninja-kun - Ashura no Shou (Japan) (T).zip
+- Ninja-kun - Majou no Bouken (Japan) (Rev 1) (T).zip
+- Ninjara Hoi! (Japan) (T).zip
+- Nintendo World Championships 1990 (USA).zip
+- Nintendo World Cup (USA).zip
+- Noah's Ark (Europe).zip
+- Nobunaga's Ambition (USA).zip
+- Nobunaga's Ambition II (USA).zip
+- North and South (USA).zip
+- Obake no Q Tarou - Wanwan Panic (Japan) (T).zip
+- Oishinbo - Kyuukyoku no Menu Sanbon Shoubu (Japan) (T).zip
+- Onyanko Town (Japan) (T).zip
+- Operation Secret Storm (USA) (Unl).zip
+- Operation Wolf (USA) (Rev 0A).zip
+- Orb 3D (USA).zip
+- Othello (Australia) (Unl).zip
+- Othello (USA).zip
+- Over Horizon (Europe).zip
+- Overlord (USA).zip
+- P.O.W. - Prisoners of War (USA).zip
+- Pachinko Daisakusen (Japan) (T).zip
+- Pachinko Daisakusen 2 (Japan) (T).zip
+- Pac-Mania (USA) (Unl).zip
+- Palamedes (USA).zip
+- Palamedes II - Star Twinkle, Hoshi no Mabataki (Japan) (T).zip
+- Panic Restaurant (USA).zip
+- Paperboy (USA).zip
+- Paperboy 2 (USA).zip
+- Parallel World (Japan) (T).zip
+- Parasol Henbee (Japan) (T).zip
+- Parasol Stars - Rainbow Islands II (Europe).zip
+- Paris-Dakar Rally Special (Japan) (T).zip
+- Parodius (Europe).zip
+- Parody World - Monster Party (Japan) (Proto) (T).zip
+- Penguin-kun Wars (Japan) (T).zip
+- Perman (Japan) (T).zip
+- Perman Part 2 - Himitsu Kessha Madoodan o Taose! (Japan) (T).zip
+- Pescatore (Japan) (Proto) (T).zip
+- Pesterminator (USA) (Unl).zip
+- Phantom Fighter (USA).zip
+- Pi Nu Cao De Fu Su (China) (Unl) (T).zip
+- Pictionary - The Game of Video Quick Draw (USA).zip
+- Pin Bot (USA).zip
+- Pinball (World).zip
+- Pinball Quest (USA).zip
+- Pipemania (Australia) (HES) (Unl).zip
+- Pirates! (USA).zip
+- Platoon (USA) (Rev A).zip
+- Pocket Zaurus - Juu Ouken no Nazo (Japan) (T).zip
+- Policeman (Spain) (Gluk Video) (Unl).zip
+- Popeye (World) (Rev A).zip
+- Popeye no Eigo Asobi (Japan) (T).zip
+- Portopia Renzoku Satsujin Jiken (Japan) (T).zip
+- Power Blade (USA).zip
+- Power Blade 2 (USA).zip
+- Power Blazer (Japan) (T).zip
+- Power Punch II (USA).zip
+- P'Radikus Conflict (USA) (Unl).zip
+- Predator (USA).zip
+- Prince of Persia (USA).zip
+- Princess Tomato in the Salad Kingdom (USA).zip
+- Pro Sport Hockey (USA).zip
+- Pro Wrestling (USA) (Rev A).zip
+- Probotector (Europe).zip
+- Probotector II - Return of the Evil Forces (Europe).zip
+- Punch-Out!! (USA).zip
+- Punisher, The (USA).zip
+- Puss n Boots - Pero's Great Adventure (USA).zip
+- Puyo Puyo (Japan) (T).zip
+- Puzzle (USA) (Unl).zip
+- Puzznic (USA).zip
+- Pyokotan no Daimeiro (Japan) (T).zip
+- Pyramid (USA) (Rev 1) (Unl).zip
+- Q-bert (USA).zip
+- QIX (USA).zip
+- Quattro Adventure (USA) (Unl).zip
+- Quattro Arcade (USA) (Unl).zip
+- R.B.I. Baseball (USA).zip
+- R.B.I. Baseball 2 (USA) (Unl).zip
+- R.B.I. Baseball 3 (USA) (Unl).zip
+- R.C. Pro-Am (USA) (Rev A).zip
+- R.C. Pro-Am II (USA).zip
+- Race America (USA).zip
+- Rackets & Rivals (Europe).zip
+- Rad Racer (USA).zip
+- Rad Racer II (USA).zip
+- Rad Racket - Deluxe Tennis II (USA) (Unl).zip
+- Radia Senki - Reimei Hen (Japan) (T).zip
+- Raid 2020 (USA) (Unl).zip
+- Rainbow Islands - Bubble Bobble 2 (Europe).zip
+- Rainbow Islands (USA).zip
+- Rambo (USA) (Rev A).zip
+- Rampage (USA).zip
+- Rampart (Japan) (T).zip
+- Rampart (USA).zip
+- Real Player's Pak (Australia) (Unl).zip
+- Remote Control (USA).zip
+- Ren & Stimpy Show, The - Buckeroo$! (USA).zip
+- Renegade (USA).zip
+- Rescue - The Embassy Mission (USA).zip
+- Ring King (USA).zip
+- Road Fighter (Europe).zip
+- Road Runner (USA) (Unl).zip
+- RoadBlasters (USA).zip
+- Robert Byrne's Pool Challenge (USA) (Proto) (Unl).zip
+- Robo Warrior (USA).zip
+- Robocco Wars (Japan) (T).zip
+- RoboCop 2 (USA) (Rev A).zip
+- RoboCop 3 (USA).zip
+- RoboCop versus The Terminator (USA) (Proto).zip
+- Robodemons (USA) (Unl).zip
+- Rock 'n' Ball (USA).zip
+- Rocket Ranger (USA).zip
+- Rocketeer, The (USA).zip
+- Rod Land (Europe).zip
+- Roger Clemens' MVP Baseball (USA).zip
+- Rollerblade Racer (USA).zip
+- Romance of the Three Kingdoms (USA).zip
+- Romance of the Three Kingdoms II (USA).zip
+- Romancia (Japan) (T).zip
+- Roundball - 2-on-2 Challenge (USA).zip
+- Rumble Station - 15 in 1 (USA) (Unl).zip
+- S.C.A.T. - Special Cybernetic Attack Team (USA).zip
+- Saint Seiya - Ougon Densetsu (Japan) (T).zip
+- Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan) (T).zip
+- Saiyuuki World (Japan) (T).zip
+- Saiyuuki World 2 - Tenjoukai no Majin (Japan) (T).zip
+- Sakigake!! Otoko Juku - Shippuu Ichi Gou Sei (Japan) (T).zip
+- Sanguo Chunqiu - Sichuan Sheng (Multicart Rip) (Unl) (T).zip
+- Sanrio Carnival (Japan) (T).zip
+- Sanrio Cup - Pon Pon Volley (Japan) (T).zip
+- Sansara Naga (Japan) (T).zip
+- Sansuu 1 Nen - Keisan Game (Japan) (T).zip
+- Sansuu 3 Nen - Keisan Game (Japan) (T).zip
+- Sansuu 4 Nen - Keisan Game (Japan) (T).zip
+- Sansuu 5 & 6 Nen - Keisan Game (Japan) (T).zip
+- Scarabeus (USA) (Sample).zip
+- SD Hero Soukessen - Taose! Aku no Gundan (Japan) (T).zip
+- SD Keiji - Blader (Japan) (T).zip
+- Secret Scout in the Temple of Demise (USA) (Unl).zip
+- Secret Ties (USA) (Proto).zip
+- Section-Z (USA).zip
+- Seirei Gari (Japan) (T).zip
+- Sesame Street - Big Bird's Hide & Speak (USA).zip
+- Sesame Street 123 (USA).zip
+- Sesame Street ABC & 123 (USA).zip
+- Sesame Street ABC (USA).zip
+- Sesame Street Countdown (USA).zip
+- Shadow Brain (Japan) (T).zip
+- Shadow of the Ninja (USA).zip
+- Shadow Warriors (Europe).zip
+- Shadow Warriors II - Ninja Gaiden II (Europe).zip
+- Shadowgate (USA).zip
+- Sherlock Holmes - Hakushaku Reijou Yuukai Jiken (Japan) (T).zip
+- Shikinjou (Japan) (T).zip
+- Shingen the Ruler (USA).zip
+- Shinobi (USA) (Unl).zip
+- Shinsenden (Japan) (T).zip
+- Shockwave (USA) (Unl).zip
+- Shooting Range (USA).zip
+- Short Order + Egg-Splode! (USA).zip
+- Shufflepuck Cafe (Japan) (T).zip
+- Side Pocket (USA).zip
+- Sidewinder (Australia) (Unl).zip
+- Silent Assault (USA) (Unl).zip
+- Silent Service (USA) (Rev A).zip
+- Silk Worm (USA).zip
+- Silva Saga (Japan) (T).zip
+- Simpsons, The - Bart vs. the Space Mutants (USA) (Rev A).zip
+- Simpsons, The - Bart vs. the World (USA).zip
+- Simpsons, The - Bartman Meets Radioactive Man (USA).zip
+- Skate Boy (Spain) (Gluk Video) (Unl).zip
+- Skate or Die (USA).zip
+- Skate or Die 2 - The Search for Double Trouble (USA).zip
+- Ski or Die (USA).zip
+- Skull & Crossbones (USA) (Unl).zip
+- Sky Kid (USA).zip
+- Sky Shark (USA) (Rev 0A).zip
+- Slalom (USA).zip
+- Smash T.V. (USA).zip
+- Smurfs, The (Europe) (En,Fr,De,Es).zip
+- Snake Rattle n Roll (USA).zip
+- Snake's Revenge (USA).zip
+- Snoopy's Silly Sports Spectacular! (USA).zip
+- Snow Brothers (USA).zip
+- Snowboard Challenge (Europe).zip
+- Soccer (World).zip
+- Softball Tengoku (Japan) (T).zip
+- Solar Jetman - Hunt for the Golden Warpship (USA).zip
+- Solitaire (USA) (Unl).zip
+- Solomon's Key (USA).zip
+- Solomon's Key 2 (Europe).zip
+- Soreike! Anpanman - Minna de Hiking Game! (Japan) (T).zip
+- Sou Setsu Ryuu III - The Rosetta Stone (Japan) (T).zip
+- Space Shuttle Project (USA).zip
+- Spartan X 2 (Japan) (T).zip
+- Spider-Man - Return of the Sinister Six (USA).zip
+- Spiritual Warfare (USA) (v6.1) (Unl).zip
+- Splatter House - Wanpaku Graffiti (Japan) (T).zip
+- Spot - The Video Game (USA).zip
+- Spy Hunter (USA).zip
+- Spy vs Spy (USA).zip
+- Square no Tom Sawyer (Japan) (T).zip
+- Squashed (USA) (Proto).zip
+- Stack-Up (World).zip
+- Stadium Events (USA).zip
+- Stanley - The Search for Dr. Livingston (USA).zip
+- Star Soldier (USA).zip
+- Star Trek - 25th Anniversary (USA).zip
+- Star Trek - The Next Generation (USA).zip
+- Star Trek V - The Final Frontier (Unknown) (Proto).zip
+- Star Wars - The Empire Strikes Back (USA).zip
+- Star Wars (USA).zip
+- Starship Hector (USA).zip
+- StarTropics (USA).zip
+- Stealth ATF (USA).zip
+- Sted - Iseki Wakusei no Yabou (Japan) (T).zip
+- Street Cop (USA).zip
+- Street Fighter 2010 - The Final Fight (USA).zip
+- Street Gangs (Europe).zip
+- Strider (USA).zip
+- Stunt Kids (USA) (Unl).zip
+- Sugoro Quest - Dice no Senshitachi (Japan) (T).zip
+- Sukeban Deka III (Japan) (T).zip
+- Summer Carnival '92 - Recca (Japan) (T).zip
+- Sunday Funday - The Ride (USA) (Unl).zip
+- Super C (USA).zip
+- Super Cars (USA).zip
+- Super Contra 7 (China) (Unl) (T).zip
+- Super Donkey Kong - Xiang Jiao Chuan (China) (Unl) (T).zip
+- Super Glove Ball (USA).zip
+- Super Jeopardy! (USA).zip
+- Super Mario Bros. (World).zip
+- Super Spike V'Ball (USA).zip
+- Super Sports Challenge (Europe) (Unl).zip
+- Super Sprint (USA) (Unl).zip
+- Super Spy Hunter (USA).zip
+- Super Star Force (Japan) (T).zip
+- Super Team Games (USA).zip
+- Super Turrican (Europe).zip
+- Super Xevious - Gump no Nazo (Japan) (T).zip
+- Superman (Sunsoft) (USA) (Proto).zip
+- Superman (USA).zip
+- Superstar Pro Wrestling (Japan) (T).zip
+- Swamp Thing (USA).zip
+- SWAT - Special Weapons and Tactics (Japan) (T).zip
+- Sword Master (USA).zip
+- Swords and Serpents (USA).zip
+- Taboo - The Sixth Sense (USA) (Rev A).zip
+- Tagin' Dragon (USA) (Unl).zip
+- Taito Grand Prix - Eikou e no License (Japan) (T).zip
+- Taiyou no Yuusha - Fighbird (Japan) (T).zip
+- Takahashi Meijin no Bouken-jima IV (Japan) (T).zip
+- Takeshi no Chousenjou (Japan) (T).zip
+- TaleSpin (USA).zip
+- Tanque (Spain) (Gluk Video) (Unl).zip
+- Tao (Japan) (T).zip
+- Target Renegade (USA).zip
+- Taro's Quest (USA) (Proto).zip
+- Tashiro Masashi no Princess ga Ippai (Japan) (T).zip
+- Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan) (T).zip
+- Tecmo Baseball (USA).zip
+- Tecmo Bowl (USA) (Rev A).zip
+- Tecmo Cup - Soccer Game (USA).zip
+- Tecmo NBA Basketball (USA) (Rev A).zip
+- Tecmo World Wrestling (USA).zip
+- Teenage Mutant Ninja Turtles (USA).zip
+- Tenchi o Kurau II - Shokatsu Koumei Den (Japan) (Rev A) (T).zip
+- Tennis (USA) (GameCube Edition).zip
+- Terminator 2 - Judgment Day (USA).zip
+- Terminator, The (USA, Europe).zip
+- Terra Cresta (USA).zip
+- Tetrastar - The Fighter (Japan) (T).zip
+- Tetris (USA) (Unl).zip
+- Tetris (USA).zip
+- Tetris 2 (USA).zip
+- Tetsudou Ou - Famicom Boardgame (Japan) (T).zip
+- Thomas the Tank Engine and Friends (USA) (Proto).zip
+- Three Stooges, The (USA).zip
+- Thunder & Lightning (USA).zip
+- Thunderbirds (USA).zip
+- Thundercade (USA).zip
+- Tiger-Heli (USA).zip
+- Tiles of Fate (USA) (Unl).zip
+- Time Diver Eon Man (USA) (Proto).zip
+- Time Zone (Japan) (T).zip
+- Times of Lore (USA).zip
+- Tiny Toon Adventures 2 - Trouble in Wackyland (USA).zip
+- Tiny Toon Adventures Cartoon Workshop (USA).zip
+- Titan Warriors (USA) (Proto).zip
+- Titanic (China) (Unl) (T).zip
+- To the Earth (USA).zip
+- Toki (USA).zip
+- Tokkyuu Shirei Solbrain (Japan) (T).zip
+- Tokoro-san no Mamoru mo Semeru mo (Japan) (T).zip
+- Tom & Jerry - The Ultimate Game of Cat and Mouse! (USA).zip
+- Tombs & Treasure (USA).zip
+- Toobin' (USA) (Unl).zip
+- Top Gun - The Second Mission (USA).zip
+- Top Gun (USA) (Rev A).zip
+- Total Funpak (Australia) (Unl).zip
+- Total Recall (USA).zip
+- Touch Down Fever (USA).zip
+- Toukon Club (Japan) (T).zip
+- Tower of Radia (USA) (Proto).zip
+- Town & Country Surf Designs - Thrilla's Surfari (USA).zip
+- Town & Country Surf Designs - Wood & Water Rage (USA).zip
+- Toxic Crusaders (USA).zip
+- Track & Field (USA).zip
+- Track & Field II (USA) (Rev A).zip
+- Track & Field in Barcelona (Europe).zip
+- Treasure Master (USA).zip
+- Trog! (USA).zip
+- Trolls in Crazyland, The (Europe).zip
+- Trolls on Treasure Island (USA) (Unl).zip
+- Tsuri Kichi Sanpei - Blue Marlin Hen (Japan) (T).zip
+- Turbo Racing (Europe).zip
+- Twin Cobra (USA).zip
+- Twin Eagle (USA).zip
+- TwinBee 3 - Poko Poko Daimaou (Japan) (T).zip
+- Uforce Power Games (USA) (Proto 1).zip
+- Ufouria - The Saga (Europe).zip
+- Ultima - Exodus (USA).zip
+- Ultima - Quest of the Avatar (USA).zip
+- Ultima - Warriors of Destiny (USA).zip
+- Ultimate Air Combat (USA).zip
+- Ultimate Basketball (USA).zip
+- Ultimate League Soccer (USA) (Unl).zip
+- Ultimate Stuntman, The (USA) (Unl).zip
+- Ultraman Club - Kaijuu Daikessen!! (Japan) (T).zip
+- Uncanny X-Men, The (USA).zip
+- Uncharted Waters (USA).zip
+- Uninvited (USA).zip
+- Universe Soldiers, The (Unknown) (Unl) (T).zip
+- Untouchables, The (USA) (Rev B).zip
+- Valkyrie no Bouken - Toki no Kagi Den (T).zip
+- Vegas Dream (USA).zip
+- Venice Beach Volleyball (USA) (Unl).zip
+- Vice - Project Doom (USA).zip
+- Videomation (USA).zip
+- Vindicators (USA) (Unl).zip
+- Wacky Races (USA).zip
+- Wagyan Land (Japan) (T).zip
+- Wagyan Land 2 (Japan) (T).zip
+- Wai Wai World (Japan) (T).zip
+- Wai Wai World 2 - SOS!! Paseri Jou (Japan) (T).zip
+- Wait and See (Russia) (Unl).zip
+- Wall Street Kid (USA).zip
+- Wally Bear and the No! Gang (USA) (Unl).zip
+- Wanpaku Kokkun no Gourmet World (Japan) (T).zip
+- War in the Gulf (Brazil) (CCE, Gluk Video) (Unl).zip
+- War on Wheels (USA) (Proto).zip
+- Warehouse No. 18 (Russia) (Unl) (T).zip
+- Wario's Woods (USA).zip
+- Wayne Gretzky Hockey (USA).zip
+- Wayne's World (USA).zip
+- WCW World Championship Wrestling (USA).zip
+- Werewolf - The Last Warrior (USA).zip
+- Wheel of Fortune - Family Edition (USA).zip
+- Wheel of Fortune - Junior Edition (USA).zip
+- Wheel of Fortune (USA) (Rev A).zip
+- Wheel of Fortune Starring Vanna White (USA).zip
+- Where in Time Is Carmen Sandiego (USA).zip
+- Where's Waldo (USA).zip
+- Who Framed Roger Rabbit (USA).zip
+- Whomp 'Em (USA).zip
+- Widget (USA).zip
+- Wild Gunman (World) (Rev A).zip
+- Wily & Right no Rockboard - That's Paradise (Japan) (T).zip
+- Win, Lose or Draw (USA).zip
+- Wing of Madoola, The (Japan) (Sample) (T).zip
+- Winter Games (USA) (Rev A).zip
+- Wit's (Japan) (T).zip
+- Wizardry - Knight of Diamonds - The Second Scenario (USA).zip
+- Wizardry - Proving Grounds of the Mad Overlord (USA).zip
+- Wizardry II - Llylgamyn no Isan (Japan) (T).zip
+- Wizards & Warriors (USA) (Rev A).zip
+- Wizards & Warriors III - Kuros...Visions of Power (USA).zip
+- Wonderland Dizzy (Unknown) (Proto) (1993-09-24) (Unl).zip
+- Woody Poko (Japan) (T).zip
+- World Champ - Super Boxing Great Fight (USA).zip
+- World Class Track Meet (USA) (Rev A).zip
+- World Games (USA).zip
+- Wrath of the Black Manta (USA) (Rev A).zip
+- Wrecking Crew (World).zip
+- Wurm - Journey to the Center of the Earth! (USA).zip
+- WWF King of the Ring (USA).zip
+- WWF Wrestlemania (USA).zip
+- WWF Wrestlemania Challenge (USA).zip
+- WWF Wrestlemania Steel Cage Challenge (USA).zip
+- Xenophobe (USA).zip
+- Xevious - The Avenger (USA).zip
+- Xexyz (USA).zip
+- Xybots (USA) (Proto) (Unl).zip
+- Yo! Noid (USA).zip
+- Yoshi (USA).zip
+- Yoshi's Cookie (USA).zip
+- Youkai Club (Japan) (T).zip
+- Young Indiana Jones Chronicles, The (USA).zip
+- Ys (Japan) (T).zip
+- Ys II - Ancient Ys Vanished - The Final Chapter (Japan) (T).zip
+- Ys III - Wanderers from Ys (Japan) (T).zip
+- Yume Penguin Monogatari (Japan) (T).zip
+- Zen - Intergalactic Ninja (USA).zip
+- Zhen Jia Hou Wang (China) (T).zip
+- Zoda's Revenge - StarTropics II (USA).zip
+- Zoids Mokushiroku (Japan) (T).zip
+- Zombie Hunter (Japan) (T).zip
+- Zombie Nation (USA).zip
+
+---
+
+## Game Gear (263 jogos)
+
+- 5 in 1 Funpak (USA).zip
+- Addams Family, The (World).zip
+- Adventures of Batman & Robin, The (USA, Europe).zip
+- Aerial Assault (World).zip
+- Aladdin (USA, Europe).zip
+- Alien 3 (USA, Europe).zip
+- Alien Syndrome (USA, Europe).zip
+- Andre Agassi Tennis (USA).zip
+- Arcade Classics (USA).zip
+- Arch Rivals (USA).zip
+- Arena (USA, Europe).zip
+- Ariel the Little Mermaid (USA, Europe).zip
+- Asterix and the Great Rescue (USA).zip
+- Asterix and the Secret Mission (Europe).zip
+- Ax Battler - A Legend of Golden Axe (USA, Europe).zip
+- Ayrton Senna's Super Monaco GP II (USA, Europe).zip
+- Baku Baku Animal (USA).zip
+- Bartman Meets Radioactive Man (USA).zip
+- Batman Forever (World).zip
+- Batman Returns (World).zip
+- Batter Up (USA, Europe).zip
+- Battleship (USA, Europe).zip
+- Battletoads (USA).zip
+- Beavis and Butt-Head (USA, Europe).zip
+- Berenstain Bears' Camping Adventure, The (USA).zip
+- Bonkers Wax Up! (USA, Europe).zip
+- Bram Stoker's Dracula (USA).zip
+- Bubble Bobble (USA, Europe).zip
+- Bugs Bunny in Double Trouble (USA, Europe).zip
+- Bust-A-Move (USA, Europe).zip
+- Caesars Palace (USA).zip
+- Captain America and the Avengers (USA, Europe).zip
+- Casino Funpak (USA).zip
+- Castle of Illusion Starring Mickey Mouse (USA, Europe).zip
+- Chakan (USA, Europe).zip
+- Championship Hockey (Europe).zip
+- Cheese Cat-Astrophe Starring Speedy Gonzales (Europe).zip
+- Chessmaster, The (USA, Europe).zip
+- Chicago Syndicate (USA, Europe).zip
+- Choplifter III (USA).zip
+- Chuck Rock (World).zip
+- Chuck Rock II - Son of Chuck (USA).zip
+- CJ Elephant Fugitive (Europe).zip
+- Cliffhanger (USA).zip
+- Clutch Hitter (USA).zip
+- Columns (USA, Europe).zip
+- Cool Spot (USA).zip
+- Cosmic Spacehead (Europe).zip
+- Crystal Warriors (USA, Europe).zip
+- Cutthroat Island (USA, Europe).zip
+- Daffy Duck in Hollywood (Europe).zip
+- Deep Duck Trouble Starring Donald Duck (USA, Europe).zip
+- Defenders of Oasis (USA, Europe).zip
+- Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA).zip
+- Desert Strike - Return to the Gulf (USA).zip
+- Devilish (USA).zip
+- Double Dragon (USA, Europe).zip
+- Dr. Robotnik's Mean Bean Machine (USA, Europe).zip
+- Dragon - The Bruce Lee Story (USA).zip
+- Dragon Crystal (USA, Europe).zip
+- Dropzone (Europe).zip
+- Dynamite Headdy (USA, Europe).zip
+- Earthworm Jim (USA).zip
+- Ecco - The Tides of Time (USA, Europe).zip
+- Ecco the Dolphin (USA, Europe).zip
+- Ernie Els Golf (Europe).zip
+- Evander Holyfield's 'Real Deal' Boxing (USA, Europe).zip
+- Excellent Dizzy Collection, The (Europe).zip
+- F1 - World Championship Edition (Europe).zip
+- F1 (USA, Europe).zip
+- F-15 Strike Eagle (USA, Europe).zip
+- Factory Panic (Europe).zip
+- Fantastic Dizzy (Europe).zip
+- Fantasy Zone (USA).zip
+- Fatal Fury Special (USA).zip
+- FIFA International Soccer (USA, Europe).zip
+- FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es).zip
+- Foreman for Real (World).zip
+- Frank Thomas Big Hurt Baseball (USA).zip
+- Fred Couples' Golf (USA).zip
+- Galaga 2 (Europe).zip
+- Garfield - Caught in the Act (USA, Europe).zip
+- Gear Works (USA).zip
+- George Foreman's KO Boxing (USA, Europe).zip
+- G-LOC - Air Battle (USA, Europe).zip
+- GP Rider (USA, Europe).zip
+- Greendog - The Beached Surfer Dude! (USA, Europe).zip
+- Halley Wars (USA, Europe).zip
+- Home Alone (USA, Europe).zip
+- Hook (USA).zip
+- Hurricanes (Europe).zip
+- Incredible Crash Dummies, The (World).zip
+- Incredible Hulk, The (USA, Europe).zip
+- Indiana Jones and the Last Crusade (USA, Europe).zip
+- Iron Man X-O Manowar in Heavy Metal (USA, Europe).zip
+- Itchy & Scratchy Game, The (USA, Europe).zip
+- James Bond 007 - The Duel (Europe).zip
+- James Pond 3 - Operation Starfi5h (Europe).zip
+- James Pond II - Codename RoboCod (USA).zip
+- Jeopardy! - Sports Edition (USA, Europe).zip
+- Jeopardy! (USA).zip
+- Joe Montana Football (USA, Europe).zip
+- Journey from Darkness - Strider Returns (USA, Europe).zip
+- Judge Dredd (USA, Europe).zip
+- Junction (USA).zip
+- Jungle Book, The (USA).zip
+- Jungle Strike (USA).zip
+- Jurassic Park (USA, Europe).zip
+- Kawasaki Superbike Challenge (USA, Europe).zip
+- Klax (USA, Europe).zip
+- Krusty's Fun House (USA, Europe).zip
+- Land of Illusion Starring Mickey Mouse (USA, Europe).zip
+- Last Action Hero (USA).zip
+- Legend of Illusion Starring Mickey Mouse (USA, Europe).zip
+- Lemmings (World).zip
+- Lion King, The (USA).zip
+- Lost World, The - Jurassic Park (USA).zip
+- Lucky Dime Caper Starring Donald Duck, The (USA, Europe).zip
+- Madden 96 (USA, Europe).zip
+- Madden NFL 95 (USA).zip
+- Magical Puzzle Popils (World) (En,Ja).zip
+- Majors Pro Baseball, The (USA).zip
+- Marble Madness (USA, Europe).zip
+- Marko's Magic Football (Europe) (En,Fr,De,Es).zip
+- Mega Man (USA).zip
+- Mick & Mack as the Global Gladiators (USA, Europe).zip
+- Mickey's Ultimate Challenge (USA).zip
+- Micro Machines (Europe).zip
+- Micro Machines 2 - Turbo Tournament (Europe).zip
+- Mighty Morphin Power Rangers - The Movie (USA, Europe).zip
+- Mighty Morphin Power Rangers (USA, Europe).zip
+- MLBPA Baseball (USA).zip
+- Monster Truck Wars (USA, Europe).zip
+- Mortal Kombat (USA, Europe).zip
+- Mortal Kombat 2 (World).zip
+- Mortal Kombat 3 (Europe).zip
+- Ms. Pac-Man (USA).zip
+- NBA Action Starring David Robinson (USA).zip
+- NBA Jam - Tournament Edition (World).zip
+- NBA Jam (USA, Europe).zip
+- NFL '95 (USA).zip
+- NFL Quarterback Club (World).zip
+- NFL Quarterback Club '96 (USA, Europe).zip
+- NHL All-Star Hockey (USA).zip
+- NHL Hockey (USA, Europe).zip
+- Ninja Gaiden (USA, Europe).zip
+- Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+- Ottifants, The (Europe) (En,Fr,De,Es,It).zip
+- Out Run (Europe).zip
+- Out Run Europa (USA).zip
+- Pac-Attack (USA, Europe).zip
+- Pac-Man (USA).zip
+- Paperboy (USA, Europe).zip
+- Paperboy 2 (USA, Europe).zip
+- Pengo (USA, Europe).zip
+- Pete Sampras Tennis (Europe).zip
+- PGA Tour 96 (USA, Europe).zip
+- PGA Tour Golf (USA, Europe).zip
+- PGA Tour Golf II (USA, Europe).zip
+- Phantom 2040 (USA, Europe).zip
+- Pinball Dreams (USA).zip
+- Poker Face Paul's Blackjack (USA).zip
+- Poker Face Paul's Gin (USA).zip
+- Poker Face Paul's Poker (USA).zip
+- Poker Face Paul's Solitaire (USA).zip
+- Power Drive (Europe).zip
+- Predator 2 (USA, Europe).zip
+- Primal Rage (USA, Europe).zip
+- Prince of Persia (USA, Europe).zip
+- Putt & Putter (USA, Europe).zip
+- Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe).zip
+- R.B.I. Baseball '94 (USA).zip
+- R.C. Grand Prix (USA, Europe).zip
+- Revenge of Drancon (USA).zip
+- Riddick Bowe Boxing (USA).zip
+- Rise of the Robots (USA, Europe).zip
+- Ristar - The Shooting Star (World).zip
+- Road Rash (USA).zip
+- RoboCop 3 (World).zip
+- RoboCop versus The Terminator (USA, Europe).zip
+- S.S. Lucifer - Man Overboard! (Europe).zip
+- Samurai Shodown (USA).zip
+- Scratch Golf (USA).zip
+- Sega Game Pack 4 in 1 (Europe).zip
+- Sensible Soccer (Europe).zip
+- Shaq Fu (USA, Europe).zip
+- Shining Force II - The Sword of Hajya (USA).zip
+- Shinobi (USA, Europe).zip
+- Shinobi II - The Silent Fury (World) (Ja).zip
+- Side Pocket (USA).zip
+- Simpsons, The - Bart vs. the Space Mutants (USA, Europe).zip
+- Simpsons, The - Bart vs. the World (World).zip
+- Slider (USA, Europe).zip
+- Smurfs Travel the World, The (Europe) (En,Fr,De,Es).zip
+- Smurfs, The (Europe) (En,Fr,De,Es).zip
+- Solitaire FunPak (USA).zip
+- Solitaire Poker (USA, Europe).zip
+- Sonic Blast (World).zip
+- Sonic Chaos (USA, Europe).zip
+- Sonic Drift 2 (Japan, USA).zip
+- Sonic Labyrinth (World).zip
+- Sonic The Hedgehog - Triple Trouble (USA, Europe).zip
+- Sonic The Hedgehog 2 (World).zip
+- Sonic The Hedgehog Spinball (USA, Europe).zip
+- Space Harrier (World).zip
+- Spider-Man - Return of the Sinister Six (USA, Europe).zip
+- Spider-Man - X-Men - Arcade's Revenge (USA).zip
+- Spider-Man vs. The Kingpin (USA, Europe).zip
+- Sports Illustrated Championship Football & Baseball (USA, Europe).zip
+- Sports Trivia - Championship Edition (USA, Europe).zip
+- Sports Trivia (USA).zip
+- Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA).zip
+- Star Trek Generations - Beyond the Nexus (USA, Europe).zip
+- Star Wars (gear).zip
+- Stargate (World).zip
+- Streets of Rage (World).zip
+- Streets of Rage II (World).zip
+- Striker (Europe) (En,Fr,De,Es,It).zip
+- Super Battletank (USA).zip
+- Super Columns (USA, Europe).zip
+- Super Monaco GP (USA, Europe).zip
+- Super Off Road (USA, Europe).zip
+- Super Return of the Jedi (USA, Europe).zip
+- Super Smash T.V. (World).zip
+- Super Space Invaders (USA, Europe).zip
+- Superman - The Man of Steel (Europe).zip
+- Surf Ninjas (USA).zip
+- T2 - The Arcade Game (USA, Europe).zip
+- Tails Adventures (World) (En,Ja).zip
+- Taito Chase H.Q. (USA).zip
+- TaleSpin (USA, Europe).zip
+- Tarzan - Lord of the Jungle (Europe).zip
+- Taz in Escape from Mars (USA, Europe).zip
+- Taz-Mania - The Search for the Lost Seabirds (USA, Europe).zip
+- Tempo Jr. (World).zip
+- Tengen World Cup Soccer (USA, Europe).zip
+- Terminator 2 - Judgment Day (World).zip
+- Terminator, The (USA, Europe).zip
+- Tesserae (USA, Europe).zip
+- Tintin in Tibet (Europe).zip
+- Tom and Jerry - The Movie (USA, Europe).zip
+- True Lies (World).zip
+- Urban Strike (USA, Europe).zip
+- Vampire - Master of Darkness (USA).zip
+- Virtua Fighter Animation (USA, Europe).zip
+- VR Troopers (USA, Europe).zip
+- Wheel of Fortune (USA).zip
+- Wimbledon (World).zip
+- Winter Olympics - Lillehammer '94 (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No).zip
+- Wizard Pinball (Europe).zip
+- Wolfchild (Europe).zip
+- Wonder Boy - The Dragon's Trap (Europe).zip
+- Woody Pop (World).zip
+- World Class Leader Board (USA, Europe).zip
+- World Cup USA 94 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+- World Series Baseball (USA).zip
+- World Series Baseball '95 (USA).zip
+- WWF Raw (USA, Europe).zip
+- X-Men - Gamemaster's Legacy (USA, Europe).zip
+- X-Men - Mojo World (USA, Europe).zip
+- X-Men (USA).zip
+- Zool - Ninja of the 'Nth' Dimension (USA).zip
+- Zoop (USA).zip
+
+---
+
+## Game Boy (493 jogos)
+
+- 4-in-1 Fun Pak (USA, Europe).zip
+- 4-in-1 Fun Pak Volume II (USA, Europe).zip
+- Addams Family, The - Pugsley's Scavenger Hunt (USA, Europe).zip
+- Addams Family, The (USA).zip
+- Adventure Island (USA, Europe).zip
+- Adventure Island II - Aliens in Paradise (USA, Europe).zip
+- Adventures of Rocky and Bullwinkle and Friends, The (USA).zip
+- Adventures of Star Saver, The (USA, Europe).zip
+- Aerostar (USA, Europe).zip
+- Aladdin (USA) (SGB Enhanced).zip
+- Alfred Chicken (USA).zip
+- Alien 3 (USA, Europe).zip
+- Alien vs Predator - The Last of His Clan (USA).zip
+- Alleyway (World).zip
+- All-Star Baseball 99 (USA).zip
+- Altered Space - A 3-D Alien Adventure (USA).zip
+- Amazing Penguin (USA, Europe).zip
+- Amazing Spider-Man, The (USA, Europe).zip
+- A-mazing Tater (USA).zip
+- Animaniacs (USA) (SGB Enhanced).zip
+- Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe) (SGB Enhanced).zip
+- Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).zip
+- Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).zip
+- Arcade Classic No. 4 - Defender & Joust (USA, Europe) (SGB Enhanced).zip
+- Asteroids (USA, Europe).zip
+- Atomic Punk (USA).zip
+- Avenging Spirit (USA, Europe).zip
+- Balloon Kid (USA, Europe).zip
+- Barbie - Game Girl (USA, Europe).zip
+- Bart Simpson's Escape from Camp Deadly (USA, Europe).zip
+- Baseball (World).zip
+- Bases Loaded for Game Boy (USA).zip
+- Batman - Return of the Joker (USA, Europe).zip
+- Batman - The Animated Series (USA, Europe).zip
+- Batman - The Video Game (World).zip
+- Batman Forever (USA, Europe).zip
+- Battle Arena Toshinden (USA) (SGB Enhanced).zip
+- Battle Bull (USA).zip
+- Battle Unit Zeoth (USA, Europe).zip
+- Battleship (USA, Europe).zip
+- Battletoads (USA, Europe).zip
+- Battletoads in Ragnarok's World (USA).zip
+- Battletoads-Double Dragon (USA).zip
+- Beavis and Butt-Head (USA, Europe).zip
+- Beetlejuice (USA).zip
+- Best of the Best - Championship Karate (USA).zip
+- Bill & Ted's Excellent Game Boy Adventure (USA, Europe).zip
+- Bill Elliott's NASCAR Fast Tracks (USA).zip
+- Bionic Battler (USA).zip
+- Bionic Commando (USA).zip
+- Black Bass - Lure Fishing (USA).zip
+- Blades of Steel (USA).zip
+- Blaster Master Boy (USA).zip
+- Blues Brothers, The (USA, Europe).zip
+- Bo Jackson - Two Games in One (USA).zip
+- Boggle Plus (USA).zip
+- Bomberman GB (USA, Europe) (SGB Enhanced).zip
+- Bonk's Adventure (USA).zip
+- Bonk's Revenge (USA) (SGB Enhanced).zip
+- Boomer's Adventure in ASMIK World (USA).zip
+- Brain Bender (USA).zip
+- Brain Drain (USA) (SGB Enhanced).zip
+- Bram Stoker's Dracula (USA, Europe).zip
+- Bubble Bobble (USA, Europe).zip
+- Bubble Bobble Part 2 (USA, Europe).zip
+- Bubble Ghost (USA, Europe).zip
+- Bubsy II (USA).zip
+- Bugs Bunny Crazy Castle 2, The (USA).zip
+- Bugs Bunny Crazy Castle, The (USA, Europe).zip
+- Burai Fighter Deluxe (USA, Europe).zip
+- BurgerTime Deluxe (World).zip
+- Bust-A-Move 2 - Arcade Edition (USA, Europe).zip
+- Buster Bros. (USA).zip
+- Captain America and the Avengers (USA).zip
+- Casino FunPak (USA, Europe).zip
+- Casper (USA).zip
+- Castelian (USA).zip
+- Castlevania - The Adventure (USA).zip
+- Castlevania II - Belmont's Revenge (USA, Europe).zip
+- Castlevania Legends (USA, Europe) (SGB Enhanced).zip
+- Catrap (USA).zip
+- Centipede (USA).zip
+- Centipede (USA, Europe).zip
+- Championship Pool (USA).zip
+- Chase H.Q. (USA, Europe).zip
+- Chessmaster, The (DMG-N5) (USA).zip
+- Choplifter II - Rescue & Survive (USA).zip
+- Chuck Rock (USA, Europe).zip
+- Cliffhanger (USA, Europe).zip
+- College Slam (USA).zip
+- Cool Ball (USA).zip
+- Cool Spot (USA).zip
+- Cool World (USA, Europe).zip
+- Cosmo Tank (USA).zip
+- Crystal Quest (USA).zip
+- CutThroat Island (USA, Europe).zip
+- Cyraid (USA).zip
+- Daedalian Opus (USA).zip
+- Daffy Duck (USA, Europe) (SGB Enhanced).zip
+- Darkman (USA, Europe).zip
+- Darkwing Duck (USA).zip
+- David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob (USA).zip
+- Days of Thunder (USA, Europe).zip
+- Dead Heat Scramble (USA).zip
+- Dennis the Menace (USA).zip
+- Desert Strike - Return to the Gulf (USA) (SGB Enhanced).zip
+- Dexterity (USA, Europe).zip
+- Dick Tracy (USA).zip
+- Donkey Kong (World) (Rev A) (SGB Enhanced).zip
+- Donkey Kong Land (USA, Europe) (SGB Enhanced).zip
+- Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).zip
+- Donkey Kong Land III (USA, Europe) (SGB Enhanced).zip
+- Double Dragon 3 - The Arcade Game (USA, Europe).zip
+- Double Dragon II (USA, Europe).zip
+- Double Dribble - 5 on 5 (USA).zip
+- Dr. Franken (USA).zip
+- Dr. Franken II (USA, Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+- Dr. Mario (World).zip
+- DragonHeart (USA, Europe).zip
+- Dragon's Lair - The Legend (USA).zip
+- DuckTales (USA).zip
+- DuckTales 2 (USA).zip
+- Earthworm Jim (USA).zip
+- Eddies_Puzzle_Time.zip
+- Elevator Action (USA, Europe).zip
+- Elite Soccer (USA) (SGB Enhanced).zip
+- escape_2042.zip
+- Exodus - Journey to the Promised Land (USA) (Unl).zip
+- F1 Pole Position (USA, Europe).zip
+- F-1 Race (World).zip
+- F-15 Strike Eagle (USA, Europe).zip
+- Faceball 2000 (USA).zip
+- Felix the Cat (USA, Europe).zip
+- Ferrari Grand Prix Challenge (USA, Europe).zip
+- Fidgetts, The (USA, Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+- FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced).zip
+- FIFA Soccer '96 (USA, Europe) (En,Fr,De,Es) (SGB Enhanced).zip
+- Fighting Simulator 2 in 1 (USA, Europe).zip
+- Final Fantasy Adventure (USA).zip
+- Final Fantasy Legend II (USA).zip
+- Final Fantasy Legend III (USA).zip
+- Final Fantasy Legend, The (USA).zip
+- Fish Dude (USA).zip
+- Fist of the North Star (USA).zip
+- Flash, The (USA, Europe).zip
+- Flintstones, The - King Rock Treasure Island (USA, Europe).zip
+- Flintstones, The (USA, Europe).zip
+- Flipull (USA).zip
+- Foreman for Real (USA, Europe).zip
+- Fortified Zone (USA, Europe).zip
+- Frank Thomas Big Hurt Baseball (USA, Europe).zip
+- Frogger (USA).zip
+- Game & Watch Gallery (USA) (SGB Enhanced).zip
+- Game of Harmony, The (USA).zip
+- Gargoyle's Quest (USA, Europe).zip
+- Gauntlet II (USA, Europe).zip
+- George Foreman's KO Boxing (USA, Europe).zip
+- Getaway, The (USA).zip
+- Go! Go! Tank (USA).zip
+- Goal! (USA).zip
+- Godzilla (USA, Europe).zip
+- Golf (World).zip
+- Gradius - The Interstellar Assault (USA).zip
+- Great Greed (USA).zip
+- Gremlins 2 - The New Batch (World).zip
+- HAL Wrestling (USA).zip
+- Harvest Moon GB (USA) (SGB Enhanced).zip
+- Heavyweight Championship Boxing (USA).zip
+- Heiankyo Alien (USA).zip
+- Hercules (USA, Europe) (SGB Enhanced).zip
+- High Stakes (USA).zip
+- Hit the Ice - VHL - The Official Video Hockey League (USA, Europe).zip
+- Home Alone (USA, Europe).zip
+- Home Alone 2 - Lost In New York (USA, Europe).zip
+- Hook (USA).zip
+- Hudson Hawk (USA).zip
+- Humans, The (USA).zip
+- Hunchback of Notre Dame, The - 5 Foolishly Fun Topsy Turvy Games (USA, Europe) (SGB Enhanced).zip
+- Hunt for Red October, The (USA, Europe).zip
+- Hyper Lode Runner (World) (Rev A).zip
+- In Your Face (USA).zip
+- Incredible Crash Dummies, The (USA, Europe).zip
+- Indiana Jones and the Last Crusade (USA, Europe).zip
+- International Superstar Soccer (USA, Europe) (SGB Enhanced).zip
+- Iron Man X-O Manowar in Heavy Metal (USA, Europe) (SGB Enhanced).zip
+- Ishido - The Way of Stones (USA).zip
+- Jack Nicklaus Golf (USA, Europe).zip
+- James Bond 007 (USA, Europe) (SGB Enhanced).zip
+- Jeep Jamboree (USA).zip
+- Jeopardy! - Platinum Edition (USA) (SGB Enhanced).zip
+- Jeopardy! - Sports Edition (USA).zip
+- Jeopardy! - Teen Tournament (USA) (SGB Enhanced).zip
+- Jeopardy! (USA).zip
+- Jetsons, The - Robot Panic (USA, Europe).zip
+- Jimmy Connors Tennis (USA, Europe).zip
+- Joe & Mac (USA).zip
+- Jordan vs Bird - One on One (USA, Europe).zip
+- Joshua & the Battle of Jericho (USA) (Unl).zip
+- Judge Dredd (USA, Europe).zip
+- Jungle Book, The (USA, Europe).zip
+- Jungle Strike (USA, Europe).zip
+- Jurassic Park (USA).zip
+- Jurassic Park Part 2 - The Chaos Continues (USA, Europe) (En,Fr,De,It).zip
+- Ken Griffey Jr. Presents Major League Baseball (USA, Europe) (SGB Enhanced).zip
+- Kid Dracula (USA, Europe).zip
+- Kid Icarus - Of Myths and Monsters (USA, Europe).zip
+- Killer Instinct (USA, Europe) (SGB Enhanced).zip
+- King James Bible (USA) (Unl).zip
+- King of Fighters '95, The (USA) (SGB Enhanced).zip
+- Kingdom Crusade (USA).zip
+- Kirby's Block Ball (USA, Europe) (SGB Enhanced).zip
+- Kirby's Dream Land (USA, Europe).zip
+- Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).zip
+- Kirby's Pinball Land (USA, Europe).zip
+- Kirby's Star Stacker (USA, Europe) (SGB Enhanced).zip
+- Klax (USA).zip
+- Knight Quest (USA).zip
+- Krusty's Fun House (USA, Europe).zip
+- Kung-Fu Master (USA, Europe).zip
+- Kwirk - He's A-maze-ing! (USA, Europe).zip
+- Lamborghini American Challenge (USA, Europe).zip
+- Last Action Hero (USA, Europe).zip
+- Lazlos' Leap (USA).zip
+- Legend of the River King GB (USA) (SGB Enhanced).zip
+- Legend of Zelda, The - Link's Awakening (USA, Europe).zip
+- Lemmings (USA).zip
+- Lethal Weapon (USA, Europe).zip
+- Lion King, The (USA).zip
+- Little Mermaid, The (USA).zip
+- Lock n' Chase ~ Lock 'n' Chase (World).zip
+- Looney Tunes (USA, Europe).zip
+- Loopz (World).zip
+- Lost World, The - Jurassic Park (USA, Europe) (SGB Enhanced).zip
+- Madden '95 (USA, Europe) (SGB Enhanced).zip
+- Madden '96 (USA, Europe) (SGB Enhanced).zip
+- Madden '97 (USA) (SGB Enhanced).zip
+- Malibu Beach Volleyball (USA).zip
+- Marble Madness (USA, Europe).zip
+- Mario's Picross (USA, Europe) (SGB Enhanced).zip
+- Maru's Mission (USA).zip
+- Maui Mallard (USA).zip
+- Mega Man - Dr. Wily's Revenge (USA).zip
+- Mega Man II (USA).zip
+- Mega Man III (USA).zip
+- Mega Man IV (USA).zip
+- Mega Man V (USA) (SGB Enhanced).zip
+- Megalit (USA, Europe).zip
+- Mercenary Force (USA, Europe).zip
+- Metal Masters (USA).zip
+- Metroid II - Return of Samus (World).zip
+- Mickey Mouse - Magic Wands (USA, Europe) (SGB Enhanced).zip
+- Mickey's Dangerous Chase (USA).zip
+- Mickey's Ultimate Challenge (USA, Europe).zip
+- Micro Machines (USA, Europe).zip
+- Mighty Morphin Power Rangers - The Movie (USA, Europe) (SGB Enhanced).zip
+- Mighty Morphin Power Rangers (USA, Europe) (SGB Enhanced).zip
+- Milon's Secret Castle (USA, Europe).zip
+- Miner 2049er Starring Bounty Bob (USA).zip
+- Missile Command (USA, Europe).zip
+- Mole Mania (USA, Europe) (SGB Enhanced).zip
+- Monopoly (USA).zip
+- Monster Truck Wars (USA, Europe).zip
+- Mortal Kombat & Mortal Kombat II (USA, Europe).zip
+- Mortal Kombat (USA, Europe).zip
+- Mortal Kombat 3 (USA).zip
+- Mortal Kombat II (USA, Europe).zip
+- Motocross Maniacs (USA).zip
+- Mouse Trap Hotel (USA).zip
+- Mr. Chin's Gourmet Paradise (USA).zip
+- Mr. Do! (USA).zip
+- Ms. Pac-Man (USA).zip
+- Muhammad Ali Heavyweight Boxing (USA, Europe).zip
+- Mulan (USA, Europe) (SGB Enhanced).zip
+- Mysterium (USA).zip
+- Mystical Ninja Starring Goemon (USA) (SGB Enhanced).zip
+- Nail'n Scale (USA, Europe).zip
+- Navy Seals (USA, Europe).zip
+- NBA All Star Challenge (USA, Europe).zip
+- NBA All Star Challenge 2 (USA, Europe).zip
+- NBA Jam - Tournament Edition (USA, Europe).zip
+- NBA Jam (USA, Europe).zip
+- NBA Live 96 (USA, Europe) (SGB Enhanced).zip
+- Nemesis (USA).zip
+- New Chessmaster, The (USA, Europe).zip
+- NFL Football (USA).zip
+- NFL Quarterback Club (USA, Europe).zip
+- NFL Quarterback Club '96 (USA, Europe).zip
+- NFL Quarterback Club II (USA, Europe).zip
+- NHL '96 (USA, Europe) (SGB Enhanced).zip
+- NHL Hockey '95 (USA, Europe) (SGB Enhanced).zip
+- Nigel Mansell's World Championship (USA).zip
+- Ninja Boy (USA, Europe).zip
+- Ninja Boy 2 (USA, Europe).zip
+- Ninja Gaiden Shadow (USA).zip
+- Ninja Taro (USA).zip
+- Nintendo World Cup (USA, Europe).zip
+- NIV Bible & the 20 Lost Levels of Joshua (USA) (Unl).zip
+- Nobunaga's Ambition (USA).zip
+- Oddworld Adventures (USA, Europe).zip
+- Olympic Summer Games (USA, Europe) (SGB Enhanced).zip
+- Operation C (USA).zip
+- Out of Gas (USA).zip
+- Pac-Attack (USA) (SGB Enhanced).zip
+- Pac-In-Time (USA) (SGB Enhanced).zip
+- Pac-Man (USA).zip
+- Pagemaster, The (USA) (SGB Enhanced).zip
+- Panel Action Bingo (USA).zip
+- Paperboy (USA, Europe).zip
+- Paperboy 2 (USA, Europe).zip
+- Penguin Wars (USA).zip
+- PGA European Tour (USA, Europe) (SGB Enhanced).zip
+- PGA Tour 96 (USA, Europe) (SGB Enhanced).zip
+- Pinball - Revenge of the 'Gator (USA, Europe).zip
+- Pinball Dreams (USA, Europe).zip
+- Pinball Fantasies (USA, Europe).zip
+- Pinocchio (USA).zip
+- Pipe Dream (USA).zip
+- Pit Fighter (USA, Europe).zip
+- Play Action Football (USA).zip
+- Pocahontas (USA, Europe) (SGB Enhanced).zip
+- Pokemon - Blue Version (USA, Europe) (SGB Enhanced).zip
+- Pokemon - Red Version (USA, Europe) (SGB Enhanced).zip
+- Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (GBC,SGB Enhanced).zip
+- Popeye 2 (USA).zip
+- Power Mission (USA).zip
+- Power Racer (USA).zip
+- Prehistorik Man (USA, Europe).zip
+- Primal Rage (USA, Europe).zip
+- Prince of Persia (USA).zip
+- Prophecy - The Viking Child (USA).zip
+- Punisher, The - The Ultimate Payback (USA).zip
+- Pyramids of Ra (USA).zip
+- Q Billion (USA).zip
+- Q-bert for Game Boy (USA, Europe).zip
+- QIX (World).zip
+- Quarth (USA, Europe).zip
+- Race Days (USA).zip
+- Race Drivin' (USA, Europe).zip
+- Radar Mission (USA, Europe).zip
+- Raging Fighter (USA, Europe).zip
+- Rampart (USA, Europe).zip
+- Real Ghostbusters, The (USA).zip
+- Ren & Stimpy Show, The - Space Cadet Adventures (USA).zip
+- Ren & Stimpy Show, The - Veediots! (USA, Europe).zip
+- Riddick Bowe Boxing (USA).zip
+- Ring Rage (USA).zip
+- Road Rash (USA, Europe).zip
+- Robin Hood - Prince of Thieves (USA).zip
+- RoboCop (USA).zip
+- RoboCop 2 (USA, Europe).zip
+- RoboCop vs. The Terminator (USA).zip
+- Roger Clemens' MVP Baseball (USA).zip
+- Rolan's Curse (USA).zip
+- Rolan's Curse II (USA).zip
+- R-Type (USA, Europe).zip
+- Rugrats Movie, The (USA) (SGB Enhanced).zip
+- Samurai Shodown (USA, Europe) (SGB Enhanced).zip
+- SeaQuest DSV (USA, Europe) (SGB Enhanced).zip
+- Serpent (USA).zip
+- Shanghai (USA).zip
+- Shaq Fu (USA) (SGB Enhanced).zip
+- Side Pocket (World).zip
+- Simpsons Itchy & Scratchy, The - Miniature Golf Madness (USA, Europe).zip
+- Simpsons, The - Bart & the Beanstalk (USA, Europe).zip
+- Simpsons, The - Bart vs. the Juggernauts (USA, Europe).zip
+- Skate or Die - Bad 'N Rad (USA).zip
+- Skate or Die - Tour de Thrash (USA).zip
+- Small Soldiers (USA, Europe) (SGB Enhanced).zip
+- Sneaky Snakes (USA, Europe).zip
+- Snoopy - Magic Show (USA, Europe).zip
+- Snow Bros. Jr. (USA).zip
+- Soccer Mania (USA).zip
+- SolarStriker (World).zip
+- Solitaire FunPak (USA, Europe).zip
+- Solomon's Club (USA).zip
+- Space Invaders (USA) (SGB Enhanced).zip
+- Spanky's Quest (USA).zip
+- Speedball 2 - Brutal Deluxe (USA, Europe).zip
+- Speedy Gonzales (USA, Europe).zip
+- Spider-Man - X-Men (USA, Europe).zip
+- Spider-Man 2 (USA, Europe).zip
+- Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe).zip
+- Spiritual Warfare (USA) (Unl).zip
+- Sports Illustrated - Football & Baseball (USA).zip
+- Sports Illustrated - Golf Classic (USA) (SGB Enhanced).zip
+- Sports Illustrated for Kids - The Ultimate Triple Dare! (USA).zip
+- Spot - The Cool Adventure (USA).zip
+- Spot (USA).zip
+- Spud's Adventure (USA).zip
+- Spy vs Spy - Operation Boobytrap (USA).zip
+- Square Deal - The Game of Two-Dimensional Poker (USA).zip
+- Star Trek - 25th Anniversary (USA, Europe).zip
+- Star Trek - The Next Generation (USA, Europe).zip
+- Star Trek Generations - Beyond the Nexus (USA) (SGB Enhanced).zip
+- Star Wars - The Empire Strikes Back (gb).zip
+- Star Wars (gb).zip
+- Stargate (USA, Europe).zip
+- Stop That Roach! (USA).zip
+- Street Fighter II (USA) (SGB Enhanced).zip
+- Street Racer (USA, Europe).zip
+- Sumo Fighter (USA).zip
+- Super Battletank - War in the Gulf (USA).zip
+- Super Black Bass (USA).zip
+- Super Breakout (USA).zip
+- Super Chase H.Q. (USA, Europe).zip
+- Super Hunchback (USA).zip
+- Super Mario Land (World).zip
+- Super Mario Land 2 - 6 Golden Coins (Hack).zip
+- Super Mario Land 2 - 6 Golden Coins (USA, Europe).zip
+- Super Off Road (USA, Europe).zip
+- Super R.C. Pro-Am (USA, Europe).zip
+- Super Scrabble (USA).zip
+- Super Star Wars - Return of the Jedi (USA, Europe) (SGB Enhanced).zip
+- Superman (USA, Europe) (SGB Enhanced).zip
+- Swamp Thing (USA, Europe).zip
+- Sword of Hope II, The (USA).zip
+- Sword of Hope, The (USA).zip
+- T2 - The Arcade Game (USA, Europe).zip
+- Tail 'Gator (USA, Europe).zip
+- TaleSpin (USA).zip
+- Tamagotchi (USA, Europe) (SGB Enhanced).zip
+- Tarzan (USA, Europe).zip
+- Tasmania Story (USA).zip
+- Taz-Mania (USA, Europe).zip
+- Taz-Mania 2 (USA).zip
+- Tecmo Bowl (USA).zip
+- Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).zip
+- Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).zip
+- Teenage Mutant Ninja Turtles III - Radical Rescue (USA).zip
+- Tennis (World).zip
+- Terminator 2 - Judgment Day (USA, Europe).zip
+- Tesserae (USA).zip
+- Tetris (World) (Rev A).zip
+- Tetris 2 (USA).zip
+- Tetris 2 (USA, Europe) (SGB Enhanced).zip
+- Tetris Attack (USA) (SGB Enhanced).zip
+- Tetris Blast (USA, Europe) (SGB Enhanced).zip
+- Tetris Plus (USA, Europe) (SGB Enhanced).zip
+- Tiny Toon Adventures - Babs' Big Break (USA, Europe).zip
+- Tiny Toon Adventures - Wacky Sports (USA).zip
+- Tiny Toon Adventures 2 - Montana's Movie Madness (USA, Europe).zip
+- Titus the Fox to Marrakech and Back (USA, Europe).zip
+- Tom & Jerry (USA, Europe).zip
+- Tom and Jerry - Frantic Antics! (USA, Europe).zip
+- Top Gun - Guts & Glory (USA, Europe).zip
+- Top Rank Tennis (USA).zip
+- Torpedo Range (USA).zip
+- Total Carnage (USA, Europe).zip
+- Toxic Crusaders (USA).zip
+- Toy Story (USA) (SGB Enhanced).zip
+- Track & Field (USA, Europe).zip
+- Track Meet (USA, Europe).zip
+- Trax (USA, Europe).zip
+- True Lies (USA, Europe).zip
+- Tumble Pop (USA, Europe).zip
+- Turn and Burn (USA).zip
+- Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es).zip
+- Turrican (USA, Europe).zip
+- Ultima - Runes of Virtue (USA).zip
+- Ultima - Runes of Virtue II (USA).zip
+- Ultra Golf (USA).zip
+- Universal Soldier (USA, Europe).zip
+- Urban Strike (USA, Europe) (SGB Enhanced).zip
+- Vegas Stakes (USA, Europe) (SGB Enhanced).zip
+- Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).zip
+- Wario Land - Super Mario Land 3 (World).zip
+- Wario Land II (USA, Europe) (SGB Enhanced).zip
+- Wave Race (USA, Europe).zip
+- Wayne's World (USA).zip
+- WCW Main Event (USA, Europe).zip
+- We're Back! - A Dinosaur's Story (USA, Europe).zip
+- Wheel of Fortune (USA).zip
+- Who Framed Roger Rabbit (USA).zip
+- Wild Snake (USA) (SGB Enhanced).zip
+- Wizards & Warriors Chapter X - The Fortress of Fear (USA, Europe).zip
+- Wordtris (USA).zip
+- WordZap (USA).zip
+- World Bowling (USA).zip
+- World Circuit Series (USA).zip
+- World Cup 98 (USA, Europe) (SGB Enhanced).zip
+- World Cup USA '94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+- World Heroes 2 Jet (USA, Europe) (SGB Enhanced).zip
+- WWF King of the Ring (USA, Europe).zip
+- WWF Raw (USA, Europe).zip
+- WWF Superstars (USA, Europe).zip
+- WWF Superstars 2 (USA, Europe).zip
+- WWF War Zone (USA, Europe).zip
+- Xenon 2 - Megablast (USA, Europe).zip
+- Yogi Bear in Yogi Bear's Goldrush (USA).zip
+- Yoshi (USA).zip
+- Yoshi's Cookie (USA, Europe).zip
+- Zen - Intergalactic Ninja (USA).zip
+- Zool - Ninja of the 'Nth' Dimension (USA).zip
+
+---
+
+## Game Boy Advance (1081 jogos)
+
+- 007 - Everything or Nothing (USA, Europe) (En,Fr,De).zip
+- 007 - NightFire (USA, Europe) (En,Fr,De).zip
+- 2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).zip
+- 2K Sports - Major League Baseball 2K7 (USA).zip
+- Ace Combat Advance (USA, Europe).zip
+- Ace Lightning (Europe).zip
+- Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).zip
+- Activision Anthology (USA).zip
+- Advance Guardian Heroes (USA).zip
+- Advance Wars (USA).zip
+- Advance Wars 2 - Black Hole Rising (USA, Australia).zip
+- Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (USA, Europe).zip
+- Adventures of Jimmy Neutron Boy Genius, The - Attack of the Twonkies (USA, Europe).zip
+- Adventures of Jimmy Neutron Boy Genius, The - Jet Fusion (USA, Europe).zip
+- Aero the Acro-Bat - Rascal Rival Revenge (USA).zip
+- Agassi Tennis Generation (USA).zip
+- Agent Hugo - Roborumble (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).zip
+- Aggressive Inline (USA).zip
+- AirForce Delta Storm (USA) (En,Ja,Fr,De).zip
+- Aladdin (USA) (En,Fr,De,Es).zip
+- Alex Ferguson's Player Manager 2002 (Europe) (En,Fr,De,Es,It,Nl).zip
+- Alex Rider - Stormbreaker (USA).zip
+- Alien Hominid (Europe) (En,Fr,De,Es,It).zip
+- Alienators - Evolution Continues (USA, Europe).zip
+- All Grown Up! - Express Yourself (USA, Europe).zip
+- All-Star Baseball 2003 (USA).zip
+- All-Star Baseball 2004 (USA).zip
+- Altered Beast - Guardian of the Realms (USA).zip
+- Amazing Virtual Sea-Monkeys, The (USA).zip
+- American Bass Challenge (USA).zip
+- American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (En,Fr,De,Es,It).zip
+- American Idol (USA).zip
+- American Tail, An - Fievel's Gold Rush (USA) (En,Es).zip
+- Animal Snap - Rescue Them 2 by 2 (USA).zip
+- Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It).zip
+- Ant Bully, The (USA) (En,Fr).zip
+- Antz - Extreme Racing (USA).zip
+- Archer Maclean's 3D Pool (USA).zip
+- Arctic Tale (USA).zip
+- Army Men - Operation Green (USA) (En,Fr,De,Es,It).zip
+- Army Men - Turf Wars (USA).zip
+- Army Men Advance (USA, Europe) (En,Fr,De,Es,It).zip
+- Around the World in 80 Days (USA).zip
+- Arthur and the Invisibles (USA) (En,Fr,Es).zip
+- Arthur and the Minimoys (Europe) (En,Fr,De,Es,It,Nl).zip
+- Asterix & Obelix - Bash Them All! (Europe) (En,Fr,De,Es,It,Nl).zip
+- Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl).zip
+- Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).zip
+- Atari Anniversary Advance (USA).zip
+- Atlantis - The Lost Empire (USA, Europe).zip
+- Atomic Betty (USA, Europe).zip
+- ATV - Quad Power Racing (USA, Europe).zip
+- ATV - Thunder Ridge Riders (USA).zip
+- Avatar - The Last Airbender - The Burning Earth (USA).zip
+- Avatar - The Last Airbender (USA).zip
+- Avatar - The Legend of Aang - The Burning Earth (Europe) (En,De).zip
+- Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl).zip
+- Babar to the Rescue (USA) (En,Fr,Es).zip
+- Back to Stone (USA) (En,Fr).zip
+- Back Track (USA, Europe).zip
+- Backyard Baseball (USA).zip
+- Backyard Baseball 2006 (USA).zip
+- Backyard Basketball (USA).zip
+- Backyard Football (USA).zip
+- Backyard Football 2006 (USA).zip
+- Backyard Hockey (USA).zip
+- Backyard Skateboarding (USA).zip
+- Backyard Sports - Baseball 2007 (USA).zip
+- Backyard Sports - Basketball 2007 (USA).zip
+- Backyard Sports - Football 2007 (USA).zip
+- Baldur's Gate - Dark Alliance (USA).zip
+- Ballistic - Ecks vs. Sever (USA).zip
+- Banjo-Kazooie - Grunty's Revenge (USA, Europe).zip
+- Banjo-Pilot (USA).zip
+- Barbie - The Princess and the Pauper (USA).zip
+- Barbie and the Magic of Pegasus (USA).zip
+- Barbie as the Island Princess (USA).zip
+- Barbie Diaries, The - High School Mystery (USA).zip
+- Barbie Groovy Games (USA).zip
+- Barbie Horse Adventures - Blue Ribbon Race (USA).zip
+- Barbie in the 12 Dancing Princesses (USA).zip
+- Barbie Superpack (USA).zip
+- Barnyard (USA).zip
+- Baseball Advance (USA).zip
+- Batman - Rise of Sin Tzu (USA) (En,Fr,Es).zip
+- Batman - Vengeance (USA) (En,Fr,Es).zip
+- Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Battle B-Daman - Fire Spirits! (USA).zip
+- Battle B-Daman (USA).zip
+- BattleBots - Beyond the BattleBox (USA).zip
+- BattleBots - Design & Destroy (USA).zip
+- Bee Game, The (USA).zip
+- Berenstain Bears and the Spooky Old Tree, The (USA).zip
+- Beyblade G-Revolution (USA).zip
+- Beyblade V-Force - Ultimate Blader Jam (USA).zip
+- Bible Game, The (USA).zip
+- Big Mutha Truckers (USA).zip
+- Bionicle - Matoran Adventures (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip
+- Bionicle - Maze of Shadows (USA).zip
+- Bionicle (USA).zip
+- Bionicle Heroes (USA) (En,Fr,De,Es,It,Da).zip
+- Black Belt Challenge (Europe).zip
+- Blackthorne (USA).zip
+- Blades of Thunder (USA).zip
+- Blender Bros. (USA).zip
+- BMX Trick Racer (USA).zip
+- Board Game Classics (USA).zip
+- Boktai - The Sun Is in Your Hand (USA).zip
+- Boktai 2 - Solar Boy Django (USA).zip
+- Bomberman Max 2 - Blue Advance (USA).zip
+- Bomberman Max 2 - Red Advance (USA).zip
+- Bomberman Tournament (USA, Europe).zip
+- Bookworm (USA).zip
+- Boulder Dash EX (USA).zip
+- Boxing Fever (USA, Europe).zip
+- Bratz - Babyz (USA).zip
+- Bratz - Forever Diamondz (USA).zip
+- Bratz - Rock Angelz (USA, Europe).zip
+- Bratz - The Movie (USA).zip
+- Bratz (USA) (En,Fr,Es).zip
+- Breath of Fire (USA).zip
+- Breath of Fire II (USA).zip
+- Britney's Dance Beat (USA).zip
+- Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It).zip
+- Brother Bear (USA).zip
+- Bruce Lee - Return of the Legend (USA).zip
+- Bubble Bobble - Old & New (USA).zip
+- Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe).zip
+- Butt-Ugly Martians - B.K.M. Battles (USA).zip
+- Cabbage Patch Kids - The Patch Puppy Rescue (USA).zip
+- Cabela's Big Game Hunter - 2005 Adventures (USA, Europe).zip
+- Cabela's Big Game Hunter (USA).zip
+- Caesars Palace Advance - Millennium Gold Edition (USA, Europe).zip
+- Camp Lazlo - Leaky Lake Games (USA).zip
+- Capcom Classics Mini Mix (USA).zip
+- Car Battler Joe (USA).zip
+- Care Bears - The Care Quests (USA) (En,Fr,Es).zip
+- Carrera Power Slide (Europe) (En,Fr,De,Es,It,Nl).zip
+- Cars - Mater-National Championship (USA) (En,Fr).zip
+- Cars (USA, Europe).zip
+- Cartoon Network Block Party (USA).zip
+- Cartoon Network Speedway (USA).zip
+- Casper (USA) (En,Fr,Es).zip
+- Castlevania - Aria of Sorrow (USA).zip
+- Castlevania - Circle of the Moon (USA).zip
+- Castlevania - Harmony of Dissonance (USA).zip
+- Castlevania (Europe).zip
+- Castlevania Double Pack (USA).zip
+- Castleween (Europe) (En,Fr,De,Es,It).zip
+- Cat in the Hat by Dr. Seuss, The (USA).zip
+- Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Catz (USA, Europe).zip
+- Charlie and the Chocolate Factory (USA) (En,Fr,Es,Nl).zip
+- Charlotte's Web (USA) (En,Fr,De,Es,It).zip
+- Cheetah Girls, The (USA).zip
+- Chessmaster (USA).zip
+- Chicken Little (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Chicken Shoot (USA).zip
+- Chicken Shoot 2 (USA).zip
+- Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip
+- ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).zip
+- CIMA - The Enemy (USA).zip
+- Cinderella - Magical Dreams (USA) (En,Fr,De,Es,It).zip
+- Classic NES Series - Bomberman (USA, Europe).zip
+- Classic NES Series - Castlevania (USA).zip
+- Classic NES Series - Donkey Kong (USA, Europe).zip
+- Classic NES Series - Dr. Mario (USA, Europe).zip
+- Classic NES Series - Excitebike (USA, Europe).zip
+- Classic NES Series - Ice Climber (USA, Europe).zip
+- Classic NES Series - Metroid (USA, Europe).zip
+- Classic NES Series - Pac-Man (USA, Europe).zip
+- Classic NES Series - Super Mario Bros. (USA, Europe).zip
+- Classic NES Series - The Legend of Zelda (USA, Europe).zip
+- Classic NES Series - Xevious (USA, Europe).zip
+- Classic NES Series - Zelda II - The Adventure of Link (USA, Europe).zip
+- Cocoto - Kart Racer (Europe) (En,Fr,De,Es,It).zip
+- Cocoto - Platform Jumper (Europe) (En,Fr,De,Es,It).zip
+- Codename - Kids Next Door - Operation S.O.D.A. (USA).zip
+- Colin McRae Rally 2.0 (USA) (En,Fr,De).zip
+- Columns Crown (USA).zip
+- Combo Pack - Sonic Advance + Sonic Pinball Party (USA) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It).zip
+- Comix Zone (Europe) (En,Fr,De,Es,It).zip
+- Contra Advance - The Alien Wars EX (USA).zip
+- Corvette (USA) (En,Fr,De,Es,It).zip
+- Crash & Spyro Super Pack Volume 1 (Europe) (En,Fr,De,Es,It,Nl).zip
+- Crash & Spyro Super Pack Volume 2 (Europe) (En,Fr,De,Es,It,Nl).zip
+- Crash & Spyro Super Pack Volume 3 (Europe) (En,Fr,De,Es,It).zip
+- Crash Bandicoot - The Huge Adventure (USA).zip
+- Crash Bandicoot 2 - N-Tranced (USA).zip
+- Crash Bandicoot Purple - Ripto's Rampage (USA).zip
+- Crash Nitro Kart (USA).zip
+- Crash of the Titans (USA) (En,Fr).zip
+- Crash Superpack (USA).zip
+- Crazy Chase (USA).zip
+- Crazy Frog Racer (Europe) (En,Fr,De,Nl).zip
+- Crazy Taxi - Catch a Ride (USA).zip
+- Creatures (Europe) (En,Es,It).zip
+- Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es).zip
+- Cruis'n Velocity (USA, Europe).zip
+- Crushed Baseball (USA).zip
+- CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl).zip
+- CT Special Forces - Bioterror (Europe) (En,Fr,De,Es,It,Nl).zip
+- CT Special Forces (USA) (En,Fr,De,Es,It,Nl).zip
+- CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl).zip
+- Cubix - Robots for Everyone - Clash 'N Bash (USA).zip
+- Curious George (USA).zip
+- Danny Phantom - The Ultimate Enemy (USA).zip
+- Danny Phantom - Urban Jungle (USA).zip
+- Daredevil (USA, Europe).zip
+- Dark Arena (USA, Europe).zip
+- Dave Mirra Freestyle BMX 2 (USA).zip
+- Dave Mirra Freestyle BMX 3 (USA, Europe).zip
+- David Beckham Soccer (USA) (En,Es).zip
+- Davis Cup (USA) (En,Fr,De,Es,It).zip
+- Dead to Rights (USA).zip
+- Deadly Skies (Europe) (En,Ja,Fr,De).zip
+- Deal or No Deal (USA).zip
+- Defender (USA).zip
+- Defender of the Crown (USA).zip
+- DemiKids - Dark Version (USA).zip
+- DemiKids - Light Version (USA).zip
+- Demon Driver - Time to Burn Rubber! (USA).zip
+- Denki Blocks! (USA) (En,Es).zip
+- Desert Strike Advance (USA).zip
+- Dexter's Laboratory - Chess Challenge (USA).zip
+- Dexter's Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It).zip
+- Digimon - Battle Spirit (USA).zip
+- Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It).zip
+- Digimon Racing (USA) (En,Fr,De,Es,It).zip
+- Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Disney Princess - Royal Adventure (USA).zip
+- Disney Princess (USA, Europe).zip
+- Disney Sports - Basketball (USA).zip
+- Disney Sports - Football (USA).zip
+- Disney Sports - Motocross (USA).zip
+- Disney Sports - Skateboarding (USA).zip
+- Disney Sports - Snowboarding (USA).zip
+- Disney Sports - Soccer (USA).zip
+- Disney's Game + TV Episode - Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr).zip
+- Disney's Party (USA, Europe) (En,Fr,De,Es,It).zip
+- DK - King of Swing (USA, Australia).zip
+- Dogz - Fashion (USA).zip
+- Dogz (USA).zip
+- Dogz 2 (USA).zip
+- Dokapon (USA).zip
+- Donald Duck Advance (USA).zip
+- Donkey Kong Country (USA).zip
+- Donkey Kong Country 2 (USA, Australia).zip
+- Donkey Kong Country 3 (USA, Australia).zip
+- Doom (USA, Europe).zip
+- Doom II (USA).zip
+- Dora the Explorer - Dora's World Adventure! (USA).zip
+- Dora the Explorer - Super Spies (USA).zip
+- Dora the Explorer - Super Star Adventures! (USA).zip
+- Dora the Explorer - The Search for the Pirate Pig's Treasure (USA).zip
+- Dora the Explorer Double Pack (USA).zip
+- Double Dragon Advance (USA).zip
+- Downforce (Europe) (En,Fr,De,Es,It).zip
+- Dr. Muto (Europe) (En,Fr,De,Es,It).zip
+- Dr. Seuss' - The Cat in the Hat (USA).zip
+- Dr. Sudoku (USA).zip
+- Dragon Ball - Advanced Adventure (USA).zip
+- Dragon Ball GT - Transformation (USA).zip
+- Dragon Ball Z - Buu's Fury (USA).zip
+- Dragon Ball Z - Collectible Card Game (USA).zip
+- Dragon Ball Z - Supersonic Warriors (USA).zip
+- Dragon Ball Z - Taiketsu (USA).zip
+- Dragon Ball Z - The Legacy of Goku (USA).zip
+- Dragon Ball Z - The Legacy of Goku II (USA).zip
+- Dragon Tales - Dragon Adventures (USA).zip
+- Dragon's Rock (Europe) (En,Fr,De,Es,It).zip
+- Drake & Josh (USA) (En,Fr).zip
+- Drill Dozer (USA).zip
+- Driv3r (USA).zip
+- Driven (USA) (En,Fr,De,Es,It).zip
+- Driver 2 Advance (USA).zip
+- Drome Racers (USA).zip
+- Droopy's Tennis Open (Europe) (En,Fr,De,Es,It,Nl).zip
+- Dual Blades (USA).zip
+- Duel Masters - Kaijudo Showdown (USA).zip
+- Duel Masters - Sempai Legends (USA).zip
+- Duel Masters - Shadow of the Code (USA).zip
+- Duke Nukem Advance (USA).zip
+- Dungeons & Dragons - Eye of the Beholder (USA).zip
+- Dynasty Warriors Advance (USA, Australia).zip
+- E.T. - The Extra-Terrestrial (USA).zip
+- Earthworm Jim (USA, Europe).zip
+- Earthworm Jim 2 (USA).zip
+- Ecks vs Sever (USA) (En,Fr,De,Es,It).zip
+- Ecks vs. Sever II - Ballistic (Europe) (En,Fr,De,Es,It).zip
+- Ed, Edd n Eddy - Jawbreakers! (USA).zip
+- Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr).zip
+- Egg Mania (USA) (En,Fr,Es).zip
+- Eggo Mania (Europe) (En,Fr,De,Es,It,Nl).zip
+- Elf - The Movie (USA) (En,Fr,De,Es,It).zip
+- Elf Bowling 1 & 2 (USA).zip
+- Enchanted - Once Upon Andalasia (USA) (En,Fr).zip
+- Eragon (USA).zip
+- ESPN Final Round Golf 2002 (USA).zip
+- ESPN Great Outdoor Games - Bass 2002 (USA).zip
+- ESPN International Winter Sports 2002 (USA).zip
+- ESPN Winter X-Games Snowboarding 2002 (USA).zip
+- ESPN X-Games Skateboarding (USA).zip
+- European Super League (Europe) (En,Fr,De,Es,It).zip
+- Ever Girl (USA).zip
+- Extreme Ghostbusters - Code Ecto-1 (USA).zip
+- Extreme Skate Adventure (USA, Europe).zip
+- F1 2002 (USA, Europe).zip
+- F-14 Tomcat (USA, Europe).zip
+- F24 Stealth Fighter (USA).zip
+- Fairly OddParents!, The - Breakin' da Rules (USA).zip
+- Fairly OddParents!, The - Clash with the Anti-World (USA).zip
+- Fairly OddParents!, The - Enter the Cleft (USA).zip
+- Fairly OddParents!, The - Shadow Showdown (USA).zip
+- Family Feud (USA).zip
+- Fantastic 4 - Flame On (USA).zip
+- Fantastic 4 (USA).zip
+- Fear Factor Unleashed (USA).zip
+- FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- FIFA Soccer 07 (USA, Europe) (En,Fr,De,Es).zip
+- FIFA Soccer 2003 (USA, Europe) (En,Fr,De,Es,It).zip
+- FIFA Soccer 2004 (USA, Europe) (En,Fr,De,Es,It).zip
+- FIFA Soccer 2005 (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- FightBox (Europe).zip
+- FILA Decathlon (Europe) (En,Fr,De,Es,It,Sv).zip
+- Final Fantasy I & II - Dawn of Souls (USA, Australia).zip
+- Final Fantasy IV Advance (USA, Australia).zip
+- Final Fantasy Tactics Advance (USA, Australia).zip
+- Final Fantasy V Advance (USA).zip
+- Final Fantasy VI Advance (USA).zip
+- Final Fight One (USA).zip
+- Finding Nemo - The Continuing Adventures (USA, Europe).zip
+- Finding Nemo (USA, Europe).zip
+- Fire Emblem - The Sacred Stones (USA, Australia).zip
+- Fire Emblem (USA, Australia).zip
+- Fire Pro Wrestling (USA, Europe).zip
+- Fire Pro Wrestling 2 (USA).zip
+- Flintstones, The - Big Trouble in Bedrock (USA).zip
+- Flushed Away (USA).zip
+- Ford Racing 3 (USA).zip
+- Fortress (USA, Europe).zip
+- Foster's Home for Imaginary Friends (USA).zip
+- Franklin the Turtle (USA) (En,Fr,De,Es,It,Sv,No,Da,Fi).zip
+- Franklin's Great Adventures (USA) (En,Fr,Es).zip
+- Freekstyle (USA).zip
+- Freestyle Scooter (Europe).zip
+- Frogger Advance - The Great Quest (USA).zip
+- Frogger's Adventures - Temple of the Frog (USA) (En,Fr,De,Es,It).zip
+- Frogger's Adventures 2 - The Lost Wand (USA) (En,Es).zip
+- Frogger's Journey - The Forgotten Relic (USA).zip
+- F-Zero - GP Legend (USA).zip
+- F-Zero - Maximum Velocity (USA, Europe).zip
+- Gadget Racers (USA).zip
+- Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da).zip
+- Game & Watch Gallery 4 (USA).zip
+- Games Explosion! (USA).zip
+- Garfield - The Search for Pooky (USA) (En,Fr,De,Es,It).zip
+- Garfield and His Nine Lives (USA) (En,Fr,Es).zip
+- Gauntlet - Dark Legacy (USA).zip
+- Gekido Advance - Kintaro's Revenge (USA).zip
+- Gem Smashers (USA).zip
+- Ghost Rider (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Global Star - Sudoku Fever (USA).zip
+- Glory Days (Europe) (En,Fr,De,Es,It).zip
+- Go! Go! Beckham! - Adventure on Soccer Island (Europe) (En,Fr,De,Es,It).zip
+- Godzilla - Domination! (USA).zip
+- Golden Nugget Casino (USA, Europe).zip
+- Golden Sun - The Lost Age (USA, Europe).zip
+- Golden Sun (USA, Europe).zip
+- Gradius Galaxies (USA).zip
+- Grand Theft Auto Advance (USA).zip
+- Green Eggs and Ham by Dr. Seuss (USA).zip
+- Greg Hastings' Tournament Paintball Max'd (USA).zip
+- Gremlins - Stripe vs Gizmo (USA).zip
+- Grim Adventures of Billy & Mandy, The (USA).zip
+- GT Advance - Championship Racing (USA, Europe).zip
+- GT Advance 2 - Rally Racing (USA).zip
+- GT Advance 3 - Pro Concept Racing (USA).zip
+- GT Racers (Europe) (En,Fr,De,Es,It).zip
+- Guilty Gear X - Advance Edition (USA).zip
+- Gumby vs. the Astrobots (USA).zip
+- Gunstar Super Heroes (USA).zip
+- Hamtaro - Ham-Ham Games (Europe) (En,Fr,De,Es,It).zip
+- Hamtaro - Ham-Ham Heartbreak (USA).zip
+- Hamtaro - Rainbow Rescue (Europe) (En,Fr,De,Es,It).zip
+- Happy Feet (USA) (En,Fr).zip
+- Hardcore Pinball (USA, Europe).zip
+- Hardcore Pool (Europe) (En,De,Es,It).zip
+- Harlem Globetrotters - World Tour (USA).zip
+- Harry Potter - Quidditch World Cup (USA, Europe) (En,Fr,De,Es,It,Nl,Da).zip
+- Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).zip
+- Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da).zip
+- Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Da).zip
+- Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da).zip
+- Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).zip
+- Harry Potter Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).zip
+- Harvest Moon - Friends of Mineral Town (USA).zip
+- Harvest Moon - More Friends of Mineral Town (USA).zip
+- Heidi - The Game (Europe) (En,Fr,De,Es,It).zip
+- Hello Kitty - Happy Party Pals (USA).zip
+- Herbie - Fully Loaded (USA).zip
+- Hey Arnold! - The Movie (USA).zip
+- Hi Hi Puffy AmiYumi - Kaznapped! (USA).zip
+- High Heat Major League Baseball 2002 (USA, Europe).zip
+- High Heat Major League Baseball 2003 (USA).zip
+- High School Musical - Livin' the Dream (USA).zip
+- Hobbit, The (USA).zip
+- Home on the Range (USA) (En,Fr).zip
+- Horsez (USA).zip
+- Hot Potato! (USA).zip
+- Hot Wheels - All Out (USA).zip
+- Hot Wheels - Burnin' Rubber (USA).zip
+- Hot Wheels - Stunt Track Challenge (USA, Europe).zip
+- Hot Wheels - Velocity X (USA).zip
+- Hot Wheels - World Race (USA).zip
+- Hugo - Bukkazoom! (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).zip
+- Hugo - The Evil Mirror Advance (USA) (En,Fr,Es).zip
+- Hugo 2 in 1 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).zip
+- I Spy Challenger! (USA).zip
+- Ice Age (USA) (En,Fr,Es).zip
+- Ice Age 2 - The Meltdown (USA).zip
+- Ice Nine (USA, Europe) (En,Fr,De,Es,It).zip
+- Ignition Collection - Volume 1 (Europe).zip
+- Incredible Hulk, The (USA).zip
+- Incredibles, The - Rise of the Underminer (USA, Europe).zip
+- Incredibles, The (USA, Europe).zip
+- Inspector Gadget - Advance Mission (USA).zip
+- Inspector Gadget Racing (Europe) (En,Fr,De,Es,It,Nl).zip
+- International Karate Advanced (Europe).zip
+- International Karate Plus (USA).zip
+- International Superstar Soccer (Europe).zip
+- International Superstar Soccer Advance (Europe).zip
+- Invader (Europe).zip
+- Invincible Iron Man, The (USA, Europe).zip
+- Iridion 3D (USA, Europe).zip
+- Iridion II (USA).zip
+- It's Mr. Pants (USA, Europe).zip
+- Jackie Chan Adventures - Legend of the Darkhand (USA, Europe).zip
+- James Pond - Codename Robocod (USA) (En,Fr,Es,Pt).zip
+- Jazz Jackrabbit (USA, Europe).zip
+- Jet Grind Radio (USA).zip
+- Jet Set Radio (Europe).zip
+- Jimmy Neutron Boy Genius (Europe) (En,Fr,De,Es).zip
+- Jonny Moseley Mad Trix (USA) (En,Fr,De,Es,It).zip
+- Juka and the Monophonic Menace (USA) (En,Fr,Es).zip
+- Jungle Book 2, The (Europe) (En,Fr,De,Es,It,Nl).zip
+- Jungle Book, The (USA) (En,Fr,De,Es,It,Nl).zip
+- Jurassic Park III - Dino Attack (Europe) (En,Fr,De,Es,It).zip
+- Jurassic Park III - Island Attack (USA).zip
+- Jurassic Park III - Park Builder (Europe) (En,Fr,De,Es,It).zip
+- Jurassic Park III - The DNA Factor (Europe) (En,Fr,De,Es,It).zip
+- Justice League - Injustice for All (Europe) (En,Fr,De,Es,It).zip
+- Justice League Chronicles (USA).zip
+- Justice League Heroes - The Flash (Europe) (En,Fr,De,Es,It).zip
+- Kao the Kangaroo (Europe) (En,Fr,De,Es,It,Nl).zip
+- Karnaaj Rally (USA, Europe).zip
+- Kelly Slater's Pro Surfer (USA, Europe).zip
+- Kid Paddle (Europe) (Fr,Nl).zip
+- Kid's Cards (USA).zip
+- Kill Switch (USA).zip
+- Killer 3D Pool (USA).zip
+- Kim Possible - Revenge of Monkey Fist (USA).zip
+- Kim Possible 2 - Drakken's Demise (USA) (En,Fr).zip
+- Kim Possible III - Team Possible (USA) (En,Fr).zip
+- King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl).zip
+- King of Fighters EX, The - NeoBlood (USA).zip
+- King of Fighters EX2, The - Howling Blood (USA).zip
+- Kingdom Hearts - Chain of Memories (USA).zip
+- Kirby - Nightmare in Dream Land (USA).zip
+- Kirby & the Amazing Mirror (USA).zip
+- Klonoa - Empire of Dreams (USA).zip
+- Klonoa 2 - Dream Champ Tournament (USA).zip
+- Knights' Kingdom (USA).zip
+- Koala Brothers - Outback Adventures (USA) (En,Fr,De,Es,It,Nl,Pt,Da).zip
+- Konami Collector's Series - Arcade Advanced (USA).zip
+- Konami Krazy Racers (USA).zip
+- Kong - King of Atlantis (USA).zip
+- Kong - The 8th Wonder of the World (USA) (En,Fr,Es).zip
+- Kong - The Animated Series (USA) (En,Fr,De,Es,It,Nl).zip
+- Kurukuru Kururin (Europe).zip
+- Lady Sia (USA) (En,Fr,De,Es,It,Nl).zip
+- Land Before Time, The - Into the Mysterious Beyond (USA) (En,Fr,Es).zip
+- Land Before Time, The (USA) (En,Es).zip
+- Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It).zip
+- Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It).zip
+- Legend of Spyro, The - A New Beginning (USA).zip
+- Legend of Spyro, The - The Eternal Night (USA) (En,Fr).zip
+- Legend of Zelda, The - A Link to the Past & Four Swords (USA, Australia).zip
+- Legend of Zelda, The - The Minish Cap (USA).zip
+- Legends of Wrestling II (USA, Europe).zip
+- LEGO Bionicle (USA) (En,Fr).zip
+- LEGO Island - Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip
+- LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr).zip
+- LEGO Racers 2 (USA) (En,Fr).zip
+- LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip
+- LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da).zip
+- LEGO Star Wars II - The Original Trilogy (USA).zip
+- Lemony Snicket's A Series of Unfortunate Events (USA, Europe).zip
+- Let's Ride! - Dreamer (USA).zip
+- Let's Ride! - Friends Forever (USA).zip
+- Let's Ride! - Sunshine Stables (USA).zip
+- Lilo & Stitch (USA).zip
+- Lilo & Stitch 2 - Haemsterviel Havoc (USA).zip
+- Lion King 1 1-2, The (USA).zip
+- Little Einsteins (USA).zip
+- Little League Baseball 2002 (USA) (En,Es).zip
+- Little Mermaid, The - Magic in Two Kingdoms (USA, Europe) (En,Fr,De,Es,It).zip
+- Lizzie McGuire - On the Go! (USA).zip
+- Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr).zip
+- Lizzie McGuire 3 - Homecoming Havoc (USA).zip
+- Looney Tunes - Back in Action (USA, Europe) (En,Fr,De,Es,It).zip
+- Looney Tunes Double Pack (USA).zip
+- Lord of the Rings, The - The Fellowship of the Ring (USA).zip
+- Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It).zip
+- Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It).zip
+- Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Lost Vikings, The (USA).zip
+- Lucky Luke - Wanted! (Europe) (En,Fr,De,Es,It,Nl).zip
+- Lufia - The Ruins of Lore (USA).zip
+- Lunar Legend (USA).zip
+- M&M's - Blast! (USA).zip
+- Madagascar - Operation Penguin (USA).zip
+- Madagascar (USA).zip
+- Madden NFL 06 (USA).zip
+- Madden NFL 07 (USA).zip
+- Madden NFL 2002 (USA).zip
+- Madden NFL 2003 (USA).zip
+- Madden NFL 2004 (USA).zip
+- Madden NFL 2005 (USA).zip
+- Magical Quest 2 Starring Mickey & Minnie (USA) (En,Fr,De).zip
+- Magical Quest 3 Starring Mickey & Donald (USA) (En,Fr,De).zip
+- Magical Quest Starring Mickey & Minnie (USA).zip
+- Majesco's Rec Room Challenge (USA).zip
+- Majesco's Sports Pack (USA).zip
+- Maniac Racers Advance (Europe) (En,Fr,De,Es,It).zip
+- Manic Miner (Europe) (En,Fr,De,Es,It).zip
+- March of the Penguins (USA).zip
+- Mario & Luigi - Superstar Saga (USA, Australia).zip
+- Mario Golf - Advance Tour (USA).zip
+- Mario Kart - Double Dash!! (USA) (Fire Emblem GBA - Bonus Items).zip
+- Mario Kart - Super Circuit (USA).zip
+- Mario Party Advance (USA).zip
+- Mario Pinball Land (USA, Australia).zip
+- Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).zip
+- Mario vs. Donkey Kong (USA, Australia).zip
+- Marvel - Ultimate Alliance (USA).zip
+- Mary-Kate and Ashley - Girls Night Out (USA, Europe).zip
+- Mary-Kate and Ashley Sweet 16 - Licensed to Drive (USA, Europe).zip
+- Masters of the Universe He-Man - Power of Grayskull (USA).zip
+- Mat Hoffman's Pro BMX (USA, Europe).zip
+- Mat Hoffman's Pro BMX 2 (USA, Europe).zip
+- Matchbox Cross Town Heroes (USA).zip
+- Math Patrol - The Kleptoid Threat (USA).zip
+- Max Payne (USA).zip
+- Maya the Bee - Sweet Gold (Europe) (En,Fr,De,Es,It).zip
+- Maya the Bee - The Great Adventure (Europe) (En,Fr,De,Es,It).zip
+- Mazes of Fate (USA) (En,Fr,De,Es,It).zip
+- Mech Platoon (USA).zip
+- Medabots - Metabee (USA).zip
+- Medabots - Rokusho (USA).zip
+- Medabots AX - Metabee Ver. (USA).zip
+- Medabots AX - Rokusho Ver. (USA).zip
+- Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De).zip
+- Medal of Honor - Underground (USA).zip
+- Meet the Robinsons (USA).zip
+- Mega Man & Bass (USA).zip
+- Mega Man Battle Chip Challenge (USA).zip
+- Mega Man Battle Network (USA).zip
+- Mega Man Battle Network 2 (USA) (Debug Version).zip
+- Mega Man Battle Network 2 (USA).zip
+- Mega Man Battle Network 3 - Blue Version (USA).zip
+- Mega Man Battle Network 3 - White Version (USA).zip
+- Mega Man Battle Network 4 - Blue Moon (USA).zip
+- Mega Man Battle Network 4 - Red Sun (USA).zip
+- Mega Man Battle Network 5 - Team Colonel (USA).zip
+- Mega Man Battle Network 5 - Team Proto Man (USA).zip
+- Mega Man Battle Network 6 - Cybeast Falzar (USA).zip
+- Mega Man Battle Network 6 - Cybeast Gregar (USA).zip
+- Mega Man Zero (USA, Europe).zip
+- Mega Man Zero 2 (USA).zip
+- Mega Man Zero 3 (USA).zip
+- Mega Man Zero 4 (USA).zip
+- Men in Black - The Series (USA).zip
+- Metal Slug Advance (USA).zip
+- Metroid - Zero Mission (USA).zip
+- Metroid Fusion (USA, Australia).zip
+- Micro Machines (Europe) (En,Fr,De,Es,It).zip
+- Midnight Club - Street Racing (USA).zip
+- Midway's Greatest Arcade Hits (USA, Europe).zip
+- Mighty Beanz Pocket Puzzles (USA).zip
+- Mike Tyson Boxing (USA) (En,Fr,De,Es,It).zip
+- Minority Report - Everybody Runs (USA, Europe).zip
+- Mission Impossible - Operation Surma (USA) (En,Fr,Es).zip
+- MLB SlugFest 20-04 (USA).zip
+- Mobile Suit Gundam Seed - Battle Assault (USA).zip
+- Monopoly (USA).zip
+- Monster Force (USA).zip
+- Monster House (USA) (En,Fr).zip
+- Monster Jam - Maximum Destruction (USA).zip
+- Monster Rancher Advance (USA).zip
+- Monster Rancher Advance 2 (USA).zip
+- Monster Truck Madness (USA, Europe).zip
+- Monster Trucks (USA, Europe).zip
+- Monster Trucks Mayhem (USA).zip
+- Monster! Bass Fishing (USA).zip
+- Monsters, Inc. (USA, Europe).zip
+- Moorhen 3 - The Chicken Chase! (Europe) (En,Fr,De,Es,It).zip
+- Mortal Kombat - Deadly Alliance (USA) (En,Fr,De,Es,It).zip
+- Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It).zip
+- Mortal Kombat Advance (USA).zip
+- Moto GP (USA) (En,Fr,De,Es,It).zip
+- Motocross Maniacs Advance (USA) (En,Es).zip
+- Motoracer Advance (USA) (En,Fr,De,Es,It).zip
+- Mr Nutz (Europe) (En,Fr,De,Es,It).zip
+- Mr. Driller 2 (USA).zip
+- Ms. Pac-Man - Maze Madness (USA).zip
+- Mucha Lucha! - Mascaritas of the Lost Code (USA) (En,Fr,Es).zip
+- Mummy, The (USA) (En,Fr,De,Es,It).zip
+- Muppet Pinball Mayhem (USA).zip
+- Muppets, The - On with the Show! (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- MX 2002 featuring Ricky Carmichael (USA, Europe).zip
+- My Animal Centre in Africa (Europe) (En,Fr,De,Es,It).zip
+- My Little Pony - Crystal Princess - The Runaway Rainbow (USA).zip
+- Namco Museum - 50th Anniversary (USA).zip
+- Namco Museum (USA).zip
+- Nancy Drew - Message in a Haunted Mansion (USA).zip
+- Naruto - Ninja Council (USA).zip
+- Naruto - Ninja Council 2 (USA).zip
+- NASCAR Heat 2002 (USA).zip
+- NBA Jam 2002 (USA, Europe).zip
+- Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).zip
+- Need for Speed - Porsche Unleashed (USA).zip
+- Need for Speed - Underground (USA, Europe) (En,Fr,De,It).zip
+- Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It).zip
+- Need for Speed Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It).zip
+- NES Classics - Castlevania (Europe).zip
+- Next Generation Tennis (Europe) (En,Fr,De,Es,It,Pt).zip
+- NFL Blitz 20-02 (USA).zip
+- NFL Blitz 20-03 (USA).zip
+- NHL 2002 (USA).zip
+- NHL Hitz 20-03 (USA).zip
+- Nicktoons - Attack of the Toybots (USA).zip
+- Nicktoons - Battle for Volcano Island (USA).zip
+- Nicktoons - Freeze Frame Frenzy (USA).zip
+- Nicktoons Racing (USA).zip
+- Nicktoons Unite! (USA).zip
+- Ninja Cop (Europe).zip
+- Ninja Five-0 (USA).zip
+- No Rules - Get Phat (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Noddy - A Day in Toyland (USA) (En,Fr,Es).zip
+- Oddworld - Munch's Oddysee (USA, Europe).zip
+- One Piece (USA).zip
+- Onimusha Tactics (USA).zip
+- Open Season (USA) (En,Fr,Es).zip
+- Operation Armored Liberty (USA).zip
+- Over the Hedge - Hammy Goes Nuts! (USA).zip
+- Over the Hedge (USA).zip
+- Ozzy & Drix (USA).zip
+- Pac-Man Collection (USA).zip
+- Pac-Man Pinball Advance (USA).zip
+- Pac-Man World & Ms. Pac-Man - Maze Madness (Europe) (En,Fr,De,Es,It).zip
+- Pac-Man World (USA).zip
+- Pac-Man World 2 (USA).zip
+- Paws & Claws - Best Friends - Dogs & Cats (USA).zip
+- Paws & Claws - Pet Resort (USA).zip
+- Payback (Europe) (En,Fr,De,Es,It).zip
+- Penny Racers (Europe).zip
+- Peter Pan - Return to Neverland (USA).zip
+- Peter Pan - The Motion Picture Event (USA).zip
+- Petz - Hamsterz Life 2 (USA).zip
+- Petz Vet (USA).zip
+- Phalanx (USA).zip
+- Phantasy Star Collection (USA).zip
+- Phil of the Future (USA).zip
+- Piglet's Big Game (USA).zip
+- Pinball Advance (Europe) (En,Fr,De,Es,It).zip
+- Pinball Challenge Deluxe (Europe).zip
+- Pinball of the Dead, The (USA).zip
+- Pinball Tycoon (USA).zip
+- Pink Panther - Pinkadelic Pursuit (USA).zip
+- Pinky and the Brain - The Masterplan (Europe) (En,Fr,De,Es,It).zip
+- Pinobee - Wings of Adventure (USA, Europe).zip
+- Pippa Funnell - Stable Adventure (Europe) (En,Fr).zip
+- Pippa Funnell 2 (Europe) (En,Fr).zip
+- Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It).zip
+- Pirates of the Caribbean - The Curse of the Black Pearl (USA) (En,Fr,De,Es,It).zip
+- Pitfall - The Lost Expedition (USA).zip
+- Pitfall - The Mayan Adventure (USA, Europe).zip
+- Planet Monsters (USA) (En,Fr,De,Es,It,Nl).zip
+- Planet of the Apes (USA) (En,Fr,De,Es,It,Nl).zip
+- Pocket Dogs (USA).zip
+- Pocket Music (Europe) (En,Fr,De,Es,It).zip
+- Pocket Professor - Kwik Notes - Vol. 1 (USA).zip
+- Pocky & Rocky with Becky (USA).zip
+- Pokemon - 10th Anniversary Distribution (Europe).zip
+- Pokemon - Aura Mew Distribution (Europe).zip
+- Pokemon - Aurora Ticket Distribution (USA).zip
+- Pokemon - Emerald Version (USA, Europe).zip
+- Pokemon - FireRed Version (USA).zip
+- Pokemon - LeafGreen Version (USA).zip
+- Pokemon - Liechi Berry Glitch Fix & Shiny Zigzagoon Distribution (Europe).zip
+- Pokemon - Ruby Version (USA).zip
+- Pokemon - Sapphire Version (USA).zip
+- Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).zip
+- Pokemon Pinball - Ruby & Sapphire (USA).zip
+- Polar Express, The (USA, Europe) (En,Fr,De,Es,It).zip
+- Polarium Advance (USA).zip
+- Polly Pocket! - Super Splash Island (USA) (Vivendi).zip
+- Pop Idol (Europe).zip
+- Popeye - Rush for Spinach (USA, Europe) (En,Fr,De,Es,It).zip
+- Postman Pat and the Greendale Rocket (Europe) (En,No,Da).zip
+- Power Rangers - Dino Thunder (USA, Europe).zip
+- Power Rangers - Ninja Storm (USA).zip
+- Power Rangers - Time Force (USA, Europe).zip
+- Power Rangers - Wild Force (USA, Europe).zip
+- Power Rangers S.P.D. (USA, Europe).zip
+- Powerpuff Girls, The - Him and Seek (USA).zip
+- Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl).zip
+- Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Premier Action Soccer (Europe) (En,Fr,De,Es,It).zip
+- Premier Manager 2003-04 (Europe) (En,Fr,De,It).zip
+- Premier Manager 2004-2005 (Europe) (En,Fr,De,It).zip
+- Premier Manager 2005-2006 (Europe) (En,Fr,De,It).zip
+- Prince of Persia - The Sands of Time (USA) (En,Fr,Es).zip
+- Princess Natasha - Student, Secret Agent, Princess (USA).zip
+- Pro Beach Soccer (Europe) (En,Fr,De,Es,It,Pt).zip
+- Pro Tennis WTA Tour (Europe).zip
+- Proud Family, The (USA).zip
+- Punch King - Arcade Boxing (USA).zip
+- Puppy Luv - Spa and Resort (USA).zip
+- Puyo Pop (USA) (En,Ja).zip
+- Puyo Pop Fever (Europe) (En,Fr,De,Es,It).zip
+- Quad Desert Fury (USA, Europe).zip
+- Qwak (Europe) (En,Fr,De,Es,It) (Unl).zip
+- Racing Fever (Europe) (En,De,Es,It).zip
+- Racing Gears Advance (USA).zip
+- Rampage - Puzzle Attack (USA, Europe).zip
+- Rapala Pro Fishing (USA, Europe).zip
+- Ratatouille (USA).zip
+- Rave Master - Special Attack Force! (USA).zip
+- Rayman - 10th Anniversary (USA) (En,Fr,De,Es,It).zip
+- Rayman - Hoodlum's Revenge (USA) (En,Fr,Es).zip
+- Rayman - Raving Rabbids (USA) (En,Fr,Es).zip
+- Rayman 3 (USA) (En,Fr,Es).zip
+- Rayman Advance (USA) (En,Fr,De,Es,It).zip
+- Razbitume! - Restez Branches! (Europe) (En,Fr).zip
+- Razmoket Rencontrent les Delajungle, Les (France).zip
+- Razmoket, Les - A Moi la Fiesta (France).zip
+- Razmoket, Les - Voler N'Est Pas Jouer (France).zip
+- Razor Freestyle Scooter (USA).zip
+- Ready 2 Rumble Boxing - Round 2 (USA).zip
+- Rebelstar - Tactical Command (USA).zip
+- Reign of Fire (USA) (En,Fr,De,Es,It).zip
+- Rescue Heroes - Billy Blazes! (USA).zip
+- Resident Evil 2 (Unknown) (Unl).zip
+- Revenge of Shinobi, The (USA).zip
+- Ripping Friends, The (USA, Europe).zip
+- River City Ransom EX (USA).zip
+- Riviera - The Promised Land (USA).zip
+- Road Rash - Jailbreak (USA).zip
+- Road Trip - Shifting Gears (USA).zip
+- Robopon 2 - Cross Version (USA).zip
+- Robopon 2 - Ring Version (USA).zip
+- Robot Wars - Advanced Destruction (USA).zip
+- Robot Wars - Extreme Destruction (Europe) (En,Fr,De,Es,It,Nl).zip
+- Robotech - The Macross Saga (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Robots (USA).zip
+- Rock n' Roll Racing (USA).zip
+- Rock'em Sock'em Robots (USA).zip
+- Rocket Power - Beach Bandits (USA, Europe).zip
+- Rocket Power - Dream Scheme (USA, Europe).zip
+- Rocket Power - Zero Gravity Zone (USA).zip
+- Rocky (USA) (En,Fr,De,Es,It).zip
+- R-Type III - The Third Lightning (USA).zip
+- Rugrats - Castle Capers (USA, Europe).zip
+- Rugrats - Go Wild (USA, Europe).zip
+- Rugrats - I Gotta Go Party (USA, Europe).zip
+- Sabre Wulf (USA).zip
+- Sabrina - The Teenage Witch - Potion Commotion (USA) (En,Fr,Es).zip
+- Salt Lake 2002 (USA) (En,Fr,De,Es,It,Nl).zip
+- Samurai Deeper Kyo (USA).zip
+- Samurai Jack - The Amulet of Time (USA, Europe).zip
+- Santa Claus Jr. Advance (Europe).zip
+- Santa Claus Saves the Earth (Europe).zip
+- Santa Clause 3, The - The Escape Clause (USA).zip
+- Scooby-Doo (USA).zip
+- Scooby-Doo 2 - Monsters Unleashed (USA, Europe).zip
+- Scooby-Doo and the Cyber Chase (USA, Europe).zip
+- Scooby-Doo! - Mystery Mayhem (USA) (En,Fr).zip
+- Scooby-Doo! - Unmasked (USA) (En,Fr).zip
+- Scorpion King, The - Sword of Osiris (USA).zip
+- Scrabble (Europe) (En,Fr,De,Es).zip
+- Scrabble Blast! (USA).zip
+- Scrabble Scramble! (Europe).zip
+- Scurge - Hive (USA) (En,Fr,Es).zip
+- SD Gundam Force (USA).zip
+- Sea Trader - Rise of Taipan (USA).zip
+- Secret Agent Barbie - Royal Jewels Mission (USA).zip
+- Sega Arcade Gallery (USA).zip
+- Sega Rally Championship (USA).zip
+- Sega Smash Pack (USA).zip
+- Serious Sam Advance (USA) (En,Fr,De).zip
+- Shaman King - Legacy of the Spirits - Soaring Hawk (USA).zip
+- Shaman King - Legacy of the Spirits - Sprinting Wolf (USA).zip
+- Shaman King - Master of Spirits (USA).zip
+- Shaman King - Master of Spirits 2 (USA).zip
+- Shamu's Deep Sea Adventures (USA).zip
+- Shark Tale (USA, Europe).zip
+- Shaun Palmer's Pro Snowboarder (USA, Europe).zip
+- Sheep (Europe) (En,Fr,De,Es,It).zip
+- Shining Force - Resurrection of the Dark Dragon (USA).zip
+- Shining Soul (USA).zip
+- Shining Soul II (USA).zip
+- Shrek - Hassle at the Castle (USA) (En,Fr,De,Es,It,Nl).zip
+- Shrek - Reekin' Havoc (USA) (En,Fr,De,Es,It,Nl).zip
+- Shrek - Smash n' Crash Racing (USA).zip
+- Shrek - Super Slam (USA).zip
+- Shrek - Swamp Kart Speedway (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Shrek 2 - Beg for Mercy (USA, Europe).zip
+- Shrek 2 (USA, Europe).zip
+- Shrek the Third (USA).zip
+- Sigma Star Saga (USA, Europe).zip
+- Silent Scope (USA) (En,Fr,De,Es,It).zip
+- SimCity 2000 (USA).zip
+- Simpsons, The - Road Rage (USA, Europe).zip
+- Sims 2, The - Pets (USA, Europe).zip
+- Sims 2, The (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Sims, The - Bustin' Out (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Sitting Ducks (USA) (En,Fr,De,Es,It,Nl).zip
+- Sky Dancers - They Magically Fly! (USA).zip
+- Smashing Drive (USA).zip
+- Smuggler's Run (USA).zip
+- Smurfs, The - The Revenge of the Smurfs (Europe) (En,Fr,De,Es,It,Nl).zip
+- Snood (USA).zip
+- Snood 2 - On Vacation (USA).zip
+- Soccer Kid (USA, Europe).zip
+- Sonic Advance (USA) (En,Ja).zip
+- Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).zip
+- Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It).zip
+- Sonic Battle (USA) (En,Ja,Fr,De,Es,It).zip
+- Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).zip
+- Sonic The Hedgehog - Genesis (USA).zip
+- Sound of Thunder, A (USA) (En,Fr,De,Es,It).zip
+- Space Channel 5 - Ulala's Cosmic Attack (USA).zip
+- Space Invaders (USA, Europe).zip
+- Speedball 2 - Brutal Deluxe (Europe) (En,Fr,De,Es,It).zip
+- Spider-Man - Battle for New York (USA).zip
+- Spider-Man - Mysterio's Menace (USA, Europe).zip
+- Spider-Man (USA, Europe).zip
+- Spider-Man 2 (USA, Europe).zip
+- Spider-Man 3 (USA).zip
+- Spirit - Stallion of the Cimarron - Search for Homeland (USA).zip
+- Spirits & Spells (USA).zip
+- SpongeBob and Friends - Attack of the Toybots (Europe) (En,De).zip
+- SpongeBob SquarePants - Battle for Bikini Bottom (USA).zip
+- SpongeBob SquarePants - Creature from the Krusty Krab (USA).zip
+- SpongeBob SquarePants - Lights, Camera, Pants! (USA).zip
+- SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe).zip
+- SpongeBob SquarePants - SuperSponge (USA, Europe).zip
+- SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl).zip
+- SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,Nl).zip
+- SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It).zip
+- SpongeBob SquarePants Movie, The (USA).zip
+- SpongeBob's Atlantis SquarePantis (USA).zip
+- Sports Illustrated for Kids - Baseball (USA).zip
+- Sports Illustrated for Kids - Football (USA).zip
+- Sportsman's Pack (USA).zip
+- Spy Hunter (USA) (En,Ja,Fr,De,Es).zip
+- Spy Kids 3-D - Game Over (USA).zip
+- Spy Kids Challenger (USA).zip
+- Spy Muppets - License to Croak (USA) (En,Fr,De,Es,It,Nl).zip
+- Spyro - Attack of the Rhynocs (USA).zip
+- Spyro - Season of Ice (USA).zip
+- Spyro 2 - Season of Flame (USA).zip
+- Spyro Adventure (Europe) (En,Fr,De,Es,It,Nl).zip
+- Spyro Fusion (Europe) (En,Fr,De,Es,It).zip
+- Spyro Orange - The Cortex Conspiracy (USA).zip
+- Spyro Superpack (USA).zip
+- SSX 3 (USA, Europe).zip
+- SSX Tricky (USA, Europe) (En,Fr,De).zip
+- Stadium Games (USA).zip
+- Star Wars - Episode II - Attack of the Clones (USA).zip
+- Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es).zip
+- Star Wars - Flight of the Falcon (USA).zip
+- Star Wars - Jedi Power Battles (USA).zip
+- Star Wars - The New Droid Army (USA).zip
+- Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es).zip
+- Star X (USA) (En,Fr,De,Es,It,Nl).zip
+- Starsky & Hutch (USA).zip
+- Steel Empire (Europe).zip
+- Steven Gerrard's Total Soccer 2002 (Europe) (En,Fr,De,Es,It,Nl).zip
+- Strawberry Shortcake - Summertime Adventure - Special Edition (USA).zip
+- Strawberry Shortcake - Summertime Adventure (USA).zip
+- Strawberry Shortcake - Sweet Dreams (USA).zip
+- Street Fighter Alpha 3 (USA).zip
+- Street Jam Basketball (USA, Europe).zip
+- Street Racing Syndicate (USA).zip
+- Strike Force Hydra (USA).zip
+- Stuart Little 2 (USA, Europe).zip
+- Stuntman (USA) (En,Fr,Es).zip
+- Suite Life of Zack & Cody, The - Tipton Caper (USA) (En,Fr).zip
+- Sum of All Fears, The (USA) (En,Fr,De,Es,It).zip
+- Summon Night - Swordcraft Story (USA).zip
+- Summon Night - Swordcraft Story 2 (USA).zip
+- Super Army War (USA).zip
+- Super Black Bass Advance (Europe).zip
+- Super Bubble Pop (USA).zip
+- Super Bust-A-Move (USA) (En,Fr,Es).zip
+- Super Collapse! II (USA).zip
+- Super Dodge Ball Advance (USA).zip
+- Super Dropzone - Intergalactic Rescue Mission (USA).zip
+- Super Duper Sumos (USA).zip
+- Super Ghouls'n Ghosts (USA, Europe).zip
+- Super Hornet FA 18F (USA, Europe).zip
+- Super Mario Advance (USA, Europe).zip
+- Super Mario Advance 2 - Super Mario World (USA, Australia).zip
+- Super Mario Advance 3 - Yoshi's Island (USA).zip
+- Super Mario Advance 4 - Super Mario Bros. 3 (USA).zip
+- Super Mario Ball (Europe).zip
+- Super Monkey Ball Jr. (USA).zip
+- Super Puzzle Fighter II Turbo (USA).zip
+- Super Robot Taisen - Original Generation (USA).zip
+- Super Robot Taisen - Original Generation 2 (USA).zip
+- Super Street Fighter II Turbo - Revival (USA).zip
+- Superman - Countdown to Apokolips (USA).zip
+- Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It).zip
+- Surf's Up (USA) (En,Fr,Es).zip
+- Sword of Mana (USA, Australia).zip
+- Tactics Ogre - The Knight of Lodis (USA).zip
+- Tak - The Great Juju Challenge (USA, Europe).zip
+- Tak 2 - The Staff of Dreams (USA).zip
+- Tak and the Power of Juju (USA).zip
+- Tales of Phantasia (USA, Australia).zip
+- Tang Tang (USA).zip
+- Tarzan - Return to the Jungle (USA, Europe).zip
+- Teen Titans (USA) (En,Fr).zip
+- Teen Titans 2 (USA) (En,Fr).zip
+- Teenage Mutant Ninja Turtles (USA).zip
+- Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA).zip
+- Teenage Mutant Ninja Turtles Double Pack (USA) (En,Fr,De,Es,It).zip
+- Tekken Advance (USA).zip
+- Ten Pin Alley 2 (USA).zip
+- Tennis Masters Series 2003 (Europe) (En,Fr,De,Es,It,Pt).zip
+- Terminator 3 - Rise of the Machines (USA).zip
+- Tetris Worlds (USA).zip
+- Texas Hold 'em Poker (USA, Europe).zip
+- TG Rally (Europe).zip
+- That's So Raven (USA).zip
+- That's So Raven 2 - Supernatural Style (USA) (En,Fr).zip
+- Three Stooges, The (USA).zip
+- Three-in-One Pack - Connect Four + Perfection + Trouble (USA).zip
+- Three-in-One Pack - Risk + Battleship + Clue (USA).zip
+- Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA).zip
+- Thunder Alley (USA).zip
+- Thunderbirds - International Rescue (Europe).zip
+- Thunderbirds (USA, Europe).zip
+- Tiger Woods PGA Tour 2004 (USA, Europe).zip
+- Tiger Woods PGA Tour Golf (Europe) (En,Fr,De,Es,It).zip
+- Tiger Woods PGA Tour Golf (USA, Europe).zip
+- Tim Burton's The Nightmare Before Christmas - The Pumpkin King (USA, Europe) (En,Fr,De,Es,It).zip
+- Tiny Toon Adventures - Buster's Bad Dream (Europe) (En,Fr,De,Es,It).zip
+- Tiny Toon Adventures - Scary Dreams (USA).zip
+- Tiny Toon Adventures - Wacky Stackers (USA).zip
+- TMNT (USA) (En,Fr,Es).zip
+- TOCA World Touring Cars (Europe).zip
+- Tokyo Xtreme Racer Advance (USA).zip
+- Tom and Jerry - The Magic Ring (USA) (En,Fr,De,Es,It).zip
+- Tom and Jerry in Infurnal Escape (USA).zip
+- Tom and Jerry Tales (USA) (En,Fr,Es).zip
+- Tom Clancy's Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It).zip
+- Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es).zip
+- Tom Clancy's Splinter Cell (USA) (En,Fr,Es).zip
+- Tonka - On the Job (USA).zip
+- Tony Hawk's American Sk8land (USA).zip
+- Tony Hawk's Downhill Jam (USA).zip
+- Tony Hawk's Pro Skater 2 (USA, Europe).zip
+- Tony Hawk's Pro Skater 3 (USA, Europe).zip
+- Tony Hawk's Pro Skater 4 (USA, Europe).zip
+- Tony Hawk's Underground (USA, Europe).zip
+- Tony Hawk's Underground 2 (USA, Europe).zip
+- Top Gear GT Championship (USA).zip
+- Top Gear Rally (USA).zip
+- Top Gun - Combat Zones (USA) (En,Fr,De,Es,It).zip
+- Top Gun - Firestorm Advance (USA, Europe) (En,Fr,De,Es,It).zip
+- Top Spin 2 (USA) (En,Fr,De,Es,It).zip
+- Totally Spies! (USA).zip
+- Totally Spies! 2 - Undercover (USA) (En,Fr).zip
+- Tower SP, The (USA).zip
+- Treasure Planet (USA).zip
+- Trick Star (Europe) (En,Fr,De,Es,It).zip
+- Tringo (USA).zip
+- Trollz - Hair Affair! (USA).zip
+- Tron 2.0 - Killer App (USA).zip
+- Turbo Turtle Adventure (USA).zip
+- Turok Evolution (USA).zip
+- Tweety and the Magic Gems (USA).zip
+- Ty the Tasmanian Tiger 2 - Bush Rescue (USA, Europe) (En,Fr,De).zip
+- Ty the Tasmanian Tiger 3 - Night of the Quinkan (USA).zip
+- Ultimate Arcade Games (USA).zip
+- Ultimate Beach Soccer (USA).zip
+- Ultimate Brain Games (USA, Europe).zip
+- Ultimate Card Games (USA, Europe).zip
+- Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA).zip
+- Ultimate Puzzle Games (USA).zip
+- Ultimate Spider-Man (USA).zip
+- Ultimate Winter Games (USA).zip
+- Unfabulous (USA).zip
+- Uno 52 (USA).zip
+- Uno Free Fall (Europe) (En,Fr,De,Es,It).zip
+- Uno Free Fall (USA).zip
+- Urban Yeti! (USA, Europe).zip
+- Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- V.I.P. (Europe) (En,Fr,De,Es,It,Nl).zip
+- Van Helsing (USA).zip
+- VeggieTales - LarryBoy and the Bad Apple (USA).zip
+- Virtua Tennis (USA).zip
+- Virtual Kasparov (USA) (En,Fr,De,Es,It).zip
+- V-Rally 3 (USA) (En,Fr,Es).zip
+- W.i.t.c.h. (Europe) (En,Fr,De,Es,It).zip
+- Wade Hixton's Counter Punch (USA, Europe).zip
+- Wakeboarding Unleashed featuring Shaun Murray (USA).zip
+- Wario Land 4 (USA, Europe).zip
+- WarioWare - Twisted! (USA).zip
+- WarioWare, Inc. - Mega Microgame$! (USA).zip
+- Whac-A-Mole (USA).zip
+- Who Wants to Be a Millionaire - 2nd Edition (Europe).zip
+- Who Wants to Be a Millionaire (Europe).zip
+- Who Wants to Be a Millionaire Junior (Europe).zip
+- Wild Thornberrys Movie, The (USA, Europe).zip
+- Wild Thornberrys, The - Chimp Chase (USA, Europe).zip
+- Wild, The (USA, Europe) (En,Fr,De,Es).zip
+- Wing Commander - Prophecy (USA).zip
+- Wings (USA).zip
+- Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).zip
+- Winnie the Pooh's Rumbly Tumbly Adventure (USA) (En,Fr,Es).zip
+- Winter Sports (Europe) (En,Fr,De,Es,It).zip
+- WinX Club - Quest for the Codex (USA).zip
+- WinX Club (USA).zip
+- Wolfenstein 3D (USA, Europe).zip
+- Woody Woodpecker in Crazy Castle 5 (USA).zip
+- Word Safari - The Friendship Totems (USA).zip
+- World Championship Poker (USA).zip
+- World Poker Tour (USA).zip
+- World Tennis Stars (USA).zip
+- Worms Blast (Europe) (En,Fr,De,Es,It).zip
+- Worms World Party (USA) (En,Fr,De,Es,It).zip
+- WTA Tour Tennis (USA).zip
+- WWE - Road to WrestleMania X8 (USA, Europe).zip
+- WWE - Survivor Series (USA, Europe).zip
+- WWF - Road to WrestleMania (USA, Europe).zip
+- X2 - Wolverine's Revenge (USA, Europe).zip
+- X-Bladez - Inline Skater (USA).zip
+- X-Men - Reign of Apocalypse (USA, Europe).zip
+- X-Men - The Official Game (USA).zip
+- XS Moto (USA).zip
+- xXx (USA, Europe).zip
+- Yggdra Union - We'll Never Fight Alone (USA).zip
+- Yoshi - Topsy-Turvy (USA).zip
+- Yoshi's Universal Gravitation (Europe) (En,Fr,De,Es,It).zip
+- Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA).zip
+- Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe).zip
+- Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).zip
+- Yu-Gi-Oh! - Destiny Board Traveler (USA).zip
+- Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).zip
+- Yu-Gi-Oh! - Reshef of Destruction (USA).zip
+- Yu-Gi-Oh! - The Eternal Duelist Soul (USA).zip
+- Yu-Gi-Oh! - The Sacred Cards (USA).zip
+- Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It).zip
+- Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).zip
+- Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).zip
+- Yu-Gi-Oh! Double Pack (USA).zip
+- Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It).zip
+- Yu-Gi-Oh! GX - Duel Academy (USA).zip
+- Zapper - One Wicked Cricket! (USA).zip
+- Zatchbell! - Electric Arena (USA).zip
+- Zidane Football Generation (Europe) (En,Fr,De,Es,It).zip
+- Zoey 101 (USA).zip
+- Zoids Legacy (USA).zip
+- Zone of the Enders - The Fist of Mars (USA).zip
+- ZooCube (USA).zip
+- Zooo (Europe) (En,Fr,De,Es,It).zip
+
+---
+
+## Game Boy Color (548 jogos)
+
+- 007 - The World Is Not Enough (USA, Europe).zip
+- 102 Dalmatians - Puppies to the Rescue (USA, Europe).zip
+- 10-Pin Bowling (USA) (Rumble Version).zip
+- 1942 (USA, Europe).zip
+- 3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl).zip
+- 3-D Ultra Pinball - Thrillride (USA) (Rumble Version).zip
+- 4x4 World Trophy (Europe) (En,Fr,De,Es,It).zip
+- 720 Degrees (USA, Europe).zip
+- Action Man - Search for Base X (USA, Europe).zip
+- Adventures of Elmo in Grouchland, The (USA).zip
+- Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl).zip
+- AirForce Delta (USA).zip
+- Aladdin (USA).zip
+- Alfred's Adventure (Europe) (En,Fr,De,Es,It).zip
+- Alice in Wonderland (USA).zip
+- Aliens - Thanatos Encounter (USA, Europe).zip
+- All Star Tennis 2000 (Europe).zip
+- All-Star Baseball 2001 (USA).zip
+- Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).zip
+- Animorphs (USA).zip
+- Antz (USA) (En,Fr,Es).zip
+- Antz Racing (USA) (En,Fr,De,Es,It,Nl).zip
+- Antz World Sportz (Europe) (En,Fr,De,Es,It,Nl).zip
+- Arcade Hits - Joust & Defender (USA, Europe).zip
+- Arcade Hits - Moon Patrol & Spy Hunter (USA, Europe).zip
+- Armada - FX Racers (USA).zip
+- Armorines - Project S.W.A.R.M. (USA, Europe) (En,De).zip
+- Army Men - Air Combat (USA, Europe) (En,Fr,De).zip
+- Army Men - Sarge's Heroes 2 (USA, Europe) (En,Fr,De).zip
+- Army Men (USA, Europe) (En,Fr,De).zip
+- Army Men 2 (USA, Europe) (En,Fr,De).zip
+- Arthur's Absolutely Fun Day! (USA).zip
+- Asterix - Search for Dogmatix (Europe) (En,Fr,De,Es,It,Nl).zip
+- Asterix & Obelix (Europe) (En,Fr,De,Es).zip
+- Asterix & Obelix vs Caesar (Europe) (En,Fr,De,Es,Nl).zip
+- Asteroids (USA, Europe).zip
+- Atlantis - The Lost Empire (USA, Europe).zip
+- Austin Powers - Oh, Behave! (USA).zip
+- Austin Powers - Welcome to my Underground Lair! (USA).zip
+- Azure Dreams (USA) (SGB Enhanced).zip
+- Babe and Friends (USA).zip
+- Baby Felix - Halloween (Europe) (En,Fr,De,Es,It,Nl).zip
+- Backgammon (Europe) (En,Fr,De,Es).zip
+- Ballistic (USA).zip
+- Barbie - Fashion Pack Games (USA, Europe).zip
+- Barbie - Magic Genie Adventure (USA).zip
+- Barbie - Ocean Discovery (USA).zip
+- Barbie - Pet Rescue (USA).zip
+- Barbie - Shelly Club (Europe) (En,Fr,De,Es,It).zip
+- Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca).zip
+- Bass Masters Classic (USA, Europe).zip
+- Batman Beyond - Return of the Joker (USA).zip
+- Battleship (USA, Europe).zip
+- BattleTanx (USA).zip
+- Beach'n Ball (Europe) (En,Fr,De,Es,It).zip
+- Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl).zip
+- Beauty and the Beast - A Board Game Adventure (USA) (SGB Enhanced).zip
+- Billy Bob's Huntin' 'n' Fishin' (USA, Europe).zip
+- Bionic Commando - Elite Forces (USA, Australia).zip
+- Black Bass - Lure Fishing (USA, Europe).zip
+- Blade (USA, Europe).zip
+- Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced).zip
+- Blue's Clues - Blue's Alphabet Book (USA).zip
+- Boarder Zone (USA).zip
+- Bob the Builder - Fix it Fun! (USA).zip
+- Bomberman Max - Blue Champion (USA).zip
+- Bomberman Max - Red Challenger (USA).zip
+- Bomberman Quest (USA) (SGB Enhanced).zip
+- Buffy the Vampire Slayer (USA, Europe).zip
+- Bugs Bunny - Crazy Castle 3 (USA, Europe).zip
+- Bugs Bunny in Crazy Castle 4 (USA).zip
+- Bug's Life, A (USA) (SGB Enhanced).zip
+- Bust-A-Move 4 (USA, Europe).zip
+- Bust-A-Move Millennium (USA, Europe).zip
+- Buzz Lightyear of Star Command (USA, Europe).zip
+- Caesars Palace II (USA, Europe).zip
+- Cannon Fodder (USA) (En,Fr,De,Es,It).zip
+- Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl).zip
+- Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It).zip
+- Casper (USA).zip
+- Caterpillar Construction Zone (USA, Europe).zip
+- Catwoman (USA).zip
+- Catz - Your Virtual Petz Palz (USA).zip
+- Centipede (USA).zip
+- Championship Motocross 2001 featuring Ricky Carmichael (USA, Europe).zip
+- Chase H.Q. - Secret Police (USA) (SGB Enhanced).zip
+- Chessmaster (USA, Europe).zip
+- Chicken Run (USA, Europe) (En,Fr,De,Es,It).zip
+- Classic Bubble Bobble (USA) (SGB Enhanced).zip
+- Colin McRae Rally (Europe).zip
+- Commander Keen (USA, Europe).zip
+- Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced).zip
+- Cool Bricks (Europe) (En,Fr,De,Es,It).zip
+- Croc (USA, Europe).zip
+- Croc 2 (USA, Europe).zip
+- Cruis'n Exotica (USA).zip
+- Crystalis (USA).zip
+- Cubix - Robots for Everyone - Race 'n Robots (USA) (En,Fr,De,Es,It).zip
+- CyberTiger (USA, Europe).zip
+- Daffy Duck - Fowl Play (USA, Europe).zip
+- Dave Mirra Freestyle BMX (USA, Europe).zip
+- David Beckham Soccer (Europe) (En,Fr,De,Es,It).zip
+- Deadly Skies (Europe) (En,Fr,De).zip
+- Deer Hunter (USA).zip
+- Deja Vu I & II - The Casebooks of Ace Harding (USA).zip
+- Denki Blocks! (Europe) (En,Fr,De,Es,It).zip
+- Dexter's Laboratory - Robot Rampage (USA, Europe).zip
+- Dinosaur (USA).zip
+- Diva Starz - Mall Mania (USA).zip
+- Dogz - Your Virtual Petz Palz (USA).zip
+- Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).zip
+- Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It).zip
+- Doug's Big Game (USA).zip
+- Dracula - Crazy Vampire (USA).zip
+- Dragon Ball Z - Legendary Super Warriors (USA).zip
+- Dragon Dance (USA) (SGB Enhanced).zip
+- Dragon Tales - Dragon Adventures (USA).zip
+- Dragon Tales - Dragon Wings (USA).zip
+- Dragon Warrior I & II (USA) (SGB Enhanced).zip
+- Dragon Warrior III (USA).zip
+- Dragon Warrior Monsters (USA, Europe) (SGB Enhanced).zip
+- Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced).zip
+- Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced).zip
+- Dragon's Lair (USA, Europe) (En,Ja,Fr,De,Es,Zh).zip
+- Driver - You are the Wheelman (USA) (En,Fr,De,Es,It).zip
+- Dropzone (Europe).zip
+- Duke Nukem (USA) (En,Fr,De,Es,It).zip
+- Dukes of Hazzard, The - Racing for Home (USA).zip
+- E.T. - The Extra-Terrestrial - Digital Companion (USA).zip
+- E.T. - The Extra-Terrestrial - Escape from Planet Earth (USA).zip
+- E.T. - The Extra-Terrestrial and the Cosmic Garden (USA).zip
+- Earthworm Jim - Menace 2 the Galaxy (USA, Europe).zip
+- ECW Hardcore Revolution (USA, Europe).zip
+- Elevator Action EX (Europe) (En,Fr,De,Es,It).zip
+- Elmo's 123s (USA).zip
+- Elmo's ABCs (USA).zip
+- Emperor's New Groove, The (USA).zip
+- ESPN International Track & Field (USA).zip
+- ESPN National Hockey Night (USA).zip
+- European Super League (Europe) (En,Fr,De,Es,It).zip
+- Evel Knievel (USA).zip
+- Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt).zip
+- Extreme Sports with the Berenstain Bears (USA, Europe) (En,Fr,De,Es,It).zip
+- F.A. Premier League Stars 2001, The (Europe).zip
+- F1 Championship Season 2000 (Europe) (En,Fr,De,Es,It).zip
+- F1 Racing Championship (Europe) (En,Fr,De,Es,It).zip
+- F-1 World Grand Prix (Europe) (En,Fr,De,Es).zip
+- F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es).zip
+- F-18 Thunder Strike (USA, Europe).zip
+- FIFA 2000 (USA, Europe) (SGB Enhanced).zip
+- Fish Files, The (Europe) (En,Fr,De,Es,It).zip
+- Fix & Foxi - Episode 1 Lupo (Europe) (En,Fr,De).zip
+- Flintstones, The - Burgertime in Bedrock (USA).zip
+- Flipper & Lopaka (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).zip
+- Force 21 (USA) (En,Fr,De).zip
+- Formula One 2000 (USA).zip
+- Fort Boyard (Europe) (En,Fr,De,Es,It,Nl,Pt).zip
+- Freestyle Scooter (Europe).zip
+- Frogger (USA).zip
+- Frogger 2 (USA).zip
+- Galaga - Destination Earth (USA).zip
+- Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced).zip
+- Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced).zip
+- Games Frenzy (Europe) (En,Fr,De).zip
+- Gex - Enter the Gecko (USA, Europe).zip
+- Gex 3 - Deep Pocket Gecko (USA).zip
+- Ghosts'n Goblins (USA, Europe).zip
+- Gift (Europe).zip
+- Gobs of Games (USA) (En,Fr,De).zip
+- Godzilla - The Series - Monster Wars (USA) (En,Fr,De).zip
+- Godzilla - The Series (USA) (En,Fr,De).zip
+- Gold and Glory - The Road to El Dorado (USA).zip
+- Golden Goal (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+- Grand Theft Auto (USA).zip
+- Grand Theft Auto 2 (USA).zip
+- Gremlins Unleashed (Europe) (En,Fr,De,Es,It,Pt).zip
+- Grinch, The (USA).zip
+- Halloween Racer (Europe) (En,Fr,De,Es,It,Pt).zip
+- Hamtaro - Ham-Hams Unite! (USA).zip
+- Hands of Time (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Harley-Davidson Motor Cycles - Race Across America (USA).zip
+- Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da).zip
+- Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).zip
+- Harvest Moon 2 GBC (USA) (SGB Enhanced).zip
+- Harvest Moon 3 GBC (USA).zip
+- Harvest Moon GB (USA) (SGB Enhanced).zip
+- Hello Kitty's Cube Frenzy (USA).zip
+- Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).zip
+- Heroes of Might and Magic (USA) (En,Fr,De).zip
+- Heroes of Might and Magic II (USA) (En,Fr,De).zip
+- Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced).zip
+- Hole In One Golf (USA) (Rumble Version) (SGB Enhanced).zip
+- Hollywood Pinball (Europe) (En,Fr,De,It).zip
+- Holy Magic Century (Europe) (En,Fr,De) (SGB Enhanced).zip
+- Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced).zip
+- Hoyle Card Games (USA).zip
+- Hoyle Casino (USA).zip
+- Hugo - Black Diamond Fever (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).zip
+- Hugo - The Evil Mirror (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).zip
+- Hype - The Time Quest (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip
+- Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De).zip
+- Inspector Gadget - Operation Madkactus (USA).zip
+- International Karate 2000 (Europe).zip
+- International Rally (USA) (SGB Enhanced).zip
+- International Superstar Soccer 2000 (USA).zip
+- International Superstar Soccer 99 (USA) (SGB Enhanced).zip
+- International Track & Field (USA) (SGB Enhanced).zip
+- Jeff Gordon XS Racing (USA).zip
+- Jeremy McGrath Supercross 2000 (USA, Europe).zip
+- Jimmy White's Cueball (Europe).zip
+- JumpStart Dino Adventure - Field Trip (USA).zip
+- Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It).zip
+- Keep the Balance (Europe) (En,Fr,De,Es,It).zip
+- Kelly Club - Clubhouse Fun (USA).zip
+- Ken Griffey Jr.'s Slugfest (USA).zip
+- Kirby - Tilt 'n' Tumble (USA).zip
+- Kirikou (Europe) (En,Fr,De,Es,It,Pt).zip
+- Klax (USA, Europe).zip
+- Klustar (USA).zip
+- Knockout Kings (USA, Europe).zip
+- Konami GB Collection Vol.1 (Europe).zip
+- Konami GB Collection Vol.2 (Europe).zip
+- Konami GB Collection Vol.3 (Europe).zip
+- Konami GB Collection Vol.4 (Europe).zip
+- Land Before Time, The (USA).zip
+- Las Vegas Cool Hand (USA).zip
+- Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip
+- Laura (USA).zip
+- Le Mans 24 Hours (Europe) (En,Fr,De,Es,It).zip
+- Legend of the River King 2 (USA) (SGB Enhanced).zip
+- Legend of the River King GB (USA) (SGB Enhanced).zip
+- Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev A) (SGB Enhanced).zip
+- Legend of Zelda, The - Oracle of Ages (USA).zip
+- Legend of Zelda, The - Oracle of Seasons (USA).zip
+- LEGO Alpha Team (USA).zip
+- LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr,Es).zip
+- LEGO Racers (USA) (En,Fr,Es).zip
+- LEGO Stunt Rally (USA).zip
+- Lemmings (USA).zip
+- Lil' Monster (USA) (SGB Enhanced).zip
+- Lion King, The - Simba's Mighty Adventure (USA, Europe).zip
+- Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version).zip
+- Little Nicky (USA).zip
+- Logical (USA).zip
+- Looney Tunes - Carrot Crazy (USA) (En,Fr,Es).zip
+- Looney Tunes - Twouble! (USA) (En,Fr,Es).zip
+- Looney Tunes (USA).zip
+- Looney Tunes Collector - Alert! (USA) (En,Fr,Es).zip
+- Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl).zip
+- Lucky Luke - Desperado Train (Europe) (En,Fr,De,Es,It,Nl).zip
+- Lucky Luke (USA) (En,Fr,De,Es).zip
+- Lufia - The Legend Returns (USA).zip
+- M&M's Minis Madness (USA).zip
+- Madden NFL 2000 (USA, Europe) (SGB Enhanced).zip
+- Madden NFL 2001 (USA).zip
+- Madden NFL 2002 (USA).zip
+- Magi Nation (USA).zip
+- Magical Drop (USA).zip
+- Magical Tetris Challenge (USA).zip
+- Marble Madness (USA, Europe).zip
+- Mario Golf (USA).zip
+- Mario Tennis (USA).zip
+- Marvin Strikes Back! (USA) (En,Fr,Es).zip
+- Mary-Kate & Ashley - Get a Clue! (USA, Europe).zip
+- Mary-Kate and Ashley - Crush Course (USA, Europe).zip
+- Mary-Kate and Ashley - Pocket Planner (USA, Europe).zip
+- Mary-Kate and Ashley - Winners Circle (USA, Europe).zip
+- Mask of Zorro, The (USA).zip
+- Mat Hoffman's Pro BMX (USA, Europe).zip
+- Matchbox Emergency Patrol (USA, Europe).zip
+- Maus, Die (Europe) (En,Fr,De,Es).zip
+- Maya the Bee - Garden Adventures (Europe) (En,Fr,De,Es).zip
+- Maya the Bee & Her Friends (Europe) (En,Fr,De,Es).zip
+- Mega Man Xtreme (USA, Europe).zip
+- Mega Man Xtreme 2 (USA, Europe).zip
+- Men in Black - The Series (USA, Europe) (SGB Enhanced).zip
+- Men in Black 2 - The Series (USA) (En,Fr,De).zip
+- Merlin (Europe) (En,Fr,De,Es,It,Nl).zip
+- Metal Gear Solid (USA).zip
+- Metal Walker (USA).zip
+- Mia Hamm Soccer Shootout (USA).zip
+- Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It).zip
+- Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es).zip
+- Micro Machines 1 and 2 - Twin Turbo (USA, Europe).zip
+- Micro Machines V3 (USA, Europe).zip
+- Micro Maniacs (Europe).zip
+- Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA).zip
+- Microsoft - The Best of Entertainment Pack (USA).zip
+- Microsoft Pinball Arcade (USA).zip
+- Millennium Winter Sports (USA).zip
+- Missile Command (USA) (Rumble Version).zip
+- Mission Impossible (USA) (En,Fr,Es).zip
+- Monkey Puncher (Europe) (SGB Enhanced).zip
+- Monopoly (USA).zip
+- Monster Rancher Battle Card GB (USA) (SGB Enhanced).zip
+- Monster Rancher Explorer (USA).zip
+- Monsters, Inc. (USA, Europe).zip
+- Montezuma's Return! (USA) (En,Es).zip
+- Moomin's Tale (Europe) (En,Fr,De).zip
+- Moorhen 3 - The Chicken Chase! (Europe) (En,Fr,De,Es,It).zip
+- Mortal Kombat 4 (USA, Europe) (SGB Enhanced).zip
+- Motocross Maniacs 2 (USA).zip
+- Mr Nutz (USA) (En,Fr,Es).zip
+- Mr. Driller (USA).zip
+- Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced).zip
+- MTV Sports - Pure Ride (USA, Europe).zip
+- MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe).zip
+- MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe).zip
+- Mummy Returns, The (USA).zip
+- Mummy, The (USA).zip
+- Muppets, The (USA).zip
+- N.Y. Race (Europe) (En,Fr,De,Es,It,Pt).zip
+- NASCAR 2000 (USA, Europe).zip
+- NASCAR Challenge (USA) (Rumble Version).zip
+- NASCAR Heat (USA).zip
+- NASCAR Racers (USA).zip
+- Nations, The - Land of Legends (Europe) (En,De).zip
+- NBA 3 on 3 featuring Kobe Bryant (USA) (SGB Enhanced).zip
+- NBA Hoopz (USA).zip
+- NBA In the Zone (USA) (Rev A) (SGB Enhanced).zip
+- NBA In the Zone 2000 (USA).zip
+- NBA Jam 2001 (USA, Europe).zip
+- NBA Jam '99 (USA, Europe).zip
+- NBA Show Time - NBA on NBC (USA).zip
+- New Addams Family Series, The (Europe) (En,Fr,De,Es,It,Pt).zip
+- New Adventures of Mary-Kate & Ashley, The (USA, Europe).zip
+- New Batman Adventures, The - Chaos in Gotham (USA).zip
+- NFL Blitz (USA, Europe) (Rev A).zip
+- NFL Blitz 2000 (USA).zip
+- NFL Blitz 2001 (USA).zip
+- NHL 2000 (USA, Europe) (SGB Enhanced).zip
+- NHL Blades of Steel (USA).zip
+- NHL Blades of Steel 2000 (USA).zip
+- Nicktoons Racing (USA).zip
+- No Fear - Downhill Mountain Biking (Europe).zip
+- Noddy and the Birthday Party (Europe) (En,Fr,De,Es).zip
+- NSYNC - Get to the Show (USA).zip
+- Oddworld Adventures II (USA) (En,Fr,De,Es,It).zip
+- O'Leary Manager 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca).zip
+- Pac-Man - Special Color Edition (USA) (SGB Enhanced).zip
+- Paperboy (USA, Europe).zip
+- Papyrus (Europe) (En,Fr,De,Es,It,Nl).zip
+- Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).zip
+- Pitfall - Beyond the Jungle (USA, Europe).zip
+- Planet of the Apes (USA) (En,Fr,De,Es,It,Nl).zip
+- Player Manager 2001 (Europe) (En,Fr).zip
+- Pocket Bomberman (USA, Europe) (SGB Enhanced).zip
+- Pocket Bowling (USA).zip
+- Pocket Music (Europe) (En,Fr,De,Es,It).zip
+- Pocket Racing (Europe).zip
+- Pocket Soccer (Europe) (En,Fr,De,Es,It,Pt).zip
+- Pokemon - Crystal Version (USA, Europe) (Rev A).zip
+- Pokemon - Gold Version (USA, Europe) (SGB Enhanced).zip
+- Pokemon - Silver Version (USA, Europe) (SGB Enhanced).zip
+- Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced).zip
+- Pokemon Puzzle Challenge (USA).zip
+- Pokemon Trading Card Game (USA) (SGB Enhanced).zip
+- Polaris SnoCross (USA) (Rumble Version).zip
+- Pong - The Next Level (USA, Europe).zip
+- Pooh and Tigger's Hunny Safari (USA).zip
+- Pop'n Pop (Europe).zip
+- Portal Runner (USA).zip
+- Power Quest (USA) (En,Fr,De,Es,It) (SGB Enhanced).zip
+- Power Rangers - Lightspeed Rescue (USA, Europe).zip
+- Power Rangers - Time Force (USA, Europe).zip
+- Power Spike - Pro Beach Volleyball (USA).zip
+- Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev B).zip
+- Powerpuff Girls, The - Battle Him (USA) (Rev A).zip
+- Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev B).zip
+- Prince Naseem Boxing (Europe) (En,Fr,De).zip
+- Prince of Persia (USA, Europe) (En,Fr,De,Es,It).zip
+- Pro Darts (USA).zip
+- Pro Pool (USA) (En,Fr,De).zip
+- Project S-11 (USA).zip
+- Puchi Carat (Europe) (SGB Enhanced).zip
+- Puzzle Master (USA).zip
+- Puzzled (USA).zip
+- Q-bert (USA).zip
+- QIX Adventure (Europe).zip
+- Quest - Fantasy Challenge (USA) (SGB Enhanced).zip
+- Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced).zip
+- Quest RPG - Brian's Journey (USA).zip
+- Rainbow Islands (Europe) (En,Fr,De,Es,It).zip
+- Rampage - World Tour (USA, Europe).zip
+- Rampage 2 - Universal Tour (USA, Europe).zip
+- Rampart (USA).zip
+- Rats! (USA) (En,Es).zip
+- Rayman (USA) (En,Fr,De,Es,It,Nl).zip
+- Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).zip
+- Razor Freestyle Scooter (USA).zip
+- Ready 2 Rumble Boxing (USA) (Rumble Version).zip
+- Rescue Heroes - Fire Frenzy (USA).zip
+- Resident Evil Gaiden (USA).zip
+- Return of the Ninja (USA).zip
+- Revelations - The Demon Slayer (USA) (SGB Enhanced).zip
+- Rhino Rumble (USA, Europe).zip
+- Rip-Tide Racer (Europe) (En,Fr,De,Es,It).zip
+- Road Champs - BXS Stunt Biking (USA, Europe).zip
+- Road Rash (USA, Europe).zip
+- Roadsters Trophy (USA) (En,Fr,De,Es,It,Nl).zip
+- Robin Hood (Europe) (En,Fr,De,Es,It,Nl).zip
+- RoboCop (Europe) (En,Fr,De,Es,It,Nl).zip
+- Robopon - Sun Version (USA) (SGB Enhanced).zip
+- Robot Wars - Metal Mayhem (Europe) (En,Fr,De,It,Nl,Sv).zip
+- Rocket Power - Gettin' Air (USA, Europe).zip
+- Rocky Mountain Trophy Hunter (USA).zip
+- Roland Garros French Open (Europe) (En,Fr,De,Es,It,Nl).zip
+- Ronaldo V-Soccer (USA) (En,Fr,Es,Pt).zip
+- Roswell Conspiracies - Aliens, Myths & Legends (USA) (En,Fr,De).zip
+- Rox (USA, Europe).zip
+- R-Type DX (USA, Europe).zip
+- Rugrats - Time Travelers (USA, Europe).zip
+- Rugrats - Totally Angelica (USA, Europe).zip
+- Rugrats in Paris - The Movie (USA, Europe).zip
+- Rugrats Movie, The (USA) (SGB Enhanced).zip
+- Sabrina - The Animated Series - Spooked! (USA, Europe).zip
+- Sabrina - The Animated Series - Zapped! (USA, Europe).zip
+- San Francisco Rush 2049 (USA, Europe).zip
+- Santa Claus Junior (Europe).zip
+- Scooby-Doo! - Classic Creep Capers (USA, Europe).zip
+- Scrabble (Europe).zip
+- Sesame Street Sports (USA).zip
+- Sgt. Rock - On the Frontline (USA).zip
+- Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (Rev A).zip
+- Shamus (USA, Europe).zip
+- Shanghai Pocket (USA, Europe) (Rev A) (SGB Enhanced).zip
+- Shantae (USA).zip
+- Shaun Palmer's Pro Snowboarder (USA, Australia).zip
+- Shrek - Fairy Tale Freakdown (USA, Europe) (En,Fr,De,Es,It).zip
+- Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe).zip
+- Smurfs Nightmare, The (USA).zip
+- Snoopy Tennis (USA) (En,Fr,Es).zip
+- Snow White and the Seven Dwarfs (USA).zip
+- Soccer Manager (Europe) (En,Fr,De,Es).zip
+- Space Invaders (USA, Europe).zip
+- Space Marauder (USA).zip
+- Spacestation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+- Spawn (USA).zip
+- Speedy Gonzales - Aztec Adventure (USA, Europe).zip
+- Spider-Man (USA, Europe).zip
+- Spider-Man 2 - The Sinister Six (USA, Europe).zip
+- Spirou Robbedoes - The Robot Invasion (Europe) (En,Fr,De,Es,It,Nl,Da).zip
+- SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe).zip
+- Spy vs. Spy (USA).zip
+- Star Wars Episode I - Obi-Wan's Adventures (USA).zip
+- Star Wars Episode I - Racer (USA, Europe) (Rumble Version).zip
+- Street Fighter Alpha - Warriors' Dreams (USA).zip
+- Stuart Little - The Journey Home (USA, Europe).zip
+- Super Breakout! (USA).zip
+- Super Mario Bros. Deluxe (USA, Europe) (Rev B).zip
+- Supercross Freestyle (Europe) (En,Fr,De,Es,It).zip
+- Survival Kids (USA) (SGB Enhanced).zip
+- Suzuki Alstare Extreme Racing (Europe) (En,Fr,De,Es,It,Nl).zip
+- SWIV (Europe) (En,Fr,De,Es,It).zip
+- Tarzan (USA, Europe).zip
+- Tazmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It).zip
+- Tech Deck Skateboarding (USA, Europe).zip
+- Test Drive 2001 (USA).zip
+- Test Drive 6 (USA).zip
+- Test Drive Cycles (USA).zip
+- Test Drive Le Mans (USA) (En,Fr,Es).zip
+- Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced).zip
+- Tetris DX (World) (SGB Enhanced).zip
+- Three Lions (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+- Thunderbirds (Europe).zip
+- Tiger Woods PGA Tour 2000 (USA, Europe).zip
+- Tintin - Prisoners of the Sun (Europe) (En,Fr,De).zip
+- Tintin in Tibet (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+- Tiny Toon Adventures - Buster Saves the Day (USA).zip
+- Tiny Toon Adventures - Dizzy's Candy Quest (Europe) (En,Fr,De,Es,It,Nl).zip
+- Titus the Fox to Marrakech and Back (USA).zip
+- TNN Outdoors Fishing Champ (USA) (SGB Enhanced).zip
+- Tobu Tobu Girl Deluxe.zip
+- TOCA Touring Car Championship (USA, Europe).zip
+- Toki Tori (USA, Europe) (En,Ja,Fr,De,Es).zip
+- Tom & Jerry (USA, Europe).zip
+- Tom and Jerry - Mousehunt (USA) (En,Fr,Es).zip
+- Tom and Jerry in Mouse Attacks! (USA).zip
+- Tom Clancy's Rainbow Six (USA, Europe) (En,Fr,De).zip
+- Tomb Raider - Curse of the Sword (USA, Europe).zip
+- Tomb Raider (USA, Europe) (En,Fr,De,Es,It).zip
+- Tonic Trouble (Europe) (En,Fr,De,Es,It,Nl).zip
+- Tonka Construction Site (USA).zip
+- Tonka Raceway (USA) (Rumble Version).zip
+- Tony Hawk's Pro Skater (USA, Europe).zip
+- Tony Hawk's Pro Skater 2 (USA, Europe).zip
+- Tony Hawk's Pro Skater 3 (USA, Europe).zip
+- Toobin' (USA).zip
+- Toonsylvania (USA).zip
+- Tootuff (Europe) (En,Fr,De,Es,It,Nl).zip
+- Top Gear Pocket (USA) (Rumble Version).zip
+- Top Gear Pocket 2 (USA).zip
+- Top Gun - Fire Storm (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- Total Soccer 2000 (Europe) (En,Fr,De,Es,It,Nl).zip
+- Towers - Lord Baniff's Deceit (USA, Europe).zip
+- Toy Story 2 (USA, Europe) (SGB Enhanced).zip
+- Toy Story Racer (USA, Europe).zip
+- Trick Boarder (USA).zip
+- Triple Play 2001 (USA, Europe).zip
+- Trouballs (USA).zip
+- Turok - Rage Wars (USA, Europe) (En,Fr,De,Es).zip
+- Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es).zip
+- Turok 3 - Shadow of Oblivion (USA, Europe) (En,Fr,De,Es).zip
+- Tweenies - Doodles' Bones (Europe) (En,De,Es,It).zip
+- Tweety's High-Flying Adventure (USA).zip
+- Tyco RC - Racin' Ratz (USA).zip
+- UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl).zip
+- Ultimate Fighting Championship (USA).zip
+- Ultimate Paint Ball (USA, Europe).zip
+- Ultimate Surfing (USA).zip
+- Uno (USA).zip
+- Vegas Games (USA).zip
+- Vigilante 8 (USA) (Rumble Version).zip
+- VIP (USA, Europe) (En,Fr,De,Es,It).zip
+- V-Rally - Championship Edition (USA) (En,Fr,Es).zip
+- Wacky Races (USA) (En,Fr,Es).zip
+- Walt Disney World Quest - Magical Racing Tour (USA, Europe).zip
+- Wario Land 3 (World) (En,Ja).zip
+- Wario Land II (USA, Europe) (SGB Enhanced).zip
+- Warlocked (USA).zip
+- Warriors of Might and Magic (USA) (En,Fr,De).zip
+- WCW Mayhem (USA, Europe).zip
+- Wendy - Every Witch Way (USA, Europe).zip
+- Wetrix GB (Europe) (En,Fr,De).zip
+- Who Wants to Be a Millionaire - 2nd Edition (USA).zip
+- Wild Thornberrys, The - Rambler (USA).zip
+- Wings of Fury (USA).zip
+- Winnie the Pooh - Adventures in the 100 Acre Wood (USA).zip
+- Woody Woodpecker (USA).zip
+- Woody Woodpecker Racing (USA).zip
+- World Destruction League - Thunder Tanks (USA) (En,Fr,De).zip
+- Worms Armageddon (USA) (En,Fr,Es).zip
+- WWF Attitude (USA, Europe).zip
+- WWF Betrayal (USA, Europe).zip
+- WWF WrestleMania 2000 (USA, Europe).zip
+- Xena - Warrior Princess (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+- X-Men - Mutant Academy (USA, Europe) (Rev A).zip
+- X-Men - Mutant Wars (USA, Europe).zip
+- X-Men - Wolverine's Rage (USA).zip
+- Xtreme Sports (USA).zip
+- Xtreme Wheels (USA).zip
+- Yars' Revenge (USA, Europe).zip
+- Yoda Stories (USA, Europe).zip
+- Yogi Bear - Great Balloon Blast (USA).zip
+- Yu-Gi-Oh! - Dark Duel Stories (USA).zip
+- Zebco Fishing! (USA) (Rumble Version).zip
+- Zidane Football Generation (Europe) (En,Fr,De,Es,It).zip
+- Zoboomafoo - Playtime in Zobooland (USA).zip
+
+---
+
+## MAME (1879 jogos)
+
+- 005.zip
+- 1945kiii.zip
+- 20pacgal.zip
+- 280zzzap.zip
+- 3stooges.zip
+- 40love.zip
+- 4dwarrio.zip
+- 4enraya.zip
+- 4in1.zip
+- 4in1boot.zip
+- 64street.zip
+- 720.zip
+- 7jigen.zip
+- 88games.zip
+- 8ball.zip
+- 8ballact.zip
+- 99lstwar.zip
+- 99lstwra.zip
+- 9ballsht.zip
+- aafbc.zip
+- abaseb.zip
+- aburner.zip
+- aburner2.zip
+- acitya.zip
+- acrobatm.zip
+- actfancr.zip
+- actionhw.zip
+- aerofgt.zip
+- agallet.zip
+- ainferno.zip
+- airbustr.zip
+- airduel.zip
+- airwolf.zip
+- ajaxj.zip
+- akiss.zip
+- alexkidd.zip
+- alien3.zip
+- aliens.zip
+- aligatun.zip
+- alleymas.zip
+- alphaho.zip
+- alpinea.zip
+- amatelas.zip
+- ambusht.zip
+- amidar.zip
+- amspdwy.zip
+- angelkds.zip
+- anteater.zip
+- apb.zip
+- aponow.zip
+- apparel.zip
+- appoooh.zip
+- aquajack.zip
+- aquarium.zip
+- arabiana.zip
+- arabianm.zip
+- arbalest.zip
+- arcadecl.zip
+- arcadia.zip
+- archrivl.zip
+- arescue.zip
+- argus.zip
+- arkanoid.zip
+- arkarea.zip
+- arkatour.zip
+- arknoid2.zip
+- arkretrn.zip
+- arlingtn.zip
+- armorar.zip
+- armorcar.zip
+- armwrest.zip
+- ashura.zip
+- assaultj.zip
+- astdelux.zip
+- asterix.zip
+- asteroid.zip
+- astinvad.zip
+- astrob.zip
+- astrof.zip
+- astyanax.zip
+- asuka.zip
+- asurabld.zip
+- asurabus.zip
+- asylum.zip
+- atarifb1.zip
+- atehate.zip
+- atetris.zip
+- athena.zip
+- atlants2.zip
+- atomboy.zip
+- atomicp.zip
+- atompunk.zip
+- avalnche.zip
+- avengrgs.zip
+- avspirit.zip
+- aztarac.zip
+- azurian.zip
+- backfire.zip
+- backfirt.zip
+- baddudes.zip
+- badlands.zip
+- bagman.zip
+- bakatono.zip
+- bakutotu.zip
+- balcube.zip
+- ballbomb.zip
+- ballbros.zip
+- balonfgt.zip
+- baluba.zip
+- banbam.zip
+- bang.zip
+- bangball.zip
+- bankp.zip
+- barrier.zip
+- basebal2.zip
+- batlbubl.zip
+- batman.zip
+- batsugun.zip
+- battlane.zip
+- battlcry.zip
+- battlera.zip
+- battlex.zip
+- battlnts.zip
+- battroad.zip
+- bayrouteb2.zip
+- bbakraid.zip
+- bballs.zip
+- bbbxing.zip
+- bbmanw.zip
+- bbusters.zip
+- bchopper.zip
+- bcstry.zip
+- beaminv.zip
+- beathead.zip
+- benberob.zip
+- berabohm.zip
+- berenstn.zip
+- berlwall.zip
+- bermudat.zip
+- berzerk.zip
+- bestbest.zip
+- bgaregga.zip
+- bigbang.zip
+- bigevglf.zip
+- bigfight.zip
+- bigkarnk.zip
+- bigprowr.zip
+- bigrun.zip
+- bigstrik.zip
+- bioatack.zip
+- biomtoy.zip
+- bioship.zip
+- birdtry.zip
+- bishi.zip
+- bjtwin.zip
+- bking.zip
+- bking2.zip
+- bking3.zip
+- blackt96.zip
+- bladestl.zip
+- blandia.zip
+- blasted.zip
+- blaster.zip
+- blasto.zip
+- blastoff.zip
+- blazeon.zip
+- blazer.zip
+- blazlaz.zip
+- blckgalb.zip
+- blkbustr.zip
+- blkhearj.zip
+- blkhole.zip
+- blkpnthr.zip
+- blmbycau.zip
+- blockade.zip
+- blockcar.zip
+- blocken.zip
+- blockhl.zip
+- blockout.zip
+- bloodbro.zip
+- bloodstm.zip
+- bloodwar.zip
+- bloxeedc.zip
+- blstroid.zip
+- blswhstl.zip
+- bluehawk.zip
+- blueprnt.zip
+- blzntrnd.zip
+- bmaster.zip
+- bmcbowl.zip
+- bnglngby.zip
+- bnzabros.zip
+- bodyslam.zip
+- bogeyman.zip
+- boggy84.zip
+- bombbee.zip
+- bombjack.zip
+- bombsa.zip
+- bonkadv.zip
+- bonzeadv.zip
+- boogwing.zip
+- boomrang.zip
+- boothill.zip
+- borench.zip
+- borntofi.zip
+- bosco.zip
+- botanic.zip
+- bottom9.zip
+- bouldash.zip
+- boxyboy.zip
+- brain.zip
+- brapboys.zip
+- brdrline.zip
+- brival.zip
+- brkthru.zip
+- brubber.zip
+- brutforc.zip
+- bshark.zip
+- bsktball.zip
+- bssoccer.zip
+- btime.zip
+- btlecity.zip
+- btlkroad.zip
+- btoads.zip
+- bubblem.zip
+- bubblesr.zip
+- bubl2000.zip
+- bublbob2.zip
+- bublbobl.zip
+- buccanrs.zip
+- buckrog.zip
+- bucky.zip
+- buggyboy.zip
+- buggychl.zip
+- bullfgt.zip
+- bullfgtr.zip
+- bullsdrt.zip
+- burglarx.zip
+- burnforc.zip
+- butasan.zip
+- bwidow.zip
+- bygone.zip
+- cabal.zip
+- cadash.zip
+- cairblad.zip
+- calibr50.zip
+- calipso.zip
+- calorie.zip
+- cameltry.zip
+- cannball.zip
+- canyon.zip
+- capbowl.zip
+- captaven.zip
+- carjmbre.zip
+- carrera.zip
+- cashquiz.zip
+- catnmous.zip
+- cavelon.zip
+- cavenger.zip
+- cbuster.zip
+- ccastles.zip
+- cclimber.zip
+- cclimbr2.zip
+- cclownz.zip
+- cerberus.zip
+- chainrec.zip
+- chaknpop.zip
+- challeng.zip
+- cham24.zip
+- chameleo.zip
+- champbas.zip
+- champwr.zip
+- changes.zip
+- charlien.zip
+- chasehq.zip
+- chboxing.zip
+- checkman.zip
+- checkmat.zip
+- cheekyms.zip
+- cheesech.zip
+- chelnov.zip
+- cheyenne.zip
+- chiller.zip
+- chimerab.zip
+- chinagat.zip
+- chinatwn.zip
+- chinhero.zip
+- chkun.zip
+- choplift.zip
+- chopper.zip
+- chqflag.zip
+- chukatai.zip
+- chwrestl.zip
+- circus.zip
+- circusc.zip
+- cischeat.zip
+- citybomb.zip
+- citycon.zip
+- ckong.zip
+- claypign.zip
+- cleopatr.zip
+- cloak.zip
+- cloud9.zip
+- clshroad.zip
+- cltchitr.zip
+- cluclu.zip
+- cninja.zip
+- cobracom.zip
+- colony7.zip
+- columns.zip
+- columns2.zip
+- combatsc.zip
+- combh.zip
+- commandw.zip
+- commsega.zip
+- congo.zip
+- contcirc.zip
+- contra.zip
+- cookbib2.zip
+- coolmini.zip
+- cop01.zip
+- cosmccop.zip
+- cosmica.zip
+- cosmicg.zip
+- cosmo.zip
+- cosmogng.zip
+- cosmos.zip
+- cotton.zip
+- countryc.zip
+- cracksht.zip
+- crazyfgt.zip
+- crazywar.zip
+- crbaloon.zip
+- crimec.zip
+- crkdown.zip
+- crospang.zip
+- crossbow.zip
+- crshrace.zip
+- crush.zip
+- crusherm.zip
+- crysking.zip
+- crystal2.zip
+- crystalg.zip
+- crzrally.zip
+- cshift.zip
+- csilver.zip
+- csprint.zip
+- cstlevna.zip
+- ctribe.zip
+- cubybop.zip
+- cuebrick.zip
+- curvebal.zip
+- cutefght.zip
+- cybattlr.zip
+- cyberbal.zip
+- cybrcomm.zip
+- cybsled.zip
+- cyclwarr.zip
+- cyvern.zip
+- dacholer.zip
+- daikaiju.zip
+- daioh.zip
+- daiskiss.zip
+- dangar.zip
+- dangerz.zip
+- dangseed.zip
+- dankuga.zip
+- daraku.zip
+- darius.zip
+- darius2.zip
+- dariusg.zip
+- dariusgx.zip
+- darkedge.zip
+- darkmist.zip
+- darkplnt.zip
+- darkseal.zip
+- darktowr.zip
+- darwin.zip
+- dassault4.zip
+- dblaxle.zip
+- dblewing.zip
+- dbreed.zip
+- dbz.zip
+- dbz2.zip
+- dbzvrvs.zip
+- dcclub.zip
+- dcon.zip
+- dday.zip
+- ddcrew.zip
+- ddonpach.zip
+- ddp2.zip
+- ddpdoj.zip
+- ddragon.zip
+- ddragon2.zip
+- ddragon3.zip
+- ddribble.zip
+- ddungeon.zip
+- dduxbl.zip
+- deadang.zip
+- deadconx.zip
+- deadeye.zip
+- deerhunt.zip
+- defense.zip
+- demndrgn.zip
+- demoderb.zip
+- demoneye.zip
+- demonwld.zip
+- denjinmk.zip
+- denseib.zip
+- depthch.zip
+- desertbr.zip
+- desertwr.zip
+- destryer.zip
+- devilfsh.zip
+- devilw.zip
+- devstors.zip
+- devzone.zip
+- dharma.zip
+- diamond.zip
+- dietgo.zip
+- digdug.zip
+- digdug2.zip
+- digger.zip
+- dimahoo.zip
+- dingo.zip
+- dinorex.zip
+- dirtfoxj.zip
+- disco.zip
+- discoboy.zip
+- diverboy.zip
+- djboy.zip
+- dkong.zip
+- dkong3.zip
+- dkongjr.zip
+- dleague.zip
+- docastle.zip
+- dockman.zip
+- dogfgt.zip
+- dogfight.zip
+- dogpatch.zip
+- dogyuun.zip
+- dokidoki.zip
+- domino.zip
+- dominos.zip
+- dommy.zip
+- dondokod.zip
+- donpachi.zip
+- dorachan.zip
+- dorodon.zip
+- dorunrun.zip
+- dotrikun.zip
+- dowild.zip
+- downtown.zip
+- dragnblz.zip
+- dragngun.zip
+- dreamwld.zip
+- dremshpr.zip
+- drgnbowl.zip
+- drgnbstr.zip
+- drgnmst.zip
+- drgnunit.zip
+- drgw2.zip
+- dribling.zip
+- drifto94.zip
+- driftout.zip
+- drivfrcp.zip
+- drmario.zip
+- drmicro.zip
+- drtoppel.zip
+- dsaberj.zip
+- dsoccr94.zip
+- dspirit.zip
+- duckhunt.zip
+- dunkmnia.zip
+- dyger.zip
+- dynablst.zip
+- dynagear.zip
+- dynashot.zip
+- dynduke.zip
+- eaglshot.zip
+- earthjkr.zip
+- ebases.zip
+- edf.zip
+- edrandy.zip
+- eggor.zip
+- eggventr.zip
+- eightfrc.zip
+- elevator.zip
+- elim2.zip
+- elvactr.zip
+- emeralda.zip
+- empcity.zip
+- enduror.zip
+- enforce.zip
+- enigma2.zip
+- eprom.zip
+- equites.zip
+- esckids.zip
+- esckidsj.zip
+- espgal.zip
+- espial.zip
+- esprade.zip
+- eswat.zip
+- eto.zip
+- evilston.zip
+- excelsr.zip
+- excitebk.zip
+- exctscc2.zip
+- exctsccr.zip
+- exerion.zip
+- explbrkr.zip
+- exprraid.zip
+- extdwnhl.zip
+- exterm.zip
+- extrmatn.zip
+- exvania.zip
+- exzisus.zip
+- eyes.zip
+- f1en.zip
+- f1gp.zip
+- f1gp2.zip
+- f1gpstar.zip
+- faceoff.zip
+- fantasyj.zip
+- fantland.zip
+- fantzn2.zip
+- fantzone.zip
+- fastlane.zip
+- feversos.zip
+- fghtatck.zip
+- fghtbskt.zip
+- fghthist.zip
+- fhawk.zip
+- fieldday.zip
+- fightrol.zip
+- finalapr.zip
+- finalb.zip
+- finalizr.zip
+- finallap.zip
+- finalttr.zip
+- finehour.zip
+- firebatl.zip
+- firebeas.zip
+- fireone.zip
+- fireshrk.zip
+- firetrap.zip
+- firetrk.zip
+- fishfren.zip
+- fitegolf.zip
+- fixeight.zip
+- flashgal.zip
+- flicky.zip
+- flower.zip
+- flstory.zip
+- flyboy.zip
+- flytiger.zip
+- fncywld.zip
+- fnkyfish.zip
+- foodf.zip
+- footchmp.zip
+- formatz.zip
+- fourtrax.zip
+- freeze.zip
+- frenzy.zip
+- friskyt.zip
+- frogger.zip
+- frogs.zip
+- frontlin.zip
+- fround.zip
+- fruitbun.zip
+- fshark.zip
+- fspiderb.zip
+- fstarfrc.zip
+- ftsoccer.zip
+- funkybee.zip
+- funkyjet.zip
+- funnymou.zip
+- funybubl.zip
+- funystrp.zip
+- futspy.zip
+- ga2.zip
+- gaia.zip
+- gaiapols.zip
+- galaga88.zip
+- galagao.zip
+- galaxian.zip
+- galaxygn.zip
+- galhustl.zip
+- galivan.zip
+- galmedes.zip
+- galxwars.zip
+- gametngk.zip
+- gangwars.zip
+- gaplus.zip
+- gardia.zip
+- garyoret.zip
+- gaunt2.zip
+- gauntlet.zip
+- gberet.zip
+- gbusters.zip
+- gcpinbal.zip
+- gdfs.zip
+- geebee.zip
+- gekirido.zip
+- gekisou.zip
+- gemini.zip
+- genix.zip
+- genpeitd.zip
+- gfire2.zip
+- gforce2.zip
+- gghost.zip
+- gground.zip
+- ghoshunt.zip
+- ghox.zip
+- gigandes.zip
+- gigasb.zip
+- gigasm2b.zip
+- gijoe.zip
+- gimeabrk.zip
+- ginganin.zip
+- ginkun.zip
+- gladiatr.zip
+- gloc.zip
+- gmissile.zip
+- gnbarich.zip
+- goal92.zip
+- gogomile.zip
+- goindol.zip
+- goldbug.zip
+- goldenc.zip
+- goldmedl.zip
+- golgo13.zip
+- gomoku.zip
+- gondo.zip
+- goonies.zip
+- gorf.zip
+- gotcha.zip
+- gradius.zip
+- gradius2.zip
+- gradius3.zip
+- gratia.zip
+- gravitar.zip
+- grchamp.zip
+- grdians.zip
+- gridiron.zip
+- gridlee.zip
+- grindstm.zip
+- grmatch.zip
+- grobda.zip
+- groundfx.zip
+- growl.zip
+- gseeker.zip
+- gslgr94u.zip
+- gstrik2.zip
+- gstriker.zip
+- gsword.zip
+- gtg.zip
+- gtmr.zip
+- gtmr2.zip
+- guardian.zip
+- gulfstrm.zip
+- gulfwar2.zip
+- gunbird.zip
+- gunbird2.zip
+- gunbustr.zip
+- gundamex.zip
+- gundhara.zip
+- gunfight.zip
+- gunforc2.zip
+- gunforce.zip
+- gunfront.zip
+- gunlock.zip
+- gunmast.zip
+- gunnail.zip
+- guts.zip
+- gutsn.zip
+- guwange.zip
+- guzzler.zip
+- gwar.zip
+- gwarrior.zip
+- gypsyjug.zip
+- gyrodine.zip
+- gyruss.zip
+- hachoo.zip
+- hal21.zip
+- halleys.zip
+- hammer.zip
+- hanaoji.zip
+- hangon.zip
+- hangonjr.zip
+- happy6.zip
+- harddunk.zip
+- hardhat.zip
+- hardhea2.zip
+- hardhead.zip
+- hardyard.zip
+- hasamu.zip
+- hatris.zip
+- hattrick.zip
+- hbarrel.zip
+- hcastle.zip
+- hcrash.zip
+- headon.zip
+- headon2.zip
+- headoni.zip
+- heatbrl.zip
+- heberpop.zip
+- heiankyo.zip
+- helifire.zip
+- hellfire.zip
+- hexa.zip
+- hexion.zip
+- hgokou.zip
+- hharry.zip
+- hiimpact.zip
+- hippodrm.zip
+- histryma.zip
+- hitice.zip
+- hitnmiss.zip
+- hoccer.zip
+- holeland.zip
+- holo.zip
+- hook.zip
+- hoops96.zip
+- hopmappy.zip
+- hopprobo.zip
+- horekid.zip
+- horizon.zip
+- horshoes.zip
+- hotbubl.zip
+- hotchase.zip
+- hotdogst.zip
+- hotrod.zip
+- hotshock.zip
+- housemn2.zip
+- housemnq.zip
+- hstennis.zip
+- hthero93.zip
+- hunchbak.zip
+- huncholy.zip
+- hustle.zip
+- hustler.zip
+- hvnsgate.zip
+- hvoltage.zip
+- hvymetal.zip
+- hwchamp.zip
+- hwrace.zip
+- hydra.zip
+- hyhoo.zip
+- hyhoo2.zip
+- hyperpac.zip
+- hyperspt.zip
+- iceclimb.zip
+- idsoccer.zip
+- igmo.zip
+- ikari.zip
+- ikari3.zip
+- ikki.zip
+- imago.zip
+- imgfight.zip
+- imolagp.zip
+- imsorry.zip
+- indyheat.zip
+- indytemp.zip
+- inferno.zip
+- insector.zip
+- insectx.zip
+- inthunt.zip
+- intrepid.zip
+- invad2ct.zip
+- invaders.zip
+- invadpt2.zip
+- invds.zip
+- invho2.zip
+- invinco.zip
+- invrvnge.zip
+- ipminvad.zip
+- iqblock.zip
+- irobot.zip
+- ironfort.zip
+- ironhors.zip
+- itaten.zip
+- ixion.zip
+- jack.zip
+- jackal.zip
+- jackrabt.zip
+- jailbrek.zip
+- jajamaru.zip
+- jchan.zip
+- jchan2.zip
+- jcross.zip
+- jdreddp.zip
+- jedi.zip
+- jitsupro.zip
+- jjack.zip
+- jjsquawk.zip
+- jngolady.zip
+- joemacr.zip
+- journey.zip
+- joust.zip
+- joust2.zip
+- joyfulr.zip
+- jpark.zip
+- jrpacman.zip
+- jumpbug.zip
+- jumpcoas.zip
+- jumpshot.zip
+- jungler.zip
+- junglhbr.zip
+- junofrst.zip
+- kabukiz.zip
+- kageki.zip
+- kaiserkn.zip
+- kamenrid.zip
+- kamikcab.zip
+- kangarooa.zip
+- kaos.zip
+- karatblz.zip
+- karatour.zip
+- karianx.zip
+- karnov.zip
+- kbash.zip
+- kbash2.zip
+- kchamp.zip
+- kdynastg.zip
+- keithlcy.zip
+- kengo.zip
+- keroppi.zip
+- ket.zip
+- kicka.zip
+- kickboy.zip
+- kicker.zip
+- kickgoal.zip
+- kicknrun.zip
+- kickoff.zip
+- kickridr.zip
+- kidniki.zip
+- kikcubic.zip
+- kikikai.zip
+- kikstart.zip
+- killcom.zip
+- kingball.zip
+- kingofb.zip
+- kittenk.zip
+- klax.zip
+- knckhead.zip
+- kncljoe.zip
+- kngtmare.zip
+- konamigt.zip
+- konamigx.zip
+- konek.zip
+- koroleva.zip
+- koshien.zip
+- kov.zip
+- kovplus.zip
+- kozure.zip
+- kroozr.zip
+- krull.zip
+- krzybowl.zip
+- ksayakyu.zip
+- kungfum.zip
+- kungfut.zip
+- kurikint.zip
+- kviper.zip
+- kyros.zip
+- kyukaidk.zip
+- kyustrkr.zip
+- ladybug.zip
+- lagunar.zip
+- landmakr.zip
+- lasso.zip
+- lastday.zip
+- lastfght.zip
+- lastmisn.zip
+- lazarian.zip
+- lazercmd.zip
+- ldrun.zip
+- ldrun2.zip
+- ldrun3.zip
+- ldrun4.zip
+- leader.zip
+- legend.zip
+- legendoh.zip
+- legion.zip
+- lemmings.zip
+- leprechn.zip
+- lethalen.zip
+- lethalj.zip
+- lethalth.zip
+- levers.zip
+- lgtnfght.zip
+- liberate.zip
+- liberatr.zip
+- lightbr.zip
+- liquidk.zip
+- lizwiz.zip
+- lkage.zip
+- lnc.zip
+- lockon.zip
+- locomotn.zip
+- loderndf.zip
+- logger.zip
+- logicpr2.zip
+- logicpro.zip
+- loht.zip
+- lomakai.zip
+- looping.zip
+- losttomb.zip
+- lotlot.zip
+- loverboy.zip
+- lrescue.zip
+- lsasquad.zip
+- luckywld.zip
+- lupin3.zip
+- m4.zip
+- m660.zip
+- machbrkr.zip
+- machomou.zip
+- machridr.zip
+- macross.zip
+- macross2.zip
+- macrossp.zip
+- madalien.zip
+- madcrash.zip
+- maddonna.zip
+- madmotor.zip
+- madshark.zip
+- magicbub.zip
+- magmax.zip
+- magspot.zip
+- mahoudai.zip
+- mainevt.zip
+- mainsnk.zip
+- majtitle.zip
+- malzak.zip
+- maniach.zip
+- maniacsq.zip
+- manybloc.zip
+- mappy.zip
+- marble.zip
+- marineb.zip
+- marinedt.zip
+- mariner.zip
+- markham.zip
+- mars.zip
+- martmast.zip
+- marvins.zip
+- marvland.zip
+- masao.zip
+- mastboy.zip
+- masterw.zip
+- mastkin.zip
+- matchit2.zip
+- matmania.zip
+- maxrpm.zip
+- mayday.zip
+- mayhem.zip
+- maze.zip
+- mazeinv.zip
+- mazinger.zip
+- mcatadv.zip
+- mechatt.zip
+- medlanes.zip
+- megablst.zip
+- megatack.zip
+- megatech.zip
+- megazone.zip
+- meikyuha.zip
+- meosism.zip
+- merlinmm.zip
+- mermaid.zip
+- metafox.zip
+- metalb.zip
+- metamrph.zip
+- metlclsh.zip
+- metlhawk.zip
+- metmqstr.zip
+- metrocrs.zip
+- mgcrystl.zip
+- mgion.zip
+- mhavoc.zip
+- mia.zip
+- midres.zip
+- mightguy.zip
+- mightybj.zip
+- mikie.zip
+- milliped.zip
+- millpac.zip
+- mimonscr.zip
+- minigolf.zip
+- minivadr.zip
+- mirax.zip
+- mirninja.zip
+- misncrft.zip
+- missile.zip
+- mk.zip
+- mk2.zip
+- mk3.zip
+- mmaulers.zip
+- mmonkey.zip
+- mnight.zip
+- mofflott.zip
+- moguchan.zip
+- mogura.zip
+- momoko.zip
+- monsterb.zip
+- montecar.zip
+- monymony.zip
+- moo.zip
+- moomesa.zip
+- moonal2.zip
+- mooncrst.zip
+- moonqsr.zip
+- moonwar.zip
+- moremore.zip
+- mosaic.zip
+- motos.zip
+- mouja.zip
+- mouseatk.zip
+- mouser.zip
+- mpatrol.zip
+- mplanets.zip
+- mrdig.zip
+- mrdrillr.zip
+- mrflea.zip
+- mrgoemon.zip
+- mrkougar.zip
+- mrviking.zip
+- msgogo.zip
+- msgundam.zip
+- mshuttlej2.zip
+- msisaac.zip
+- mslider.zip
+- mspacman.zip
+- mtlchamp.zip
+- mtrap.zip
+- mugsmash.zip
+- multigam.zip
+- multigm2.zip
+- multigm3.zip
+- mustache.zip
+- mustangb2.zip
+- mutantf.zip
+- mvp.zip
+- mwarr.zip
+- mx5000.zip
+- myhero.zip
+- mysticm.zip
+- mysticri.zip
+- mystston.zip
+- mystwarr.zip
+- naname.zip
+- narc.zip
+- nastar.zip
+- natodef.zip
+- naughtyb.zip
+- nbahangt.zip
+- nbajam.zip
+- nbajamte.zip
+- nbbatman.zip
+- ncv1.zip
+- ncv2.zip
+- nebulray.zip
+- neckneck.zip
+- nemesis.zip
+- neobattl.zip
+- netwars.zip
+- newsin7.zip
+- ngtbunny.zip
+- nibbler.zip
+- nightgal.zip
+- nightstr.zip
+- ninclown.zip
+- ninjak.zip
+- ninjakd2.zip
+- ninjakun.zip
+- ninjaw.zip
+- ninjemak.zip
+- nitedrvr.zip
+- nitrobal.zip
+- niyanpai.zip
+- nmg5.zip
+- nmouse.zip
+- nob.zip
+- nomnlnd.zip
+- nost.zip
+- nova2001.zip
+- nrallyx.zip
+- nslasher.zip
+- nspirit.zip
+- nss.zip
+- nstocker.zip
+- nsub.zip
+- numanath.zip
+- nunchaku.zip
+- nycaptor.zip
+- nyny.zip
+- offroad.zip
+- offroadc.zip
+- offroadt.zip
+- offtwall.zip
+- ohmygod.zip
+- oisipuzl.zip
+- ojousan.zip
+- olds.zip
+- olibochu.zip
+- omegaf.zip
+- omegrace.zip
+- onna34ro.zip
+- openice.zip
+- opwolf.zip
+- opwolf3.zip
+- orbs.zip
+- orlegend.zip
+- oscar.zip
+- osman.zip
+- othunder.zip
+- otwalls.zip
+- outfxies.zip
+- outrun.zip
+- outzone.zip
+- overdriv.zip
+- ozmawars.zip
+- p47.zip
+- p47aces.zip
+- packbang.zip
+- pacland.zip
+- pacmania.zip
+- pacnpal.zip
+- pacplus.zip
+- paddlema.zip
+- pairsnb.zip
+- palamed.zip
+- pandoras.zip
+- pang.zip
+- pangpoms.zip
+- panicr.zip
+- panicstr.zip
+- panther.zip
+- paperboy.zip
+- paranoia.zip
+- parodius.zip
+- pass.zip
+- passshta.zip
+- passshtb.zip
+- pbaction.zip
+- pballoon.zip
+- pbancho.zip
+- pbillian.zip
+- pbillrd.zip
+- pbobble.zip
+- pbobble2.zip
+- pbobble3.zip
+- pbobble4.zip
+- pcktgal.zip
+- pdrift.zip
+- peekaboo.zip
+- peggle.zip
+- penbros.zip
+- pengadvb.zip
+- pengo.zip
+- pepper2.zip
+- percuss.zip
+- perfrman.zip
+- pesadelo.zip
+- peterpak.zip
+- pettanp.zip
+- pgemeni.zip
+- pgmfrog.zip
+- phantom2.zip
+- phelios.zip
+- phoenix.zip
+- photoy2k.zip
+- phozon.zip
+- pignewt.zip
+- pigout.zip
+- pigskin.zip
+- pinbo.zip
+- pingpong.zip
+- pipedrm.zip
+- pipibibs.zip
+- pirates.zip
+- pistoldm.zip
+- pitfall2.zip
+- pitnrun.zip
+- pktgaldx.zip
+- pkunwar.zip
+- platoon.zip
+- playball.zip
+- playch10.zip
+- plegends.zip
+- pleiads.zip
+- plotting.zip
+- plumppop.zip
+- plusalph.zip
+- polaris.zip
+- polepos1.zip
+- polepos2.zip
+- policetr.zip
+- pollux.zip
+- polyplay.zip
+- ponpoko.zip
+- poolshrk.zip
+- pooyan.zip
+- popeye.zip
+- popflame.zip
+- popnpop.zip
+- popper.zip
+- porky.zip
+- potopoto.zip
+- poundfor.zip
+- pow.zip
+- powerbal.zip
+- powerdrv.zip
+- powrplay.zip
+- ppmast93.zip
+- prehisle.zip
+- primglex.zip
+- primrage.zip
+- prmrsocr.zip
+- progress.zip
+- prosoccr.zip
+- prosport.zip
+- protennb.zip
+- pspikes.zip
+- psurge.zip
+- psychic5.zip
+- psychos.zip
+- ptblank.zip
+- pturn.zip
+- puchicar.zip
+- puckman.zip
+- puckpkmn.zip
+- pulirula.zip
+- pulsar.zip
+- punchout.zip
+- punkshot.zip
+- punkshot2.zip
+- pururun.zip
+- puyo.zip
+- puyopuy2.zip
+- puzlclub.zip
+- puzldama.zip
+- puzlstar.zip
+- puzzli.zip
+- puzznic.zip
+- pwrgoal.zip
+- pwrinst2.zip
+- pzlbowl.zip
+- pzlbreak.zip
+- qbert.zip
+- qbertqub.zip
+- qcrayon2.zip
+- quantum.zip
+- quarterb.zip
+- quartet.zip
+- quester.zip
+- quizmoon.zip
+- quiztou.zip
+- qwak.zip
+- r2dtank.zip
+- rabbit.zip
+- rabiolep.zip
+- rachero.zip
+- racingb.zip
+- rackemup.zip
+- radarscp1.zip
+- radm.zip
+- radrad.zip
+- raflesia.zip
+- raiden.zip
+- raiden2.zip
+- raidendx.zip
+- raiders.zip
+- raiders5.zip
+- raimais.zip
+- rallybik.zip
+- rallyx.zip
+- rambo3.zip
+- rampage.zip
+- rampart.zip
+- raphero.zip
+- rapidfir.zip
+- rastan.zip
+- razmataz.zip
+- rbibb.zip
+- rbisland.zip
+- rdft.zip
+- rdft22kc.zip
+- reactor.zip
+- recalh.zip
+- recordbr.zip
+- redalert.zip
+- redclash.zip
+- redlin2p.zip
+- redrobin.zip
+- regulus.zip
+- reikaids.zip
+- relief.zip
+- renegade.zip
+- rescraid.zip
+- retofinv.zip
+- rezon.zip
+- rfjet.zip
+- ribbit.zip
+- ridingf.zip
+- ridleofp.zip
+- rimrockn.zip
+- ringrage.zip
+- riotcity.zip
+- ripcord.zip
+- riskchal.zip
+- rjammer.zip
+- rmpgwt.zip
+- roadblst.zip
+- roadf.zip
+- roadriot.zip
+- roadrunn.zip
+- robby.zip
+- robocop.zip
+- robocop2.zip
+- robokid.zip
+- robotron.zip
+- robowres.zip
+- rockclim.zip
+- rockrage.zip
+- rocnrope.zip
+- rodland.zip
+- rohga.zip
+- roishtar.zip
+- rollerg.zip
+- rollingc.zip
+- romperso.zip
+- roughrac.zip
+- roundup.zip
+- roundup5.zip
+- route16.zip
+- rpatrol.zip
+- rranger.zip
+- rrreveng.zip
+- rshark.zip
+- rthun2.zip
+- rthunder.zip
+- rtype.zip
+- rtype2.zip
+- rtypeleo.zip
+- rungun.zip
+- rygar.zip
+- ryujin.zip
+- ryukyu.zip
+- s1945ii.zip
+- s1945iii.zip
+- s1945j.zip
+- sabotenb.zip
+- sadari.zip
+- sailormn.zip
+- salamand.zip
+- salmndr2.zip
+- samurai.zip
+- samuraia.zip
+- sandscrp.zip
+- sarge.zip
+- sasuke.zip
+- saturn.zip
+- sauro.zip
+- sbagman.zip
+- sbasebal.zip
+- sbasketb.zip
+- sbishi.zip
+- sbm.zip
+- sbowling.zip
+- sbrkout.zip
+- scessjoe.zip
+- scfinals.zip
+- schmeisr.zip
+- sci.zip
+- scion.zip
+- scobra.zip
+- scontra.zip
+- scotrsht.zip
+- scramble.zip
+- scregg.zip
+- screwloo.zip
+- sdfight.zip
+- sdgndmps.zip
+- sdtennis.zip
+- searchar.zip
+- seawolf.zip
+- secretag.zip
+- seganinj.zip
+- seicross.zip
+- selfeena.zip
+- sengekis.zip
+- senjyo.zip
+- senknow.zip
+- sflush.zip
+- sfootbal.zip
+- sfposeid.zip
+- sfx.zip
+- sgladiat.zip
+- sgunner.zip
+- sgunner2.zip
+- shackled.zip
+- shadfrce.zip
+- shadowld.zip
+- shadoww.zip
+- shangha3.zip
+- shanghai.zip
+- shangkid.zip
+- shangon.zip
+- sharkatt.zip
+- sharrier.zip
+- shdancer.zip
+- shimpact.zip
+- shinobi.zip
+- shocking.zip
+- shogwarr.zip
+- shollow.zip
+- shootout.zip
+- shufshot.zip
+- shuuz.zip
+- sidepckt.zip
+- sidetrac.zip
+- silentd.zip
+- silkroad.zip
+- silkworm.zip
+- simpsons.zip
+- simpsons2p.zip
+- sindbadm.zip
+- sinistar.zip
+- skns.zip
+- skullfng.zip
+- skullxbo.zip
+- skyadvnt.zip
+- skyalert.zip
+- skyarmy.zip
+- skybase.zip
+- skybump.zip
+- skychut.zip
+- skydiver.zip
+- skyfox.zip
+- skykid.zip
+- skykiddx.zip
+- skylancr.zip
+- skyskipr.zip
+- skysmash.zip
+- skysoldr.zip
+- slapbtuk.zip
+- slapshot.zip
+- slyspy.zip
+- smashtv.zip
+- smgp.zip
+- snakepit.zip
+- snakjack.zip
+- snapjack.zip
+- snapper.zip
+- sncwgltd.zip
+- snowboar.zip
+- snowbro2.zip
+- snowbros.zip
+- soccer.zip
+- sokonuke.zip
+- solarq.zip
+- soldam.zip
+- soldivid.zip
+- solfigtr.zip
+- solomon.zip
+- solvalou.zip
+- sonic.zip
+- sonicbom.zip
+- sotsugyo.zip
+- spacbeam.zip
+- spacecr.zip
+- spacedx.zip
+- spacefb.zip
+- spacegun.zip
+- spaceint.zip
+- spaceod.zip
+- spacetrk.zip
+- spacezap.zip
+- spacfury.zip
+- spacwalk.zip
+- spang.zip
+- spatter.zip
+- spbactn.zip
+- spcenctr.zip
+- spcforce.zip
+- spcinv95.zip
+- spclaser.zip
+- spclforc.zip
+- spclords.zip
+- spcpostn.zip
+- spdball.zip
+- spdodgeb.zip
+- speakres.zip
+- spectar.zip
+- speedbal.zip
+- speedspn.zip
+- spelunk2.zip
+- spelunkr.zip
+- spfghmk2.zip
+- spiders.zip
+- spidey.zip
+- spiker.zip
+- spinlbrk.zip
+- splash.zip
+- splat.zip
+- splatter.zip
+- splndrbt.zip
+- spnchout.zip
+- sprcros2.zip
+- springer.zip
+- sprint1.zip
+- sprint4.zip
+- sprint8.zip
+- spy.zip
+- spyhunt.zip
+- spyhunt2.zip
+- sqbert.zip
+- sqix.zip
+- squash.zip
+- srdarwin.zip
+- srdmissn.zip
+- ssi.zip
+- sslam.zip
+- ssmissin.zip
+- ssoldier.zip
+- ssozumo.zip
+- sspaceat.zip
+- sspeedr.zip
+- ssprint.zip
+- ssriders.zip
+- sstingry.zip
+- sstriker.zip
+- stadhero.zip
+- stagger1.zip
+- starblad.zip
+- starcas.zip
+- starcrus.zip
+- starfire.zip
+- starforc.zip
+- stargate.zip
+- starjack.zip
+- starlstr.zip
+- starswep.zip
+- starwars.zip
+- stdragon.zip
+- steelwkr.zip
+- stg.zip
+- stinger.zip
+- stkclmns.zip
+- stlforce.zip
+- stmblade.zip
+- stocker.zip
+- stoffy.zip
+- stompin.zip
+- stonebal.zip
+- strahl.zip
+- stratab.zip
+- stratgyx.zip
+- stratof.zip
+- streakng.zip
+- streetsm.zip
+- strkfgtr.zip
+- strkforc.zip
+- strnskil.zip
+- strtheat.zip
+- stunrun.zip
+- subs.zip
+- supbtime.zip
+- superbik.zip
+- superbug.zip
+- superchs.zip
+- supergm3.zip
+- superman.zip
+- superpac.zip
+- supertnk.zip
+- superx.zip
+- suprglob.zip
+- suprleag.zip
+- suprloco.zip
+- suprmrio.zip
+- suprridr.zip
+- suprslam.zip
+- suprtrio.zip
+- supxevs.zip
+- suratk.zip
+- survarts.zip
+- survival.zip
+- suzuk8h2.zip
+- suzuka8h.zip
+- svf.zip
+- svolley.zip
+- swa.zip
+- swat.zip
+- swatpolc.zip
+- swcourt.zip
+- swimmer.zip
+- sws.zip
+- sws92.zip
+- sws93.zip
+- sws95.zip
+- sws96.zip
+- sws97.zip
+- sxyreac2.zip
+- sxyreact.zip
+- syvalion.zip
+- szaxxon.zip
+- tacscan.zip
+- tactcian.zip
+- tail2nos.zip
+- talbot.zip
+- tankbatt.zip
+- tankbust.zip
+- tankfrce.zip
+- tantr.zip
+- taotaido.zip
+- tapper.zip
+- targ.zip
+- targeth.zip
+- tattass.zip
+- taxidrvr.zip
+- tazmania.zip
+- tbowl.zip
+- tbyahhoo.zip
+- tceptor.zip
+- tcobra2.zip
+- tdfever.zip
+- tdragon.zip
+- tdragon2.zip
+- teamqb.zip
+- teddybb.zip
+- teedoff.zip
+- teetert.zip
+- tehkanwc.zip
+- tekipaki.zip
+- tempest.zip
+- tengai.zip
+- term2.zip
+- terracre.zip
+- terrafu.zip
+- tetris.zip
+- tetrisp.zip
+- tetrisp2.zip
+- tetrist.zip
+- tetrsark.zip
+- tfrceac.zip
+- tgm2.zip
+- tharrier.zip
+- thedeep.zip
+- theend.zip
+- thehand.zip
+- thepit.zip
+- theroes.zip
+- thief.zip
+- thndrbld.zip
+- thndrx2.zip
+- thndzone.zip
+- thoop.zip
+- thoop2.zip
+- thunderj.zip
+- thunderl.zip
+- thunderx.zip
+- thundfox.zip
+- tickee.zip
+- tigerh.zip
+- timber.zip
+- timekill.zip
+- timeplt.zip
+- timescan.zip
+- timesold.zip
+- timetunl.zip
+- tinklpit.zip
+- tinstar.zip
+- tkdensho.zip
+- tkoboxng.zip
+- tmnt.zip
+- tmnt2.zip
+- tmnt22pu.zip
+- tmnt2pj.zip
+- tndrcade.zip
+- tnextspc.zip
+- tnk3.zip
+- tnzs.zip
+- todruaga.zip
+- toffy.zip
+- toki.zip
+- tokiob.zip
+- tokisens.zip
+- tokkae.zip
+- tomahawk.zip
+- toobin.zip
+- topgun.zip
+- topland.zip
+- topsecex.zip
+- topspeed.zip
+- tornbase.zip
+- toryumon.zip
+- totcarn.zip
+- tourtabl.zip
+- toutrun.zip
+- toypop.zip
+- tp84.zip
+- trackfld.zip
+- tranqgun.zip
+- transfrm.zip
+- travrusa.zip
+- trckydoc.zip
+- tricktrp.zip
+- triothep.zip
+- triplep.zip
+- triplfun.zip
+- tripool.zip
+- troangel.zip
+- trog.zip
+- tron.zip
+- trophyh.zip
+- trstar.zip
+- truxton.zip
+- truxton2.zip
+- tryout.zip
+- tsamurai.zip
+- tshingen.zip
+- tshoot.zip
+- tstrike.zip
+- tturfbl.zip
+- tubeit.zip
+- tubep.zip
+- tugboat.zip
+- tumblep.zip
+- turbo.zip
+- turbofrc.zip
+- turkhunt.zip
+- turtles.zip
+- turtship.zip
+- tutankhm.zip
+- twinactn.zip
+- twinbee.zip
+- twincobr.zip
+- twineag2.zip
+- twineagl.zip
+- twinfalc.zip
+- twinhawk.zip
+- twinqix.zip
+- twinsqua.zip
+- twotiger.zip
+- twrldc94.zip
+- tylz.zip
+- uballoon.zip
+- uccops.zip
+- ultennis.zip
+- ultraman.zip
+- ultratnk.zip
+- ultrax.zip
+- umanclub.zip
+- umk3.zip
+- unclepoo.zip
+- undrfire.zip
+- uniwars.zip
+- uopoko.zip
+- upndown.zip
+- usclssic.zip
+- utoukond.zip
+- valkyrie.zip
+- valtric.zip
+- vamphalf.zip
+- vandyke.zip
+- vangrd2.zip
+- vanguard.zip
+- vanvan.zip
+- vaportra.zip
+- vasara.zip
+- vasara2.zip
+- vastar.zip
+- vball.zip
+- vblokbrk.zip
+- vbowl.zip
+- vendetta.zip
+- venture.zip
+- vgoalsoc.zip
+- victroad.zip
+- vigilant.zip
+- vimana.zip
+- vindctr2.zip
+- vindictr.zip
+- viofight.zip
+- viostorm.zip
+- viper.zip
+- viprp1.zip
+- vmetal.zip
+- volfied.zip
+- vortex.zip
+- vsbball.zip
+- vsgongf.zip
+- vshoot.zip
+- vstetris.zip
+- vulcan.zip
+- wacko.zip
+- wallst.zip
+- wanted.zip
+- wardner.zip
+- warpwarp.zip
+- warriorb.zip
+- waterski.zip
+- wb3.zip
+- wbbc97.zip
+- wbeachvl.zip
+- wboy.zip
+- wc90.zip
+- wcvol95.zip
+- wecleman.zip
+- welltris.zip
+- wfortune.zip
+- wgp.zip
+- wildfang.zip
+- wilytowr.zip
+- wingforc.zip
+- wink.zip
+- winrun91.zip
+- wiping.zip
+- wits.zip
+- wiz.zip
+- wizdfire.zip
+- wizzquiz.zip
+- wldcourt.zip
+- wlstar.zip
+- wmatch.zip
+- wndrmomo.zip
+- wndrplnt.zip
+- wondl96.zip
+- worldwar.zip
+- wow.zip
+- wrally.zip
+- wrally2.zip
+- wrecking.zip
+- wrestwar.zip
+- wrofaero.zip
+- ws.zip
+- wschamp.zip
+- wseries.zip
+- wsf.zip
+- wwallyj.zip
+- wwestern.zip
+- wwfmania.zip
+- wwfsstar.zip
+- wwfwfest.zip
+- wwjgtin.zip
+- wyvernf0.zip
+- xenophob.zip
+- xevious.zip
+- xexex.zip
+- xmen.zip
+- xmultipl.zip
+- xorworld.zip
+- xsleena.zip
+- xxmissio.zip
+- xybots.zip
+- xyonix.zip
+- yamagchi.zip
+- yamato.zip
+- yamyam.zip
+- yankeedo.zip
+- yesnoj.zip
+- yiear.zip
+- yosakdon.zip
+- youjyudn.zip
+- zarzon.zip
+- zaviga.zip
+- zaxxon.zip
+- zektor.zip
+- zerohour.zip
+- zeropnt.zip
+- zeropnt2.zip
+- zingzip.zip
+- zoar.zip
+- zodiack.zip
+- zombraid.zip
+- zunkyou.zip
+- zzyzzyxx.zip
+
+---
+
+## Mega Drive / Genesis (891 jogos)
+
+- 3 Ninjas Kick Back.zip
+- Aa Harimanada.zip
+- Aaahh!!! Real Monsters.zip
+- Action 52-in-1.zip
+- AD&D - Warriors of the Eternal Sun.zip
+- Addams Family Values.zip
+- Addams Family.zip
+- Advanced Busterhawk Gleylancer.zip
+- Advanced Military Commander.zip
+- Adventures of Batman & Robin.zip
+- Adventures of Mighty Max.zip
+- Adventures of Rocky and Bullwinkle.zip
+- Aero The Acro-bat I.zip
+- Aero The Acro-bat II.zip
+- Aerobiz Supersonic.zip
+- Aerobiz.zip
+- After Burner Complete.zip
+- After Burner II.zip
+- Air Buster.zip
+- Air Diver.zip
+- Aladdin.zip
+- Alex Kidd In The Enchanted Castle.zip
+- Alien III.zip
+- Alien Soldier.zip
+- Alien Storm.zip
+- Alisia Dragoon.zip
+- Altered Beast.zip
+- American Gladiators.zip
+- Andre Agassi Tennis.zip
+- Animaniacs.zip
+- Aquatic Games.zip
+- Arcade Classics.zip
+- Arch Rivals.zip
+- Arcus Odyssey.zip
+- Ariel - The Little Mermaid.zip
+- Arnold Palmer Tournament Golf.zip
+- Arrow Flash.zip
+- Art Alive!.zip
+- Art of Fighting.zip
+- Asterix And The Great Rescue.zip
+- Asterix And The Power Of The Gods.zip
+- Atomic Robo-Kid.zip
+- Atomic Runner.zip
+- Atp Tour Championship Tennis.zip
+- Australian Rugby League.zip
+- Awesome Possum.zip
+- Aworg.zip
+- AWS Pro Moves Soccer.zip
+- Ayrton Senna's Super Monaco GP II.zip
+- Back To The Future - Part III.zip
+- Ball Jacks.zip
+- Balloon Boy.zip
+- Ballz.zip
+- Bare Knuckle III.zip
+- Barkley - Shut Up And Jam! I.zip
+- Barkley - Shut Up and Jam! II.zip
+- Barney's Hide & Seek Game.zip
+- Bass Masters Classic - Pro Edition.zip
+- Bass Masters Classics.zip
+- Batman - Revenge Of The Joker.zip
+- Batman Forever.zip
+- Batman Returns.zip
+- Batman.zip
+- Battle Frenzy.zip
+- Battle Mania Daiginjou.zip
+- Battle Master.zip
+- Battle Squadron.zip
+- Battletech - A Game of Armored Combat.zip
+- Battletoads & Double Dragon.zip
+- Battletoads.zip
+- BC Racers.zip
+- Beast Wrestler.zip
+- Beauty & the Beast - Belle's Quest.zip
+- Beauty & the Beast - Roar of the Beast.zip
+- Beavis and Butt-head.zip
+- Berenstain Bears' - Camping Adventure.zip
+- Best Of The Best - Championship Karate.zip
+- Beyond Oasis.zip
+- Bible Adventures.zip
+- Bill Walsh College Football '95.zip
+- Bill Walsh College Football.zip
+- Bimini Run.zip
+- Bio-Hazard Battle.zip
+- Bio-Ship Paladin.zip
+- Bishoujo Senshi Sailor Moon.zip
+- Blades Of Vengence.zip
+- Blaster Master II.zip
+- Block Out.zip
+- BOB.zip
+- Body Count.zip
+- Bonanza Bros.zip
+- Boogerman - A Pick and Flick Adventure.zip
+- Boxing Legends Of The Ring.zip
+- Bram Stoker's Dracula.zip
+- Brave Battle Saga.zip
+- Brett Hull Hockey '95.zip
+- Brian Lara Cricket '96.zip
+- Brian Lara Cricket.zip
+- Brutal - Paws Of Fury.zip
+- Bubba N Stix - A Strategy Adventure.zip
+- Bubble And Squeek.zip
+- Bubsy I - Claws Encounters.zip
+- Bubsy II.zip
+- Buck Rogers - Countdown To Doomsday.zip
+- Budokan - The Martial Spirit.zip
+- Bugs Bunny In Double Trouble.zip
+- Bulls Vs Blazers And The Nba Playoffs.zip
+- Bulls vs Lakers and the NBA Playoffs.zip
+- Burning Force.zip
+- Cadash.zip
+- Caesars Palace.zip
+- Cal Ripken Jr Baseball.zip
+- Caliber 50.zip
+- California Games.zip
+- Cannon Fodder.zip
+- Captain America & the Avengers.zip
+- Captain Planet And The Planeteers.zip
+- Castlevania - Bloodlines.zip
+- Centurion - Defender Of Rome.zip
+- Chakan - The Forever Man.zip
+- Champions World Class Soccer.zip
+- Championship Bowling.zip
+- Championship Pool.zip
+- Championship Pro-Am.zip
+- Chaos Engine 2, The (Europe) (Proto).zip
+- Chaos Engine, The (Europe).zip
+- Chase HQ II.zip
+- Chavez II.zip
+- Chess.zip
+- Chester Cheetah - Too Cool to Fool.zip
+- Chester Cheetah - Wild Wild Quest.zip
+- Chi Chi's Pro Challenge Golf.zip
+- Chiki Chiki Boys.zip
+- Chuck Rock I.zip
+- Chuck Rock II - Son of Chuck.zip
+- Classic Collection.zip
+- ClayFighter.zip
+- Cliffhanger.zip
+- Clue.zip
+- Coach K College Basketball.zip
+- College Football USA '96.zip
+- College Football USA '97.zip
+- College Football's National Champ I.zip
+- College Football's National Champ II.zip
+- College Slam.zip
+- Columns I.zip
+- Columns III - Revenge of Columns.zip
+- Combat Cars.zip
+- Comix Zone.zip
+- Contra - Hard Corps.zip
+- Cool Spot.zip
+- Cosmic Spacehead.zip
+- Crack Down.zip
+- Crayon Shin-chan - Arashi o Yobu Enji.zip
+- CrossFire.zip
+- Crue Ball.zip
+- Crusader Of Centy.zip
+- Crystal's Pony Tale.zip
+- Curse.zip
+- Cutey Suzuki's Ringside Angel.zip
+- Cutthroat Island.zip
+- Cyberball.zip
+- Cyber-cop.zip
+- Cyborg Justice.zip
+- Daffy Duck In Hollywood.zip
+- Dahna - Megami Tanjou.zip
+- Dangerous Seed.zip
+- Dark Castle.zip
+- Darwin 4081.zip
+- Dashin' Desperadoes.zip
+- David Crane's Amazing Tennis.zip
+- David Robinson's Supreme Court.zip
+- Davis Cup World Tour Tennis.zip
+- Daze Before Christmas.zip
+- Deadly Moves.zip
+- Death and Return of Superman.zip
+- Death Duel.zip
+- Decap Attack.zip
+- Demolition Man.zip
+- Desert Demolition.zip
+- Desert Strike - Return To The Gulf.zip
+- Devil Hunter Yohko.zip
+- Devilish.zip
+- Devil's Course.zip
+- Dick Tracy.zip
+- Dick Vitale's College Hoops.zip
+- Dino Dini's Soccer.zip
+- Dino Land.zip
+- Dinosaurs For Hire.zip
+- Disney's Bonkers.zip
+- Disney's The Jungle Book.zip
+- Disney's The Lion King.zip
+- Dj Boy.zip
+- Doki Doki Penguin Land MD.zip
+- Dominus.zip
+- Donald Duck in Maui Mallard.zip
+- Doom Troopers - The Mutant Chronicles.zip
+- Double Clutch.zip
+- Double Dragon I.zip
+- Double Dragon II - The Revenge.zip
+- Double Dragon III - The Arcade Game.zip
+- Double Dragon V - The Shadow Falls.zip
+- Double Dribble - The Playoff Edition.zip
+- Dr Robotnik's Mean Bean Machine.zip
+- Dragon - The Bruce Lee Story.zip
+- Dragon Ball Z.zip
+- Dragon Slayer - Eiyuu Densetsu.zip
+- Dragon's Eye Plus - Shanghai III.zip
+- Dragon's Fury.zip
+- Dragon's Revenge.zip
+- Duke Nukem 3D.zip
+- Dune - The Battle For Arrakis.zip
+- Dyna Brothers 2.zip
+- Dyna Brothers.zip
+- Dynamite Duke.zip
+- Dynamite Headdy.zip
+- Dynamite Heddy.zip
+- Earnest Evans.zip
+- Earth Defend.zip
+- Earthworm Jim I.zip
+- Earthworm Jim II.zip
+- ECCO I - ECCO the Dolphin.zip
+- ECCO II - The Tides of Time.zip
+- Ecco Jr.zip
+- El Viento.zip
+- Elemental Master.zip
+- Eliminate Down.zip
+- Espn Baseball Tonight.zip
+- ESPN National Hockey Night.zip
+- Espn Speedworld.zip
+- ESPN Sunday Night NFL.zip
+- Eswat Cyber Police - City Under Siege.zip
+- Eternal Champions.zip
+- European Club Soccer.zip
+- Evander Holyfield's Real Deal Boxing.zip
+- Exile.zip
+- Ex-mutants.zip
+- Exodus - Journey to the Promised Land.zip
+- Exo-squad.zip
+- F1 Circus MD.zip
+- F1 World Championship Edition.zip
+- F-117 Night Storm.zip
+- F-15 Strike Eagle II.zip
+- F-22 Interceptor.zip
+- Faery Tale Adventure.zip
+- Family Feud.zip
+- Fantastic Dizzy.zip
+- Fastest 1.zip
+- Fatal Fury I.zip
+- Fatal Fury II.zip
+- Fatal Labyrinth.zip
+- Fatal Rewind.zip
+- Ferias Frustradas do Pica-Pau.zip
+- Ferrari Grand Prix Challenge.zip
+- Fido Dido.zip
+- FIFA International Soccer.zip
+- FIFA Soccer '95.zip
+- FIFA Soccer '96.zip
+- FIFA Soccer '97 Gold Edition.zip
+- FIFA Soccer '98 - Road to World Cup.zip
+- Fighting Masters.zip
+- Final Zone.zip
+- Fire Mustang.zip
+- Fire Shark.zip
+- Flashback - The Quest For Identity.zip
+- Flicky.zip
+- Flintstones.zip
+- Foreman For Real.zip
+- Forgotten Worlds.zip
+- Formula One.zip
+- Frank Thomas Big Hurt Baseball.zip
+- Frogger.zip
+- From TV Animation - Slam Dunk - Dunk Kyougou Makkou Taiketsu!.zip
+- Fun'n'Games.zip
+- Funny World.zip
+- Gadget Twins.zip
+- Gaiares.zip
+- Gain Ground.zip
+- Galaxy Force II.zip
+- Garfield - Caught In The Act.zip
+- Gargoyles.zip
+- Gauntlet IV.zip
+- Gemfire.zip
+- General Chaos.zip
+- Generations Lost.zip
+- Genghis Khan II - Clan of Gray Wolf.zip
+- George Foreman's KO Boxing.zip
+- Ghost Hunter.zip
+- Ghostbusters.zip
+- Ghouls 'n Ghosts.zip
+- G-loc Air Battle.zip
+- Gods.zip
+- Golden Axe I.zip
+- Golden Axe II.zip
+- Golden Axe III.zip
+- Goofy's Hysterical History Tour.zip
+- Gouketsuji Ichizoku.zip
+- Gouketuji Ichizoku.zip
+- Granada.zip
+- Great Waldo Search.zip
+- Greatest Heavyweights of the Ring.zip
+- Greendog - The Beached Surfer Dude.zip
+- Grind Stormer.zip
+- Growl.zip
+- Gunship.zip
+- Gunstar Heroes.zip
+- Hard Drivin'.zip
+- Hardball '94.zip
+- Hardball '95.zip
+- Hardball III.zip
+- Hardball!.zip
+- Haunting starring Polterguy.zip
+- Head-on Soccer.zip
+- Heavy Nova.zip
+- Heavy Unit - Mega Drive Special.zip
+- Hellfire.zip
+- Herzog Zwei.zip
+- High Seas Havoc.zip
+- Hit The Ice.zip
+- Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan).zip
+- Home Alone I.zip
+- Home Alone II - Lost in New York.zip
+- Honoo no Toukyuuji Dodge Danpei.zip
+- Hook.zip
+- Humans.zip
+- Hurricanes.zip
+- Hyper Marbles.zip
+- Img International Tour Tennis.zip
+- Immortal.zip
+- Incredible Crash Dummies.zip
+- Incredible Hulk.zip
+- Indiana Jones And The Last Crusade.zip
+- Insector X.zip
+- International Rugby.zip
+- International Superstar Soccer Deluxe.zip
+- Ishido - The Way of the Stones.zip
+- Izzy's Quest For The Olympic Rings.zip
+- J. League Pro Striker 2.zip
+- J. League Pro Striker.zip
+- Jack Nicklaus' Power Challenge Golf.zip
+- James Bond 007 - The Duel.zip
+- James Buster Douglas KO Boxing.zip
+- James Pond I - Underwater Agent.zip
+- James Pond II - Codename Robocod.zip
+- James Pond III - Operation Starfish.zip
+- Jammit.zip
+- Jennifer Capriati Tennis.zip
+- Jeopardy! Deluxe.zip
+- Jeopardy! Sports Edition.zip
+- Jeopardy!.zip
+- Jerry Glanville's Pigskin Footbrawl.zip
+- Jewel Master.zip
+- Jimmy White's Whirlwind Snooker.zip
+- Joe & Mac - Caveman Ninja.zip
+- Joe Montana Football.zip
+- Joe Montana Sports Talk Football I.zip
+- Joe Montana Sports Talk Football II.zip
+- Jordan Vs Bird - Super One-on-one.zip
+- Joshua & the Battle of Jericho.zip
+- Judge Dredd - The Movie.zip
+- Junction.zip
+- Jungle Strike.zip
+- Jurassic Park I - Rampage Edition.zip
+- Jurassic Park I.zip
+- Jurassic Park II - The Lost World.zip
+- Justice League Task Force.zip
+- Ka-Ge-Ki - Fists of Steel.zip
+- Kawasaki Superbike Challenge.zip
+- Kick Off III - European Challenge.zip
+- Kid Chameleon.zip
+- Killing Game Show - 1993 Remix.zip
+- King Colossus.zip
+- King Of The Monsters I.zip
+- King Of The Monsters II.zip
+- King Salmon.zip
+- King's Bounty.zip
+- Kiss Shot.zip
+- Klax.zip
+- Lakers vs Celtics and the NBA Playoffs.zip
+- Landstalker - The Treasures of King No.zip
+- Langrisser II.zip
+- Last Action Hero.zip
+- Last Battle.zip
+- Lawnmower Man.zip
+- Legend of Galahad.zip
+- Lemmings I.zip
+- Lemmings II - The Tribes.zip
+- Lethal Enforcers I.zip
+- Lethal Enforcers II - Gun Fighters.zip
+- LHX Attack Chopper.zip
+- Liberty Or Death.zip
+- Light Crusader.zip
+- Lightening Force - Quest for Darkstar.zip
+- Lost Vikings.zip
+- Lotus II.zip
+- Lotus Turbo Challenge.zip
+- M1 Abrams Battle Tank.zip
+- Madden NFL '91.zip
+- Madden NFL '92.zip
+- Madden NFL '93.zip
+- Madden NFL '94.zip
+- Madden NFL '95.zip
+- Madden NFL '96.zip
+- Madden NFL '97.zip
+- Madden NFL '98.zip
+- Magic Bubble.zip
+- Magic School Bus.zip
+- Magical Taruruuto-kun.zip
+- Man Overboard!.zip
+- Marble Madness.zip
+- Mario Andretti Racing.zip
+- Mario Lemieux Hockey.zip
+- Marko's Magic Football.zip
+- Marsupilami.zip
+- Marvel Land.zip
+- Mary Shelley's Frankenstein.zip
+- Master Of Monsters.zip
+- Master of Weapon.zip
+- Math Blaster - Episode I.zip
+- Mazin Saga - Mutant Fighter.zip
+- Mcdonald's Treasure Land Adventure.zip
+- Mega Bomberman.zip
+- Mega Man - The Wily Wars.zip
+- Mega Swiv.zip
+- Mega Turrican.zip
+- MegaPanel.zip
+- Mercs.zip
+- Metal Fangs.zip
+- Michael Jackson's Moonwalker.zip
+- Mick & Mack As The Global Gladiators.zip
+- Mickey Mania.zip
+- Mickey Mouse - Castle Of Illusion.zip
+- Mickey Mouse - Fantasia.zip
+- Mickey Mouse - Great Circus Mystery.zip
+- Mickey Mouse - World Of Illusion.zip
+- Mickey's Ultimate Challenge.zip
+- Micro Machines II - Turbo Tournament.zip
+- Micro Machines Military.zip
+- Micro Machines Turbo Tournament '96.zip
+- Micro Machines.zip
+- Midnight Resistance.zip
+- Mig-29 Fulcrum.zip
+- Might And Magic II.zip
+- Mighty Morphin Power Rangers - Movie.zip
+- Mighty Morphin Power Rangers.zip
+- Mike Ditka Power Football.zip
+- Minnesota Fats - Pool Legend.zip
+- Miracle Piano Teaching System.zip
+- Misadventures Of Flink.zip
+- MLBPA Baseball.zip
+- MLBPA Sports Talk Baseball.zip
+- Monopoly.zip
+- Monster World IV.zip
+- Mortal Kombat I.zip
+- Mortal Kombat II.zip
+- Mortal Kombat III.zip
+- Mr Nutz.zip
+- Ms Pac-Man.zip
+- Muhammad Ali Heavyweight Boxing.zip
+- MUSHA.zip
+- Mutant League Football.zip
+- Mutant League Hockey.zip
+- Mystic Defender.zip
+- Mystical Fighter.zip
+- Nakajima Satoru Kanshuu - F-1 Grand Prix.zip
+- NBA Action '94.zip
+- NBA Action '95.zip
+- NBA Allstar Challenge.zip
+- NBA Hang Time.zip
+- NBA Jam - Tournament Edition.zip
+- NBA Jam.zip
+- NBA Live '95.zip
+- NBA Live '96.zip
+- NBA Live '97.zip
+- NBA Live '98.zip
+- NBA Showdown '94.zip
+- NCAA College Football.zip
+- NCAA Final Four College Basketball.zip
+- New Zealand Story.zip
+- Newman-Haas IndyCar Racing.zip
+- NFL '95.zip
+- NFL '98.zip
+- NFL Quarterback Club '96.zip
+- Nfl Quarterback Club.zip
+- NHL All-Star Hockey '95.zip
+- NHL Hockey '91.zip
+- NHL Hockey '93.zip
+- NHL Hockey '94.zip
+- NHL Hockey '95.zip
+- NHL Hockey '96.zip
+- NHL Hockey '97.zip
+- NHL Hockey '98.zip
+- Nigel Mansell's World Championship.zip
+- Nightmare Circus.zip
+- No Escape.zip
+- Nobunaga's Ambition.zip
+- Normy's Beach Babe-O-Rama.zip
+- Olympic Gold - Barcelona '92.zip
+- Olympic Summer Games - Atlanta '96.zip
+- Olympic Winter Games - Lillehammer '94.zip
+- Omega Race.zip
+- Onslaught.zip
+- Ooze.zip
+- Operation Europe - Path to Victory.zip
+- Osomatsu-Kun.zip
+- Ottifants.zip
+- Out Of This World.zip
+- Outlander.zip
+- Outrun 2019.zip
+- Outrun.zip
+- Outrunners.zip
+- Pac-attack.zip
+- Pacific Theater Of Operations.zip
+- Pac-Man II - The New Adventures.zip
+- Pac-mania.zip
+- Paddle Fighter.zip
+- Pagemaster.zip
+- Panorama Cotton.zip
+- Paperboy I.zip
+- Paperboy II.zip
+- Pat Riley Basketball.zip
+- Pebble Beach Golf Links.zip
+- Pele!.zip
+- Pele's World Tournament Soccer.zip
+- Pengo.zip
+- Pepenga Pengo.zip
+- Pete Sampras Tennis '96.zip
+- Pete Sampras Tennis.zip
+- PGA European Tour.zip
+- PGA Tour '96.zip
+- PGA Tour Golf I.zip
+- PGA Tour Golf II.zip
+- PGA Tour Golf III.zip
+- Phantasy Star II - Anne's Adventure.zip
+- Phantasy Star II - Huey's Adventure.zip
+- Phantasy Star II - Kinds's Adventure.zip
+- Phantasy Star II - Shilka's Adventure.zip
+- Phantasy Star II [Enhancement].zip
+- Phantasy Star II.zip
+- Phantasy Star III - Generation Of Doom.zip
+- Phantasy Star III - Generations of Doom.zip
+- Phantasy Star IV.zip
+- Phantom 2040.zip
+- Phelios.zip
+- Pier Solar.zip
+- Pink Goes To Hollywood.zip
+- Pinocchio.zip
+- Pirates Of Dark Water.zip
+- Pirates! Gold.zip
+- Pitfall! - The Mayan Adventure.zip
+- Pit-Fighter.zip
+- Pocahontas.zip
+- Populous I.zip
+- Populous II - Wrath of the Gods.zip
+- Power Drive.zip
+- Power Monger.zip
+- Powerball.zip
+- Predator II.zip
+- Premier Manager '97.zip
+- Premier Manager.zip
+- Primal Rage.zip
+- Prime Time NFL with Deion Sanders.zip
+- Prince Of Persia.zip
+- Pro Quarterback.zip
+- Psycho Pinball.zip
+- Puggsy.zip
+- Pulseman.zip
+- Punisher.zip
+- Putter Golf.zip
+- Puyo Puyo I.zip
+- Puyo Puyo II.zip
+- Pyramid Magic I.zip
+- Pyramid Magic II.zip
+- Pyramid Magic III.zip
+- Pyramid Magic Special.zip
+- Quackshot Starring Donald Duck.zip
+- Quad Challenge.zip
+- Race Drivin'.zip
+- Radical Rex.zip
+- Raiden Trad.zip
+- Rainbow Islands - Bubble Bobble II.zip
+- Rambo III.zip
+- Rampart.zip
+- Ranger-X.zip
+- Rastan Saga II.zip
+- RBI Baseball '93.zip
+- RBI Baseball '94.zip
+- RBI Baseball III.zip
+- RBI Baseball IV.zip
+- Red Zone.zip
+- Ren and Stimpy - Stimpy's Invention.zip
+- Rent A Hero.zip
+- Revenge Of Shinobi.zip
+- Revolution X.zip
+- Richard Scarry's Busytown.zip
+- Rings Of Power.zip
+- Rise Of The Robots.zip
+- Risk.zip
+- Risky Woods.zip
+- Ristar - The Shooting Star.zip
+- Road Blasters.zip
+- Road Rash I.zip
+- Road Rash II.zip
+- Road Rash III.zip
+- RoboCop III.zip
+- Robocop vs the Terminator.zip
+- Robot Battler.zip
+- Rock N' Roll Racing.zip
+- Rocket Knight Adventures.zip
+- Roger Clements' MVP Baseball.zip
+- Rolling Thunder II.zip
+- Rolling Thunder III.zip
+- Rolo To The Rescue.zip
+- Romance Of The Three Kingdoms II.zip
+- Romance of the Three Kingdoms III.zip
+- Rugby World Cup '95.zip
+- Sagaia.zip
+- Sailor Moon.zip
+- Saint Sword.zip
+- Samurai Shodown.zip
+- Saturday Night Slam Masters.zip
+- Scooby Doo Mystery.zip
+- Seaquest DSV.zip
+- Second Samurai.zip
+- Sega Sports 1 - Super Monaco + Wimbledon + Ultimate Soccer.zip
+- Sega Top Five.zip
+- Sensible Soccer - International Ed.zip
+- Sensible Soccer.zip
+- Sesame Street - Counting Cafe.zip
+- Shadow Blasters.zip
+- Shadow Dancer - The Secret of Shinobi.zip
+- Shadow of the Beast - Mashou no Okite (Japan).zip
+- Shadow Of The Beast I.zip
+- Shadow Of The Beast II.zip
+- Shadowrun.zip
+- Shane Warne Cricket.zip
+- Shanghai II - Dragon's Eye.zip
+- Shaq Fu.zip
+- Shikinjou.zip
+- Shining Force I.zip
+- Shining Force II.zip
+- Shining in the Darkness.zip
+- Shinobi III - Return of Ninja Master.zip
+- Shove It! - The Warehouse Game.zip
+- Show do Milhao Volume 2.zip
+- Show do Milhao.zip
+- Side Pocket.zip
+- Simpsons - Bart vs The Space Mutants.zip
+- Simpsons - Bart's Nightmare.zip
+- Simpsons - Itchy And Scratchy Game.zip
+- Simpsons - Krusty's Super Funhouse.zip
+- Simpsons - Virtual Bart.zip
+- Skeleton Krew.zip
+- Skitchin'.zip
+- Slap Fight.zip
+- Slaughter Sport.zip
+- Smurfs I.zip
+- Smurfs II.zip
+- Snake Rattle 'n Roll.zip
+- Snow Bros - Nick & Tom.zip
+- Socket.zip
+- Sol-deace.zip
+- Soldiers of Fortune.zip
+- Sonic & Knuckles and Sonic I.zip
+- Sonic & Knuckles and Sonic II.zip
+- Sonic & Knuckles and Sonic III.zip
+- Sonic & Knuckles.zip
+- Sonic 3D Blast.zip
+- Sonic Eraser.zip
+- Sonic Spinball.zip
+- Sonic The Hedgehog I.bin
+- Sonic The Hedgehog I.zip
+- Sonic The Hedgehog II.zip
+- Sonic The Hedgehog III.zip
+- Sorcerer's Kingdom.zip
+- Space Harrier II.zip
+- Space Invaders '91.zip
+- Sparkster.zip
+- Speedball II - Brutal Deluxe.zip
+- Speedy Gonzales - Cheese Cat-Astrophe.zip
+- Spider-Man - The Animated Series.zip
+- Spider-Man & The X-Men - Arcade's Rev.zip
+- Spider-Man & Venom - Maximum Carnage.zip
+- Spider-Man & Venom - Separation Anxiet.zip
+- Spider-Man vs The Kingpin.zip
+- Spiritual Warfare.zip
+- Spirou.zip
+- Splatterhouse II.zip
+- Splatterhouse III.zip
+- Sport Games.zip
+- Spot Goes To Hollywood.zip
+- Ss Lucifer - Man Overboard!.zip
+- Star Control.zip
+- Star Trek - Deep Space Nine.zip
+- Star Trek - The Next Generation.zip
+- Starflight.zip
+- Stargate.zip
+- Steel Empire.zip
+- Steel Talons.zip
+- Stormlord.zip
+- Street Fighter II - Champion Edition.zip
+- Street Racer.zip
+- Street Smart.zip
+- Streets Of Rage I.zip
+- Streets Of Rage II.zip
+- Streets Of Rage III.zip
+- Strider I.zip
+- Strider Returns.zip
+- Striker.zip
+- Sub-Terrania.zip
+- Summer Challenge.zip
+- Sunset Riders.zip
+- Super Baseball 2020.zip
+- Super Battle Tank - War In The Gulf.zip
+- Super Battleship.zip
+- Super Fantasy Zone.zip
+- Super Hang-On.zip
+- Super High Impact.zip
+- Super Hydlide.zip
+- Super Kick Off.zip
+- Super Monaco GP.zip
+- Super Off Road.zip
+- Super Ping-Pong.zip
+- Super Skidmarks.zip
+- Super Smash TV.zip
+- Super Street Fighter II.zip
+- Super Thunder Blade.zip
+- Super Volleyball.zip
+- Superman.zip
+- Sword of Sodan.zip
+- Sword of Vermilion.zip
+- Syd of Valis.zip
+- Sylvester & Tweety in Cagey Capers.zip
+- Syndicate.zip
+- T2 - The Arcade Game.zip
+- TaleSpin.zip
+- Target Earth.zip
+- Task Force Harrier Ex.zip
+- Taz in Escape From Mars.zip
+- Taz-Mania.zip
+- Team USA Basketball.zip
+- TechnoClash.zip
+- TechnoCop.zip
+- Tecmo Cup Football.zip
+- Tecmo Super Baseball.zip
+- Tecmo Super Bowl I.zip
+- Tecmo Super Bowl II.zip
+- Tecmo Super Bowl III - Final Edition.zip
+- Tecmo Super Hockey.zip
+- Tecmo Super NBA Basketball.zip
+- Tecmo World Cup.zip
+- Teddy Boy Blues.zip
+- Terminator I.zip
+- Terminator II - Judgment Day.zip
+- Test Drive II - The Duel.zip
+- Tetris.zip
+- The Hybrid Front.zip
+- The New Zealand Story.zip
+- Theme Park.zip
+- Thomas The Tank Engine & Friends.zip
+- Thunder Force II.zip
+- Thunder Force III.zip
+- Thunder Fox.zip
+- Thunder Pro Wrestling Gaiden.zip
+- Tick.zip
+- Time Dominator 1st.zip
+- Time Killers.zip
+- TinHead.zip
+- Tintin in Tibet.zip
+- Tiny Toon Adventures - ACME All-Stars.zip
+- Tiny Toon Adventures - Buster's HT.zip
+- TMNT - The Hyperstone Heist.zip
+- TMNT - Tournament Fighters.zip
+- TNN Bass Tournament of Champions.zip
+- TNN Outdoors Bass Tournament '96.zip
+- Todd's Adventures in Slime World.zip
+- Toejam & Earl I.zip
+- Toejam & Earl II - Panic on Funkotron.zip
+- Toki - Going Ape Spit.zip
+- Tom And Jerry - Frantic Antics.zip
+- Tommy Lasorda Baseball.zip
+- Tony La Russa '95.zip
+- Tony La Russa Baseball.zip
+- Top Gear II.zip
+- Top Pro Golf.zip
+- Total Football.zip
+- Toughman Contest.zip
+- Toxic Crusaders.zip
+- Toy Story.zip
+- Toys.zip
+- Trampoline Terror!.zip
+- Traysia.zip
+- Triple Play '96.zip
+- Triple Play Gold.zip
+- Trouble Shooter.zip
+- Troy Aikman NFL Football.zip
+- True Lies.zip
+- Truxton.zip
+- Turbo Outrun.zip
+- Turma da Monica na Terra dos Monstros.zip
+- Turrican.zip
+- Twin Cobra.zip
+- Twin Hawk.zip
+- Twinkle Tale.zip
+- Two Crude Dudes.zip
+- Two Tribes - Populous II.zip
+- Tyrants - Fight Through Time.zip
+- Ultimate Mortal Kombat III.zip
+- Ultimate Qix.zip
+- Ultimate Soccer.zip
+- Ultraman.zip
+- Uncharted Waters I.zip
+- Uncharted Waters II - New Horizons.zip
+- Undead Line.zip
+- Universal Soldier.zip
+- Unnecessary Roughness '95.zip
+- Urban Strike.zip
+- Uzu Keobukseon.zip
+- Valis I - the Fantasm Soldier.zip
+- Valis III.zip
+- Vapor Trail - Hyper Offence Formation.zip
+- Vectorman I.zip
+- Vectorman II.zip
+- Verytex.zip
+- Viewpoint.zip
+- Virtua Fighter II.zip
+- Virtua Racing.zip
+- Virtual Pinball.zip
+- Vixen 357.zip
+- VR Troopers.zip
+- Wacky Worlds - Creativity Studio.zip
+- Wani Wani World.zip
+- Wardner.zip
+- Warlock.zip
+- Warpspeed.zip
+- Warrior of Rome I.zip
+- Warrior of Rome II.zip
+- Warsong.zip
+- Water Margin - A Tale of Clouds and Wind.zip
+- Wayne Gretzsky Nhlpa All-stars.zip
+- Wayne's World.zip
+- Weaponlord.zip
+- We're Back! - A Dinosaur's Tale.zip
+- Whac-A-Critter.zip
+- Wheel of Fortune.zip
+- Where in the World is Carmen Sandiego.zip
+- Where in Time is Carmen Sandiego.zip
+- Whip Rush 2222 AD.zip
+- Wild Snake.zip
+- Williams Arcade's Greatest Hits.zip
+- Wimbledon Championship Tennis.zip
+- Wings of Wor.zip
+- Winter Challenge.zip
+- Wiz 'n' Liz.zip
+- Wolfchild.zip
+- Wolverine - Adamantium Rage.zip
+- Wonder Boy III - Monster Lair.zip
+- Wonder Boy in Monster World.zip
+- World Championship Soccer I.zip
+- World Championship Soccer II.zip
+- World Class Leaderboard Golf.zip
+- World Cup USA '94.zip
+- World Heroes.zip
+- World Series Baseball '95.zip
+- World Series Baseball '96.zip
+- World Series Baseball '98.zip
+- World Series Baseball.zip
+- World Trophy Soccer.zip
+- Worms.zip
+- Wrestle War.zip
+- WWF RAW.zip
+- WWF Royal Rumble.zip
+- WWF Super WrestleMania.zip
+- WWF WrestleMania - The Arcade Game.zip
+- XDR - X-Dazedly-Ray.zip
+- Xenon II - Megablast.zip
+- X-Men I.zip
+- X-Men II - Clone Wars.zip
+- X-Perts.zip
+- Yogi Bear's Cartoon Capers.zip
+- Young Indiana Jones - Instrument of Ch.zip
+- Ys III - Wanderers From Ys.zip
+- Yuu Yuu Hakusho - Sunset Fighters.zip
+- Zany Golf.zip
+- Zero The Kamikaze Squirrel.zip
+- Zero Tolerance.zip
+- Zero Wing.zip
+- Zombies Ate My Neighbors.zip
+- Zool.zip
+- Zoom!.zip
+- Zoop.zip
+
+---
+
+## Nintendo 64 (163 jogos)
+
+- 007 - GoldenEye.n64
+- 007 - The World Is Not Enough.n64
+- 40 Winks (Proto).n64
+- A, Bug's Life.n64
+- AeroFighters Assault.n64
+- AeroGauge.n64
+- Air Boarder 64.n64
+- All Star Tennis '99.n64
+- All-Star Baseball 2001.n64
+- Armorines - Project S.W.A.R.M..n64
+- Army Men - Air Combat.n64
+- Army Men - Sarge's Heroes 2.n64
+- Automobili Lamborghini.n64
+- Batman of the Future - Return of the Joker.n64
+- BattleTanx - Global Assault.n64
+- Beetle Adventure Racing!.n64
+- Big Mountain 2000.n64
+- Bio F.R.E.A.K.S..n64
+- Blast Corps.n64
+- Blues Brothers 2000.n64
+- Body Harvest.n64
+- Bomberman 64 - The Second Attack!.n64
+- Bomberman 64.n64
+- Bomberman Hero.n64
+- Bottom of the 9th.n64
+- Brunswick Circuit Pro Bowling.n64
+- Buck Bumble.n64
+- Bust-A-Move '99.n64
+- California Speed.n64
+- Carmageddon 64.n64
+- Castlevania.n64
+- Centre Court Tennis.n64
+- Chameleon Twist 2.n64
+- Charlie Blast's Territory.n64
+- Chopper Attack.n64
+- Clay Fighter - Sculptor's Cut.n64
+- Cruis'n Exotica.n64
+- Cruis'n USA.n64
+- Cruis'n World.n64
+- CyberTiger.n64
+- Daffy Duck Starring as Duck Dodgers.n64
+- Deadly Arts.n64
+- Destruction Derby 64.n64
+- Diddy Kong Racing.n64
+- Donald Duck - Goin' Quackers.n64
+- Doom 64.n64
+- Dr. Mario 64.n64
+- Dual Heroes.n64
+- Duck Dodgers Starring Daffy Duck.n64
+- Duke Nukem 64.n64
+- Earthworm Jim 3D.n64
+- Excitebike 64.n64
+- Extreme-G XG2.n64
+- F1 Racing Championship.n64
+- FIFA 99.n64
+- Fighter Destiny 2.n64
+- Fighting Force 64.n64
+- Flying Dragon.n64
+- Fox Sports College Hoops '99.n64
+- F-Zero X.n64
+- G.A.S.P!! Fighters' NEXTream.n64
+- Gauntlet Legends.n64
+- Glover.n64
+- Goemon's Great Adventure.n64
+- Golden Nugget 64.n64
+- GT64 - Championship Edition.n64
+- Harvest Moon 64.n64
+- Hey You, Pikachu!.n64
+- Holy Magic Century.n64
+- HSV Adventure Racing!.n64
+- Hybrid Heaven.n64
+- Iggy's Reckin' Balls.n64
+- In-Fisherman - Bass Hunter 64.n64
+- International Superstar Soccer 2000.n64
+- International Track & Field - Summer Games.n64
+- Jeremy McGrath Supercross 2000.n64
+- John Romero's Daikatana.n64
+- Ken Griffey Jr.'s Slugfest.n64
+- Killer Instinct Gold.n64
+- Knife Edge - Nose Gunner.n64
+- Knockout Kings 2000.n64
+- Kobe Bryant in NBA Courtside.n64
+- LEGO Racers.n64
+- Lode Runner 3-D.n64
+- Mace - The Dark Age.n64
+- Madden NFL 2002.n64
+- Magical Tetris Challenge.n64
+- Mario Golf.n64
+- Mario Kart 64.n64
+- Mario Tennis.n64
+- Mini Racers (Proto).n64
+- Mischief Makers.n64
+- Monopoly.n64
+- Monster Truck Madness 64.n64
+- Mortal Kombat 4.n64
+- Mortal Kombat Mythologies - Sub-Zero.n64
+- MRC - Multi Racing Championship.n64
+- Ms. Pac-Man - Maze Madness.n64
+- Mystical Ninja 2 Starring Goemon.n64
+- Nagano Winter Olympics '98.n64
+- NASCAR 2000.n64
+- NBA in the Zone 2000.n64
+- NBA Live 2000.n64
+- NFL QB Club 2001.n64
+- NHL 99.n64
+- NHL Blades of Steel '99.n64
+- O.D.T. (Proto).n64
+- Operation WinBack.n64
+- Paperboy.n64
+- Penny Racers.n64
+- PGA European Tour Golf.n64
+- Pilotwings 64.n64
+- Pokemon Snap.n64
+- Pokemon Stadium.n64
+- Polaris SnoCross.n64
+- Power Rangers - Lightspeed Rescue.n64
+- Premier Manager 64.n64
+- Quake II.n64
+- Rally Challenge 2000.n64
+- Rampage 2 - Universal Tour.n64
+- Rayman 2 - The Great Escape.n64
+- Razor Freestyle Scooter.n64
+- Re-Volt.n64
+- Roadsters.n64
+- Rocket - Robot on Wheels.n64
+- Rugrats in Paris - The Movie.n64
+- Rush 2 - Extreme Racing USA.n64
+- S.C.A.R.S..n64
+- San Francisco Rush 2049.n64
+- Snowboard Kids 2.n64
+- Star Soldier - Vanishing Earth.n64
+- Starshot - Space Circus Fever.n64
+- Super Bowling.n64
+- Super Mario 64.n64
+- Supercross 2000.n64
+- Superman.n64
+- Tarzan.n64
+- Taz Express.n64
+- The New Tetris.n64
+- Tigger's Honey Hunt.n64
+- Tom and Jerry in Fists of Furry.n64
+- Tom Clancy's Rainbow Six.n64
+- Tommy Thunder (Proto).n64
+- Tony Hawk's Skateboarding.n64
+- Top Gear Hyper-Bike.n64
+- Top Gear Rally 2.n64
+- Toy Story 2 - Buzz Lightyear to the Rescue!.n64
+- Transformers - Beast Wars Transmetals.n64
+- Turok - Rage Wars.n64
+- Twisted Edge - Extreme Snowboarding.n64
+- Virtual Chess 64.n64
+- Virtual Pool 64.n64
+- V-Rally Edition 99.n64
+- Waialae Country Club - True Golf Classics.n64
+- War Gods.n64
+- Wave Race 64.n64
+- WCW Nitro.n64
+- WCW-nWo Revenge.n64
+- Wildwaters (Proto).n64
+- WinBack - Covert Operations.n64
+- Wipeout 64.n64
+- Worms Armageddon.n64
+- Xena - Warrior Princess - The Talisman of Fate.n64
+
+---
+
+## Nintendo DS (15 jogos)
+
+- Assassin's Creed - Altair's Chronicles.zip
+- Grand Theft Auto - Chinatown Wars.zip
+- LEGO Batman 2 - DC Super Heroes.zip
+- LEGO Harry Potter.zip
+- LEGO Star Wars III - The Clone Wars.zip
+- Mario & Luigi - Partners in Time.zip
+- Mario Kart DS.zip
+- Need for Speed - Underground 2.zip
+- New Super Mario Bros.zip
+- Pokemon - Black Version.zip
+- Pokemon Diamond.zip
+- Rayman DS.zip
+- Spider-Man 2.zip
+- Star Wars Episode III - Revenge of the Sith.zip
+- Super Mario 64 DS.zip
+
+---
+
+## Neo Geo (101 jogos)
+
+- 2020bb.zip
+- 3countb.zip
+- androdun.zip
+- aodk.zip
+- bangbead.zip
+- bjourney.zip
+- blazstar.zip
+- breakers.zip
+- breakrev.zip
+- bstars.zip
+- bstars2.zip
+- burningf.zip
+- crsword.zip
+- ctomaday.zip
+- doubledr.zip
+- eightman.zip
+- fbfrenzy.zip
+- flipshot.zip
+- ganryu.zip
+- ghostlop.zip
+- goalx3.zip
+- gowcaizr.zip
+- gpilots.zip
+- gururin.zip
+- irrmaze.zip
+- jockeygp.zip
+- joyjoy.zip
+- kabukikl.zip
+- karnovr.zip
+- kizuna.zip
+- lastblad.zip
+- lastbld2.zip
+- lbowling.zip
+- legendos.zip
+- lresort.zip
+- magdrop2.zip
+- magdrop3.zip
+- maglord.zip
+- miexchng.zip
+- mutnat.zip
+- nam1975.zip
+- ncombat.zip
+- ncommand.zip
+- neobombe.zip
+- neocup98.zip
+- neodrift.zip
+- neogeo.zip
+- neomrdo.zip
+- neonopon.zip
+- neopong.zip
+- ninjamas.zip
+- nitd.zip
+- overtop.zip
+- panicbom.zip
+- pbobbl2n.zip
+- pbobblen.zip
+- pgoal.zip
+- popbounc.zip
+- pspikes2.zip
+- pulstar.zip
+- puzzledp.zip
+- ragnagrd.zip
+- rbff1.zip
+- rbff2.zip
+- rbffspec.zip
+- ridhero.zip
+- roboarmy.zip
+- savagere.zip
+- sdodgeb.zip
+- sengoku.zip
+- sengoku2.zip
+- sengoku3.zip
+- shocktr2.zip
+- socbrawl.zip
+- sonicwi3.zip
+- spinmast.zip
+- spy.zip
+- ssideki.zip
+- ssideki2.zip
+- ssideki3.zip
+- ssideki4.zip
+- stakwin.zip
+- stakwin2.zip
+- strhoop.zip
+- superspy.zip
+- svcsplus.zip
+- tophuntr.zip
+- tpgolf.zip
+- trally.zip
+- turfmast.zip
+- twinspri.zip
+- viewpoin.zip
+- wakuwak7.zip
+- wh1.zip
+- wh2.zip
+- wh2j.zip
+- whp.zip
+- wjammers.zip
+- zedblade.zip
+- zintrkcd.zip
+- zupapa.zip
+
+
+---
+
+## Nintendo Entertainment System - NES (6696 jogos)
+
+- 001 Super Mario Bros.nes
+- 002 Super Mario World.nes
+- 003 Super Mario Bros. 3.nes
+- 004 Super Mario Bros 2.nes
+- 005 Super Mario Bros IV.nes
+- 006 Dr. Mario.nes
+- 007 Super Mario Bros. 2.nes
+- 008 Mario Open Golf.nes
+- 009 Mario Wrecking Crew.nes
+- 010 Mario's Time Machine!.nes
+- 011 Mario Bros.nes
+- 012 Mario is Missing!.nes
+- 013 Super Mario Bros 6.nes
+- 014 Super Mario World 9.nes
+- 015 Super Mario 14.nes
+- 016 Mario 16.nes
+- 017 Super Mario BT.nes
+- 018 Kamikaze Mario Bros..nes
+- 019 Kamikaze Mario Bros. 2.nes
+- 020 Mario TV.nes
+- 021 Contra.nes
+- 022 Super Contra.nes
+- 023 Contra Force.nes
+- 024 Contra-Special II.nes
+- 025 Super Contra 5.nes
+- 026 Double Dragon.nes
+- 027 Double Dragon II-The Revenge.nes
+- 028 Double Dragon III-The Sacred Stones.nes
+- 029 Rockman 1.nes
+- 030 Rockman 3.nes
+- 031 Rockman 4.nes
+- 032 Rockman 5.nes
+- 033 Rockman 7.nes
+- 034 Battle City.nes
+- 035 Snow Brothers.nes
+- 036 Power Blade 1.nes
+- 037 Power Blade 2.nes
+- 038 Teenage Mutant Hero Turtles.nes
+- 039 Teenage Mutant Hero Turtles II.nes
+- 040 Teenage Mutant Ninja Turtles III.nes
+- 041 G.I. Joe-A Real American Hero.nes
+- 042 G.I. Joe-The Atlantis Factor.nes
+- 043 Kage.nes
+- 044 The Legend of Kage.nes
+- 045 Tetris.nes
+- 046 Tetris 2.nes
+- 047 Tetris 2+Bombliss.nes
+- 048 Tetris 2 -Tengen.nes
+- 049 Tetris Game.nes
+- 050 Soccer.nes
+- 051 Tiny Toon Adventures.nes
+- 052 Tiny Toon Adventures 2.nes
+- 053 Bubble Bobble Part 2.nes
+- 054 Metal Storm.nes
+- 055 RoboCop.nes
+- 056 RoboCop 2.nes
+- 057 RoboCop Vs The Terminator.nes
+- 058 Tekken 2.nes
+- 059 Ikari Warriors.nes
+- 060 Ikari Warriors 2.nes
+- 061 Ikari Warriors II-Victory Road.nes
+- 062 Ikari III-The Rescue.nes
+- 063 Journey to Silius.nes
+- 064 Kirby's Adventure.nes
+- 065 Hudson's Adventure Island.nes
+- 066 Hudson's Adventure Island II.nes
+- 067 Hudson's Adventure Island III.nes
+- 068 Kick Master.nes
+- 069 Castlevania.nes
+- 070 Castlevania 2.nes
+- 071 Castlevania 3-Dracula's Curse.nes
+- 072 Ninja Gaiden 1.nes
+- 073 Ninja Gaiden 2.nes
+- 074 Ninja Gaiden 3.nes
+- 075 Ninja Crusaders.nes
+- 076 Ninja Crusaders-Ryuuga.nes
+- 077 Ms. Pac-Man.nes
+- 078 Pac-Land.nes
+- 079 Pokemon Blue.nes
+- 080 Pokemon Green.nes
+- 081 Pokemon 2000.nes
+- 082 Pokemon 4in1.nes
+- 083 Punisher.nes
+- 084 Angry Birds.nes
+- 085 Angry Bird 2.nes
+- 086 Angry bird 3.nes
+- 087 Angry Bird 4.nes
+- 088 Bomberman.nes
+- 089 Bomberman II.nes
+- 090 Bomberman-Killerman.nes
+- 091 The Battle of Valhalla-1943.nes
+- 092 Cross Fire.nes
+- 093 Duck Tales 1.nes
+- 094 Duck Tales 2.nes
+- 095 Darkwing Duck.nes
+- 096 Mickey Mania 7.nes
+- 097 Donkey Kong Jr. Math.nes
+- 098 King Kong 2.nes
+- 099 Chip 'n Dale Rescue Rangers.nes
+- 100 Exed Exes.nes
+- 101 Fire 'n Ice.nes
+- 102 Shadow of the Ninja.nes
+- 103 Airwolf.nes
+- 104 Silk Worm.nes
+- 105 Batman.nes
+- 106 Dynamite Batman.nes
+- 107 Batman Returns.nes
+- 108 Cobra Command.nes
+- 109 Spider-Man-Return of the Sinister Six.nes
+- 10-Yard Fight (USA  Europe).nes
+- 110 Little Nemo-The Dream Master.nes
+- 111 Alien 3.nes
+- 112 Astro Robo Sasa.nes
+- 113 Back to the Future.nes
+- 114 Back to the Future Part II & III.nes
+- 115 Bad Dudes.nes
+- 116 Battletoads & Double Dragon-The Ultimate Team.nes
+- 117 Battletoads.nes
+- 118 Bee 52.nes
+- 119 Blaster Master.nes
+- 120 B-Wings.nes
+- 121 Road Runner.nes
+- 122 Lode Runner.nes
+- 123 Lode Runner 2.nes
+- 124 Jackie Chan's Action Kung Fu.nes
+- 125 Kung Fu.nes
+- 126 Dig Dug II.nes
+- 127 RoadBlasters.nes
+- 128 Tom & Jerry (and Tuffy).nes
+- 129 Tom & Jerry 3.nes
+- 130 Captain America and The Avengers.nes
+- 131 Captain Planet and the Planeteers.nes
+- 132 Street Fighter 12 Peoples.nes
+- 133 Street Fighter 16 Peoples.nes
+- 134 Street Fighter 2010-The Final Fight.nes
+- 135 Street Fighter III(13 Peoples).nes
+- 136 Street Fighter V(10 Peoples).NES
+- 137 ce Hockey.nes
+- 138 S.C.A.T.-Special Cybernetic Attack Team.nes
+- 139 Kyuukyoku Tiger.nes
+- 140 Eliminator Boat Duel.nes
+- 141 100 Man Dollar Kid-Maboroshi no Teiou Hen.nes
+- 142 8 Eyes.nes
+- 143 A Boy and His Blob-Trouble on Blobolonia.nes
+- 144 Abado X.nes
+- 145 Adventures in the Magic Kingdom.nes
+- 146 Adventures of Lolo 1.nes
+- 147 Adventures of Lolo 2.nes
+- 148 Adventures of Lolo 3.nes
+- 149 Adventures of Rad Gravity.nes
+- 150 After Burner.nes
+- 151 Air Fortress.nes
+- 152 Aladdin 3.nes
+- 153 Alfred Chicken.nes
+- 154 Alien Syndrome.nes
+- 155 Alpha Mission.nes
+- 156 Amagon.nes
+- 157 American Dream.nes
+- 158 American Gladiators.nes
+- 159 Antarctic Adventure.nes
+- 160 Arch Rivals-A Basket Brawl!.nes
+- 161 Arctic.nes
+- 162 Argos no Senshi.nes
+- 163 Arkanoid 1.nes
+- 164 Arkanoid 2.nes
+- 165 Arkista's Ring.nes
+- 166 Armadillo.nes
+- 167 Asmik-kun Land.nes
+- 168 Athena.nes
+- 169 Attack Animal Gakuen.nes
+- 170 Attack of the Killer Tomatoes.nes
+- 171 Bad Street Brawler.nes
+- 172 Ballblazer.nes
+- 173 Baltron.nes
+- 174 Banana Prince.nes
+- 175 Banana.nes
+- 176 Bandai Golf-Challenge Pebble Beach.nes
+- 177 Barbie.nes
+- 178 Baseball Fighter.nes
+- 179 Baseball Simulator 1.000.nes
+- 180 Baseball.nes
+- 181 Bases Loaded.nes
+- 182 Batsu & Terry.nes
+- 183 Battle Chess.nes
+- 184 Battle Fleet.nes
+- 185 Battle Formula.nes
+- 186 Battle of Midway1942.nes
+- 187 Battle Storm.nes
+- 188 Battleship.nes
+- 189 Battletank.nes
+- 190 Beetlejuice.nes
+- 191 Bible Adventures.nes
+- 192 Big Nose the Caveman.nes
+- 193 Bionic Commando.nes
+- 194 Bird Week.nes
+- 1942 (Japan  USA).nes
+- 1942.zip
+- 1942??????.zip
+- 1942???.zip
+- 1943 - The Battle of Midway (USA).nes
+- 1943.zip
+- 1943???????beta??.zip
+- 1943?????????.zip
+- 1943?????????.zip
+- 1944.zip
+- 1944???.zip
+- 1944??????????????????????.zip
+- 1945.zip
+- 195 Blodia Land-Puzzle Quest.nes
+- 196 Bokosuka Wars.nes
+- 197 Bonk's Adventure.nes
+- 198 Boulder Dash.nes
+- 199 Break Time-The National Pool Tour.nes
+- 1991 Du Ma Racing (Asia) (Unl) (T).zip
+- 1991 Du Ma Racing (Asia) (Unl).zip
+- 1991?????.zip
+- 200 BreakThru.nes
+- 201 Brush Roller.nes
+- 202 Bucky O'Hare.nes
+- 203 Bugs Bunny Blowout.nes
+- 204 Bugs Bunny Fun House.nes
+- 205 Bump'n'Jump.nes
+- 206 Burger Time.nes
+- 207 Cabal.nes
+- 208 Cadillac.nes
+- 209 Capcom Barcelona'92.nes
+- 210 Captain Saver.nes
+- 211 Captain Tsubasa 2.nes
+- 212 Captain Tsubasa.nes
+- 213 Casino Derby.nes
+- 214 Casino Kid 2.nes
+- 215 Casino Kid.nes
+- 216 Castle Excellent.nes
+- 217 Castle of Deceit.nes
+- 218 Castle of Dragon.nes
+- 219 Caveman Games.nes
+- 220 Chack 'n Pop.nes
+- 221 Challenge of the Dragon.nes
+- 222 Challenger.nes
+- 223 Championship Bowling.nes
+- 224 Championship Pool.nes
+- 225 Cheetahmen II.nes
+- 226 Chester Field.nes
+- 227 Chitei Senkuu Vazolder.nes
+- 228 Choujin Sentai-Jetman.nes
+- 229 Chubby Cherub.nes
+- 230 Circus Caper.nes
+- 231 City Adventure Touch-Mystery of Triangle.nes
+- 232 Clash at Demonhead.nes
+- 233 Cliffhanger.nes
+- 234 Clu Clu Land.nes
+- 235 Color a Dinosaur.nes
+- 236 Columbus-Ougon no Yoake.nes
+- 237 Commando.nes
+- 238 Conan.nes
+- 239 Conquest of the Crystal Palace.nes
+- 240 Cosmo Genesis.nes
+- 241 Crackout.nes
+- 242 Crash 'n the Boys-Street Challenge.nes
+- 243 Crash Dummies.nes
+- 244 Crayon Shin-Chan-Ora to Poi Poi.nes
+- 245 Crazy Climber.nes
+- 246 Cyberball.nes
+- 247 Cybernoid-The Fighting Machine.nes
+- 248 Daiva-Imperial of Nirsartia.nes
+- 249 Darkman.nes
+- 250 Dash Galaxy in the Alien Asylum.nes
+- 251 Deblock.nes
+- 252 Defender II.nes
+- 253 Defenders of Dynatron City.nes
+- 254 Demon Sword.nes
+- 255 Destination Earthstar.nes
+- 256 Dick Tracy.nes
+- 257 Die Hard.nes
+- 258 Digger T. Rock-The Legend of the Lost City.nes
+- 259 Dirty Harry.nes
+- 25th Anniversary Super Mario Bros. (Europe) (Promo  Virtual Console).nes
+- 25th Anniversary Super Mario Bros. (Europe) (Promo Virtual Console).zip
+- 260 Don Doko Don.nes
+- 261 Door Door.nes
+- 262 Double Dare.nes
+- 263 Double Dribble.nes
+- 264 Dough Boy.nes
+- 265 Downtown Special.nes
+- 266 Dr. Jekyll and Mr. Hyde.nes
+- 267 Dragon Ball 3-Gokuu Den.nes
+- 268 Dragon Ball Party 4 In 1.nes
+- 269 Dragon Ball Z-Kyoushuu! Saiya Jin.nes
+- 270 Dragon Buster 4.nes
+- 271 Dragon Buster II.nes
+- 272 Dragon Fighter.nes
+- 273 Dragon Scroll-Yomigaerishi Maryuu.nes
+- 274 Dragon Spirit-Aratanaru Densetsu.nes
+- 275 Dragon Spirit-The New Legend.nes
+- 276 Dragon Warrior-Part II.nes
+- 277 Dragon's Lair 1.nes
+- 278 Dropzone.nes
+- 279 Duck Maze.nes
+- 280 Dudes With Attitude.nes
+- 281 Dusty Diamond's All-Star Softball.nes
+- 282 Dynablaster.nes
+- 283 Dynamite Bowl.nes
+- 284 Dynowarz-Destruction of Spondylus.nes
+- 285 Earthwhorm Jim 3.nes
+- 286 Eggerland-Meikyuu no Fukkatsu.nes
+- 287 Egypt.nes
+- 288 Elevator Action.nes
+- 289 Erika to Satoru no Yume Bouken.nes
+- 290 Erunaaku no Zaihou.nes
+- 291 Esper Bouken Tai.nes
+- 292 Excitebike.nes
+- 293 Exciting Boxing.nes
+- 294 Exciting Rally - World Rally Championship.nes
+- 295 Exerion.nes
+- 296 Exodus-Journey to the Promised Land.nes
+- 297 F-15 Strike Eagle.nes
+- 298 Famicom Doubutsu Seitai Zukan!.nes
+- 299 Family Pinball.nes
+- 3 in 1 Supergun (Asia) (Unl).nes
+- 300 Fantastic Adventures of Dizzy.nes
+- 301 Fantasy Zone.nes
+- 302 Fatal Fury Special.nes
+- 303 Felix the Cat.nes
+- 304 Field Combat.nes
+- 305 Fisher-Price-Firehouse Rescue.nes
+- 306 Fisher-Price-I Can Remember.nes
+- 307 Fisher-Price-Perfect Fit.nes
+- 308 Fishwar.nes
+- 309 Flappy.nes
+- 310 Flintstones, The Rescue of Dino & Hoppy.nes
+- 311 Flipull-An Exciting Cube Game.nes
+- 312 Formation Z.nes
+- 313 Friday the 13th.nes
+- 314 Galactic Crusader.nes
+- 315 Gauntlet.nes
+- 316 Geimos.nes
+- 317 Gekitotsu Yonku Battle.nes
+- 318 Gekitou Stadium!!.nes
+- 319 George Foreman's KO Boxing.nes
+- 320 Getsufuu Maden.nes
+- 321 Ghostbusters 1.nes
+- 322 Ghostbusters 2.nes
+- 323 Ghosts'n Goblins.nes
+- 324 Ghoul School.nes
+- 325 Gird Dance.nes
+- 326 Golgo 13-Top Secret Episode.nes
+- 327 Goonies II.nes
+- 328 Gorby no Pipeline Daisakusen.nes
+- 329 Grand Master.nes
+- 330 Great Battle Cyber.nes
+- 331 Great Tank.nes
+- 332 Gremlins 2-The New Batch.nes
+- 333 Gremlins 2.nes
+- 334 Gun Nac.nes
+- 335 Gun-Dec.nes
+- 336 Gyrodine.nes
+- 337 Gyromite.nes
+- 338 Gyruss.nes
+- 339 Hammerin' Harry.nes
+- 340 Hana no Star Kaidou.nes
+- 341 Happy Birthday Bugs.nes
+- 342 Hassle.nes
+- 343 Hatris.nes
+- 344 Heavy Barrel.nes
+- 345 Hebereke.nes
+- 346 Hector 87.nes
+- 347 Hell Fighter.nes
+- 348 High Speed.nes
+- 349 Holy Diver.nes
+- 350 Home Alone 2.nes
+- 351 Hotman.nes
+- 352 Hudson Hawk.nes
+- 353 Hyper Olympic.nes
+- 354 Insector X.nes
+- 355 Ironsword - Wizards & Warriors II.nes
+- 356 Isolated Warrior.nes
+- 357 Jackal.nes
+- 358 James Bond Jr.nes
+- 359 Jeopardy! 25th Anniversary Edition.nes
+- 360 Joe & Mac-Caveman Ninja.nes
+- 361 John Elway's Quarterback.nes
+- 362 Joshua & the Battle of Jericho.nes
+- 363 Jurassic Boy 2.nes
+- 364 Jurassic Park.nes
+- 365 Juuouki.nes
+- 366 Karate Champ.nes
+- 367 Karateka.nes
+- 368 Karnov.nes
+- 369 Kid Icarus-Angel Land Story.nes
+- 370 Kid Klown-in Night Mayor World.nes
+- 371 Kid Niki-Radical Ninja.nes
+- 372 King's Knight.nes
+- 373 Kiwi Kraze-A Bird-Brained Adventure!.nes
+- 374 Krazy Kreatures.nes
+- 375 Krion Conquest.nes
+- 376 Krusty's Fun House.nes
+- 377 Kujaku Ou 2.nes
+- 378 Kujaku Ou.nes
+- 379 Kyonsees 2.nes
+- 380 Labyrinth.nes
+- 381 Last Action Hero.nes
+- 382 Layla.nes
+- 383 Legendary Wings.nes
+- 384 Lethal Weapon.nes
+- 385 Little Samson.nes
+- 386 Locksmith.nes
+- 387 Lone Ranger.nes
+- 388 Lost Word of Jenny.nes
+- 389 Low G Man-The Low Gravity Man.nes
+- 390 Low G Man.nes
+- 391 Lunar Pool.nes
+- 392 Lupin Sansei-Pandora no Isan.nes
+- 393 M.C Kids.nes
+- 394 Mach Rider.nes
+- 395 Mad Max.nes
+- 396 Magic Block.nes
+- 397 Magic Jewelry.nes
+- 398 Magmax.nes
+- 399 Maharaja.nes
+- 3-D Block (Asia) (Hwang Shinwei) (Unl).nes
+- 3-D Block (Asia) (RCM Group) (Unl).nes
+- 3-D WorldRunner (USA).nes
+- 3d?????.zip
+- 3d????????.zip
+- 3d?????????.zip
+- 3d?????????1.zip
+- 400 Mahjang Companion.nes
+- 401 Mahjong RPG Dora 3.nes
+- 402 Majaventure-Mahjong Senki.nes
+- 403 Mappy-Land.nes
+- 404 Marble Madness.nes
+- 405 Master Chu & Drunkard Hu-Dao Shuai.nes
+- 406 Master Chu & The Drunkard Hu.nes
+- 407 Master Fighter II-The Horld Harrior.nes
+- 408 Mechanized Attack.nes
+- 409 Meikyuu Jima.nes
+- 410 Metal Fighter.nes
+- 411 Metro-Cross.nes
+- 412 Micro Machines.nes
+- 413 Mighty Bomb Jack.nes
+- 414 Mighty Final Fight.nes
+- 415 Millipede.nes
+- 416 Milon's Secret Castle.nes
+- 417 Miracle Ropit's Adventure in 2100.nes
+- 418 Mission Impossible 1.nes
+- 419 Mission Impossible 2.nes
+- 420 Mito Koumon-Sekai Manyuu Ki.nes
+- 421 Moai Kun.nes
+- 422 Moero!! Juudou Warriors.nes
+- 423 Monster Party.nes
+- 424 Monster Truck Rally.nes
+- 425 Mottomo Abunai Deka.nes
+- 426 Mr. Gimmick.nes
+- 427 Mystery Quest.nes
+- 428 NARC.nes
+- 429 Navy Blue.nes
+- 430 Nekketsu Kouha Kunio Kun.nes
+- 431 Nekketsu! Street Basket-Ganbare Dunk Heroes.nes
+- 432 New Ghostbusters II.nes
+- 433 Nightshade.nes
+- 434 Ninja Hattori Kun.nes
+- 435 Ninja Kun - Ashura no Shou.nes
+- 436 Noah's Ark.nes
+- 437 Nuts & Milk.nes
+- 438 Onyanko Town.nes
+- 439 Operation Wolf.nes
+- 440 Othello.nes
+- 441 Over Horizon.nes
+- 442 Paaman Part 2.nes
+- 443 Pachi Com.nes
+- 444 Palamedes.nes
+- 445 Panic Restaurant.nes
+- 446 Paperboy 1.nes
+- 447 Paperboy 2.nes
+- 448 Parallel World.nes
+- 449 Parasol Stars.nes
+- 450 Peek-A-Boo Poker.nes
+- 451 Penguin Kun Wars.nes
+- 452 Perfect Bowling.nes
+- 453 Perman Part 2.nes
+- 454 Pesterminator.nes
+- 455 Peter Pan & The Pirates.nes
+- 456 Peter Pan and The Pirates.nes
+- 457 Pinball.nes
+- 458 Pipe Dream.nes
+- 459 Plants Vs Zomb.nes
+- 460 Plants vs. Zombies.nes
+- 461 Plasma Ball.nes
+- 462 Platoon.nes
+- 463 Pocket Zaurus-Juu Ouken no Nazo.nes
+- 464 Poker III 5 in 1.nes
+- 465 Power Soccer.nes
+- 466 Predator.nes
+- 467 Punch-Out!.nes
+- 468 Puzznic.nes
+- 469 Pyokotan no Dai Meiro.nes
+- 470 Q-bert.nes
+- 471 Quarth.nes
+- 472 Quattro Adventure.nes
+- 473 Quattro Arcade.nes
+- 474 Raid on Bungeling Bay.nes
+- 475 Rainbow Islands.nes
+- 476 Rampage.nes
+- 477 Red Arremar 2.nes
+- 478 Red Pig.nes
+- 479 Rescue-The Embassy Mission.nes
+- 480 River City Ransom.nes
+- 481 Robo Warrior.nes
+- 482 Robodemons.nes
+- 483 Rocketeer.nes
+- 484 Rockin' Kats.nes
+- 485 Rod Land.nes
+- 486 Rollerblade Racer.nes
+- 487 Rollergames.nes
+- 488 Rolling Thunder.nes
+- 489 Route-16 Turbo.nes
+- 490 Rush'n Attack.nes
+- 491 Salamander 1.nes
+- 492 Salamander 2.nes
+- 493 Salamander 3.nes
+- 494 Samurai Zombie Nation.nes
+- 495 Secret Ties.nes
+- 496 Seicross.nes
+- 497 Sesame Street Countdown.nes
+- 498 Shanghai 1.nes
+- 499 Shanghai 2.nes
+- 4???.zip
+- 4??????.zip
+- 500 Shatterhand.nes
+- 720 Degrees (USA).nes
+- 75??.zip
+- 76?1.zip
+- 8 Eyes (USA).nes
+- 89?????????.zip
+- 8eyes???.zip
+- 91?????????.zip
+- 93???.zip
+- 93?????.zip
+- 99?????????.zip
+- 9???.zip
+- Abadox - The Deadly Inner War (USA).zip
+- Abadox (U) (PT-BR).zip
+- Action 52 (USA) (Rev A) (Unl).zip
+- Action 52 (USA) (Unl).nes
+- Action 52 (USA) (Unl).zip
+- Action in New York (Europe).nes
+- Action in New York (Europe).zip
+- Adan y Eva (Spain) (Gluk Video) (Unl).zip
+- Addams Family  The - Pugsley's Scavenger Hunt (Europe) (Beta).nes
+- Addams Family  The - Pugsley's Scavenger Hunt (Europe).nes
+- Addams Family  The - Pugsley's Scavenger Hunt (USA).nes
+- Addams Family  The - Uncle Fester's Quest (USA) (Beta).nes
+- Addams Family  The (Europe) (En Fr De).nes
+- Addams Family  The (USA).nes
+- Addams Family The - Pugsley's Scavenger Hunt (Europe) (Beta).zip
+- Addams Family The - Pugsley's Scavenger Hunt (Europe).zip
+- Addams Family The - Pugsley's Scavenger Hunt (USA).zip
+- Addams Family The - Uncle Fester's Quest (USA) (Beta).zip
+- Addams Family The (Europe) (En Fr De).zip
+- Addams Family The (U) (PT-BR).zip
+- Addams Family The (USA).zip
+- Advanced Dungeons & Dragons - Dragon Strike (U) [!] [T-BR] [T-Balboa G-Monkey's Traducoes] [V-1.0 P-100% A-2009].zip
+- Advanced Dungeons & Dragons - DragonStrike (USA).nes
+- Advanced Dungeons & Dragons - DragonStrike (USA).zip
+- Advanced Dungeons & Dragons - Heroes of the Lance (USA) (Beta).nes
+- Advanced Dungeons & Dragons - Heroes of the Lance (USA) (Beta).zip
+- Advanced Dungeons & Dragons - Heroes of the Lance (USA).nes
+- Advanced Dungeons & Dragons - Heroes of the Lance (USA).zip
+- Advanced Dungeons & Dragons - Hillsfar (USA).nes
+- Advanced Dungeons & Dragons - Hillsfar (USA).zip
+- Advanced Dungeons & Dragons - Pool of Radiance (USA).nes
+- Advanced Dungeons & Dragons - Pool of Radiance (USA).zip
+- Adventure Island 3 (USA).nes
+- Adventure Island 3 (USA).zip
+- Adventure Island Classic (Europe).nes
+- Adventure Island Classic (Europe).zip
+- Adventure Island II (USA).nes
+- Adventure Island II (USA).zip
+- Adventure Island Part II  The (Europe).nes
+- Adventure Island Part II The (Europe).zip
+- Adventures in the Magic Kingdom - Sora Edition.zip
+- Adventures in the Magic Kingdom (Europe).nes
+- Adventures in the Magic Kingdom (Europe).zip
+- Adventures in the Magic Kingdom (USA) (Beta 1).nes
+- Adventures in the Magic Kingdom (USA) (Beta 1).zip
+- Adventures in the Magic Kingdom (USA) (Beta 2).nes
+- Adventures in the Magic Kingdom (USA) (Beta 2).zip
+- Adventures in the Magic Kingdom (USA).nes
+- Adventures in the Magic Kingdom (USA).zip
+- Adventures of Bayou Billy  The (Europe).nes
+- Adventures of Bayou Billy  The (USA).nes
+- Adventures of Bayou Billy The (Europe).zip
+- Adventures of Bayou Billy The (USA).zip
+- Adventures of Dino Riki (USA).nes
+- Adventures of Dino Riki (USA).zip
+- Adventures of Dr. Franken  The (USA) (Proto).nes
+- Adventures of Dr. Franken The (USA) (Proto).zip
+- Adventures of Gilligan's Island  The (USA).nes
+- Adventures of Gilligan's Island The (USA).zip
+- Adventures of Lolo - Kopio (Lolo1 Hack).zip
+- Adventures of Lolo (Europe).nes
+- Adventures of Lolo (Europe).zip
+- Adventures of Lolo (USA).nes
+- Adventures of Lolo (USA).zip
+- Adventures of Lolo 2 (Europe).nes
+- Adventures of Lolo 2 (Europe).zip
+- Adventures of Lolo 2 (USA).nes
+- Adventures of Lolo 2 (USA).zip
+- Adventures of Lolo 2 Challenge Edition (U) [!].zip
+- Adventures of Lolo 2 CSTutor Full Hack (U) [!].zip
+- Adventures of Lolo 2 Remix (Hack).zip
+- Adventures of Lolo 3 (Europe).nes
+- Adventures of Lolo 3 (Europe).zip
+- Adventures of Lolo 3 (U) (PT-BR).zip
+- Adventures of Lolo 3 (USA).nes
+- Adventures of Lolo 3 (USA).zip
+- Adventures of Lolo 3 Eggerland Mystery Hack [!].zip
+- Adventures of Lolo Challenge Edition (U) [!].zip
+- Adventures of Rad Gravity  The (USA).nes
+- Adventures of Rad Gravity The (USA).zip
+- Adventures of Rocky and Bullwinkle and Friends  The (USA).nes
+- Adventures of Rocky and Bullwinkle and Friends The (USA).zip
+- Adventures of Tom Sawyer (USA).nes
+- Adventures of Tom Sawyer (USA).zip
+- After Burner (USA) (Unl).nes
+- After Burner (USA) (Unl).zip
+- Air Fortress (Europe).nes
+- Air Fortress (Europe).zip
+- Air Fortress (USA).nes
+- Air Fortress (USA).zip
+- Airball (Unknown) (Proto 1).zip
+- Airball (Unknown) (Proto 2).zip
+- Airwolf (Europe).nes
+- Airwolf (Europe).zip
+- Airwolf (USA).nes
+- Airwolf (USA).zip
+- Akumajou Densetsu (J) (PT-BR).zip
+- Al Unser Jr. Turbo Racing (USA).nes
+- Al Unser Jr. Turbo Racing (USA).zip
+- Aladdin (Europe).nes
+- Aladdin (Europe).zip
+- ALF Escapes!.zip
+- Alfombra Magica La (Spain) (Gluk Video) (Unl).zip
+- Alfonzo.zip
+- Alfred Chicken (Europe).nes
+- Alfred Chicken (Europe).zip
+- Alfred Chicken (USA).nes
+- Alfred Chicken (USA).zip
+- Alien 3 (Europe).nes
+- Alien 3 (Europe).zip
+- Alien 3 (USA).nes
+- Alien 3 (USA).zip
+- Alien 3.nes
+- Alien Syndrome (USA) (Unl).nes
+- Alien Syndrome (USA) (Unl).zip
+- Alien war.nes
+- All-Pro Basketball (USA).nes
+- All-Pro Basketball (USA).zip
+- Almost Hero.zip
+- Alpha Mission (Europe).nes
+- Alpha Mission (Europe).zip
+- Alpha Mission (USA).nes
+- Alpha Mission (USA).zip
+- Amagon (U) (PT-BR).zip
+- Amagon (USA).nes
+- Amagon (USA).zip
+- Anticipation (Europe).nes
+- Anticipation (Europe).zip
+- Anticipation (USA).nes
+- Anticipation (USA).zip
+- Arabian.zip
+- Arcadia VI (USA) (Proto).nes
+- Arcadia VI (USA) (Proto).zip
+- Arch Rivals - A Basketbrawl! (Europe).nes
+- Arch Rivals - A Basketbrawl! (Europe).zip
+- Arch Rivals - A Basketbrawl! (USA).nes
+- Arch Rivals - A Basketbrawl! (USA).zip
+- Archon (U).nes
+- Archon (USA).nes
+- Archon (USA).zip
+- Argus.zip
+- Arkanoid - Annoid (Arkanoid Hack).zip
+- Arkanoid - Bigball (Arkanoid Hack).zip
+- Arkanoid - Dimension of Doh (Hack).zip
+- Arkanoid - Nittere Brand Arkanoid by Rinkaku (Arkanoid Hack).zip
+- Arkanoid - Teknoid (Arkanoid Hack).zip
+- Arkanoid (J) (PT-BR).zip
+- Arkanoid (USA).nes
+- Arkanoid (USA).zip
+- Arkanoid 98 (Arkanoid Hack).zip
+- Arkista's Ring (USA).nes
+- Arkista's Ring (USA).zip
+- armadillo Mr.Magoo (PT-BR).zip
+- ASO - Armored Scrum Object (Japan) (En) (Sample).nes
+- Asterix (Europe) (En Fr De Es It).nes
+- Asterix (Europe) (En Fr De Es It).zip
+- Astyanax - The Movie.zip
+- Astyanax (Europe).nes
+- Astyanax (Europe).zip
+- Astyanax (U) (PT-BR).zip
+- Astyanax (USA) (Beta).nes
+- Astyanax (USA) (Beta).zip
+- Astyanax (USA).nes
+- Astyanax (USA).zip
+- Astyanax Remix by Googie (Hack).zip
+- Athena (USA).nes
+- Athena (USA).zip
+- Attack Animal Gakuen by Rinkaku (Hack).zip
+- Attack of the Killer Tomatoes (Europe).nes
+- Attack of the Killer Tomatoes (Europe).zip
+- Attack of the Killer Tomatoes (USA).nes
+- Attack of the Killer Tomatoes (USA).zip
+- Aussie Rules Footy (Australia).zip
+- Auto-Upturn (Asia) (PAL) (Unl).nes
+- Auto-Upturn (Asia) (PAL) (Unl).zip
+- AV Kyuukyoku Mahjong 2 (Asia) (Unl).nes
+- AV Kyuukyoku Mahjong 2 (Asia) (Unl).zip
+- AV Mahjong Club (Asia) (Unl).nes
+- AV Mahjong Club (Asia) (Unl).zip
+- B ?? (??) (??).nes
+- Baby Boomer (USA) (Unl).nes
+- Baby Boomer (USA) (Unl).zip
+- Back to the Future (Enhanced).zip
+- Back to the Future (USA).nes
+- Back to the Future (USA).zip
+- Back to the Future Part II & III (USA).nes
+- Back to the Future Part II & III (USA).zip
+- Bad Dudes (USA).nes
+- Bad Dudes (USA).zip
+- Bad Dudes vs. Dragon Ninja (Europe).nes
+- Bad Dudes vs. Dragon Ninja (Europe).zip
+- Bad News Baseball (USA).nes
+- Bad News Baseball (USA).zip
+- Balloon Fight (Europe).nes
+- Balloon Fight (Europe).zip
+- Balloon Fight (J) (PT-BR).zip
+- Balloon Fight (USA).nes
+- Balloon Fight (USA).zip
+- Baltron.zip
+- Banana Prince (Germany).zip
+- Bandai Golf - Challenge Pebble Beach (USA).nes
+- Bandai Golf - Challenge Pebble Beach (USA).zip
+- Bandit Kings of Ancient China (USA).nes
+- Bandit Kings of Ancient China (USA).zip
+- Barbie (Europe).nes
+- Barbie (Europe).zip
+- Barbie (USA) (Rev A).nes
+- Barbie (USA) (Rev A).zip
+- Barbie (USA).nes
+- Barbie (USA).zip
+- Bard's Tale  The - Tales of the Unknown (USA) (Beta 1).nes
+- Bard's Tale  The - Tales of the Unknown (USA) (Beta 2).nes
+- Bard's Tale  The (USA).nes
+- Baseball (USA  Europe).nes
+- Baseball (USA Europe).zip
+- Baseball (USA) (GameCube Edition).nes
+- Baseball (USA) (GameCube Edition).zip
+- Baseball Simulator 1.000 (USA).nes
+- Baseball Simulator 1.000 (USA).zip
+- Baseball Simulator 2013.zip
+- Baseball Stars (USA).nes
+- Baseball Stars (USA).zip
+- Baseball Stars 1989 by Ignarant (Hack).zip
+- Baseball Stars 1991 by GRG (Baseball Stars Hack).zip
+- Baseball Stars 2005 Pennant Race by GRG (Hack).zip
+- Baseball Stars II (USA).nes
+- Baseball Stars II (USA).zip
+- Bases Loaded - Nippon Pro Baseball 2007 (Bases Loaded Hack).zip
+- Bases Loaded (USA) (Rev A).nes
+- Bases Loaded (USA) (Rev A).zip
+- Bases Loaded (USA) (Rev B).nes
+- Bases Loaded (USA) (Rev B).zip
+- Bases Loaded (USA).nes
+- Bases Loaded (USA).zip
+- Bases Loaded 2004 Newer by GRG (Bases Loaded 3 Hack).zip
+- Bases Loaded 2006 v.Final by GRG (Bases Loaded Hack).zip
+- Bases Loaded 3 (USA).nes
+- Bases Loaded 3 (USA).zip
+- Bases Loaded 4 (USA).nes
+- Bases Loaded 4 (USA).zip
+- Bases Loaded II - Second Season (USA).nes
+- Bases Loaded II - Second Season (USA).zip
+- Bashi Bazook - Morphoid Masher (USA) (Proto).nes
+- Bashi Bazook - Morphoid Masher (USA) (Proto).zip
+- Basketball enemies.nes
+- Basse Def Adventures.zip
+- Batman - Return of the Joker (Europe).nes
+- Batman - Return of the Joker (Europe).zip
+- Batman - Return of the Joker (U) (PT-BR).zip
+- Batman - Return of the Joker (U) [!] {hack} [T-BR] [T-devilfox G-POBRE] [V-1.0 P-100% A-2010].zip
+- Batman - Return of the Joker (USA) (Beta).nes
+- Batman - Return of the Joker (USA) (Beta).zip
+- Batman - Return of the Joker (USA).nes
+- Batman - Return of the Joker (USA).zip
+- Batman - The Video Game (Europe).nes
+- Batman - The Video Game (Europe).zip
+- Batman - The Video Game (USA) (Beta 1).nes
+- Batman - The Video Game (USA) (Beta 1).zip
+- Batman - The Video Game (USA) (Beta 2).nes
+- Batman - The Video Game (USA) (Beta 2).zip
+- Batman - The Video Game (USA).nes
+- Batman - The Video Game (USA).zip
+- Batman (U) (Older Beta) {hack} [T-BR] [T-devilfox G-POBRE] [V-1.0 P-100% A-2011].zip
+- Batman (U) [!] {hack} [T-BR] [T-devilfox G-POBRE] [V-1.1 P-100% A-2011].zip
+- Batman 3 (PT-BR).zip
+- Batman Returns (Europe).nes
+- Batman Returns (Europe).zip
+- Batman Returns (Unknown) (Beta).zip
+- Batman Returns (USA).nes
+- Batman Returns (USA).zip
+- Batman V1.2 by Macbee (fixed colors).zip
+- Battle City - Battle Road (J).zip
+- Battle City - Marble City (J).zip
+- Battle City - Pac-Man Saw Battle City (J).zip
+- Battle City - PCGC Tank (Battle City Chinese Hack).zip
+- Battle City - Reload City (J).zip
+- Battle City - Tank (Battle City Hack).zip
+- Battle City - Tank Z (Battle City Hack).zip
+- Battle City - Warsaw City V4.5 (J).zip
+- Battle City 2 (Warpman Hack).zip
+- Battle City by Mayuge (Hack).zip
+- Battle of Olympus  The (Europe).nes
+- Battle of Olympus  The (USA).nes
+- Battle of Olympus The (Europe).zip
+- Battle of Olympus The (USA).zip
+- Battle_Kid - Fortress_of Peril.zip
+- Battle_Kid_2_Mountain_of_Torment.zip
+- Battleship (Europe) (En Fr De Es).nes
+- Battleship (Europe) (En Fr De Es).zip
+- Battleship (USA).nes
+- Battleship (USA).zip
+- Battletoads (Europe).nes
+- Battletoads (Europe).zip
+- Battletoads (PT-BR).zip
+- Battletoads (USA).nes
+- Battletoads (USA).zip
+- Battletoads-Double Dragon (Europe).nes
+- Battletoads-Double Dragon (Europe).zip
+- Battletoads-Double Dragon (USA).nes
+- Battletoads-Double Dragon (USA).zip
+- BB Car (Unknown) (Unl).zip
+- Beauty and the Beast (Europe).nes
+- Beauty and the Beast (Europe).zip
+- Bee 52 (USA) (Unl).nes
+- Bee 52 (USA) (Unl).zip
+- BeerSlinger (USA) (Unl).zip
+- Beetlejuice (U).nes
+- Beetlejuice (USA).nes
+- Beetlejuice (USA).zip
+- Best of the Best - Championship Karate (Europe).nes
+- Best of the Best - Championship Karate (Europe).zip
+- Best of the Best - Championship Karate (USA).nes
+- Best of the Best - Championship Karate (USA).zip
+- Bible Adventures (USA) (Unl).nes
+- Bible Adventures (USA) (Unl).zip
+- Bible Adventures (USA) (v1.1) (Unl).nes
+- Bible Adventures (USA) (v1.1) (Unl).zip
+- Bible Adventures (USA) (v1.2) (Unl).nes
+- Bible Adventures (USA) (v1.2) (Unl).zip
+- Bible Adventures (USA) (v1.3) (Unl).nes
+- Bible Adventures (USA) (v1.3) (Unl).zip
+- Bible Adventures (USA) (v1.4) (Unl).nes
+- Bible Adventures (USA) (v1.4) (Unl).zip
+- Bible Buffet (USA) (v6.0) (Unl).nes
+- Bible Buffet (USA) (v6.0) (Unl).zip
+- Bible Buffet (Ver 6_0) (U).nes
+- Big eye frog square.nes
+- Big Kids Pro-Wrestling by RyanVG (TTW Hack).zip
+- Big Nose the Caveman (USA) (Unl).nes
+- Big Nose the Caveman (USA) (Unl).zip
+- Big planet.nes
+- Big shot of the universe.nes
+- Big stone collision.nes
+- Big tank.nes
+- Big Trouble in Little China.zip
+- Bigfoot (Europe).nes
+- Bigfoot (Europe).zip
+- Bigfoot (USA).nes
+- Bigfoot (USA).zip
+- Bill & Ted's Excellent Video Game Adventure (USA).nes
+- Bill & Ted's Excellent Video Game Adventure (USA).zip
+- Bill Elliott's NASCAR Challenge (USA).nes
+- Bill Elliott's NASCAR Challenge (USA).zip
+- Billiard ball.nes
+- Billiard.nes
+- Binary & Land.zip
+- Binary Land - Finaly Land (Binary Land Hack).zip
+- Binary Land - Kuzu (Binary Land Hack).zip
+- Binary Land - Links Desert Escape (J) [!].zip
+- Bing Bee II unlimited life.nes
+- Bing Bee III Unlimited Life.nes
+- Bingo 75 (Asia) (Unl).nes
+- Bingo 75 (Asia) (Unl).zip
+- BinGuo 75 (Asia) (Unl).nes
+- BinGuo 75 (Asia) (Unl).zip
+- Bio Force Ape (Japan) (En) (Proto).nes
+- Bionic Commando (Europe).nes
+- Bionic Commando (Europe).zip
+- Bionic Commando (U) (PT-BR).zip
+- Bionic Commando (USA).nes
+- Bionic Commando (USA).zip
+- Bionic Commando 99 by Chris Covell (Bionic Commando Hack).zip
+- Bionic Commando Winter Theme (V0.1) by Matrixz (Bionic Commando Hack).zip
+- Bionic Hippy Commando (Bionic Commando Hack).zip
+- Bird Week.zip
+- Birthday Bash.zip
+- Black Bass  The (USA).nes
+- Black Bass The (USA).zip
+- Black Friday-13.nes
+- Blackjack (USA) (Unl).nes
+- Blackjack (USA) (Unl).zip
+- Blades of Steel - S. American Championship (Hack).zip
+- Blades of Steel (Europe).nes
+- Blades of Steel (Europe).zip
+- Blades of Steel (USA).nes
+- Blades of Steel (USA).zip
+- Blaster Master - Remaster (U) [!].zip
+- Blaster Master (Europe).nes
+- Blaster Master (Europe).zip
+- Blaster Master (U) (PT-BR).zip
+- Blaster Master (USA) (Beta).nes
+- Blaster Master (USA) (Beta).zip
+- Blaster Master (USA).nes
+- Blaster Master (USA).zip
+- Bloque Magico El (Spain) (Gluk Video) (Unl).zip
+- Blow'Em Out! (USA) (Unl).zip
+- Blue Shadow (Europe).nes
+- Blue Shadow (Europe).zip
+- Blues Brothers  The (Europe).nes
+- Blues Brothers  The (USA).nes
+- Blues Brothers The (Europe).zip
+- Blues Brothers The (USA).zip
+- Bo Jackson Baseball (USA).nes
+- Bo Jackson Baseball (USA).zip
+- Bomb.zip
+- Bomber King (J) (PT-BR).zip
+- Bomberman - Birdman (Bomberman Collection Hack).zip
+- Bomberman - Bomber Mario (Bomberman Hack).zip
+- Bomberman - Bubbleman (Bomberman Collection Hack).zip
+- Bomberman - Chack 'n Pop 2 (Bomberman Hack).zip
+- Bomberman - DoraeBomb by Rinkaku (Bomberman Hack).zip
+- Bomberman - Escape From Base 57 V1.0 by BMF54123 (Bomberman Hack).zip
+- Bomberman - Imperial Palace Moat Story (Bomberman Hack).zip
+- Bomberman - Killerman (Bomberman Collection Hack).zip
+- BomberMan - Mario Maze (Bomberman Collection Hack).zip
+- Bomberman (USA).nes
+- Bomberman II (PT-BR).zip
+- Bomberman II (USA).nes
+- Bomberman II (USA).zip
+- Bonk's Adventure (USA).nes
+- Bonk's Adventure (USA).zip
+- Booky Man (Spain) (Gluk Video) (Unl).zip
+- Bookyman.zip
+- Boulder Dash (Europe).nes
+- Boulder Dash (Europe).zip
+- Boulder Dash (USA).nes
+- Boulder Dash (USA).zip
+- Bounce.zip
+- Bowling (Unknown) (Proto).zip
+- Bram Stoker's Dracula (Europe).nes
+- Bram Stoker's Dracula (Europe).zip
+- Bram Stoker's Dracula (USA).nes
+- Bram Stoker's Dracula (USA).zip
+- Break Time - The National Pool Tour (USA).nes
+- Break Time - The National Pool Tour (USA).zip
+- BreakThru (USA).nes
+- BreakThru (USA).zip
+- Brilliant Com Pack 2 (Korea) (Unl).zip
+- Brush Roller (Asia) (Unl).nes
+- Brush Roller (Asia) (Unl).zip
+- Brush Roller (Unl).zip
+- Bubble Bath Babes (USA) (Unl).nes
+- Bubble Bath Babes (USA) (Unl).zip
+- Bubble Bobble - Arcade Version (U) [!].zip
+- Bubble Bobble - New Levels (Bubble Bobble Hack).zip
+- Bubble Bobble - New Quest (Bubble Bobble Hack).zip
+- Bubble Bobble (Europe).nes
+- Bubble Bobble (Europe).zip
+- Bubble Bobble (USA).nes
+- Bubble Bobble (USA).zip
+- Bubble Bobble by John's Program (Bubble Bobble Hack).zip
+- Bubble Bobble Madness by Weasel (Bubble Bobble Hack).zip
+- Bubble Bobble Part 2 (USA).nes
+- Bubble Bobble Part 2 (USA).zip
+- Bucky O'Hare (Europe).nes
+- Bucky O'Hare (Europe).zip
+- Bucky O'Hare (USA).nes
+- Bucky O'Hare (USA).zip
+- Buggy Popper - Nishitetsu Busjack (Buggy Popper Hack).zip
+- Bugs Bunny Birthday Blowout  The (USA).nes
+- Bugs Bunny Birthday Blowout The (USA).zip
+- Bugs Bunny Blowout  The (Europe).nes
+- Bugs Bunny Blowout The (Europe).zip
+- Bugs Bunny Crazy Castle - Second Ultimate Bugs Bunny Crazy Castle The.zip
+- Bugs Bunny Crazy Castle  The (USA).nes
+- Bugs Bunny Crazy Castle The (USA).zip
+- Bugs Bunny Fun House (USA) (Beta).nes
+- Bugs Bunny Fun House (USA) (Beta).zip
+- Bump'n'Jump (USA).nes
+- Bump'n'Jump (USA).zip
+- Burai Fighter (Europe).nes
+- Burai Fighter (Europe).zip
+- Burai Fighter (USA).nes
+- Burai Fighter (USA).zip
+- BurgerTime (USA).nes
+- BurgerTime (USA).zip
+- BurgerTime.zip
+- Buzz & Waldog (USA) (Proto) (Unl).nes
+- Buzz & Waldog (USA) (Proto) (Unl).zip
+- b??.zip
+- b??????.zip
+- Cabal (USA).nes
+- Cabal (USA).zip
+- Caesars Palace (USA) (Beta).nes
+- Caesars Palace (USA) (Beta).zip
+- Caesars Palace (USA).nes
+- Caesars Palace (USA).zip
+- California Games (USA).nes
+- California Games (USA).zip
+- California Raisins - The Grape Escape (USA) (Proto 1).nes
+- California Raisins - The Grape Escape (USA) (Proto 1).zip
+- California Raisins - The Grape Escape (USA) (Proto 2).nes
+- California Raisins - The Grape Escape (USA) (Proto 2).zip
+- Caltron - 6 in 1 (USA) (Unl).nes
+- Caltron - 6 in 1 (USA) (Unl).zip
+- Capcom's Gold Medal Challenge '92 (Europe).nes
+- Capcom's Gold Medal Challenge '92 (Europe).zip
+- Capcom's Gold Medal Challenge '92 (USA).nes
+- Capcom's Gold Medal Challenge '92 (USA).zip
+- Captain America - The Winter Soldier.zip
+- Captain America and the Avengers (Australia).zip
+- Captain America and The Avengers (U) (PT-BR).zip
+- Captain America and the Avengers (USA).nes
+- Captain America and the Avengers (USA).zip
+- Captain Comic - The Adventure (USA) (Unl).nes
+- Captain Comic - The Adventure (USA) (Unl).zip
+- Captain Planet and the Planeteers (Europe).nes
+- Captain Planet and the Planeteers (Europe).zip
+- Captain Planet and the Planeteers (PT-BR).zip
+- Captain Planet and the Planeteers (USA).nes
+- Captain Planet and the Planeteers (USA).zip
+- Captain Skyhawk (Europe).nes
+- Captain Skyhawk (Europe).zip
+- Captain Skyhawk (USA) (Rev A).nes
+- Captain Skyhawk (USA) (Rev A).zip
+- Captain Skyhawk (USA).nes
+- Captain Skyhawk (USA).zip
+- Casino Kid (USA).nes
+- Casino Kid (USA).zip
+- Casino Kid II (USA).nes
+- Casino Kid II (USA).zip
+- Castelian (USA).nes
+- Castelian (USA).zip
+- Castle of Deceit (USA) (Unl).nes
+- Castle of Deceit (USA) (Unl).zip
+- Castle of Dragon (USA).nes
+- Castle of Dragon (USA).zip
+- Castlequest (USA).nes
+- Castlequest (USA).zip
+- Castlevania - Bloody Adventures V0.61 (CV Hack).zip
+- Castlevania - Chorus of Mysteries v2 (Castlevania Hack).zip
+- Castlevania - Curse of suffering.zip
+- Castlevania - Dracula's Revenge (Hack).zip
+- Castlevania - Extreme.zip
+- Castlevania - Fan Edition (Hack).zip
+- Castlevania - Hells Fury (U) (PRG1) [!].zip
+- Castlevania - Hells Fury Easy (U) (PRG1) [!].zip
+- Castlevania - Opposing Bloodlines by Redrum (Hack).zip
+- Castlevania - Orchestra of Despair v2 (Hack).zip
+- Castlevania - Overflow Darkness English.zip
+- Castlevania - Pencilvania (CV Hack).zip
+- Castlevania - Poisonous Offering (CV PRG1 Hack).zip
+- Castlevania - Prelude Of Darkness (Easy Type).zip
+- Castlevania - Prelude Of Darkness (Hard Type).zip
+- Castlevania - Prelude Of Darkness (Normal Type).zip
+- Castlevania - Reborn.zip
+- Castlevania - Red Scale (Hack).zip
+- Castlevania - Remix (CV PRG1 Hack).zip
+- Castlevania - Retold V2.0 (U) (PRG1) [!].zip
+- Castlevania - Shadows (Hack).zip
+- Castlevania - Skel's Revenge v0.9b (Hack).zip
+- Castlevania - Slumber of Darkness V1.2.zip
+- Castlevania - Stairs Of Doom (U) (PRG1) [!].zip
+- Castlevania (Europe).nes
+- Castlevania (Europe).zip
+- Castlevania (U) (PT-BR).zip
+- Castlevania (USA) (Rev A).nes
+- Castlevania (USA) (Rev A).zip
+- Castlevania (USA).nes
+- Castlevania (USA).zip
+- Castlevania II - Dishonor Thy Father.zip
+- Castlevania II - Simon s Quest (U) [b7].nes
+- Castlevania II - Simon s Quest (U) [b8].nes
+- Castlevania II - Simon s Quest (U) [b9].nes
+- Castlevania II - Simon s Quest (U) [ba].nes
+- Castlevania II - Simon s Quest (U) [bb].nes
+- Castlevania II - Simon s Quest (U) [bc].nes
+- Castlevania II - Simon s Quest (U) [bc][o1].nes
+- Castlevania II - Simon s Quest (U) [bd].nes
+- Castlevania II - Simon s Quest (U) [bd][o1].nes
+- Castlevania II - Simon s Quest (U) [bd][o2].nes
+- Castlevania II - Simon s Quest (U) [o1].nes
+- Castlevania II - Simon s Quest (U) [o1][b1].nes
+- Castlevania II - Simon s Quest (U) [o1][b2].nes
+- Castlevania II - Simon s Quest (U) [o1][T+Por100%_BRGames].nes
+- Castlevania II - Simon s Quest (U) [o1][T+Spa].nes
+- Castlevania II - Simon s Quest (U) [o1][T+Spa_Djt].nes
+- Castlevania II - Simon s Quest (U) [o1][T-Spa].nes
+- Castlevania II - Simon s Quest (U) [o2].nes
+- Castlevania II - Simon s Quest (U) [o3].nes
+- Castlevania II - Simon s Quest (U) [T+Esperanto].nes
+- Castlevania II - Simon s Quest (U) [T+FreBeta_Generation IX].nes
+- Castlevania II - Simon s Quest (U) [T+Ger100%_TransX].nes
+- Castlevania II - Simon s Quest (U) [T+Ita1.0_Psyco].nes
+- Castlevania II - Simon s Quest (U) [T+Por1.0_Hexagon].nes
+- Castlevania II - Simon s Quest (U) [T+Por100%_BRGames].nes
+- Castlevania II - Simon s Quest (U) [T+Rus].nes
+- Castlevania II - Simon s Quest (U) [T+Rus][a1].nes
+- Castlevania II - Simon s Quest (U) [T+Spa].nes
+- Castlevania II - Simon s Quest (U) [T+Spa_Djt].nes
+- Castlevania II - Simon s Quest (U) [T+Spa1.0_SkAnDa].nes
+- Castlevania II - Simon s Quest (U) [T+Spa100%_Chilensis].nes
+- Castlevania II - Simon s Quest (U) [T+Spa100%_Tanero].nes
+- Castlevania II - Simon s Quest (U) [T+Swe1.0_MetalHead].nes
+- Castlevania II - Simon s Quest (U) [T+Swe1.0_TheTranslator].nes
+- Castlevania II - Simon s Quest (U) [T-Rus].nes
+- Castlevania II - Simon s Quest (U) [T-Spa].nes
+- Castlevania II - Simon's Quest (Europe).nes
+- Castlevania II - Simon's Quest (Europe).zip
+- Castlevania II - Simon's Quest (U) (PT-BR).zip
+- Castlevania II - Simon's Quest (USA).nes
+- Castlevania II - Simon's Quest (USA).zip
+- Castlevania II - Simon's Quest FIXED Version.zip
+- Castlevania II - Trevor s Quest (CV2 Hack).nes
+- Castlevania II - Vengence of Hell (CV2 Hack) [b1].nes
+- Castlevania II - Vengence of Hell (CV2 Hack) [b1][o1].nes
+- Castlevania II - Vengence of Hell (CV2 Hack).nes
+- Castlevania II - Vengence on Hell V1.0d (CV2 Hack).nes
+- Castlevania II - Vengence on Hell V1.0d (CV2 Hack).zip
+- Castlevania II (Unknown CV2 Hack).nes
+- Castlevania II Opposing Bloodlines (CV2 Hack).nes
+- Castlevania II Remix 1 (Hack) [b1].nes
+- Castlevania II Remix 2 (Hack) [b1].nes
+- Castlevania III - Dracula s Curse (E) [!p].nes
+- Castlevania III - Dracula s Curse (E) [T+Spa080_toruzz].nes
+- Castlevania III - Dracula s Curse (E) [T-Spa].nes
+- Castlevania III - Dracula s Curse (KC).nes
+- Castlevania III - Dracula s Curse (U) [!].nes
+- Castlevania III - Dracula s Curse (U) [b1].nes
+- Castlevania III - Dracula s Curse (U) [b1][o1].nes
+- Castlevania III - Dracula s Curse (U) [b2].nes
+- Castlevania III - Dracula s Curse (U) [b2][o1].nes
+- Castlevania III - Dracula s Curse (U) [b3].nes
+- Castlevania III - Dracula s Curse (U) [b3][o1].nes
+- Castlevania III - Dracula s Curse (U) [b4].nes
+- Castlevania III - Dracula s Curse (U) [b5].nes
+- Castlevania III - Dracula s Curse (U) [b6].nes
+- Castlevania III - Dracula s Curse (U) [o1].nes
+- Castlevania III - Dracula s Curse (U) [o2].nes
+- Castlevania III - Dracula s Curse (U) [o3].nes
+- Castlevania III - Dracula s Curse (U) [o4].nes
+- Castlevania III - Dracula s Curse (U) [o5].nes
+- Castlevania III - Dracula s Curse (U) [o6].nes
+- Castlevania III - Dracula s Curse (U) [o7].nes
+- Castlevania III - Dracula s Curse (U) [T+Por100%_BRGames].nes
+- Castlevania III - Dracula s Curse (U) [T+Por100%_BRGames][b1].nes
+- Castlevania III - Dracula s Curse (U) [T+Por100%_Odin Games].nes
+- Castlevania III - Dracula s Curse (U) [T+Rus].nes
+- Castlevania III - Dracula s Curse (U) [T+Spa_PaladinKnights].nes
+- Castlevania III - Dracula s Curse (U) [T+Spa1.0_eduardo_a2j].nes
+- Castlevania III - Dracula s Curse (U) [T+Spa1.0_eduardo_a2j][o1].nes
+- Castlevania III - Dracula s Curse (U) [T+Spa1.0_Toruzz].nes
+- Castlevania III - Dracula s Curse (U) [T-Spa0.82_Toruzz].nes
+- Castlevania III - Dracula's Curse (Europe).nes
+- Castlevania III - Dracula's Curse (Europe).zip
+- Castlevania III - Dracula's Curse (U) (PT-BR).zip
+- Castlevania III - Dracula's Curse (USA).nes
+- Castlevania III - Dracula's Curse (USA).zip
+- Castlevania III - Resurrection (Akumajou Densetsu Hack).zip
+- Castlevania III (Unknown Hack).zip
+- Castlevania Poisonous Offering (CV PRG0 Hack) [b1].nes
+- Castlevania Poisonous Offering (CV PRG0 Hack).nes
+- Castlevania Poisonous Offering (CV PRG1 Hack).nes
+- Castlevania Red Scale (Hack).nes
+- Castlevania Remix (CV PRG0 Hack) [a1].nes
+- Castlevania Remix (CV PRG0 Hack).nes
+- Castlevania Remix (CV PRG1 Hack).nes
+- Castlevania Resurrection (Akumajou Densetsu Hack) [o1].nes
+- Castlevania Resurrection (Akumajou Densetsu Hack).nes
+- Castlevania Retold V1.1 (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Axe Knight s Shield Fix) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Beta Cross Pickup) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Craptacular Players Edition) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (CV2 Simon Sprites) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Easier Game) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Fixed Tileset) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Original Level 5 s Tileset) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Original Zombies) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Pink-purple Level 2) (CV PRG0 Hack).nes
+- Castlevania Shadows (Hack).nes
+- Cat Man 3 (Gun.Smoke Hack).nes
+- Cat Man 4 (FF1 Hack).nes
+- Caveman Games (U) [!].nes
+- Caveman Games (U) [b1].nes
+- Caveman Games (U) [b2].nes
+- Caveman Games (U) [b3].nes
+- Caveman Games (U) [b4].nes
+- Caveman Games (U) [b5].nes
+- Caveman Games (U) [b6].nes
+- Caveman Games (U) [o1].nes
+- CBMario 3 (SMB3 PRG1 Hack).nes
+- Celebrity Golfing (Golf  92 Hack).nes
+- Chack  n Pop (J) [p1].nes
+- Chack  n Pop (J) [p1][o1].nes
+- Chack  n Pop (J).nes
+- Chall enger.zip
+- Challenge of the Dragon (Color Dreams) [!p].nes
+- Challenge of the Dragon (Color Dreams) [o1].nes
+- Challenge of the Dragon (Sachen) [!].nes
+- Challenge of the Dragon (USA) (Unl).nes
+- Challenge of the Dragon (USA) (Unl).zip
+- Challenger (J) [b1].nes
+- Challenger (J) [b1][o1].nes
+- Challenger (J) [b2].nes
+- Challenger (J) [p1].nes
+- Challenger (J).nes
+- Challenging Lolo (Lolo1 Hack).nes
+- Championship Bowling (J) [b1].nes
+- Championship Bowling (J) [o1].nes
+- Championship Bowling (J).nes
+- Championship Bowling (U) [!].nes
+- Championship Bowling (U) [b1].nes
+- Championship Bowling (U) [b1][o1].nes
+- Championship Bowling (U) [b2].nes
+- Championship Bowling (U) [b2][o1].nes
+- Championship Lode Runner (J) [o1].nes
+- Championship Lode Runner (J) [p1].nes
+- Championship Lode Runner (J) [p1][o1].nes
+- Championship Lode Runner (J) [T+FreFinal_ks151].nes
+- Championship Lode Runner (J).nes
+- Championship Lode Runner Kai (Hack).nes
+- Championship Lode Runner Kai (Hack).zip
+- Championship Pool (U) [!].nes
+- Championship Pool (U) [b1].nes
+- Championship Pool (U) [o1].nes
+- Championship Rally (A) [!].nes
+- Chao Ji Han Man - The Hummer (China) (Unl) (T).zip
+- Chaos World (J) [o1].nes
+- Chaos World (J) [o1][T+Eng.98f(B)_AGTP].nes
+- Chaos World (J) [o1][T-Eng.98f(A)_AGTP].nes
+- Chaos World (J) [T+Eng.98f(B)_AGTP].nes
+- Chaos World (J) [T-Eng.6a_AGTP].nes
+- Chaos World (J) [T-Eng.98f(A)_AGTP].nes
+- Chapolim Adventure (SMB1 Hack).nes
+- Cheetah Men II (U) [!p].nes
+- Cheetah Men II (U) [b1].nes
+- Cheetah Men II (U) [b2].nes
+- Cheetah Men II (U) [o1].nes
+- Cheetahmen II (USA) (Unl).nes
+- Cheetahmen II (USA) (Unl).zip
+- Chess Academy (Asia) (NTSC) (Unl) (T).zip
+- Chess Academy (Asia) (NTSC) (Unl).nes
+- Chess Academy (Asia) (NTSC) (Unl).zip
+- Chess Academys (Sachen-JAP) [!].nes
+- Chess v0.0beta by Matrixz (PD).nes
+- Chessmaster  The (USA).nes
+- Chessmaster The (USA).zip
+- Chessmaster, The (E) [!].nes
+- Chessmaster, The (U) (PRG0) [!].nes
+- Chessmaster, The (U) (PRG0) [b1].nes
+- Chessmaster, The (U) (PRG0) [b2].nes
+- Chessmaster, The (U) (PRG0) [o1].nes
+- Chester Field - Ankoku Shin heno Chousen (J) [o1].nes
+- Chester Field - Ankoku Shin heno Chousen (J) [o2].nes
+- Chester Field - Ankoku Shin heno Chousen (J) [T+Eng1.00b_AGTP].nes
+- Chester Field - Ankoku Shin heno Chousen (J).nes
+- Chevaliers du Zodiaque  Les - La Legende d'Or (France).nes
+- Chevaliers du Zodiaque Les - La Legende d'Or (France).zip
+- Chexder.zip
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [hM04].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [hM04][b1].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [hM04][b2].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [hM04][b3].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [o1].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J).nes
+- Chicken Bros (SMB1 Hack).nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [b1].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [b1][o1].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [b2].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [o1].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [o2].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [T+Eng_KingMike].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J).nes
+- Chik Bik Ji Jin - Saam Gwok Ji (Asia) (Unl) (T).zip
+- Chik Bik Ji Jin - Saam Gwok Ji (Asia) (Unl).nes
+- Chiki Chiki Machine Mou Race (J) [!].nes
+- Chiller (Australia) (Unl).zip
+- Chiller (HES) [!].nes
+- Chiller (Unl) [!].nes
+- Chiller (Unl) [b1].nes
+- Chiller (Unl) [b1][o1].nes
+- Chiller (Unl) [b1][o2].nes
+- Chiller (Unl) [b2].nes
+- Chiller (Unl) [o1].nes
+- Chiller (USA) (Unl).nes
+- Chiller (USA) (Unl).zip
+- China Rabbit Baby (Unl) [!].nes
+- Chinese Character Demo (PD).nes
+- Chinese Checkers (Asia) (NTSC) (Unl).nes
+- Chinese Checkers (Asia) (NTSC) (Unl).zip
+- Chinese Checkers (Asia) (PAL) (Unl).nes
+- Chinese Checkers (Asia) (PAL) (Unl).zip
+- Chinese Checkers (Sachen-JAP) [!].nes
+- Chinese Checkers (Sachen-USA) [!].nes
+- Chinese KungFu (Asia) (Unl).nes
+- Chinese KungFu (Asia) (Unl).zip
+- Chinese Odyssey, A (AKA Da Hua Xi You) (Unl) [b1].nes
+- Chinese Odyssey, A (AKA Da Hua Xi You) (Unl) [b2].nes
+- Chinese Odyssey, A (AKA Da Hua Xi You) (Unl).nes
+- Chip  n Dale Rescue Rangers (E) [!p].nes
+- Chip  n Dale Rescue Rangers (E) [T+Fre100%_Terminus].nes
+- Chip  n Dale Rescue Rangers (PC10) [!].nes
+- Chip  n Dale Rescue Rangers (U) [!].nes
+- Chip  n Dale Rescue Rangers (U) [b1].nes
+- Chip  n Dale Rescue Rangers (U) [b2].nes
+- Chip  n Dale Rescue Rangers (U) [b3].nes
+- Chip  n Dale Rescue Rangers (U) [b4].nes
+- Chip  n Dale Rescue Rangers (U) [o1].nes
+- Chip  n Dale Rescue Rangers (U) [o1][T+Ger1.0_StarTrans].nes
+- Chip  n Dale Rescue Rangers (U) [o1][T+Por1.0_Trans-Center].nes
+- Chip  n Dale Rescue Rangers (U) [o1][T+Por90%_BRGames].nes
+- Chip  n Dale Rescue Rangers (U) [o2].nes
+- Chip  n Dale Rescue Rangers (U) [o2][T+Por90%_BRGames].nes
+- Chip  n Dale Rescue Rangers (U) [o3].nes
+- Chip  n Dale Rescue Rangers (U) [o4].nes
+- Chip  n Dale Rescue Rangers (U) [T+Fre].nes
+- Chip  n Dale Rescue Rangers (U) [T+Ger1.0_StarTrans].nes
+- Chip  n Dale Rescue Rangers (U) [T+Por1.0_Trans-Center].nes
+- Chip  n Dale Rescue Rangers (U) [T+Por90%BRGames].nes
+- Chip  n Dale Rescue Rangers (U) [T+Rus].nes
+- Chip  n Dale Rescue Rangers (U) [T+Rus][o1].nes
+- Chip  n Dale Rescue Rangers (U) [T+Swe1.0_TheTranslator].nes
+- Chip  n Dale Rescue Rangers 2 (Prototype).nes
+- Chip  n Dale Rescue Rangers 2 (U) [!].nes
+- Chip  n Dale Rescue Rangers 2 (U) [b1].nes
+- Chip  n Dale Rescue Rangers 2 (U) [o1].nes
+- Chip  n Dale Rescue Rangers 2 (U) [o2].nes
+- Chip  n Dale Rescue Rangers 2 (U) [T+Rus].nes
+- Chip  n Dale Rescue Rangers 2 (U) [T+Swe].nes
+- Chip  n Dale Rescue Rangers 2 (U) [t1].nes
+- Chip _ Dale 3 (Unl) [o1].nes
+- Chip _ Dale 3 (Unl).nes
+- Chip Addiction by Mic (PD).nes
+- Chip 'n Dale - Rescue Rangers (Europe).nes
+- Chip 'n Dale - Rescue Rangers (Europe).zip
+- Chip 'n Dale - Rescue Rangers (USA).nes
+- Chip 'n Dale - Rescue Rangers (USA).zip
+- Chip 'n Dale - Rescue Rangers 2 (Europe).nes
+- Chip 'n Dale - Rescue Rangers 2 (Europe).zip
+- Chip 'n Dale - Rescue Rangers 2 (USA) (Beta).nes
+- Chip 'n Dale - Rescue Rangers 2 (USA) (Beta).zip
+- Chip 'n Dale - Rescue Rangers 2 (USA).nes
+- Chip 'n Dale - Rescue Rangers 2 (USA).zip
+- Chip 'n Dale Rescue Rangers - Alternative.zip
+- Chip 'n Dale Rescue Rangers - Roket Type V2 .zip
+- Chip 'n Dale Rescue Rangers (U) (PT-BR).zip
+- Chip to Dale no Daisakusen (J) [!].nes
+- Chip to Dale no Daisakusen (J) [b1].nes
+- Chip to Dale no Daisakusen (J) [b2].nes
+- Chip to Dale no Daisakusen (J) [o1].nes
+- Chip to Dale no Daisakusen (J) [p1][!].nes
+- Chip to Dale no Daisakusen 2 (J) [b1].nes
+- Chip to Dale no Daisakusen 2 (J) [o1].nes
+- Chip to Dale no Daisakusen 2 (J) [t1].nes
+- Chip to Dale no Daisakusen 2 (J).nes
+- Chitei Senkuu Vazorudaa (J) [b1].nes
+- Chitei Senkuu Vazorudaa (J) [b2].nes
+- Chitei Senkuu Vazorudaa (J).nes
+- Chocobo DW V0.3 (Dragon Warrior Hack).nes
+- Chodius (Gradius Hack).nes
+- Chogga (SMB1 Hack).nes
+- Choplifter (J) [hM03].nes
+- Choplifter (J) [hM03][a1].nes
+- Choplifter (J) [hM03][o1].nes
+- Choplifter (J) [hM03][o2].nes
+- Choplifter (J) [hM03][o3].nes
+- Choplifter (J) [hM03][o4].nes
+- Choplifter (J).nes
+- Choplifter (Japan) (En) (Rev 1).nes
+- Chopper (PD).nes
+- Chou Hen (J) (Joy Van).nes
+- Chou Hen (J) [p1].nes
+- Chou Hen (J) [p1][b1].nes
+- Choujikuu Yousai - Macross (J) [b1].nes
+- Choujikuu Yousai - Macross (J) [o1].nes
+- Choujikuu Yousai - Macross (J) [o2].nes
+- Choujikuu Yousai - Macross (J) [p1].nes
+- Choujikuu Yousai - Macross (J) [p1][o1].nes
+- Choujikuu Yousai - Macross (J) [p1][o2].nes
+- Choujikuu Yousai - Macross (J) [p1][o3].nes
+- Choujikuu Yousai - Macross (J) [p1][o4].nes
+- Choujikuu Yousai - Macross (J) [p1][o5].nes
+- Choujikuu Yousai - Macross (J) [p2].nes
+- Choujikuu Yousai - Macross (J) [p2][o1].nes
+- Choujikuu Yousai - Macross (J).nes
+- Choujikuu Yousai - Macross 7 (Hack).nes
+- Choujin Ookami Senki - Warwolf (J).nes
+- Choujin Sentai - Jetman (J) [b1].nes
+- Choujin Sentai - Jetman (J) [b2].nes
+- Choujin Sentai - Jetman (J) [o1].nes
+- Choujin Sentai - Jetman (J) [o1][T+Eng1.00_Magimoogle].nes
+- Choujin Sentai - Jetman (J) [T+Eng1.00_Magimoogle].nes
+- Choujin Sentai - Jetman (J) [t1].nes
+- Choujin Sentai - Jetman (J).nes
+- Chou-Wakusei Senki - MetaFight (J).nes
+- Chris Evert & Ivan Lendl in Top Players' Tennis (USA).nes
+- Chris Evert & Ivan Lendl in Top Players' Tennis (USA).zip
+- Christmas 2001 Demo for the NES by Chris Covell (PD).nes
+- Chu Da D (Ch).nes
+- Chu Han Zheng Ba - The War Between Chu _ Han (Unl) [b1].nes
+- Chu Han Zheng Ba - The War Between Chu _ Han (Unl).nes
+- Chubby Cherub (U) [!p].nes
+- Chubby Cherub (U) [o1].nes
+- Chubby Cherub (U) [o2].nes
+- Chubby Cherub (U) [o3].nes
+- Chubby Cherub (U) [o4].nes
+- Chubby Cherub (U) [o5].nes
+- Chubby Cherub (USA).nes
+- Chubby Cherub (USA).zip
+- Chuugoku Janshi Story - Tonpuu (J) [!].nes
+- Chuugoku Janshi Story - Tonpuu (J) [hFFE][b1].nes
+- Chuugoku Janshi Story - Tonpuu (J) [T+Chi].nes
+- Chuugoku Senseijutsu (J) [o1].nes
+- Chuugoku Senseijutsu (J) [p1].nes
+- Chuugoku Senseijutsu (J).nes
+- Chuuka Taisen (J) [b1].nes
+- Chuuka Taisen (J) [b2].nes
+- Chuuka Taisen (J) [b3].nes
+- Chuuka Taisen (J) [b4].nes
+- Chuuka Taisen (J) [o1].nes
+- Chuuka Taisen (J) [o1][T+Eng1.00_Ice].nes
+- Chuuka Taisen (J) [T+Eng1.00_Ice].nes
+- Chuuka Taisen (J).nes
+- Cikco Charlie (Circus Charlie Hack).nes
+- Circle Screen Saver Demo by KZ-S (PD).nes
+- Circus Caper (U) [!].nes
+- Circus Caper (U) [b1].nes
+- Circus Caper (U) [b2].nes
+- Circus Caper (U) [b3].nes
+- Circus Caper (U) [o1].nes
+- Circus Caper (USA).nes
+- Circus Caper (USA).zip
+- Circus Chablite.zip
+- Circus Charlie (J) [a1].nes
+- Circus Charlie (J) [a1][o1].nes
+- Circus Charlie (J) [b1].nes
+- Circus Charlie (J) [p1].nes
+- Circus Charlie (J) [p1][a1].nes
+- Circus Charlie (J) [p1][o1].nes
+- Circus Charlie (J) [p1][o2].nes
+- Circus Charlie (J) [p1][o3].nes
+- Circus Charlie (J) [p2].nes
+- Circus Charlie (J) [p2][o1].nes
+- Circus Charlie (J) [T+Chi_MS emumax].nes
+- Circus Charlie (J) [T+Chi_MS emumax][a1].nes
+- Circus Charlie (J) [T+Fre1.0_Generation IX].nes
+- Circus Charlie (J) [T+Swe1.0_TheTranslator].nes
+- Circus Charlie (J).nes
+- Circus Fantasy (Circus Charlie Hack).nes
+- City Adventure Touch - Mystery of Triangle (J) [a1].nes
+- City Adventure Touch - Mystery of Triangle (J) [p1].nes
+- City Adventure Touch - Mystery of Triangle (J).nes
+- City Connection (Europe).nes
+- City Connection (Europe).zip
+- City Connection (J) [b1].nes
+- City Connection (J) [b2].nes
+- City Connection (J) [hM00].nes
+- City Connection (J) [hM00][p1].nes
+- City Connection (J) [hM00][p1][o1].nes
+- City Connection (J) [hM03].nes
+- City Connection (J).nes
+- City Connection (U) [!].nes
+- City Connection (U) [b1].nes
+- City Connection (U) [b1][o1].nes
+- City Connection (U) [o1].nes
+- City Connection (U) [o2].nes
+- City Connection (U) [o3].nes
+- City Connection (U) [o4].nes
+- City Connection (U) [o5].nes
+- City Connection (U) [T+Chi_MS emumax].nes
+- City Connection (U) [T-Chi_MS emumax].nes
+- City Connection (USA).nes
+- City Connection (USA).zip
+- City Trouble.zip
+- Clash at Demonhead (PT-BR).zip
+- Clash at Demonhead (U) [!].nes
+- Clash at Demonhead (U) [b1].nes
+- Clash at Demonhead (U) [b2].nes
+- Clash at Demonhead (U) [o1].nes
+- Clash at Demonhead (U) [o2].nes
+- Clash at Demonhead (USA).nes
+- Clash at Demonhead (USA).zip
+- Classic Concentration (U) [!].nes
+- Classic Concentration (U) [b1].nes
+- Classic Concentration (U) [b1][o1].nes
+- Classic Concentration (USA).nes
+- Classic Concentration (USA).zip
+- Clear VBL Flag Timing Test by Shay Green (15 Sep 2005) (PD).nes
+- Cliffhanger (U) [!p].nes
+- Cliffhanger (U) [b1].nes
+- Cliffhanger (U) [o1].nes
+- Cliffhanger (USA).nes
+- Cliffhanger (USA).zip
+- Clock Skipping Test - Background Enabled on Odd Frames by Shay Green (PD).nes
+- Cloud Bros (SMB1 Hack) [o1].nes
+- Cloud Bros (SMB1 Hack).nes
+- Clu Clu Land (PT-BR).zip
+- Clu Clu Land (USA) (GameCube Edition).nes
+- Clu Clu Land (USA) (GameCube Edition).zip
+- Clu Clu Land (World).zip
+- Clyde s Revenge (Pac-Man Hack) [o1].nes
+- Clyde s Revenge (Pac-Man Hack).nes
+- CMC 80 s Demo by Chris Covell (PD).nes
+- CMC Wavy Demo by Chris Covell (PD).nes
+- Cobra Command (J) [b1].nes
+- Cobra Command (J) [b2].nes
+- Cobra Command (J).nes
+- Cobra Command (U) [!].nes
+- Cobra Command (U) [b1].nes
+- Cobra Command (U) [b2].nes
+- Cobra Command (U) [b3].nes
+- Cobra Command (U) [o1].nes
+- Cobra Command (U) [o2].nes
+- Cobra Command (USA).nes
+- Cobra Command (USA).zip
+- Cobra Mission (Asia) (Unl).nes
+- Cobra Mission (Asia) (Unl).zip
+- Cobra Triangle (E).nes
+- Cobra Triangle (Europe).nes
+- Cobra Triangle (Europe).zip
+- Cobra Triangle (U) [!].nes
+- Cobra Triangle (U) [b1].nes
+- Cobra Triangle (U) [b1][o1].nes
+- Cobra Triangle (U) [o1].nes
+- Cobra Triangle (USA).nes
+- Cobra Triangle (USA).zip
+- Cocoron (J) [b1].nes
+- Cocoron (J) [b2].nes
+- Cocoron (J) [o1].nes
+- Cocoron (J) [o1][T+Eng1.0_Akujin].nes
+- Cocoron (J) [T+Eng1.0_Akujin].nes
+- Cocoron (J).nes
+- Code Name - Viper (U) (PT-BR).zip
+- Code Name - Viper (U) [!].nes
+- Code Name - Viper (U) [b1].nes
+- Code Name - Viper (U) [b2].nes
+- Code Name - Viper (U) [b3].nes
+- Code Name - Viper (U) [o1].nes
+- Code Name - Viper (U) [o2].nes
+- Code Name - Viper (U) [T+Por100%_Emuroms].nes
+- Code Name - Viper (U) [T+Spa_DJ_Traducciones].nes
+- Code Name - Viper (U) [T-Por].nes
+- Code Name - Viper (USA).nes
+- Code Name - Viper (USA).zip
+- Codename 23 (SMB1 Hack).nes
+- Coke Head Junkie (Code Name Viper Hack).nes
+- Color A Dinosaur (U) [!].nes
+- Color A Dinosaur (U) [o1].nes
+- Color a Dinosaur (USA) (Beta).nes
+- Color a Dinosaur (USA) (Beta).zip
+- Color a Dinosaur (USA).nes
+- Color a Dinosaur (USA).zip
+- Colorful Dragon (Asia) (PAL) (Unl).nes
+- Colorful Dragon (Asia) (PAL) (Unl).zip
+- Colorful Dragon (Sachen).nes
+- Colour Bars Mapper 0 V1.1 by Mark Knibbs (PD).nes
+- Colour Bars Mapper 0 V1.2 by Mark Knibbs (PD).nes
+- Colour Bars MMC1 V1.2 by Mark Knibbs (PD).nes
+- Colours Demo by Chris Covell (PD) [a1].nes
+- Colours Demo by Chris Covell (PD).nes
+- Columbus - Ougon no Yoake (J) [!].nes
+- Columbus - Ougon no Yoake (J) [b1].nes
+- Columbus - Ougon no Yoake (J) [b1][T+Chi].nes
+- Columbus - Ougon no Yoake (J) [b1][T+Eng2.01_PLTransForce].nes
+- Columbus - Ougon no Yoake (J) [b1][T-Eng0.50_XTrans].nes
+- Combat.zip
+- Commando (U) (PT-BR).zip
+- Commando (U) [!].nes
+- Commando (U) [b1].nes
+- Commando (U) [b1][o1].nes
+- Commando (U) [b1][T+Por_BRGames].nes
+- Commando (U) [b2].nes
+- Commando (U) [b3].nes
+- Commando (U) [b4].nes
+- Commando (U) [b5].nes
+- Commando (U) [b6].nes
+- Commando (USA).nes
+- Commando (USA).zip
+- Conan - The Mysteries of Time (U) [!p].nes
+- Conan - The Mysteries of Time (U) [o1].nes
+- Conan - The Mysteries of Time (U) [o2].nes
+- Conan (USA).nes
+- Conan (USA).zip
+- Conflict (J).nes
+- Conflict (U) [!].nes
+- Conflict (U) [b1].nes
+- Conflict (U) [b1][o1].nes
+- Conflict (U) [b2].nes
+- Conflict (U) [b3].nes
+- Conflict (U) [o1].nes
+- Conflict (USA).nes
+- Conflict (USA).zip
+- Conquest of the Crystal Palace (U) (PT-BR).zip
+- Conquest of the Crystal Palace (U) [!].nes
+- Conquest of the Crystal Palace (U) [b1].nes
+- Conquest of the Crystal Palace (U) [b2].nes
+- Conquest of the Crystal Palace (U) [o1].nes
+- Conquest of the Crystal Palace (U) [T+Fre1.0_Generation IX].nes
+- Conquest of the Crystal Palace (U) [T+Fre1.0_Generation IX][b1].nes
+- Conquest of the Crystal Palace (USA).nes
+- Conquest of the Crystal Palace (USA).zip
+- Contra - Super Contra II.zip
+- Contra (Beta) [t1].nes
+- Contra (Beta) [t1][o1].nes
+- Contra (J) [b1].nes
+- Contra (J) [b2].nes
+- Contra (J) [b3].nes
+- Contra (J) [hFFE].nes
+- Contra (J) [hFFE][a1].nes
+- Contra (J) [hFFE][b1].nes
+- Contra (J) [o1].nes
+- Contra (J) [o1][T+Eng1.0_MadHacker].nes
+- Contra (J) [o2].nes
+- Contra (J) [p1][T+Eng1.0_MadHacker].nes
+- Contra (J) [p1][T+Eng1.0_MadHacker][o1].nes
+- Contra (J) [p2][T+Eng1.0_MadHacker].nes
+- Contra (J) [p2][T+Eng1.0_MadHacker][o1].nes
+- Contra (J) [T+Chi].nes
+- Contra (J) [T+Chi_MS emumax].nes
+- Contra (J) [T+Eng1.0_MadHacker].nes
+- Contra (J) [T+Por1.0_Trans-Center].nes
+- Contra (J) [T+Por1.12_GTP].nes
+- Contra (J) [T+Rus_Chronix].nes
+- Contra (J) [T+Spa_Djt].nes
+- Contra (J) [t1].nes
+- Contra (J) [t2].nes
+- Contra (J) [t3].nes
+- Contra (J) [T-Chi].nes
+- Contra (J).nes
+- Contra (KC).nes
+- Contra (PC10) [b1].nes
+- Contra (PC10).nes
+- Contra (U) (PT-BR).zip
+- Contra (U) [!].nes
+- Contra (U) [o1].nes
+- Contra (U) [o2].nes
+- Contra (U) [o3].nes
+- Contra (U) [o4].nes
+- Contra (U) [o5].nes
+- Contra (U) [T+Ger1.0_StarTrans].nes
+- Contra (U) [T+Por100%_TRB].nes
+- Contra (U) [T+Por90%_Groxo].nes
+- Contra (U) [T+Por90%_ZeroNet].nes
+- Contra (U) [T+Spa_DJ_Traducciones].nes
+- Contra (U) [T+Spa100%].nes
+- Contra (USA).nes
+- Contra (USA).zip
+- Contra (With +4 Menu) (Unl) [o1].nes
+- Contra (With +4 Menu) (Unl).nes
+- Contra 1993 (Unl).nes
+- Contra Force (PT-BR).zip
+- Contra Force (U) [!].nes
+- Contra Force (U) [o1].nes
+- Contra Force (U) [p1].nes
+- Contra Force (U) [p1][b1].nes
+- Contra Force (U) [p1][o1].nes
+- Contra Force (U) [p1][o2].nes
+- Contra Force (U) [p1][o3].nes
+- Contra Force (U) [p1][T+Rus07a].nes
+- Contra Force (U) [p1][t1].nes
+- Contra Force (U) [p1][t1][o1].nes
+- Contra Force (U) [T+Chi_MS emumax].nes
+- Contra Force (U) [T+Chi_MS emumax][o1].nes
+- Contra Force (U) [T+Rus07a].nes
+- Contra Force (U) [t1].nes
+- Contra Force (USA).nes
+- Contra Force (USA).zip
+- Contra Spirits (1995) (Unl).nes
+- Contra Spirits (1996) (Unl) [!].nes
+- Contra.zip
+- Cooey Found Weed (Earthbound Hack).nes
+- Cool World (U) [!].nes
+- Cool World (U) [b1].nes
+- Cool World (U) [b2].nes
+- Cool World (U) [o1].nes
+- Cool World (U) [T+FreBeta_Generation IX].nes
+- Cool World (USA).nes
+- Cool World (USA).zip
+- Copper Bars Demo by Quietust (PD) [a1].nes
+- Copper Bars Demo by Quietust (PD).nes
+- Corre Benny (Spain) (Gluk Video) (Unl).zip
+- Corvette ZR-1 Challenge (E) [!].nes
+- Corvette ZR-1 Challenge (Europe).nes
+- Corvette ZR-1 Challenge (Europe).zip
+- Cosmic Crusade (Unl) (M4).nes
+- Cosmic Epsilon (J) [b1].nes
+- Cosmic Epsilon (J) [o1].nes
+- Cosmic Epsilon (J).nes
+- Cosmic Spacehead (Europe) (En Fr De Es) (Unl).nes
+- Cosmic Spacehead (Europe) (En Fr De Es) (Unl).zip
+- Cosmic Wars (J) [b1].nes
+- Cosmic Wars (J) [b1][o1].nes
+- Cosmic Wars (J) [b2].nes
+- Cosmic Wars (J) [T+Eng.993_TransBRC].nes
+- Cosmic Wars (J).nes
+- Cosmo Genesis (J) [o1].nes
+- Cosmo Genesis (J) [o1][T+Eng1.1_AGTP].nes
+- Cosmo Genesis (J) [o2].nes
+- Cosmo Genesis (J) [o3].nes
+- Cosmo Genesis (J) [o4].nes
+- Cosmo Genesis (J) [T+Eng1.1_AGTP].nes
+- Cosmo Genesis (J) [T-Eng1.0_AGTP].nes
+- Cosmo Genesis (J).nes
+- Cosmo Police Galivan (J) [hFFE][b1].nes
+- Cosmo Police Galivan (J) [hFFE][p1].nes
+- Cosmo Police Galivan (J) [o1].nes
+- Cosmo Police Galivan (J) [o1][T+Eng1.00_Jair].nes
+- Cosmo Police Galivan (J) [T+Eng1.00_Jair].nes
+- Cosmo Police Galivan (J).nes
+- Cosmos Cop (Asia) (Mega Soft) (Unl).nes
+- Cosmos Cop (Asia) (Mega Soft) (Unl).zip
+- Cosmos Cop (Spain) (Gluk Video) (Unl).zip
+- Cowboy Kid (U) [!].nes
+- Cowboy Kid (U) [o1].nes
+- Cowboy Kid (USA).nes
+- Cowboy Kid (USA).zip
+- Crackout (E) [!p].nes
+- Crackout (Europe).nes
+- Crackout (Europe).zip
+- Crackout (U) (Prototype).nes
+- Crackout (USA) (Proto).nes
+- Crackout (USA) (Proto).zip
+- Crap Demo Shooter by Jandar (PD).nes
+- Crash  n the Boys - Street Challenge (U) [!].nes
+- Crash  n the Boys - Street Challenge (U) [b1].nes
+- Crash  n the Boys - Street Challenge (U) [o1].nes
+- Crash 'n' the Boys - Street Challenge (USA).nes
+- Crash 'n' the Boys - Street Challenge (USA).zip
+- Crawlin (PD) [b1].nes
+- Crayon Shin-Chan - Ora to Poi Poi (J) [b1].nes
+- Crayon Shin-Chan - Ora to Poi Poi (J) [T+Eng0.1_Alcy].nes
+- Crayon Shin-Chan - Ora to Poi Poi (J).nes
+- Crayon Shin-chan (Future Media) (Ch) [!].nes
+- Crazy Climber (J) [hM15].nes
+- Crazy Climber (J) [hM15][b1].nes
+- Crazy Climber (J) [hM15][b2].nes
+- Crazy Climber (J) [hM15][b3].nes
+- Crazy Climber (J).nes
+- Crazy Coons in Cloud Land (SMB1 Hack).nes
+- Creatom (Spain) (Gluk Video) (Unl).zip
+- Creatom (Unl) [!].nes
+- Creepy Brawlers.zip
+- Cresent 2 (SMB1 Hack).nes
+- Crime Busters (Unknown) (Unl).zip
+- Crisis Force (J) [!].nes
+- Crisis Force (J) [b1].nes
+- Crisis Force (J) [hM04].nes
+- Crisis Force (J) [hM04][b1].nes
+- Crisis Force (J) [hM04][b2].nes
+- Crisis Force (J) [T+Chi].nes
+- Crisis Force (J) [T+Chi_huanxiang].nes
+- Crisis Force (J) [T+Fre1.0_ks151].nes
+- Crisis Force (PT-BR).zip
+- Cross Fire (J) [b1].nes
+- Cross Fire (J) [b2].nes
+- Cross Fire (J) [b3].nes
+- Cross Fire (J).nes
+- Cross Fire (PT-BR).zip
+- Cross Fire (U) (Prototype) [!].nes
+- Cross Fire (USA) (Proto).nes
+- Cross Fire (USA) (Proto).zip
+- Crypto.zip
+- Crystal Mines (Unl) [!p].nes
+- Crystal Mines (Unl) [b1].nes
+- Crystal Mines (Unl) [b2].nes
+- Crystal Mines (Unl) [o1].nes
+- Crystal Mines (Unl) [o2].nes
+- Crystal Mines (Unl) [o3].nes
+- Crystal Mines (Unl) [o4].nes
+- Crystal Mines (Unl) [o5].nes
+- Crystal Mines (Unl) [o6].nes
+- Crystal Mines (USA) (Unl).nes
+- Crystal Mines (USA) (Unl).zip
+- Crystalis (Nude Hack) [o1].nes
+- Crystalis (Nude Hack).nes
+- Crystalis (U) (Prototype) [a1].nes
+- Crystalis (U) (Prototype) [o1].nes
+- Crystalis (U) (Prototype).nes
+- Crystalis (U) (PT-BR).zip
+- Crystalis (U) [!].nes
+- Crystalis (U) [b1].nes
+- Crystalis (U) [b2].nes
+- Crystalis (U) [b3].nes
+- Crystalis (U) [b4].nes
+- Crystalis (U) [o1].nes
+- Crystalis (U) [o2].nes
+- Crystalis (U) [T+Por1.0_BRGames].nes
+- Crystalis (U) [T+Rus1.00_Shedevr].nes
+- Crystalis (USA) (Beta).nes
+- Crystalis (USA) (Beta).zip
+- Crystalis (USA).nes
+- Crystalis (USA).zip
+- Cuba War (Guerrilla War Hack).nes
+- Cum Fu (Kung Fu Hack) [o1].nes
+- Cum Fu (Kung Fu Hack).nes
+- Cutterblade Megaman by Matrixz (Megaman V Hack).nes
+- Cvetnie Linii (R) [!].nes
+- Cyber Stadium Series - Base Wars (USA).nes
+- Cyber Stadium Series - Base Wars (USA).zip
+- Cyberball (U) [!].nes
+- Cyberball (U) [b1].nes
+- Cyberball (U) [b2].nes
+- Cyberball (U) [b3].nes
+- Cyberball (U) [b4].nes
+- Cyberball (U) [o1].nes
+- Cyberball (USA).nes
+- Cyberball (USA).zip
+- Cybernoid - The Fighting Machine (U) [!].nes
+- Cybernoid - The Fighting Machine (U) [b1].nes
+- Cybernoid - The Fighting Machine (U) [b2].nes
+- Cybernoid - The Fighting Machine (U) [o1].nes
+- Cybernoid - The Fighting Machine (U) [o2].nes
+- Cybernoid - The Fighting Machine (USA).nes
+- Cybernoid - The Fighting Machine (USA).zip
+- Cycle Race - Road Man (J) [!].nes
+- Cycle Race - Road Man (J) [b1].nes
+- Cycle Race - Road Man (J) [b2].nes
+- Cycle Race - Road Man (J) [b3].nes
+- D.J. Boy (Unl) [!].nes
+- Dai Meiro - Meikyuu no Tatsujin (J).nes
+- Dai-2-Ji - Super Robot Taisen (J) [b1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [o1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [p1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Chi].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Chi][a1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Chi][b1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Eng.6a_AGTP].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Kor].nes
+- Dai-2-Ji - Super Robot Taisen (J).nes
+- Daikaijuu Deburas (J) [b1].nes
+- Daikaijuu Deburas (J) [b2].nes
+- Daikaijuu Deburas (J) [o1].nes
+- Daikaijuu Deburas (J) [T+Eng0.30_manipulate].nes
+- Daikaijuu Deburas (J).nes
+- Daikoukai Jidai (J) [b1].nes
+- Daikoukai Jidai (J).nes
+- Daiku no Gen San (J) [b1].nes
+- Daiku no Gen San (J).nes
+- Daiku no Gen San 2 - Akage no Dan no Gyakushuu (J) [b1].nes
+- Daiku no Gen San 2 - Akage no Dan no Gyakushuu (J) [b2].nes
+- Daiku no Gen San 2 - Akage no Dan no Gyakushuu (J) [o1].nes
+- Daiku no Gen San 2 - Akage no Dan no Gyakushuu (J).nes
+- Daisenryaku (Ch) [!].nes
+- Daisenryaku (Ch) [b1].nes
+- Daisenryaku (J) [o1].nes
+- Daisenryaku (J) [o1][T+Eng1.0_AGTP].nes
+- Daisenryaku (J) [o2].nes
+- Daisenryaku (J) [T+Eng1.0_AGTP].nes
+- Daisenryaku (J).nes
+- Daiva - Imperial of Nirsartia (J) [b1].nes
+- Daiva - Imperial of Nirsartia (J) [o1].nes
+- Daiva - Imperial of Nirsartia (J) [o2].nes
+- Daiva - Imperial of Nirsartia (J) [p1].nes
+- Daiva - Imperial of Nirsartia (J).nes
+- Dalton McGuinty s Kids  Computer Game by RyanVG (M.C. Kids Hack).nes
+- Dan s Stake Demo (Castlevania Hack).nes
+- Dan s Stake Demo PAL (Castlevania Hack).nes
+- Dance Aerobics (U) [!].nes
+- Dance Aerobics (U) [b1].nes
+- Dance Aerobics (U) [o1].nes
+- Dance Aerobics (USA).nes
+- Dance Aerobics (USA).zip
+- Dancing Blocks (Asia) (PAL) (Unl).nes
+- Dancing Blocks (Asia) (PAL) (Unl).zip
+- Dancing Blocks (Sachen) [!].nes
+- Danny Sullivan s Indy Heat (U) [!].nes
+- Danny Sullivan s Indy Heat (U) [o1].nes
+- Danny Sullivan's Indy Heat (Europe).nes
+- Danny Sullivan's Indy Heat (Europe).zip
+- Danny Sullivan's Indy Heat (USA).nes
+- Danny Sullivan's Indy Heat (USA).zip
+- Dao Shuai (Asia) (Unl).nes
+- Dao Shuai (Asia) (Unl).zip
+- Dark Lord (J) [o1].nes
+- Dark Lord (J).nes
+- Dark Monk (SMB1 Hack) [b1].nes
+- Dark X - Wily Strikes Back V1.1 (Megaman II Hack).nes
+- Darkman (Europe).nes
+- Darkman (Europe).zip
+- Darkman (U) [!].nes
+- Darkman (U) [b1].nes
+- Darkman (U) [b2].nes
+- Darkman (U) [o1].nes
+- Darkman (U) [T+Spa100%_spctrmxd].nes
+- Darkman (USA).nes
+- Darkman (USA).zip
+- Darkseed (Unl) [p1].nes
+- Darkseed (Unl) [p1][b1].nes
+- Darkseed (Unl).nes
+- Darkwing Duck - The New Levels.zip
+- Darkwing Duck (E) [!p].nes
+- Darkwing Duck (Europe).nes
+- Darkwing Duck (Europe).zip
+- Darkwing Duck (Germany).zip
+- Darkwing Duck (U) (Prototype) [T+Rus].nes
+- Darkwing Duck (U) (Prototype).nes
+- Darkwing Duck (U) (PT-BR).zip
+- Darkwing Duck (U) [!].nes
+- Darkwing Duck (U) [b1].nes
+- Darkwing Duck (U) [b2].nes
+- Darkwing Duck (U) [b3].nes
+- Darkwing Duck (U) [b4].nes
+- Darkwing Duck (U) [o1].nes
+- Darkwing Duck (U) [o2].nes
+- Darkwing Duck (U) [p1][!].nes
+- Darkwing Duck (U) [T+Dut0.99_Little Mac].nes
+- Darkwing Duck (U) [T+Fre_Samda Knowe].nes
+- Darkwing Duck (U) [T+Ger.99].nes
+- Darkwing Duck (U) [T+Gre0.80_IronKitos,Giama,Lugia_13gr].nes
+- Darkwing Duck (U) [T+Ita1.0_Psyco].nes
+- Darkwing Duck (U) [T+Por100%_Trans-Center].nes
+- Darkwing Duck (U) [T+Por70%_Aeris].nes
+- Darkwing Duck (U) [T+Rus].nes
+- Darkwing Duck (U) [T+Rus2003_MasterZ].nes
+- Darkwing Duck (U) [T+Rus2003_MasterZ][a1].nes
+- Darkwing Duck (U) [T+Spa_Djt].nes
+- Darkwing Duck (U) [T+Spa100_PaladinKnights].nes
+- Darkwing Duck (U) [t1].nes
+- Darkwing Duck (U) [t1][o1].nes
+- Darkwing Duck (U) [t2].nes
+- Darkwing Duck (U) [T-Rus2002_MasterZ].nes
+- Darkwing Duck (USA) (Beta).nes
+- Darkwing Duck (USA) (Beta).zip
+- Darkwing Duck (USA).nes
+- Darkwing Duck (USA).zip
+- Darkwing Duck 2 (Unl) [p1][!].nes
+- Darkwing Duck 2 (Unl) [p2][!].nes
+- Darkwing Duck 2 (Unl) [p2][o1].nes
+- Darkwing Duck Advance.zip
+- Dash Galaxy in the Alien Asylum (U) [!].nes
+- Dash Galaxy in the Alien Asylum (U) [b1].nes
+- Dash Galaxy in the Alien Asylum (U) [o1].nes
+- Dash Galaxy in the Alien Asylum (USA).nes
+- Dash Galaxy in the Alien Asylum (USA).zip
+- Dash Rascal.zip
+- Dash Yarou (J) [b1].nes
+- Dash Yarou (J) [o1].nes
+- Dash Yarou (J).nes
+- Datach - Battle Rush - Build Up Robot Tournament (J).nes
+- Datach - Crayon Shin Chan - Ora to Poi Poi (J).nes
+- Datach - Dragon Ball Z - Gekitou Tenkaichi Budou Kai (J).nes
+- Datach - J League Super Top Players (J).nes
+- Datach - SD Gundam - Gundam Wars (J).nes
+- Datach - Ultraman Club - Supokon Fight! (J) [o1].nes
+- Datach - Ultraman Club - Supokon Fight! (J).nes
+- Datach - Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai (J).nes
+- Datsugoku (J) [hFFE][b1].nes
+- Datsugoku (J) [hFFE][b2].nes
+- Datsugoku (J) [hFFE][p1].nes
+- Datsugoku (J) [hFFE][p1][b1].nes
+- Datsugoku (J) [p1][!].nes
+- Datsugoku (J).nes
+- Dave Warrior (Dragon Warrior Hack) [o1].nes
+- Dave Warrior (Dragon Warrior Hack).nes
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe) (Rev A).nes
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe) (Rev A).zip
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe).nes
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe).zip
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).nes
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).zip
+- Day Dreamin  Davey (U) [!].nes
+- Day Dreamin  Davey (U) [b1].nes
+- Day Dreamin  Davey (U) [b2].nes
+- Day Dreamin  Davey (U) [b3].nes
+- Day Dreamin  Davey (U) [b4].nes
+- Day Dreamin  Davey (U) [b5].nes
+- Day Dreamin  Davey (U) [o1].nes
+- Day Dreamin' Davey (USA).nes
+- Day Dreamin' Davey (USA).zip
+- Days of Thunder (E) [!].nes
+- Days of Thunder (Europe).nes
+- Days of Thunder (Europe).zip
+- Days of Thunder (U) [!].nes
+- Days of Thunder (U) [o1].nes
+- Days of Thunder (USA).nes
+- Days of Thunder (USA).zip
+- Dead Bubble Bobble (Hack) [o1].nes
+- Dead Bubble Bobble (Hack).nes
+- Dead Double Dragon Twins (DD2 Hack) [o1].nes
+- Dead Double Dragon Twins (DD2 Hack).nes
+- Dead or Alive (SMB1 Hack).nes
+- Deadline Console Invitation Intro (PD).nes
+- Deadly Towers (U) [!].nes
+- Deadly Towers (U) [b1].nes
+- Deadly Towers (U) [o1].nes
+- Deadly Towers (USA).nes
+- Deadly Towers (USA).zip
+- Dear, My Memory... by Sinzan (SMB1 Hack).nes
+- Death Dodge Ball (Super Dodge Ball Hack) [o1].nes
+- Death Dodge Ball (Super Dodge Ball Hack).nes
+- Death Marcher (River City Ransom Hack).nes
+- Death Race (Unl) [!p].nes
+- Death Race (Unl) [o1].nes
+- Death Race (USA) (Unl).nes
+- Death Race (USA) (Unl).zip
+- Deathbots (Unl) [!p].nes
+- Deathbots (Unl) [a1].nes
+- Deathbots (Unl) [o1].nes
+- Deathbots (USA) (Rev 1) (Unl).nes
+- Deathbots (USA) (Rev 1) (Unl).zip
+- Deathbots (USA) (Unl).nes
+- Deathbots (USA) (Unl).zip
+- Debate Dude (Dragon Warrior Hack).nes
+- Deblock (J) [b1].nes
+- Deblock (J) [o1].nes
+- Deblock (J).nes
+- Decathlon (Asia) (Unl).nes
+- Decathlon (Asia) (Unl).zip
+- Decathlon (Unl).nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J) [hFFE].nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J) [hM02].nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J) [o1].nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J) [T+Eng_SSX].nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J).nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [!].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [b1].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [b2].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [o1].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [o1][T+Eng1.0_Dragoon-X].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [o2].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [T+Eng0.1_OffCourse].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [T+Eng1.0_Dragoon-X].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [T-Eng].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [T-Eng][a1].nes
+- Defender II (U) [!].nes
+- Defender II (U) [b1].nes
+- Defender II (U) [b2].nes
+- Defender II (U) [o1].nes
+- Defender II (U) [o2].nes
+- Defender II (U) [o3].nes
+- Defender II (U) [o4].nes
+- Defender II (U) [o5].nes
+- Defender II (U) [o6].nes
+- Defender II (U) [o7].nes
+- Defender II (U) [o8].nes
+- Defender II (U) [o9].nes
+- Defender II (USA).nes
+- Defender II (USA).zip
+- Defender of the Crown (E).nes
+- Defender of the Crown (Europe).nes
+- Defender of the Crown (Europe).zip
+- Defender of the Crown (F) [!].nes
+- Defender of the Crown (France).nes
+- Defender of the Crown (France).zip
+- Defender of the Crown (U) [!].nes
+- Defender of the Crown (U) [b1].nes
+- Defender of the Crown (U) [b1][o1].nes
+- Defender of the Crown (U) [b2].nes
+- Defender of the Crown (U) [b3].nes
+- Defender of the Crown (U) [o1].nes
+- Defender of the Crown (U) [o2].nes
+- Defender of the Crown (U) [o3].nes
+- Defender of the Crown (USA).nes
+- Defender of the Crown (USA).zip
+- Defenders of Dynatron City (U) [!].nes
+- Defenders of Dynatron City (U) [b1].nes
+- Defenders of Dynatron City (U) [b2].nes
+- Defenders of Dynatron City (U) [o1].nes
+- Defenders of Dynatron City (USA).nes
+- Defenders of Dynatron City (USA).zip
+- Deformed Bros (SMB1 Hack).nes
+- Deja Vu (Sw) [b1].nes
+- Deja Vu (Sw) [b2].nes
+- Deja Vu (Sw).nes
+- Deja Vu (Sweden).zip
+- Deja Vu (U) [!].nes
+- Deja Vu (U) [b1].nes
+- Deja Vu (U) [b2].nes
+- Deja Vu (U) [o1].nes
+- Deja Vu (USA).nes
+- Deja Vu (USA).zip
+- Demo Boy 2 (Unl).nes
+- Demogorgon Monk (Unl) [b1].nes
+- Demogorgon Monk (Unl).nes
+- Demon Dug 2 (Dig Dug II Hack).nes
+- Demon Sword (U) [!].nes
+- Demon Sword (U) [b1].nes
+- Demon Sword (U) [b1][T+Chi].nes
+- Demon Sword (U) [b1][T+Chi_MS emumax].nes
+- Demon Sword (U) [b1][T-Chi_MS emumax].nes
+- Demon Sword (U) [b2].nes
+- Demon Sword (U) [b3].nes
+- Demon Sword (U) [b4].nes
+- Demon Sword (U) [o1].nes
+- Demon Sword (USA).nes
+- Demon Sword (USA).zip
+- Demonbike (Excitebike Hack) [o1].nes
+- Demonbike (Excitebike Hack).nes
+- Dengeki - Big Bang! (J) [!].nes
+- Dengeki - Big Bang! (J) [b1].nes
+- Dengeki - Big Bang! (J) [o1].nes
+- Densetsu no Kishi - Elrond (J) [b1].nes
+- Densetsu no Kishi - Elrond (J).nes
+- Derby Stallion - Zenkoku Han (J) [b1].nes
+- Derby Stallion - Zenkoku Han (J) [b2].nes
+- Derby Stallion - Zenkoku Han (J) [o1].nes
+- Derby Stallion - Zenkoku Han (J).nes
+- Desert Commander (U) [!].nes
+- Desert Commander (U) [b1].nes
+- Desert Commander (U) [b2].nes
+- Desert Commander (U) [o1].nes
+- Desert Commander (U) [o2].nes
+- Desert Commander (U) [o3].nes
+- Desert Commander (U) [o4].nes
+- Desert Commander (USA).nes
+- Desert Commander (USA).zip
+- Destination Earthstar (U) [!].nes
+- Destination Earthstar (U) [o1].nes
+- Destination Earthstar (USA).nes
+- Destination Earthstar (USA).zip
+- Destiny of an Emperor - Ludmeisters Remix V2.zip
+- Destiny of an Emperor - Rise of Ieyasu V2.zip
+- Destiny of an Emperor - Rise of Lu Bu V2.zip
+- Destiny of an Emperor - Yuan Shaos Revenge.zip
+- Destiny of an Emperor (U) [!].nes
+- Destiny of an Emperor (U) [o1].nes
+- Destiny of an Emperor (U) [o2].nes
+- Destiny of an Emperor (U) [o3].nes
+- Destiny of an Emperor (USA).nes
+- Destiny of an Emperor (USA).zip
+- Destiny of an Emporor - Dragon Destiny V0.12 (Destiny of an Emperor Hack).zip
+- Destructive Dan 3 (Megaman III Hack).nes
+- Destructor El (Spain) (Gluk Video) (Unl).zip
+- Devil Hunter Yohko Dithering Demo by Chris Covell (PD).nes
+- Devil Man (J) [b1].nes
+- Devil Man (J) [b2].nes
+- Devil Man (J) [o1].nes
+- Devil Man (J).nes
+- Devil World (E) [!].nes
+- Devil World (E) [T+Fre1.0_ks151].nes
+- Devil World (Europe).nes
+- Devil World (Europe).zip
+- Devil World (J) [a1].nes
+- Devil World (J) [b1].nes
+- Devil World (J) [o1].nes
+- Devil World (J) [p1].nes
+- Devil World (J) [p1][o1].nes
+- Devil World (J).nes
+- Devil World.zip
+- Dezaemon (J) [!].nes
+- Dezaemon (J) [o1].nes
+- Dezaemon (J) [o1][T+Eng1.1_AGTP].nes
+- Dezaemon (J) [T+Eng.01_Lagomorph].nes
+- Dezaemon (J) [T+Eng1.1_AGTP].nes
+- Dezaemon (J) [T-Eng.99_AGTP].nes
+- Dezaemon (J) [T-Eng.99AltFont_AGTP].nes
+- Dezaemon (J) [T-Eng0.6a_AGTP][b1].nes
+- Di 4 Ci - Ji Qi Ren Dai Zhan (Ch).nes
+- Di Dao Zhan (Ch).nes
+- Diablo II.zip
+- Dian Shi Ma Li (Ch) [b1].nes
+- Dian Shi Ma Li (Ch) [b1][o1].nes
+- Dian Shi Ma Li (Ch) [b2].nes
+- Dian Shi Ma Li (Ch) [b2][o1].nes
+- Dian Shi Ma Li (Ch) [b3].nes
+- Dian Shi Ma Li (Ch).nes
+- Dick _ Milk (Nuts _ Milk Hack) [o1].nes
+- Dick _ Milk (Nuts _ Milk Hack).nes
+- Dick Dug (Dig Dug Hack) [o1].nes
+- Dick Dug (Dig Dug Hack) [o2].nes
+- Dick Dug (Dig Dug Hack).nes
+- Dick Kids (M.C. Kids Hack).nes
+- Dick Tracy (U) [!].nes
+- Dick Tracy (U) [o1].nes
+- Dick Tracy (U) [T+Fre_Rosetta].nes
+- Dick Tracy (USA).nes
+- Dick Tracy (USA).zip
+- Die Hard (E) [!].nes
+- Die Hard (Europe).nes
+- Die Hard (Europe).zip
+- Die Hard (J) [b1].nes
+- Die Hard (J) [o1].nes
+- Die Hard (U) [!p].nes
+- Die Hard (U) [o1].nes
+- Die Hard (USA).nes
+- Die Hard (USA).zip
+- Diffusion Chamber by Michael Martin (PD).nes
+- Dig Dug - BuB-BoB by Tempez (Dig Dug Hack).zip
+- Dig Dug - Getta Robo (Dig Dug Hack).zip
+- Dig Dug - Tempez Dig Dug (Dig Dug Hack).zip
+- Dig Dug (J) [b1].nes
+- Dig Dug (J) [b1][T+Spa_PaladinKnights].nes
+- Dig Dug (J) [o1].nes
+- Dig Dug (J) [o1][T+Spa_PaladinKnights].nes
+- Dig Dug (J) [o2].nes
+- Dig Dug (J) [o3].nes
+- Dig Dug (J) [p1][b1].nes
+- Dig Dug (J) [p1][b1][o1].nes
+- Dig Dug (J) [T+Chi_MS emumax].nes
+- Dig Dug (J) [T+Gre].nes
+- Dig Dug (J) [T+Spa_PaladinKnights].nes
+- Dig Dug (J) [T-Chi_MS emumax].nes
+- Dig Dug (J) [T-Chi_MS emumax][a1].nes
+- Dig Dug (J).nes
+- Dig Dug II - Blob Buster V1.0 by BMF54123 (Dig Dug II Hack).zip
+- Dig Dug II - Trouble in Paradise (U) [!].nes
+- Dig Dug II - Trouble in Paradise (U) [b1].nes
+- Dig Dug II - Trouble in Paradise (U) [o1].nes
+- Dig Dug II - Trouble in Paradise (USA).nes
+- Dig Dug II - Trouble in Paradise (USA).zip
+- Dig Dug II (J) [!].nes
+- Dig Dug II (J) [b1].nes
+- Dig Dug II (J) [b1][o1].nes
+- Dig Dug II (J) [o1].nes
+- Dig Dug II (J) [o2].nes
+- Dig Dug II (J) [p1].nes
+- Dig Dug III (Hottaaman no Chitei Tanken Hack).nes
+- Digger - The Legend of the Lost City (U) [!].nes
+- Digger - The Legend of the Lost City (U) [b1].nes
+- Digger - The Legend of the Lost City (U) [b2].nes
+- Digger - The Legend of the Lost City (U) [o1].nes
+- Digger - The Legend of the Lost City (USA).nes
+- Digger - The Legend of the Lost City (USA).zip
+- Digger T. Rock - The Legend of the Lost City (E) [!p].nes
+- Digger T. Rock - The Legend of the Lost City (Europe).nes
+- Digger T. Rock - The Legend of the Lost City (Europe).zip
+- Digital Devil Monogatari - Megami Tensei (J) [b1].nes
+- Digital Devil Monogatari - Megami Tensei (J) [b2].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04][b1].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04][b2].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04][b3].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04][o1].nes
+- Digital Devil Monogatari - Megami Tensei (J) [o1].nes
+- Digital Devil Monogatari - Megami Tensei (J).nes
+- Digital Devil Monogatari - Megami Tensei II (J) [b1].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [h1].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [h1][o1].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [h2].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [hFFE].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [hFFE][b1].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [hM04].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [o1].nes
+- Digital Devil Monogatari - Megami Tensei II (J).nes
+- Digital Dragon (Ch) [!].nes
+- Digital Dragon (Ch) [b1].nes
+- Dikki Painguin - TKO for the Third Reich (PD).nes
+- Dino-Hockey (USA) (Proto).nes
+- Dino-Hockey (USA) (Proto).zip
+- Dirty Harry - The War Against Drugs (U) [!p].nes
+- Dirty Harry - The War Against Drugs (U) [b1].nes
+- Dirty Harry - The War Against Drugs (U) [b2].nes
+- Dirty Harry - The War Against Drugs (U) [b3].nes
+- Dirty Harry - The War Against Drugs (U) [b4].nes
+- Dirty Harry - The War Against Drugs (U) [o1].nes
+- Dirty Harry - The War Against Drugs (U) [o2].nes
+- Dirty Harry (USA).nes
+- Dirty Harry (USA).zip
+- Disable NMI Timing Test by Shay Green (6 Nov 2005) (PD).nes
+- Dishonor Thy Father (CV2 Hack).nes
+- Dizzy The Adventurer (Unl) (Aladdin) [!].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [b1].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o1].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o1][T+Rus].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o2].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o2][T+Rus].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o3].nes
+- Dizzy the Adventurer (USA) (Aladdin Compact Cartridge) (Unl).nes
+- Dizzy the Adventurer (USA) (Aladdin Compact Cartridge) (Unl).zip
+- DJ-Boy(??).nes
+- Doctor PC Jr. - Xue Si Dian Nao (Ch) [a1].nes
+- Doctor PC Jr. - Xue Si Dian Nao (Ch).nes
+- Doctor PC Jr. - Xue Si Dian Nao (Part 1) (Ch).nes
+- Doctor PC Jr. - Xue Si Dian Nao (Part 2) (Ch).nes
+- Doki Doki Panik! by MB Hacks (SMB2 Hack).nes
+- Doki! Doki! Yuuenchi (J) [!].nes
+- Doki! Doki! Yuuenchi (J) [b1].nes
+- Doki! Doki! Yuuenchi (J) [b1][o1].nes
+- Doki! Doki! Yuuenchi (J) [b1][o1][T+Eng1.1_NoTalent].nes
+- Doki! Doki! Yuuenchi (J) [b1][T+Eng1.1_NoTalent].nes
+- Doki! Doki! Yuuenchi (J) [b1][T-Eng1.0_NoTalent].nes
+- Doki! Doki! Yuuenchi (J) [b2].nes
+- Doki! Doki! Yuuenchi (J) [hFFE].nes
+- Doki! Doki! Yuuenchi (J) [T+Eng1.0_Vice].nes
+- Doki! Doki! Yuuenchi (J) [T+Eng1.1_No_Talent].nes
+- Dokuganryuu Masamune (J) [b1].nes
+- Dokuganryuu Masamune (J) [h1].nes
+- Dokuganryuu Masamune (J) [h1][o1].nes
+- Dokuganryuu Masamune (J) [hFFE].nes
+- Dokuganryuu Masamune (J) [hFFE][b1].nes
+- Dokuganryuu Masamune (J) [o1].nes
+- Dokuganryuu Masamune (J).nes
+- Domkey Kong (Tiny Toon Adventures) [p1][!].nes
+- Don Doko Don (J) [o1].nes
+- Don Doko Don (J).nes
+- Don Doko Don 2 (J) [o1].nes
+- Don Doko Don 2 (J).nes
+- Donald Duck (J) [b1].nes
+- Donald Duck (J) [b2].nes
+- Donald Duck (J) [o1].nes
+- Donald Duck (J).nes
+- Donald Land (J) [b1].nes
+- Donald Land (J) [hFFE].nes
+- Donald Land (J) [o1].nes
+- Donald Land (J).nes
+- Donald Magic (BurgerTime Hack).nes
+- Dong Dong Nao 1 (Asia) (Unl).nes
+- Dong Dong Nao 1 (Asia) (Unl).zip
+- Dong Dong Nao II - Guo Zhong Ying Wen (Middle School English II) (Sachen).nes
+- Dong Dong Nao II - Guo Zhong Ying Wen (Yi) (Asia) (Unl).nes
+- Dong Dong Nao II - Guo Zhong Ying Wen (Yi) (Asia) (Unl).zip
+- Dong Fang de Chuan Shuo - The Hyrule Fantasy (Ch) [b1].nes
+- Dong Fang de Chuan Shuo - The Hyrule Fantasy (Ch).nes
+- Donkey Kong (U) (PT-BR).zip
+- Donkey Kong (USA) (GameCube Edition).nes
+- Donkey Kong (USA) (GameCube Edition).zip
+- Donkey Kong (World) (Rev A).zip
+- Donkey Kong 3 (World).zip
+- Donkey Kong Classics (USA  Europe).nes
+- Donkey Kong Classics (USA Europe).zip
+- Donkey Kong Jr. (JU) (PT-BR).zip
+- Donkey Kong Jr. (USA) (GameCube Edition).nes
+- Donkey Kong Jr. (USA) (GameCube Edition).zip
+- Donkey Kong Jr. (World) (Rev A).zip
+- Donkey Kong Jr. Math (USA  Europe).nes
+- Donkey Kong Jr. Math (USA Europe).zip
+- Dooly Bravo Land (Korea) (Unl).zip
+- Door Door (J) (FDS Hack).nes
+- Door Door (J) [b1].nes
+- Door Door (J) [b2].nes
+- Door Door (J) [b3].nes
+- Door Door (J) [b4].nes
+- Door Door (J) [b5].nes
+- Door Door (J) [p1].nes
+- Door Door (J) [p1][o1].nes
+- Door Door (J).nes
+- Door Door.zip
+- DoraeBomb by Rinkaku (Bomberman Hack) [o1].nes
+- DoraeBomb by Rinkaku (Bomberman Hack).nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o1].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o1][T+Eng1.0_WakdHacks].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o2].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o2][T+Eng1.0_WakdHacks].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o3].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [T+Eng1.0_WakdHacks].nes
+- Doraemon - Giga Zombie no Gyakushuu (J).nes
+- Doraemon (Ch) [b1].nes
+- Doraemon (Ch).nes
+- Doraemon (J) [b1].nes
+- Doraemon (J) [hM15].nes
+- Doraemon (J) [hM15][T+Eng1.1_Neokid].nes
+- Doraemon (J) [o1].nes
+- Doraemon (J) [o2].nes
+- Doraemon (J) [o3].nes
+- Doraemon (J) [o4].nes
+- Doraemon (J) [p1].nes
+- Doraemon (J) [p2].nes
+- Doraemon (J).nes
+- Doraemon World 3 by Kiku (Doraemon Hack).nes
+- Dou Zhi Pin Pan - Wisdom Boy (China) (Unl).zip
+- Double Dare (U) [!].nes
+- Double Dare (U) [o1].nes
+- Double Dare (USA).nes
+- Double Dare (USA).zip
+- Double Dragon - Chuck Norris Edition.zip
+- Double Dragon - Easy Type (Hack).zip
+- Double Dragon - Hard Type (Hack).zip
+- Double Dragon - RCR Edition V0.5a (Hack).nes
+- Double Dragon (E) [T+Fre].nes
+- Double Dragon (E).nes
+- Double Dragon (Easy Type Hack).nes
+- Double Dragon (Europe).nes
+- Double Dragon (Europe).zip
+- Double Dragon (Hard Type Hack).nes
+- Double Dragon (J) [hFFE].nes
+- Double Dragon (J).nes
+- Double Dragon (Nude Hack) [o1].nes
+- Double Dragon (Nude Hack).nes
+- Double Dragon (PC10) [b1].nes
+- Double Dragon (PC10).nes
+- Double Dragon (U) (Easy Type Hack).zip
+- Double Dragon (U) (Hard Type Hack).zip
+- Double Dragon (U) (PT-BR).zip
+- Double Dragon (U) [!].nes
+- Double Dragon (U) [b1].nes
+- Double Dragon (U) [b1][o1].nes
+- Double Dragon (U) [b2].nes
+- Double Dragon (U) [b2][T+Ger1.00_StarTrans].nes
+- Double Dragon (U) [b3].nes
+- Double Dragon (U) [o1].nes
+- Double Dragon (U) [o2].nes
+- Double Dragon (U) [o3].nes
+- Double Dragon (U) [T+Chi].nes
+- Double Dragon (U) [T+Chi][o1].nes
+- Double Dragon (U) [T+Chi_Foyi].nes
+- Double Dragon (U) [T+Chi_Foyi][o1].nes
+- Double Dragon (U) [T+Ger1.00_StarTrans].nes
+- Double Dragon (U) [T+Por1.1_BRGames].nes
+- Double Dragon (USA).nes
+- Double Dragon (USA).zip
+- Double Dragon by EmuWorld (Hack) [o1].nes
+- Double Dragon by EmuWorld (Hack).nes
+- Double Dragon II - Boss Edition by shinwa (Hack).zip
+- Double Dragon II - The Revenge (E) [!].nes
+- Double Dragon II - The Revenge (Europe).nes
+- Double Dragon II - The Revenge (Europe).zip
+- Double Dragon II - The Revenge (J) [o1].nes
+- Double Dragon II - The Revenge (J) [o1][T+Chi].nes
+- Double Dragon II - The Revenge (J) [p1].nes
+- Double Dragon II - The Revenge (J) [T+Chi].nes
+- Double Dragon II - The Revenge (J).nes
+- Double Dragon II - The Revenge (U) (PRG1) [!].nes
+- Double Dragon II - The Revenge (U) (PRG1) [b1].nes
+- Double Dragon II - The Revenge (U) (PRG1) [b2].nes
+- Double Dragon II - The Revenge (U) (PRG1) [b3].nes
+- Double Dragon II - The Revenge (U) (PRG1) [o1].nes
+- Double Dragon II - The Revenge (U) (PRG1) [o2].nes
+- Double Dragon II - The Revenge (U) (PRG1) [T+Bra1.0_T-devilfox G-POBRE].zip
+- Double Dragon II - The Revenge (U) (PRG1) [T+Fre].nes
+- Double Dragon II - The Revenge (U) (PRG1) [t1].nes
+- Double Dragon II - The Revenge (USA) (Rev A).nes
+- Double Dragon II - The Revenge (USA) (Rev A).zip
+- Double Dragon II - The Revenge (USA).nes
+- Double Dragon II - The Revenge (USA).zip
+- Double Dragon III - The Rosetta Stone (J) [o1].nes
+- Double Dragon III - The Rosetta Stone (J) [p1].nes
+- Double Dragon III - The Rosetta Stone (J) [T+Kor].nes
+- Double Dragon III - The Rosetta Stone (J).nes
+- Double Dragon III - The Rosetta Stone.zip
+- Double Dragon III - The Sacred Stones (E) [!p].nes
+- Double Dragon III - The Sacred Stones (Europe).nes
+- Double Dragon III - The Sacred Stones (Europe).zip
+- Double Dragon III - The Sacred Stones (U) (PT-BR).zip
+- Double Dragon III - The Sacred Stones (U) [!].nes
+- Double Dragon III - The Sacred Stones (U) [b1].nes
+- Double Dragon III - The Sacred Stones (U) [b1][o1].nes
+- Double Dragon III - The Sacred Stones (U) [b2].nes
+- Double Dragon III - The Sacred Stones (U) [b2][o1].nes
+- Double Dragon III - The Sacred Stones (U) [b3].nes
+- Double Dragon III - The Sacred Stones (U) [b4].nes
+- Double Dragon III - The Sacred Stones (U) [b5].nes
+- Double Dragon III - The Sacred Stones (U) [o1].nes
+- Double Dragon III - The Sacred Stones (U) [o2].nes
+- Double Dragon III - The Sacred Stones (U) [T+Chi].nes
+- Double Dragon III - The Sacred Stones (U) [T+Chi][o1].nes
+- Double Dragon III - The Sacred Stones (U) [T+Fre].nes
+- Double Dragon III - The Sacred Stones (U) [T+Por1.1_BRGames].nes
+- Double Dragon III - The Sacred Stones (U) [T+Spa1.0_Chilensis].nes
+- Double Dragon III - The Sacred Stones (U) [t1].nes
+- Double Dragon III - The Sacred Stones (USA).nes
+- Double Dragon III - The Sacred Stones (USA).zip
+- Double Dragon IV (Unl).nes
+- Double Dribble (E) [!].nes
+- Double Dribble (Europe).nes
+- Double Dribble (Europe).zip
+- Double Dribble (PC10) [b1].nes
+- Double Dribble (PC10).nes
+- Double Dribble (U) (PRG0) [!].nes
+- Double Dribble (U) (PRG0) [b1].nes
+- Double Dribble (U) (PRG0) [b2].nes
+- Double Dribble (U) (PRG0) [o1].nes
+- Double Dribble (U) (PRG0) [o2].nes
+- Double Dribble (U) (PRG0) [o3].nes
+- Double Dribble (U) (PRG0) [o4].nes
+- Double Dribble (U) (PRG0) [p1].nes
+- Double Dribble (U) (PRG1) [!].nes
+- Double Dribble (U) (PRG1) [b1].nes
+- Double Dribble (USA) (Rev A).nes
+- Double Dribble (USA) (Rev A).zip
+- Double Dribble (USA).nes
+- Double Dribble (USA).zip
+- Double Moon Densetsu (J) [o1].nes
+- Double Moon Densetsu (J) [T+EngBeta4_Kiwibonga].nes
+- Double Moon Densetsu (J) [T-EngBeta].nes
+- Double Moon Densetsu (J).nes
+- Double Strike - Aerial Attack Force (USA) (v1.0) (Unl).nes
+- Double Strike - Aerial Attack Force (USA) (v1.0) (Unl).zip
+- Double Strike - Aerial Attack Force (USA) (v1.1) (Unl).nes
+- Double Strike - Aerial Attack Force (USA) (v1.1) (Unl).zip
+- Double Strike (Unl) [!p].nes
+- Double Strike (Unl) [a1].nes
+- Double Strike (Unl) [b1].nes
+- Double Strike (Unl) [o1].nes
+- Dough Boy (J) [b1].nes
+- Dough Boy (J) [o1].nes
+- Dough Boy (J) [o2].nes
+- Dough Boy (J) [p1].nes
+- Dough Boy (J).nes
+- Dough Boy.zip
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [o1].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [o1][T+Chi1.0_Poe].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [T+Chi1.0_Poe].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [T+Eng.15_Disconnected].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [T+Kor].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J).nes
+- Downtown - Nekketsu Monogatari (J) [o1].nes
+- Downtown - Nekketsu Monogatari (J) [T+Chi].nes
+- Downtown - Nekketsu Monogatari (J) [T+Chi_AirTeam].nes
+- Downtown - Nekketsu Monogatari (J).nes
+- Downtown - Nekketsu Monogatari Girl Version (Hack).nes
+- Downtown - Nekketsu Monogatari Girl Version (Hack).zip
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [b1].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [o1].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [o1][T+Eng1.0_TechnosSamuraiTeam].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [T+Eng1.0_TechnosSamuraiTeam].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [T+Eng1.0_TechnosSamuraiTeam][a1].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J).nes
+- Dr Web (R) [!].nes
+- Dr Web 2 (R) [!].nes
+- Dr. Chaos (U) [!].nes
+- Dr. Chaos (U) [b1].nes
+- Dr. Chaos (U) [o1].nes
+- Dr. Chaos (USA).nes
+- Dr. Chaos (USA).zip
+- Dr. Jekyll and Mr. Hyde (U) [!].nes
+- Dr. Jekyll and Mr. Hyde (U) [b1].nes
+- Dr. Jekyll and Mr. Hyde (U) [b2].nes
+- Dr. Jekyll and Mr. Hyde (U) [o1].nes
+- Dr. Jekyll and Mr. Hyde (USA).nes
+- Dr. Jekyll and Mr. Hyde (USA).zip
+- Dr. Mario (Europe).nes
+- Dr. Mario (Europe).zip
+- Dr. Mario (Japan  USA) (Rev A).nes
+- Dr. Mario (Japan  USA).nes
+- Dr. Mario (JU) (PRG0) [T+Por100%_Altieres].zip
+- Dr. Mario (USA) (Beta) (1990-04-27).nes
+- Dr. Mario (USA) (Beta) (1990-04-27).zip
+- Dr. Mario (USA) (Beta) (Between 1990-02-02 & 1990-04-27  later).nes
+- Dr. Mario (USA) (Beta) (Between 1990-02-02 & 1990-04-27 later).zip
+- Drac s Night Out (U) (Prototype) [!].nes
+- Drac s Night Out (U) (Prototype) [o1].nes
+- Drac's Night Out (USA) (Proto).nes
+- Drac's Night Out (USA) (Proto).zip
+- Dragon Ball - Dai Maou Fukkatsu (J) [b1].nes
+- Dragon Ball - Dai Maou Fukkatsu (J) [b2].nes
+- Dragon Ball - Dai Maou Fukkatsu (J) [b3].nes
+- Dragon Ball - Dai Maou Fukkatsu (J) [hFFE].nes
+- Dragon Ball - Dai Maou Fukkatsu (J) [o1].nes
+- Dragon Ball - Dai Maou Fukkatsu (J).nes
+- Dragon Ball - Dragon Mystery (Hack).nes
+- Dragon Ball - Dragon Tricks (Hack).nes
+- Dragon Ball - Le Secret Du Dragon (F) [!].nes
+- Dragon Ball - Le Secret du Dragon (France) (Rev A).nes
+- Dragon Ball - Le Secret du Dragon (France) (Rev A).zip
+- Dragon Ball - Le Secret du Dragon (France).nes
+- Dragon Ball - Le Secret du Dragon (France).zip
+- Dragon Ball - Shen Long no Nazo (J) (PT-BR).zip
+- Dragon Ball - Shen Long no Nazo (J) [b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [b1][o1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hFFE][b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][b2].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][b3].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][b4].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][T-Eng].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM16].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM16][b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM16][b2].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b2].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b3].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b4].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b5].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b6].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b7].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][o1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][o1][T+Eng1.11_TransBRC].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T+Eng1.11_TransBRC].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T+Eng1.11_TransBRC][a1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T+Por1.00_TransBRC+CBT].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T+Por95%_CBT].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T-Eng1.0_TransBRC].nes
+- Dragon Ball - Shen Long no Nazo (J) [o1].nes
+- Dragon Ball - Shen Long no Nazo (J) [o2].nes
+- Dragon Ball - Shen Long no Nazo (J) [p1].nes
+- Dragon Ball - Shen Long no Nazo (J) [T+Eng].nes
+- Dragon Ball - Shen Long no Nazo (J).nes
+- Dragon Ball 3 - Gokuu Den (J) [a1].nes
+- Dragon Ball 3 - Gokuu Den (J) [hFFE].nes
+- Dragon Ball 3 - Gokuu Den (J) [hFFE][b1].nes
+- Dragon Ball 3 - Gokuu Den (J) [T+Eng0.15_Dodgy].nes
+- Dragon Ball 3 - Gokuu Den (J).nes
+- Dragon Ball Party [p1][!].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) (PT-BR).zip
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [b1].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [b2].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [b3].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [o1].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [p1].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [p1][T+Por100].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Eng0.47_Eigo ni Yakusu Productions].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Eng1.01_RedComet].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Eng1.1].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Por100%_RaphFS].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Por45%_Tradu-Roms].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Spa_PaladinKnights].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Eng].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Eng0.50_TransBRC].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Eng0.99_RedComet].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Eng1.00_RedComet].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Spa].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J).nes
+- Dragon Ball Z - Super Butouden 2 (Unl) [b1].nes
+- Dragon Ball Z - Super Butouden 2 (Unl) [hM04].nes
+- Dragon Ball Z - Super Butouden 2 (Unl).nes
+- Dragon Ball Z 5 (Ch).nes
+- Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J) [b1].nes
+- Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J) [o1].nes
+- Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J) [T+Eng0.05_Saiya].nes
+- Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J).nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [b1].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [hFFE][p1].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [hFFE][p1][b1].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [o1].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [T+Eng0.35_Omniverse].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [T+Eng0.70_Saiya].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [T+Spa70%_PaladinKnights].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J).nes
+- Dragon Ball Z II - Gekishin Freeza!! (Japan) (Rev 1).nes
+- Dragon Ball Z II - Gekishin Freeza!! (Japan).nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1][b1].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1][b2].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1][b3].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1][b4].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [o1].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [T+Eng].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [T+Ger010].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [T+Ger10%_Sven Rech].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [T+Spa70%_PaladinKnights].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J).nes
+- Dragon Buster (J) [b1].nes
+- Dragon Buster (J) [h1].nes
+- Dragon Buster (J) [o1].nes
+- Dragon Buster (J) [T+Fre1.0_ks151].nes
+- Dragon Buster (J).nes
+- Dragon Buster II - Yami no Fuuin (J) [b1].nes
+- Dragon Buster II - Yami no Fuuin (J) [o1].nes
+- Dragon Buster II - Yami no Fuuin (J) [T+Eng1.0_PentarouZero].nes
+- Dragon Buster II - Yami no Fuuin (J).nes
+- Dragon Destiny V0.12 (Destiny of an Emperor Hack) [o1].nes
+- Dragon Destiny V0.12 (Destiny of an Emperor Hack).nes
+- Dragon Fighter (J) [o1].nes
+- Dragon Fighter (J).nes
+- Dragon Fighter (U) [!].nes
+- Dragon Fighter (U) [b1].nes
+- Dragon Fighter (U) [o1].nes
+- Dragon Fighter (U) [o2].nes
+- Dragon Fighter (USA).nes
+- Dragon Fighter (USA).zip
+- Dragon Ninja (J) [o1].nes
+- Dragon Ninja (J) [p1][!].nes
+- Dragon Ninja (J).nes
+- Dragon Pervert by Spooky Kids (Dragon Warrior Hack) [a1].nes
+- Dragon Pervert by Spooky Kids (Dragon Warrior Hack) [a1][o1].nes
+- Dragon Pervert by Spooky Kids (Dragon Warrior Hack) [o1].nes
+- Dragon Pervert by Spooky Kids (Dragon Warrior Hack).nes
+- Dragon Pervert by Spooky Kids (Older) (Dragon Warrior Hack) [o1].nes
+- Dragon Pervert by Spooky Kids (Older) (Dragon Warrior Hack).nes
+- Dragon Power (U) [!].nes
+- Dragon Power (U) [b1].nes
+- Dragon Power (U) [b2].nes
+- Dragon Power (U) [o1].nes
+- Dragon Power (USA).nes
+- Dragon Power (USA).zip
+- Dragon Quest (J) [b1].nes
+- Dragon Quest (J) [b1][o1].nes
+- Dragon Quest (J) [b1][o2].nes
+- Dragon Quest (J) [b2].nes
+- Dragon Quest (J) [b3].nes
+- Dragon Quest (J) [T+Chi90%_ROMQUEST][b1].nes
+- Dragon Quest (J) [T+Chi90%_ROMQUEST][o1][b1].nes
+- Dragon Quest (J).nes
+- Dragon Quest 34 (DQ3 Hack) [o1].nes
+- Dragon Quest 34 (DQ3 Hack).nes
+- Dragon Quest II (J) [b1].nes
+- Dragon Quest II (J) [b2].nes
+- Dragon Quest II (J) [f1].nes
+- Dragon Quest II (J) [f2].nes
+- Dragon Quest II (J) [o1].nes
+- Dragon Quest II (J).nes
+- Dragon Quest III (J) [f1].nes
+- Dragon Quest III (J) [f1][o1].nes
+- Dragon Quest III (J) [f1][o2].nes
+- Dragon Quest III (J) [f1][o3].nes
+- Dragon Quest III (J) [f1][o4].nes
+- Dragon Quest III (J) [o1].nes
+- Dragon Quest III (J) [T+Eng0.0111_Spinner_8].nes
+- Dragon Quest III (J).nes
+- Dragon Quest IV (J) [b1].nes
+- Dragon Quest IV (J) [b2].nes
+- Dragon Quest IV (J) [b3].nes
+- Dragon Quest IV (J) [b4].nes
+- Dragon Quest IV (J) [o1].nes
+- Dragon Quest IV (J) [o2].nes
+- Dragon Quest IV (J) [o3].nes
+- Dragon Quest IV (J).nes
+- Dragon Quest IV (Unl) [b1].nes
+- Dragon Quest IV (Unl).nes
+- Dragon Quest IV Mayuge V1.0 (DQ4 Hack).nes
+- Dragon s Lair (E) [!p].nes
+- Dragon s Lair (J) [b1].nes
+- Dragon s Lair (J).nes
+- Dragon s Lair (U) [!].nes
+- Dragon s Lair (U) [b1].nes
+- Dragon s Lair (U) [o1].nes
+- Dragon s Lair (U) [o2].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [!].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [hFFE].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [hFFE][a1].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [hFFE][b1].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [o1].nes
+- Dragon Slayer 4 - Drasle Family (J) [b1].nes
+- Dragon Slayer 4 - Drasle Family (J) [b2].nes
+- Dragon Slayer 4 - Drasle Family (J) [b3].nes
+- Dragon Slayer 4 - Drasle Family (J) [T+Chi].nes
+- Dragon Slayer 4 - Drasle Family (J).nes
+- Dragon Spirit - Aratanaru Densetsu (J) [b1].nes
+- Dragon Spirit - Aratanaru Densetsu (J) [hFFE].nes
+- Dragon Spirit - Aratanaru Densetsu (J) [hM04].nes
+- Dragon Spirit - Aratanaru Densetsu (J) [o1].nes
+- Dragon Spirit - Aratanaru Densetsu (J).nes
+- Dragon Spirit - The New Legend (U) (PT-BR).zip
+- Dragon Spirit - The New Legend (U) [!].nes
+- Dragon Spirit - The New Legend (U) [o1].nes
+- Dragon Spirit - The New Legend (U) [T+Por100%_BRGames].nes
+- Dragon Spirit - The New Legend (U) [T+Rus].nes
+- Dragon Spirit - The New Legend (USA).nes
+- Dragon Spirit - The New Legend (USA).zip
+- Dragon Unit (J) [p1].nes
+- Dragon Unit (J).nes
+- Dragon Warrior - Chocobo DW V0.3 (Dragon Warrior Hack).zip
+- Dragon Warrior - Dragoon X Final by Sliver X (Original).zip
+- Dragon Warrior - Dragoon X Omega V2.0f Gold.zip
+- Dragon Warrior - Super Mario Remix 2 v1.0 (Incomplete).zip
+- Dragon Warrior (U) (PRG0) [!] - Special Edition V1.3a.zip
+- Dragon Warrior (U) (PRG0) [!].nes
+- Dragon Warrior (U) (PRG0) [b1].nes
+- Dragon Warrior (U) (PRG0) [b1][o1].nes
+- Dragon Warrior (U) (PRG0) [b2].nes
+- Dragon Warrior (U) (PRG0) [o1].nes
+- Dragon Warrior (U) (PRG0) [o2].nes
+- Dragon Warrior (U) (PRG0) [o3].nes
+- Dragon Warrior (U) (PRG0) [T+Fre].nes
+- Dragon Warrior (U) (PRG0) [T+FreBeta_Generation IX].nes
+- Dragon Warrior (U) (PRG0) [T+Ger0.95_alemanic].nes
+- Dragon Warrior (U) (PRG0) [T+Ger0.95_alemanic][o1].nes
+- Dragon Warrior (U) (PRG0) [T+Ger1.00_TranX].nes
+- Dragon Warrior (U) (PRG0) [T+Ita1.0f Jeg].nes
+- Dragon Warrior (U) (PRG0) [T+Por1.1_CBT].nes
+- Dragon Warrior (U) (PRG0) [T+Por1.1_CBT][o1].nes
+- Dragon Warrior (U) (PRG0) [T+Swe1.0_General CoolNES].nes
+- Dragon Warrior (U) (PRG0) [T-Ger3%_alemanic].nes
+- Dragon Warrior (U) (PRG1) [!].nes
+- Dragon Warrior (U) (PRG1) [T+Rus_MJOLNIR Vlad].nes
+- Dragon Warrior (U) (PRG1) [T+Rus_MJOLNIR Vlad][o1].nes
+- Dragon Warrior (USA) (Rev A).nes
+- Dragon Warrior (USA) (Rev A).zip
+- Dragon Warrior (USA).nes
+- Dragon Warrior (USA).zip
+- Dragon Warrior by CRTJ (Hack) [o1].nes
+- Dragon Warrior by CRTJ (Hack).nes
+- Dragon Warrior by EDS (Hack) [o1].nes
+- Dragon Warrior by EDS (Hack).nes
+- Dragon Warrior Enhanced (Hack) [o1].nes
+- Dragon Warrior Enhanced (Hack).nes
+- Dragon Warrior Fuck Hack by Trixy (Hack) [o1].nes
+- Dragon Warrior Fuck Hack by Trixy (Hack).nes
+- Dragon Warrior II (U) [!].nes
+- Dragon Warrior II (U) [o1].nes
+- Dragon Warrior II (U) [o2].nes
+- Dragon Warrior II (USA).nes
+- Dragon Warrior II (USA).zip
+- Dragon Warrior III (U) (PRG0) [!].nes
+- Dragon Warrior III (U) (PRG0) [b1].nes
+- Dragon Warrior III (U) (PRG0) [b1][o1].nes
+- Dragon Warrior III (U) (PRG0) [b2].nes
+- Dragon Warrior III (U) (PRG0) [b2][o1].nes
+- Dragon Warrior III (U) (PRG0) [b3].nes
+- Dragon Warrior III (U) (PRG0) [b4].nes
+- Dragon Warrior III (U) (PRG0) [b5].nes
+- Dragon Warrior III (U) (PRG0) [b6].nes
+- Dragon Warrior III (U) (PRG0) [o1].nes
+- Dragon Warrior III (U) (PRG0) [o2].nes
+- Dragon Warrior III (U) (PRG0) [T+Fre1.0_Generation IX].nes
+- Dragon Warrior III (U) (PRG0) [T+Por1.1_CBT].nes
+- Dragon Warrior III (U) (PRG0) [T-FreBeta_Generation IX].nes
+- Dragon Warrior III (U) (PRG0) [T-Por_CBT].nes
+- Dragon Warrior III (U) (PT-BR).zip
+- Dragon Warrior III (USA).nes
+- Dragon Warrior III (USA).zip
+- Dragon Warrior III Special Ed. V0.5 (Hack).nes
+- Dragon Warrior IV (U) [!].nes
+- Dragon Warrior IV (U) [b1].nes
+- Dragon Warrior IV (U) [o1].nes
+- Dragon Warrior IV (U) [o2].nes
+- Dragon Warrior IV (U) [o3].nes
+- Dragon Warrior IV (U) [o4].nes
+- Dragon Warrior IV (U) [o5].nes
+- Dragon Warrior IV (U) [o6].nes
+- Dragon Warrior IV (USA).nes
+- Dragon Warrior IV (USA).zip
+- Dragon Warrior Plus by interordi V0.33 (PRG0 Hack) [o1].nes
+- Dragon Warrior Plus by interordi V0.33 (PRG0 Hack).nes
+- Dragon Warrior Plus by interordi V0.33 (PRG1 Hack) [o1].nes
+- Dragon Warrior Plus by interordi V0.33 (PRG1 Hack).nes
+- Dragon Warrior Special Edition V1.3 (Hack) [o1].nes
+- Dragon Warrior Special Edition V1.3 (Hack).nes
+- Dragon Warrior Trip V1.0 (Hack) [a1].nes
+- Dragon Warrior Trip V1.0 (Hack) [o1].nes
+- Dragon Warrior Trip V1.0 (Hack).nes
+- Dragon Wars (J).nes
+- Dragon Wars (USA) (Proto).nes
+- Dragon Wars (USA) (Proto).zip
+- Dragon, The (Unl) [b1].nes
+- Dragon, The (Unl) [p1][!].nes
+- Dragon, The (Unl).nes
+- Dragon's Lair (Europe).nes
+- Dragon's Lair (Europe).zip
+- Dragon's Lair (USA).nes
+- Dragon's Lair (USA).zip
+- Dragoon X by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Final by Sliver X (Dragon Warrior Hack) [o1].nes
+- Dragoon X Final by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V0.91 by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V0.98 by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V1.00 by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V2.0 by Sliver X (Dragon Warrior Hack) [o1].nes
+- Dragoon X Omega V2.0 by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V2.0f Gold by Sliver X (Dragon Warrior Hack) [o1].nes
+- Dragoon X Omega V2.0f Gold by Sliver X (Dragon Warrior Hack).nes
+- Draiocht.zip
+- Draque Buster (Dragon Buster Hack).nes
+- Dream Master (J) [b1].nes
+- Dream Master (J) [b1][o1].nes
+- Dream Master (J) [b2].nes
+- Dream Master (J) [b3].nes
+- Dream Master (J) [b4].nes
+- Dream Master (J).nes
+- Dreamworld Pogie (Unknown) (Proto 1) (Unl).zip
+- Dreamworld Pogie (Unknown) (Proto 2) (Unl).zip
+- Drop Zone (E) [b1].nes
+- Drop Zone (E).nes
+- Dropoff 7 Demo by Memblers (PD).nes
+- Dropzone (Europe).nes
+- Dropzone (Europe).zip
+- Duck (Unl) [o1].nes
+- Duck (Unl).nes
+- Duck Hunt (JU) [!].nes
+- Duck Hunt (JU) [b1].nes
+- Duck Hunt (JU) [b2].nes
+- Duck Hunt (JU) [o1].nes
+- Duck Hunt (JU) [o2].nes
+- Duck Hunt (JU) [p1].nes
+- Duck Hunt (JU) [p1][o1].nes
+- Duck Hunt (JU) [p1][T+Fre].nes
+- Duck Hunt (JU) [p2].nes
+- Duck Hunt (JU) [p3].nes
+- Duck Hunt (JU) [p3][b1][o1].nes
+- Duck Hunt (JU) [p3][o1].nes
+- Duck Hunt (JU) [p3][o2].nes
+- Duck Hunt (JU) [T+Dut1.1_OK Impala!].nes
+- Duck Hunt (JU) [T+Fre].nes
+- Duck Hunt (JU) [T-Dut1.0_OK Impala!].nes
+- Duck Hunt (PC10) [T+Fre1.1_ks151].nes
+- Duck Hunt (PC10).nes
+- Duck Hunt (VS) [b1].nes
+- Duck Hunt (VS).nes
+- Duck Hunt (World).zip
+- Duck Maze (Australia) (Unl).zip
+- Duck Maze (HES) [!].nes
+- Duck Tales (E).nes
+- Duck Tales (U) (Prototype).nes
+- Duck Tales (U) (PT-BR).zip
+- Duck Tales (U) [!].nes
+- Duck Tales (U) [b1].nes
+- Duck Tales (U) [b1][o1].nes
+- Duck Tales (U) [b2].nes
+- Duck Tales (U) [o1].nes
+- Duck Tales (U) [o2].nes
+- Duck Tales (U) [o3].nes
+- Duck Tales (U) [T+Fre].nes
+- Duck Tales (U) [T+FreBeta_Generation IX].nes
+- Duck Tales (U) [T+Por1.0_CBT].nes
+- Duck Tales (U) [T+Por90%_Emuroms].nes
+- Duck Tales (U) [T+Swe1.0_GeneralCoolNES].nes
+- Duck Tales (U) [T+Swe2.0_TheTranslator].nes
+- Duck Tales 2 (E) (Prototype).nes
+- Duck Tales 2 (E) [!].nes
+- Duck Tales 2 (F) [!].nes
+- Duck Tales 2 (J).nes
+- Duck Tales 2 (U) (PT-BR).zip
+- Duck Tales 2 (U) [!].nes
+- Duck Tales 2 (U) [o1].nes
+- Duck Tales 2 (U) [o2].nes
+- Duck Tales 2 (U) [o3].nes
+- Duck Tales 2 (U) [o4].nes
+- Duck Tales 2 (U) [T+Fre(Cigarette Patch featuring GreatSkaori)].nes
+- Duck Tales 2 (U) [T+Por100%_BRTranslations].nes
+- Duck Tales III (Duck Tales) [p1][!].nes
+- Duck.zip
+- DuckTales (Europe).nes
+- DuckTales (Europe).zip
+- DuckTales (USA) (Beta).nes
+- DuckTales (USA) (Beta).zip
+- DuckTales (USA).nes
+- DuckTales (USA).zip
+- DuckTales 2 (Europe) (Beta).nes
+- DuckTales 2 (Europe) (Beta).zip
+- DuckTales 2 (Europe).nes
+- DuckTales 2 (Europe).zip
+- DuckTales 2 (France).nes
+- DuckTales 2 (France).zip
+- DuckTales 2 (Germany).zip
+- DuckTales 2 (USA).nes
+- DuckTales 2 (USA).zip
+- Dudes With Attitude (Unl) [!].nes
+- Dudes With Attitude (Unl) [b1].nes
+- Dudes With Attitude (Unl) [b2].nes
+- Dudes With Attitude (Unl) [o1].nes
+- Dudes with Attitude (USA) (Rev 1) (Unl).nes
+- Dudes with Attitude (USA) (Rev 1) (Unl).zip
+- Dudes with Attitude (USA) (Unl).nes
+- Dudes with Attitude (USA) (Unl).zip
+- Duel, The by Bokudono (PD).nes
+- Dungeon _ Magic - Swords of Element (J) [!].nes
+- Dungeon _ Magic - Swords of Element (J) [b1].nes
+- Dungeon _ Magic - Swords of Element (J) [o1].nes
+- Dungeon Kid (J) [b1].nes
+- Dungeon Kid (J).nes
+- Dungeon Magic - Sword of the Elements (U) [!].nes
+- Dungeon Magic - Sword of the Elements (U) [b1].nes
+- Dungeon Magic - Sword of the Elements (U) [o1].nes
+- Dungeon Magic - Sword of the Elements (U) [o2].nes
+- Dungeon Magic - Sword of the Elements (U) [o3].nes
+- Dungeon Magic - Sword of the Elements (USA).nes
+- Dungeon Magic - Sword of the Elements (USA).zip
+- Duo Bao Xiao Ying Hao - Guang Ming yu An Hei Chuan Shuo (Ch) [a1].nes
+- Duo Bao Xiao Ying Hao - Guang Ming yu An Hei Chuan Shuo (Ch) [b1].nes
+- Duo Bao Xiao Ying Hao - Guang Ming yu An Hei Chuan Shuo (Ch).nes
+- Dusty Diamond s All-Star Softball (U) [!p].nes
+- Dusty Diamond s All-Star Softball (U) [b1].nes
+- Dusty Diamond s All-Star Softball (U) [b2].nes
+- Dusty Diamond s All-Star Softball (U) [o1].nes
+- Dusty Diamond's All-Star Softball (USA).nes
+- Dusty Diamond's All-Star Softball (USA).zip
+- Dynablaster (E).nes
+- Dynablaster (Europe).nes
+- Dynablaster (Europe).zip
+- Dynamite Batman (J) [hFFE][p1].nes
+- Dynamite Batman (J) [hFFE][p1][b1].nes
+- Dynamite Batman (J) [hFFE][p1][o1].nes
+- Dynamite Batman (J).nes
+- Dynamite Bowl (J) [o1].nes
+- Dynamite Bowl (J) [o2].nes
+- Dynamite Bowl (J) [p1][!].nes
+- Dynamite Bowl (J).nes
+- Dynowarz - Destruction of Spondylus (USA).nes
+- Dynowarz - Destruction of Spondylus (USA).zip
+- Dynowarz - The Destruction of Spondylus (U) [!].nes
+- Dynowarz - The Destruction of Spondylus (U) [b1].nes
+- Dynowarz - The Destruction of Spondylus (U) [b2].nes
+- Dynowarz - The Destruction of Spondylus (U) [b3].nes
+- Dynowarz - The Destruction of Spondylus (U) [b4].nes
+- Dynowarz - The Destruction of Spondylus (U) [b5].nes
+- Dynowarz - The Destruction of Spondylus (U) [o1].nes
+- E.T. - The Extra Terrestrial (KHAN Games) (PD).zip
+- EAC 2001 3-in-1 by Mankeli (PD) [a1].nes
+- EAC 2001 3-in-1 by Mankeli (PD).nes
+- Earth Bound (USA) (Proto).nes
+- Earth Bound (USA) (Proto).zip
+- Earthbound (U) (Prototype) [b1].nes
+- Earthbound (U) (Prototype) [h1] (Time Hack).nes
+- Earthbound (U) (Prototype) [h2].nes
+- Earthbound (U) (Prototype) [h3].nes
+- Earthbound (U) (Prototype) [h4].nes
+- Earthbound (U) (Prototype) [o1].nes
+- Earthbound (U) (Prototype) [T+Ger1.0_GTrans].nes
+- Earthbound (U) (Prototype) [T+Ger1.0_GTrans][a1].nes
+- Earthbound (U) (Prototype).nes
+- Earthbound Alpha (Hack).nes
+- Earthbound Zero (Demiforce Hack).nes
+- Earthbound Zero (Demiforce v1.01-1 Hack) [b1].nes
+- Earthbound Zero (Demiforce v1.01-1 Hack) [b2].nes
+- Earthbound Zero (Demiforce v1.01-1 Hack).nes
+- Earthbound Zero (Demiforce v1.01-2 Hack) [o1].nes
+- Earthbound Zero (Demiforce v1.01-2 Hack).nes
+- EarthWorm Jim 2 (Unl) [p1][!].nes
+- EarthWorm Jim 2 (Unl) [p1][f1].nes
+- EarthWorm Jim 3 (Unl) [!].nes
+- EarthWorm Jim 3 (Unl) [a1].nes
+- Easy Final Fantasy (FF1 Hack).nes
+- Education Games 18-in-1 (Ch) [a1].nes
+- Education Games 18-in-1 (Ch).nes
+- Eggland - Meikyuu no Fukkatsu (J) [o1].nes
+- Eggland - Meikyuu no Fukkatsu (J).nes
+- Egypt (J) [o1].nes
+- Egypt (J) [T+Eng0.90_Magic Destiny].nes
+- Egypt (J) [T+Eng1.00_Dodgy].nes
+- Egypt (J) [T+FreBeta_Generation IX].nes
+- Egypt (J) [T+Unk_Ramah].nes
+- Egypt (J) [T-Eng0.50_Dodgy].nes
+- Egypt (J).nes
+- Eight Beasts 2 V2.01 by Matrixz (Megaman II Hack).nes
+- Elemental Resurrection 3 (V0.2) by Matrixz (Megaman III Hack).nes
+- Elevator Action - Matrix The (Elevator Action Hack).zip
+- Elevator Action (J) [o1].nes
+- Elevator Action (J) [o2].nes
+- Elevator Action (J) [o3].nes
+- Elevator Action (J) [o4].nes
+- Elevator Action (J) [p1].nes
+- Elevator Action (J).nes
+- Elevator Action (U) [!].nes
+- Elevator Action (U) [o1].nes
+- Elevator Action (USA).nes
+- Elevator Action (USA).zip
+- Eliminator Boat Dual (E) [!].nes
+- Eliminator Boat Duel (Europe).nes
+- Eliminator Boat Duel (Europe).zip
+- Eliminator Boat Duel (U) [!].nes
+- Eliminator Boat Duel (U) [b1].nes
+- Eliminator Boat Duel (U) [o1].nes
+- Eliminator Boat Duel (U) [o2].nes
+- Eliminator Boat Duel (USA).nes
+- Eliminator Boat Duel (USA).zip
+- Elite (E) [!p].nes
+- Elite (Europe) (En Fr De).nes
+- Elite (Europe) (En Fr De).zip
+- Elite (USA) (Proto) [b].nes
+- Elite (USA) (Proto) [b].zip
+- Elite by Ian Bell _ David Braben (NTSC Hack) [o1].nes
+- Elite by Ian Bell _ David Braben (NTSC Hack).nes
+- Elysion (J) [!].nes
+- Elysion (J) [hFFE].nes
+- Elysion (J) [o1].nes
+- Emo Yan no 10 Bai Pro Yakyuu (J) [b1].nes
+- Emo Yan no 10 Bai Pro Yakyuu (J) [o1].nes
+- Emo Yan no 10 Bai Pro Yakyuu (J).nes
+- Empereur  L' (USA).nes
+- Empereur L' (USA).zip
+- Empire Invaders (Space Invaders Hack) [o1].nes
+- Empire Invaders (Space Invaders Hack).nes
+- Endless mission.nes
+- Energy Warrior 1.nes
+- Energy Warrior 2.nes
+- English Word Blaster V1.0 (Unl) [!].nes
+- English Word Blaster V1.0 (Unl) [b1].nes
+- Entertainment 3 in 1.nes
+- EraserHead (SMB1 Hack).nes
+- Eric Cantona Football Challenge - Goal! 2 (Europe).nes
+- Eric Cantona Football Challenge - Goal! 2 (Europe).zip
+- Eric Goal! 2 (E) [b1].nes
+- Eric Goal! 2 (E).nes
+- Erika to Satoru no Yume Bouken (J) [f1].nes
+- Erika to Satoru no Yume Bouken (J) [f1][o1].nes
+- Erika to Satoru no Yume Bouken (J) [hM04].nes
+- Erika to Satoru no Yume Bouken (J).nes
+- Ernie _ The Muppets Take It All Off (Sesame Street ABC Hack).nes
+- Erunaaku no Zaihou (J) [a1].nes
+- Erunaaku no Zaihou (J) [b1].nes
+- Erunaaku no Zaihou (J).nes
+- Escape from Atlantis  The (USA) (Proto 1) (Unl).nes
+- Escape from Atlantis  The (USA) (Proto 2) (Unl).nes
+- Escape from Atlantis The (USA) (Proto 1) (Unl).zip
+- Escape from Atlantis The (USA) (Proto 2) (Unl).zip
+- Escape From Atlantis, The (Prototype-1).nes
+- Escape From Atlantis, The (Prototype-2).nes
+- Escape From Base 57 V1.0 by BMF54123 (Bomberman Hack).nes
+- Escape From Planet Transexual (SMB1 Hack).nes
+- Escape From Pong Rev 2 by Adam Gashlin (PD).nes
+- Escape From Pong Rev 4 by Adam Gashlin (PD).nes
+- Escape From Pong Rev 4bw by Adam Gashlin (PD).nes
+- Eskimo Bob Deluxe Edition.zip
+- Esper Bouken Tai (J) [f1].nes
+- Esper Bouken Tai (J) [o1].nes
+- Esper Bouken Tai (J).nes
+- Esper Dream 2 - Aratanaru Tatakai (J) [o1].nes
+- Esper Dream 2 - Aratanaru Tatakai (J).nes
+- Europe Sensen (Unl).nes
+- EverQuest (Ch) [!].nes
+- EverQuest (Ch) [b1].nes
+- Evil Kirby (Kirby s Adventure Hack).nes
+- Evil Z 3 (SMB3 PRG1 Hack).nes
+- Excitebike (E) [!p].nes
+- Excitebike (Europe).nes
+- Excitebike (Europe).zip
+- Excitebike (GBA e-Reader) (U).nes
+- Excitebike (GC).nes
+- Excitebike (Japan  USA).nes
+- Excitebike (JU) (PT-BR).zip
+- Excitebike (JU) [!].nes
+- Excitebike (JU) [b1].nes
+- Excitebike (JU) [b1][o1].nes
+- Excitebike (JU) [b2].nes
+- Excitebike (JU) [b2][o1].nes
+- Excitebike (JU) [b3].nes
+- Excitebike (JU) [b4].nes
+- Excitebike (JU) [o1].nes
+- Excitebike (JU) [o1][T+Por].nes
+- Excitebike (JU) [o2].nes
+- Excitebike (JU) [o3].nes
+- Excitebike (JU) [o4].nes
+- Excitebike (JU) [o5].nes
+- Excitebike (JU) [p1].nes
+- Excitebike (JU) [p1][o1].nes
+- Excitebike (JU) [T+Chi].nes
+- Excitebike (JU) [T+Pol].nes
+- Excitebike (JU) [T+Por99%_EmuSamba].nes
+- Excitebike (JU) [T+Por99%_EmuSamba][o1].nes
+- Excitebike (JU) [T+Spa].nes
+- Excitebike (JU) [T+Spa][o1].nes
+- Excitebike (JU) [T+Spa][o2].nes
+- Excitebike (PC10) [T+Fre1.0_ks151].nes
+- Excitebike (PC10).nes
+- Excitebike (USA) (GameCube Edition).nes
+- Excitebike (USA) (GameCube Edition).zip
+- Excitebike (VS) [a1].nes
+- Excitebike (VS).nes
+- Excitebike 2.zip
+- Excitebike Bug (Hack) [o1].nes
+- Excitebike Bug (Hack) [o2].nes
+- Excitebike Bug (Hack).nes
+- Excitebike Unicycle (Hack) [o1].nes
+- Excitebike Unicycle (Hack) [o2].nes
+- Excitebike Unicycle (Hack).nes
+- Exciting Boxing (J) [o1].nes
+- Exciting Boxing (J).nes
+- Exciting Rally - World Rally Championship (J) [o1].nes
+- Exciting Rally - World Rally Championship (J) [T+Eng1.00_Klepto_Software].nes
+- Exciting Rally - World Rally Championship (J).nes
+- Exciting! Amusement Park.zip
+- Exed Exes (J) [o1].nes
+- Exed Exes (J) [o2].nes
+- Exed Exes (J) [o3].nes
+- Exed Exes (J) [p1].nes
+- Exed Exes (J).nes
+- Exed Exes.zip
+- Exerion (J) [b1].nes
+- Exerion (J) [b2].nes
+- Exerion (J) [b3].nes
+- Exerion (J) [b4].nes
+- Exerion (J) [b5].nes
+- Exerion (J) [b6].nes
+- Exerion (J) [o1].nes
+- Exerion (J) [p1].nes
+- Exerion (J) [p1][o1].nes
+- Exerion (J).nes
+- Exerion (Japan) (En) (Proto) [b].nes
+- Exerion (Japan) (En).nes
+- Exerion.zip
+- Exodus - Journey to the Promised Land (USA) (v4.0) (Unl).nes
+- Exodus - Journey to the Promised Land (USA) (v4.0) (Unl).zip
+- Exodus - Journey to the Promised Land (USA) (v5.0) (Unl).nes
+- Exodus - Journey to the Promised Land (USA) (v5.0) (Unl).zip
+- Exodus (Unl) (V4.0) [!].nes
+- Exodus (Unl) (V4.0) [b1].nes
+- Exodus (Unl) (V4.0) [o1].nes
+- Expedition.zip
+- Exploding Fist (USA) (Proto 1).nes
+- Exploding Fist (USA) (Proto 1).zip
+- Exploding Fist (USA) (Proto 2).nes
+- Exploding Fist (USA) (Proto 2).zip
+- F1 Circus (J).nes
+- F-1 Race (J) [b1].nes
+- F-1 Race (J) [b1][o1].nes
+- F-1 Race (J) [b1][o2].nes
+- F-1 Race (J) [p1].nes
+- F-1 Race (J) [p1][o1].nes
+- F-1 Race (J) [T+Chi_MS emumax].nes
+- F-1 Race (J).nes
+- F1 Race.zip
+- F-1 Sensation (J).nes
+- F-1 ???? (??) (??).nes
+- F-1 ???? (??) (??).nes
+- F-1 ???? (??) (??).nes
+- F-1 ??? (??) (??).nes
+- F-1 ??? (??) (??).nes
+- F-117A - Stealth Fighter (USA).nes
+- F-117A - Stealth Fighter (USA).zip
+- F-117A Stealth Fighter (U) [!].nes
+- F-117A Stealth Fighter (U) [o1].nes
+- F-117A ???? (??) (????).nes
+- f117a??????????.zip
+- F15 City War (Spain) (Gluk Video) (Unl).zip
+- F-15 City War (Unl) (REV1.1) [!].nes
+- F-15 City War (Unl) (REV1.x) [!p].nes
+- F-15 City War (Unl) (REV1.x) [a1].nes
+- F-15 City War (Unl) (REV1.x) [b1].nes
+- F-15 City War (Unl) (REV1.x) [b2].nes
+- F-15 City War (Unl) (REV1.x) [b3].nes
+- F-15 City War (Unl) (REV1.x) [b4].nes
+- F-15 City War (Unl) (REV1.x) [o1].nes
+- F15 City War (USA) (v1.0) (Unl).nes
+- F15 City War (USA) (v1.0) (Unl).zip
+- F15 City War (USA) (v1.1) (Unl).nes
+- F15 City War (USA) (v1.1) (Unl).zip
+- F-15 Strike Eagle (Europe).nes
+- F-15 Strike Eagle (Europe).zip
+- F-15 Strike Eagle (F) (M3) [!].nes
+- F-15 Strike Eagle (France) (En Fr Nl).nes
+- F-15 Strike Eagle (France) (En Fr Nl).zip
+- F-15 Strike Eagle (Germany).zip
+- F-15 Strike Eagle (Italy).zip
+- F-15 Strike Eagle (Sweden) (Sv Da Fi).zip
+- F-15 Strike Eagle (U) [!].nes
+- F-15 Strike Eagle (U) [b1].nes
+- F-15 Strike Eagle (U) [o1].nes
+- F-15 Strike Eagle (USA).nes
+- F-15 Strike Eagle (USA).zip
+- F-15 ???? (??) (V1.0) (??).nes
+- F-15 ???? (??) (V1.1) (??).nes
+- F-15 ???? (????) (????).nes
+- F-15 ???? (??) (????).nes
+- F-15 ???? (??) (????).nes
+- F-15 ???? (???) (????).nes
+- F-15 ???? (??) (????).nes
+- f15??????v1.0??.zip
+- f15??????v1.1??.zip
+- f15????????????.zip
+- f15??????????.zip
+- f15???????????.zip
+- f15??????????.zip
+- f15??????????1.zip
+- f1????????.zip
+- f1????????.zip
+- f1????????.zip
+- f1???????.zip
+- f1???????.zip
+- f1?????.zip
+- f1?????1.zip
+- Facemaker (Dr. PC Jr.) (Ch).nes
+- Fade to Black by Frederik Schultz _ Morgan Johansson (PD).nes
+- Famicom Disk System BIOS (J) [b1].nes
+- Famicom Disk System BIOS (J).nes
+- Famicom Doubutsu Seitai Zukan! - Katte ni Shirokuma - Mori wo Sukue no Maki! (J) [!].nes
+- Famicom Igo Nyuumon (J) [o1].nes
+- Famicom Igo Nyuumon (J).nes
+- Famicom Jump - Eiyuu Retsuden (J) [f1].nes
+- Famicom Jump - Eiyuu Retsuden (J).nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [b1].nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [hFFE].nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [hFFE][a1].nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [hFFE][b1].nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [o1].nes
+- Famicom Jump II - Saikyou no 7 Nin (J).nes
+- Famicom Meijin Sen (J) [o1].nes
+- Famicom Meijin Sen (J).nes
+- Famicom Pro Action Rocky Encoder-Decoder by Chris Covell, ReaperSMS _ Jamethiel (PD).nes
+- Famicom Shougi - Ryuuousen (J) [o1].nes
+- Famicom Shougi - Ryuuousen (J).nes
+- Famicom Top Management (J).nes
+- Famicom Wars (J) [b1].nes
+- Famicom Wars (J) [b2].nes
+- Famicom Wars (J) [b3].nes
+- Famicom Wars (J) [o1].nes
+- Famicom Wars (J) [T+Eng.75a_SkullCastle].nes
+- Famicom Wars (J) [T+Eng0.99_akadewboy].nes
+- Famicom Wars (J) [T+Eng0.99_akadewboy][b1].nes
+- Famicom Wars (J) [T-Eng0.90_akadewboy].nes
+- Famicom Wars (J).nes
+- Famicom Yakyuu Han (J) [hFFE][b1].nes
+- Famicom Yakyuu Han (J).nes
+- Famicom Yarou Vol.1 7-in-1 (Unl) [!].nes
+- Famicon Yarou Vol.5 7-in-1 (Unl) [!].nes
+- Family BASIC (J) (V2.0a).nes
+- Family BASIC (J) (V2.1a).nes
+- Family BASIC (J) (V3.0) [b1].nes
+- Family BASIC (J) (V3.0).nes
+- Family Block (J) [b1].nes
+- Family Block (J).nes
+- Family Boxing (J) [b1].nes
+- Family Boxing (J) [b2].nes
+- Family Boxing (J).nes
+- Family Circuit  91 (J) [o1].nes
+- Family Circuit  91 (J) [o2].nes
+- Family Circuit  91 (J) [o3].nes
+- Family Circuit  91 (J).nes
+- Family Circuit (J) [b1].nes
+- Family Circuit (J) [o1].nes
+- Family Circuit (J) [o2].nes
+- Family Circuit (J).nes
+- Family Circuit '91 (Japan) (En).nes
+- Family Computer - Othello (J) [b1].nes
+- Family Computer - Othello (J) [b2].nes
+- Family Computer - Othello (J) [o1].nes
+- Family Computer - Othello (J) [p1].nes
+- Family Computer - Othello (J).nes
+- Family Feud (U) [!].nes
+- Family Feud (U) [b1].nes
+- Family Feud (U) [o1].nes
+- Family Feud (USA).nes
+- Family Feud (USA).zip
+- Family Jockey (J) [o1].nes
+- Family Jockey (J).nes
+- Family Mahjong (J).nes
+- Family Mahjong (Rickachu Hack) [a1].nes
+- Family Mahjong (Rickachu Hack).nes
+- Family Mahjong II - Shanghai heno Michi (J) [b1].nes
+- Family Mahjong II - Shanghai heno Michi (J).nes
+- Family Picross! (USA) (Unl).zip
+- Family Pinball (J) [hFFE].nes
+- Family Pinball (J) [hFFE][b1].nes
+- Family Pinball (J) [hFFE][b2].nes
+- Family Pinball (J).nes
+- Family Quiz (J).nes
+- Family School (J).nes
+- Family Tennis (J) [b1].nes
+- Family Tennis (J) [b2].nes
+- Family Tennis (J) [b3].nes
+- Family Tennis (J).nes
+- Family Trainer - Aerobics Studio (J).nes
+- Family Trainer - Athletic World (J).nes
+- Family Trainer - Daiundoukai (J).nes
+- Family Trainer - Fuuun! Takeshi Shiro 2 (J).nes
+- Family Trainer - Jogging Race (J) [b1].nes
+- Family Trainer - Jogging Race (J).nes
+- Family Trainer - Manhattan Police (J).nes
+- Family Trainer - Meiro Daisakusen (J).nes
+- Family Trainer - Rairai Kyonshiizu (J) (Prototype) [!].nes
+- Family Trainer - Rairai Kyonshiizu (J).nes
+- Family Trainer - Running Stadium (J) [o1].nes
+- Family Trainer - Running Stadium (J).nes
+- Family Trainer - Totsugeki! Fuuun Takeshi Shiro (J).nes
+- Famista  89 - Kaimaku Han!! (J) [b1].nes
+- Famista  89 - Kaimaku Han!! (J) [o1].nes
+- Famista  89 - Kaimaku Han!! (J) [o2].nes
+- Famista  89 - Kaimaku Han!! (J).nes
+- Famista  90 (J) [b1].nes
+- Famista  90 (J).nes
+- Famista  91 (J) [hM04].nes
+- Famista  91 (J).nes
+- Famista  92 (J) (PAL V1.1 Hack).nes
+- Famista  92 (J) [hM04].nes
+- Famista  92 (J).nes
+- Famista  93 (J) [hM04].nes
+- Famista  93 (J) [hM04][b1].nes
+- Famista  93 (J).nes
+- Famista  94 (J) [hM04].nes
+- Famista  94 (J) [hM04][b1].nes
+- Famista  94 (J) [hM04][b2].nes
+- Famista  94 (J).nes
+- Famista  99 (Famista  89 Hack).nes
+- Famista  99 (Famista  91 Hack).nes
+- Fan Kong Jing Ying (China) (Unl).zip
+- Fantastic Adventures of Dizzy  The (USA) (Aladdin Compact Cartridge) (Unl).nes
+- Fantastic Adventures of Dizzy  The (USA) (Unl).nes
+- Fantastic Adventures of Dizzy The (USA) (Aladdin Compact Cartridge) (Unl).zip
+- Fantastic Adventures of Dizzy The (USA) (Unl).zip
+- Fantastic Adventures of Dizzy, The (Unl) (Aladdin) [!].nes
+- Fantastic Adventures of Dizzy, The (Unl) (Aladdin) [b1].nes
+- Fantastic Adventures of Dizzy, The (Unl) (Aladdin) [b2].nes
+- Fantastic Adventures of Dizzy, The (Unl) [!].nes
+- Fantastic Adventures of Dizzy, The (Unl) [b1].nes
+- Fantastic Adventures of Dizzy, The (Unl) [o1].nes
+- Fantastic Adventures of Dizzy, The (Unl) [T+Pol].nes
+- Fantasy Fighter (SMB1 Hack).nes
+- Fantasy of Darkness (FF1 Hack).nes
+- Fantasy Zone (J) [hM02].nes
+- Fantasy Zone (J) [hM02][b1].nes
+- Fantasy Zone (J) [hM02][b2].nes
+- Fantasy Zone (J) [hM02][b3].nes
+- Fantasy Zone (J) [hM02][o1].nes
+- Fantasy Zone (J) [hM02][o2].nes
+- Fantasy Zone (J) [hM02][o3].nes
+- Fantasy Zone (J).nes
+- Fantasy Zone (Unl) [!].nes
+- Fantasy Zone (Unl) [o1].nes
+- Fantasy Zone (USA) (Unl).nes
+- Fantasy Zone (USA) (Unl).zip
+- Fantasy Zone 2 - The Teardrop of Opa-Opa (J) [hFFE].nes
+- Fantasy Zone 2 - The Teardrop of Opa-Opa (J) [o1].nes
+- Fantasy Zone 2 - The Teardrop of Opa-Opa (J).nes
+- Faria - A World of Mystery & Danger! (USA).nes
+- Faria - A World of Mystery & Danger! (USA).zip
+- Faria - A World of Mystery _ Danger! (U) [!].nes
+- Faria - A World of Mystery _ Danger! (U) [b1].nes
+- Faria - A World of Mystery _ Danger! (U) [o1].nes
+- Faria (J) [b1].nes
+- Faria (J) [b2].nes
+- Faria (J).nes
+- Fatal Fury 2 (Unl) [a1].nes
+- Fatal Fury 2 (Unl) [a1][b1].nes
+- Fatal Fury 2 (Unl).nes
+- Fatal Fury 2 (Unl).zip
+- Faxanadu (E) [T+Fre100_BessaB].nes
+- Faxanadu (E) [T+Ger1.2_GTrans].nes
+- Faxanadu (E) [T-Ger].nes
+- Faxanadu (E).nes
+- Faxanadu (Europe).nes
+- Faxanadu (Europe).zip
+- Faxanadu (J) [b1].nes
+- Faxanadu (J) [f1].nes
+- Faxanadu (J) [hM02].nes
+- Faxanadu (J) [hM02][b1].nes
+- Faxanadu (J) [hM02][o1].nes
+- Faxanadu (J).nes
+- Faxanadu (U) (PRG0) [!].nes
+- Faxanadu (U) (PRG0) [b1].nes
+- Faxanadu (U) (PRG0) [b2].nes
+- Faxanadu (U) (PRG0) [b3].nes
+- Faxanadu (U) (PRG0) [b4].nes
+- Faxanadu (U) (PRG0) [o1].nes
+- Faxanadu (U) (PRG0) [o2].nes
+- Faxanadu (U) (PRG0) [o3].nes
+- Faxanadu (U) (PRG0) [T+Fre].nes
+- Faxanadu (U) (PRG0) [T+Ita1.0_Luigi].nes
+- Faxanadu (U) (PRG0) [T+Por100%_BRGames].nes
+- Faxanadu (U) (PRG0) [T+Swe1.00_TheTranslator].nes
+- Faxanadu (U) (PRG1) [!].nes
+- Faxanadu (U) (PT-BR).zip
+- Faxanadu (USA) (Rev A).nes
+- Faxanadu (USA) (Rev A).zip
+- Faxanadu (USA).nes
+- Faxanadu (USA).zip
+- FC Genjin - Freakthoropus Computerus (J) [b1].nes
+- FC Genjin - Freakthoropus Computerus (J).nes
+- FC Genjin - Freakthoropus Computerus (Japan).nes
+- FC ?? (??) (??).nes
+- FC ?? (??) (??).nes
+- FC??(??).nes
+- fc??????.zip
+- fc?????.zip
+- fc??????.zip
+- Felix the Cat (Europe).nes
+- Felix the Cat (Europe).zip
+- Felix the Cat (U) [!].nes
+- Felix the Cat (U) [b1].nes
+- Felix the Cat (U) [b2].nes
+- Felix the Cat (U) [b3].nes
+- Felix the Cat (USA).nes
+- Felix the Cat (USA).zip
+- Felix the Cat Port(U) (PT-BR).zip
+- Feng Shen Bang (Asia) (Unl).nes
+- Feng Shen Bang (Asia) (Unl).zip
+- fengli???.zip
+- Ferrari Grand Prix Challenge (Europe).nes
+- Ferrari Grand Prix Challenge (Europe).zip
+- Ferrari Grand Prix Challenge (USA).nes
+- Ferrari Grand Prix Challenge (USA).zip
+- Fester's Quest (Europe).nes
+- Fester's Quest (Europe).zip
+- Fester's Quest (USA).nes
+- Fester's Quest (USA).zip
+- Fighting frog and double dragon.nes
+- Fighting Hero (Asia) (Unl).nes
+- Fighting Hero (Asia) (Unl).zip
+- Fighting Hero III (Asia) (Unl).nes
+- Fighting Hero III (Asia) (Unl).zip
+- Final Combat (Asia) (NTSC) (Unl).nes
+- Final Combat (Asia) (NTSC) (Unl).zip
+- Final Combat (Asia) (PAL) (Unl).nes
+- Final Combat (Asia) (PAL) (Unl).zip
+- Final Fantasy - Another Story (FF1 Hack).zip
+- Final Fantasy - Dragoon X Omega II - Easy Type (FF1 Hack).zip
+- Final Fantasy - Dragoon X Omega II (FF1 Hack).zip
+- Final Fantasy - Epica V2.0 by Clomax Dominion (FF1 Hack).zip
+- Final Fantasy - Grond's Final Fantasy V3.2.zip
+- Final Fantasy - Legend of the 7th King.zip
+- Final Fantasy - Lenophis' Other Final Fantasy (FF1 Hack).zip
+- Final Fantasy - Mario Fantasy Adventure (FF1 Hack).zip
+- Final Fantasy - Negative One.zip
+- Final Fantasy - Return of Lich (FF1 Hack).zip
+- Final Fantasy - Revolution.zip
+- Final Fantasy - Spiritua Rising V2.0 (FF1 Hack).zip
+- Final Fantasy - The Dawn Warriors.zip
+- Final Fantasy (U) (PT-BR).zip
+- Final Fantasy (USA).nes
+- Final Fantasy (USA).zip
+- Final Fantasy ++ Part 1 by Grond V1.5.zip
+- Final Fantasy ++ Part 2 World Of Chaos by Grond V1.2.zip
+- Final Fantasy 3 (J) (PT-BR).zip
+- Final Fantasy II - Demonic Pandemonium.zip
+- Final Fantasy II (J) [T+Bra10%_BRGames].zip
+- Final Fantasy II (USA) (Proto).nes
+- Final Fantasy II (USA) (Proto).zip
+- Final Fantasy VII - Zui Zhong Huan Xiang 7 (Ch) [T-Eng] [T-Lindblum] {V-1.0 A-2013].zip
+- Final Fantasy VII (China) (Unl) (T).zip
+- Final Fantasy VII (Complete  Version) (U).zip
+- Final Fight 3 (Unl) [!].zip
+- Final Mission (J) (PT-BR).zip
+- Fire Dragon (Asia) (Unl).nes
+- Fire Dragon (Asia) (Unl).zip
+- Fire Fighter.zip
+- Fire Hawk (USA) (Unl).nes
+- Fire Hawk (USA) (Unl).zip
+- Fire 'n Ice (USA).nes
+- Fire 'n Ice (USA).zip
+- Fisher-Price - Firehouse Rescue (USA).nes
+- Fisher-Price - Firehouse Rescue (USA).zip
+- Fisher-Price - I Can Remember (USA).nes
+- Fisher-Price - I Can Remember (USA).zip
+- Fisher-Price - Perfect Fit (USA).nes
+- Fisher-Price - Perfect Fit (USA).zip
+- Fist of the North Star (USA).nes
+- Fist of the North Star (USA).zip
+- Flight of the Intruder (USA).nes
+- Flight of the Intruder (USA).zip
+- Flintstones  The - The Rescue of Dino & Hoppy (Europe).nes
+- Flintstones  The - The Rescue of Dino & Hoppy (USA).nes
+- Flintstones  The - The Surprise at Dinosaur Peak (Europe).nes
+- Flintstones  The - The Surprise at Dinosaur Peak! (USA).nes
+- Flintstones The - The Rescue of Dino & Hoppy (Europe).zip
+- Flintstones The - The Rescue of Dino & Hoppy (USA).zip
+- Flintstones The - The Surprise at Dinosaur Peak (Europe).zip
+- Flintstones The - The Surprise at Dinosaur Peak! (USA).zip
+- Flipull - An Exciting Cube Game (Japan) (En) (Rev 1).nes
+- Flipull - An Exciting Cube Game (Japan) (En).nes
+- Flying Dragon - The Secret Scroll (USA).nes
+- Flying Dragon - The Secret Scroll (USA).zip
+- Flying Warriors (USA) (Beta).nes
+- Flying Warriors (USA) (Beta).zip
+- Flying Warriors (USA).nes
+- Flying Warriors (USA).zip
+- Formation Z.zip
+- Formula 1 Sensation (Europe).nes
+- Formula 1 Sensation (Europe).zip
+- Formula One - Built to Win (USA).nes
+- Formula One - Built to Win (USA).zip
+- Four Players' Tennis (Europe).nes
+- Four Players' Tennis (Europe).zip
+- Fox's Peter Pan & the Pirates - The Revenge of Captain Hook (USA).zip
+- Frankenstein - The Monster Returns (U) (PT-BR).zip
+- Frankenstein - The Monster Returns (USA).nes
+- Frankenstein - The Monster Returns (USA).zip
+- Freddy VS Jason.zip
+- Free Fall (USA) (Proto).nes
+- Free Fall (USA) (Proto).zip
+- Free up space.nes
+- Freedom Force (USA).nes
+- Freedom Force (USA).zip
+- Friday the 13th (USA).nes
+- Friday the 13th (USA).zip
+- Front Line (Japan).nes
+- Frontline battle [Chinese version].nes
+- Frontline revision.nes
+- Fun Blaster Pak (Australia) (Unl).zip
+- Fun House (USA).nes
+- Fun House (USA).zip
+- Futebol (Brazil) (PT-BR).zip
+- Futebol (Brazil) (Unl).zip
+- Fuzzical Fighter (J) (PT-BR).zip
+- G.I. Joe - A Real American Hero - The Atlantis Factor (USA) (Beta).nes
+- G.I. Joe - A Real American Hero - The Atlantis Factor (USA) (Beta).zip
+- G.I. Joe - A Real American Hero (USA).nes
+- G.I. Joe - A Real American Hero (USA).zip
+- G.I. Joe - The Atlantis Factor (USA).nes
+- G.I. Joe - The Atlantis Factor (USA).zip
+- G.I. Joe - The Atlantis Factor-Port (U) (PT-BR).zip
+- G.I. Joe (U) (PT-BR).zip
+- Gaiapolis (Asia) (Unl).nes
+- Gaiapolis (Asia) (Unl).zip
+- Galactic Crusader (Asia) (Unl).nes
+- Galactic Crusader (Asia) (Unl).zip
+- Galactic Crusader (USA) (Unl).nes
+- Galactic Crusader (USA) (Unl).zip
+- Galaga - Demons of Death (USA).nes
+- Galaga - Demons of Death (USA).zip
+- Galaga (Europe).nes
+- Galaga (Europe).zip
+- Galaga (J) (PT-BR).zip
+- Galaxy 5000 (Europe).nes
+- Galaxy 5000 (Europe).zip
+- Galaxy 5000 (USA).nes
+- Galaxy 5000 (USA).zip
+- Galg.zip
+- Game Genie (USA) (Unl).nes
+- Game Genie (USA) (Unl).zip
+- Game Master Kid (Unknown) (Proto) (RAM) (Unl).zip
+- Game Master Kid (Unknown) (Proto) (Unl).zip
+- Gargoyle's Quest II (Europe).nes
+- Gargoyle's Quest II (Europe).zip
+- Gargoyle's Quest II (USA).nes
+- Gargoyle's Quest II (USA).zip
+- Garry Kitchen's BattleTank (USA).nes
+- Garry Kitchen's BattleTank (USA).zip
+- Gauntlet - Blink 2 - Lost in Tokyo (Gauntlet Hack).zip
+- Gauntlet - Final Fantasy Epic V0.03 Final by Sliver X (Gauntlet Hack).zip
+- Gauntlet (USA) (Unl).nes
+- Gauntlet (USA) (Unl).zip
+- Gauntlet (USA).nes
+- Gauntlet (USA).zip
+- Gauntlet II (Europe).nes
+- Gauntlet II (Europe).zip
+- Gauntlet II (USA).nes
+- Gauntlet II (USA).zip
+- Geimos.zip
+- Gemfire (USA).nes
+- Gemfire (USA).zip
+- General's Son.zip
+- Genghis Khan (USA).nes
+- Genghis Khan (USA).zip
+- George Foreman's KO Boxing (Europe).nes
+- George Foreman's KO Boxing (Europe).zip
+- George Foreman's KO Boxing (USA).nes
+- George Foreman's KO Boxing (USA).zip
+- Get'Em Gary (USA) (Unl).zip
+- Ghost Lion (USA).nes
+- Ghost Lion (USA).zip
+- Ghostbusters (SMS Enhanced).zip
+- Ghostbusters (USA).nes
+- Ghostbusters (USA).zip
+- Ghostbusters II (Europe).nes
+- Ghostbusters II (Europe).zip
+- Ghostbusters II (USA).nes
+- Ghostbusters II (USA).zip
+- Ghost'n Goblins (Europe).nes
+- Ghost'n Goblins (Europe).zip
+- Ghosts 'N Goblins - All Hallow's Eve (Ghosts 'N Goblins Hack).zip
+- Ghosts 'N Goblins (U) [!] [T-BR] [T-Jvitor Belchior G-Nenhum] [A-2015].zip
+- Ghosts 'N Goblins Hardtype (Hack).zip
+- Ghosts'n Goblins (USA).nes
+- Ghosts'n Goblins (USA).zip
+- Ghoul School (USA).nes
+- Ghoul School (USA).zip
+- Gluk the Thunder Warrior (Spain) (Gluk Video) (Unl).zip
+- Goal! (Europe).nes
+- Goal! (Europe).zip
+- Goal! (USA).nes
+- Goal! (USA).zip
+- Goal! Two (USA).nes
+- Goal! Two (USA).zip
+- God of War 2.zip
+- God of War.zip
+- Godzilla - Monster of Monsters! (Europe).nes
+- Godzilla - Monster of Monsters! (Europe).zip
+- Godzilla - Monster of Monsters! (USA).nes
+- Godzilla - Monster of Monsters! (USA).zip
+- Godzilla 2 - War of the Monsters (USA).nes
+- Godzilla 2 - War of the Monsters (USA).zip
+- Golf - Kiss Goes Golfing starring Ace Frehley (Golf Hack).zip
+- Golf - Kiss Goes Golfing starring Gene Simmons (Golf Hack).zip
+- Golf - Kiss Goes Golfing starring Paul Stanley (Golf Hack).zip
+- Golf - Kiss Goes Golfing starring Peter Criss (Golf Hack).zip
+- Golf (Europe).nes
+- Golf (Europe).zip
+- Golf (USA).nes
+- Golf (USA).zip
+- Golf Grand Slam (USA).nes
+- Golf Grand Slam (USA).zip
+- Golgo 13 - Top Secret Episode (USA).nes
+- Golgo 13 - Top Secret Episode (USA).zip
+- Goonies 2 - Fratelli Saigo no Chousen (Japan).nes
+- Goonies II  The - Fratelli Saigo no Chousen (Japan) (Beta).nes
+- Goonies II  The (Europe).nes
+- Goonies II  The (USA).nes
+- Goonies II The (Europe).zip
+- Goonies II The (USA).zip
+- Goonies The (J) [T+Por1.00_Iyasu].zip
+- Gotcha! - The Sport! (USA).nes
+- Gotcha! - The Sport! (USA).zip
+- Gradius - Luidius (Gradius Hack).zip
+- Gradius (Europe).nes
+- Gradius (Europe).zip
+- Gradius (U) (PT-BR).zip
+- Gradius (USA).nes
+- Gradius (USA).zip
+- Gradius Arcade Conversion V1.4.zip
+- Gradius II (J) [T-BR] [T-devilfox G-POBRE] [V-1.0 P-100% A-2008].zip
+- Gradius II Arcade Conversion V0.8.zip
+- Gran Aventura Submarina La (Spain) (Gluk Video) (Unl).zip
+- Great Waldo Search  The (USA).nes
+- Great Waldo Search The (USA).zip
+- Great Wall  The (Asia) (PAL) (Unl).nes
+- Great Wall The (Asia) (PAL) (Unl).zip
+- Greg Norman's Golf Power (USA).nes
+- Greg Norman's Golf Power (USA).zip
+- Gremlins 2 - The New Batch (Europe) (Beta).nes
+- Gremlins 2 - The New Batch (Europe) (Beta).zip
+- Gremlins 2 - The New Batch (Europe).nes
+- Gremlins 2 - The New Batch (Europe).zip
+- Gremlins 2 - The New Batch (USA).nes
+- Gremlins 2 - The New Batch (USA).zip
+- Guardian Legend - Secret Edition 3.3.zip
+- Guardian Legend  The (Europe).nes
+- Guardian Legend  The (USA).nes
+- Guardian Legend The (Europe).zip
+- Guardian Legend The (USA).zip
+- Guerrilla War (Europe).nes
+- Guerrilla War (Europe).zip
+- Guerrilla War (USA).nes
+- Guerrilla War (USA).zip
+- Gumshoe (USA  Europe).nes
+- Gumshoe (USA Europe).zip
+- Gun Nac (USA).nes
+- Gun Nac (USA).zip
+- Gun.Smoke (Europe).nes
+- Gun.Smoke (Europe).zip
+- Gun.Smoke (U) (PT-BR).zip
+- Gun.Smoke (USA).nes
+- Gun.Smoke (USA).zip
+- Gun-Nac (U) (PT-BR).zip
+- Gyrodine.zip
+- Gyromite (World).zip
+- Gyruss (U) (PT-BR).zip
+- Gyruss (USA).nes
+- Gyruss (USA).zip
+- Hacker The (China) (Unl) (T).zip
+- Hammerin' Harry (Europe).nes
+- Hammerin' Harry (Europe).zip
+- Happily Ever After (USA) (Proto).nes
+- Happily Ever After (USA) (Proto).zip
+- Happy Pairs (Asia) (PAL) (Unl).nes
+- Happy Pairs (Asia) (PAL) (Unl).zip
+- Hard Drivin' (USA) (Proto) (Unl).nes
+- Hard Drivin' (USA) (Proto) (Unl).zip
+- Harlem Globetrotters (USA).nes
+- Harlem Globetrotters (USA).zip
+- Hatris (USA).nes
+- Hatris (USA).zip
+- HAUNTED - Halloween 85.zip
+- HAUNTED - Halloween 86 - The Curse of Possum Hollow.zip
+- Heavy Barrel (USA).nes
+- Heavy Barrel (USA).zip
+- Heavy Shreddin' (USA).nes
+- Heavy Shreddin' (USA).zip
+- Hector.zip
+- Helicopter.zip
+- Hell Fighter (Asia) (PAL) (Unl).nes
+- Hell Fighter (Asia) (PAL) (Unl).zip
+- Hero Quest (Europe) (Proto).nes
+- Hero Quest (Europe) (Proto).zip
+- Hero Quest (USA) (Proto).nes
+- Hero Quest (USA) (Proto).zip
+- Hidden Chinese Chess - An Qi (Asia) (NTSC) (Unl).nes
+- Hidden Chinese Chess - An Qi (Asia) (NTSC) (Unl).zip
+- High Speed (Europe).nes
+- High Speed (Europe).zip
+- High Speed (USA).nes
+- High Speed (USA).zip
+- Hit Marmot (Asia) (Unl).nes
+- Hit Marmot (Asia) (Unl).zip
+- Hit the Ice - VHL - The Video Hockey League (USA) (Proto).nes
+- Hit the Ice - VHL - The Video Hockey League (USA) (Proto).zip
+- Hogan's Alley (World).zip
+- Hokuto no Ken (J) (PT-BR).zip
+- Hokuto no Ken 2 - Seikimatsu Kyuuseishu Densetsu (J) [!] [T-BR] [T-Arara e Solid_One G-Trans-Center] [V-BETA 1 P-100% A-2009].zip
+- Hollywood Squares (USA).nes
+- Hollywood Squares (USA).zip
+- Home Alone (USA) (Rev A).nes
+- Home Alone (USA) (Rev A).zip
+- Home Alone (USA).nes
+- Home Alone (USA).zip
+- Home Alone 2 - Lost in New York (Europe).nes
+- Home Alone 2 - Lost in New York (Europe).zip
+- Home Alone 2 - Lost in New York (USA).nes
+- Home Alone 2 - Lost in New York (USA).zip
+- Honey Peach - Mei Nv Quan (Asia) (Unl).nes
+- Honey Peach - Mei Nv Quan (Asia) (Unl).zip
+- Hook (Europe).nes
+- Hook (Europe).zip
+- Hook (USA).nes
+- Hook (USA).zip
+- Hoops (Europe).nes
+- Hoops (Europe).zip
+- Hoops (USA).nes
+- Hoops (USA).zip
+- Hot Slots (Asia) (Unl).nes
+- Hot Slots (Asia) (Unl).zip
+- Huang Di (Asia) (Unl).nes
+- Huang Di (Asia) (Unl).zip
+- Hudson Hawk (Europe).nes
+- Hudson Hawk (Europe).zip
+- Hudson Hawk (U) (PT-BR).zip
+- Hudson Hawk (USA).nes
+- Hudson Hawk (USA).zip
+- Hudson's Adventure Island (U) (PT-BR).zip
+- Hudson's Adventure Island (USA).nes
+- Hudson's Adventure Island (USA).zip
+- Hudson's Adventure Island II (U) (PT-BR).zip
+- Hudson's Adventure Island II (USA) (Beta).nes
+- Hudson's Adventure Island II (USA) (Beta).zip
+- Huge Insect (Asia) (Unl).nes
+- Huge Insect (Asia) (Unl).zip
+- Hunt for Red October  The (Europe).nes
+- Hunt for Red October  The (USA) (Rev A).nes
+- Hunt for Red October  The (USA).nes
+- Hunt for Red October The (Europe).zip
+- Hunt for Red October The (USA) (Rev A).zip
+- Hunt for Red October The (USA).zip
+- Hydlide (USA).nes
+- Hydlide (USA).zip
+- Hydlide Special by Y.Project (Hack).zip
+- Ice Climber (USA  Europe).nes
+- Ice Climber (USA Europe).zip
+- Ice Climber MacBee (Hack).zip
+- Ice Hockey (Europe).nes
+- Ice Hockey (Europe).zip
+- Ice Hockey (USA).nes
+- Ice Hockey (USA).zip
+- Ikari III - The Rescue (USA).nes
+- Ikari III - The Rescue (USA).zip
+- Ikari Warriors (Europe).nes
+- Ikari Warriors (Europe).zip
+- Ikari Warriors (USA) (Rev A).nes
+- Ikari Warriors (USA) (Rev A).zip
+- Ikari Warriors (USA).nes
+- Ikari Warriors (USA).zip
+- Ikari Warriors II - Victory Road (USA).nes
+- Ikari Warriors II - Victory Road (USA).zip
+- Ikari.zip
+- Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou (J) [T+Por100%_Emuroms].zip
+- Image Fight (USA).nes
+- Immortal  The (USA).nes
+- Immortal The (U) (PT-BR).zip
+- Immortal The (USA).zip
+- Impact Wrestling.zip
+- Impossible Mission II (USA) (Unl).nes
+- Impossible Mission II (USA) (Unl).zip
+- Incantation (Asia) (Unl).nes
+- Incantation (Asia) (Unl).zip
+- Incredible Crash Dummies  The (Europe).nes
+- Incredible Crash Dummies  The (USA).nes
+- Incredible Crash Dummies The (Europe).zip
+- Incredible Crash Dummies The (USA).zip
+- Indiana Jones and the Last Crusade (Europe).nes
+- Indiana Jones and the Last Crusade (Europe).zip
+- Indiana Jones and the Last Crusade (USA) (Taito).nes
+- Indiana Jones and the Last Crusade (USA) (Taito).zip
+- Indiana Jones and the Last Crusade (USA) (UBI Soft).nes
+- Indiana Jones and the Last Crusade (USA) (UBI Soft).zip
+- Indiana Jones and the Temple of Doom (USA) (Rev A).nes
+- Indiana Jones and the Temple of Doom (USA) (Rev A).zip
+- Indiana Jones and the Temple of Doom (USA) (Unl).nes
+- Indiana Jones and the Temple of Doom (USA) (Unl).zip
+- Indiana Jones and the Temple of Doom (USA).nes
+- Indiana Jones and the Temple of Doom (USA).zip
+- Indivisible.zip
+- Infant School.zip
+- Infiltrator (USA).nes
+- Infiltrator (USA).zip
+- International Cricket (Australia) (Beta).zip
+- International Cricket (Australia).zip
+- Iron Tank - The Invasion of Normandy (Europe).nes
+- Iron Tank - The Invasion of Normandy (Europe).zip
+- Iron Tank - The Invasion of Normandy (USA).nes
+- Iron Tank - The Invasion of Normandy (USA).zip
+- IronSword - Wizards & Warriors II (Europe).nes
+- IronSword - Wizards & Warriors II (Europe).zip
+- IronSword - Wizards & Warriors II (USA).nes
+- IronSword - Wizards & Warriors II (USA).zip
+- Isolated Warrior (Europe).nes
+- Isolated Warrior (Europe).zip
+- Isolated Warrior (USA).nes
+- Isolated Warrior (USA).zip
+- Ivan 'Ironman' Stewart's Super Off Road (Europe).nes
+- Ivan 'Ironman' Stewart's Super Off Road (Europe).zip
+- Ivan 'Ironman' Stewart's Super Off Road (USA).nes
+- Ivan 'Ironman' Stewart's Super Off Road (USA).zip
+- J ?????? (??) (??).nes
+- J ?????? (??) (??).nes
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Europe).nes
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Europe).zip
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (USA).nes
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (USA).zip
+- Jackal (U) (PT-BR).zip
+- Jackal (USA).nes
+- Jackal (USA).zip
+- Jackie Chan's Action Kung Fu (Europe).nes
+- Jackie Chan's Action Kung Fu (Europe).zip
+- Jackie Chan's Action Kung Fu (USA).nes
+- Jackie Chan's Action Kung Fu (USA).zip
+- Jackpot (Australia) (Unl).zip
+- James Bond 007-Enhanced Edition.nes
+- James Bond Jr (Europe).nes
+- James Bond Jr (Europe).zip
+- James Bond Jr (USA).nes
+- James Bond Jr (USA).zip
+- Janggun-ui Adeul (Korea) (Unl) (T).zip
+- Janggun-ui Adeul (Korea) (Unl).zip
+- Jason VS Freddy.zip
+- Jaws (USA).nes
+- Jaws (USA).zip
+- Jay and Silent Bob Mall Brawl.zip
+- Jeopardy! (USA) (Rev A).nes
+- Jeopardy! (USA) (Rev A).zip
+- Jeopardy! (USA).nes
+- Jeopardy! (USA).zip
+- Jeopardy! 25th Anniversary Edition (USA).nes
+- Jeopardy! 25th Anniversary Edition (USA).zip
+- Jeopardy! Junior Edition (USA).nes
+- Jeopardy! Junior Edition (USA).zip
+- Jetsons  The - Cogswell's Caper (Europe).nes
+- Jetsons  The - Cogswell's Caper (USA).nes
+- Jetsons The - Cogswell's Caper (Europe).zip
+- Jetsons The - Cogswell's Caper (USA).zip
+- Jimmy Connors Tennis (Europe).nes
+- Jimmy Connors Tennis (Europe).zip
+- Jimmy Connors Tennis (USA).nes
+- Jimmy Connors Tennis (USA).zip
+- Jin Gwok Sei Chuen Saang (Asia) (Unl).nes
+- Jin Gwok Sei Chuen Saang (Asia) (Unl).zip
+- Jing Hua Yuan (China) (Unl) (T).zip
+- Joe & Mac - Caveman Ninja (Europe).nes
+- Joe & Mac - Caveman Ninja (Europe).zip
+- Joe & Mac (USA).nes
+- Joe & Mac (USA).zip
+- John Elway's Quarterback (USA).nes
+- John Elway's Quarterback (USA).zip
+- Jordan vs Bird - One On One (USA).nes
+- Jordan vs Bird - One On One (USA).zip
+- Joshua & the Battle of Jericho (USA) (v5.0) (Unl).nes
+- Joshua & the Battle of Jericho (USA) (v5.0) (Unl).zip
+- Joshua & the Battle of Jericho (USA) (v6.0) (Unl).nes
+- Joshua & the Battle of Jericho (USA) (v6.0) (Unl).zip
+- Journey to Silius (Europe).nes
+- Journey to Silius (Europe).zip
+- Journey to Silius (U) (PT-BR).zip
+- Journey to Silius (USA).nes
+- Journey to Silius (USA).zip
+- Journey to the West (Asia) (Unl).nes
+- Journey to the West (Asia) (Unl).zip
+- Joust (USA).nes
+- Joust (USA).zip
+- Joust.zip
+- Jovial Race (Asia) (PAL) (Unl).nes
+- Jovial Race (Asia) (PAL) (Unl).zip
+- Jovial Race (Unknown) (Unl).zip
+- JUJU ?? (??) (????).nes
+- JUJU ?? (??) (????).nes
+- juju????????.zip
+- juju?????.zip
+- juju????????.zip
+- jump?????????????????.zip
+- JUMP????(??????????).nes
+- Jungle Book  The (Europe).nes
+- Jungle Book  The (USA).nes
+- Jungle Book The (Europe).zip
+- Jungle Book The (USA).zip
+- Jurassic Boy (Asia) (Unl).nes
+- Jurassic Boy (Asia) (Unl).zip
+- Jurassic Park (Europe).nes
+- Jurassic Park (Europe).zip
+- Jurassic Park (PT-BR).zip
+- Jurassic Park (USA).nes
+- Jurassic Park (USA).zip
+- Justice Duel.zip
+- Juuouki (J) (PT-BR).zip
+- j??????????.zip
+- j??????????.zip
+- Kabuki - Quantum Fighter (Europe).nes
+- Kabuki - Quantum Fighter (Europe).zip
+- Kabuki - Quantum Fighter (U) (PT-BR).zip
+- Kabuki - Quantum Fighter (USA).nes
+- Kabuki - Quantum Fighter (USA).zip
+- Kaison Star Force (Hack).zip
+- Karate Champ (USA) (Rev A).nes
+- Karate Champ (USA) (Rev A).zip
+- Karate Champ (USA).nes
+- Karate Champ (USA).zip
+- Karate Kid  The (USA).nes
+- Karate Kid The (USA).zip
+- Karateka.zip
+- Karnov (USA).nes
+- Karnov (USA).zip
+- Kart Fighter (Unl) (T).zip
+- Kero Kero Keroppi no Daibouken 2 - Adoventoro Tcheco v1.0.zip
+- Kick Master (USA).nes
+- Kick Master (USA).zip
+- Kick Off (Europe).nes
+- Kick Off (Europe).zip
+- Kickle Cubicle - Mean Kickle Cubicle (Hack).zip
+- Kickle Cubicle (Europe).nes
+- Kickle Cubicle (Europe).zip
+- Kickle Cubicle (USA).nes
+- Kickle Cubicle (USA).zip
+- Kid Dracula 2019 official localization.zip
+- Kid Icarus - NES Land Journey (Kid Icarus Hack).zip
+- Kid Icarus - Retold Edition.zip
+- Kid Icarus (Europe) (Rev A).nes
+- Kid Icarus (Europe) (Rev A).zip
+- Kid Icarus (UE) (PT-BR).zip
+- Kid Icarus (USA  Europe).nes
+- Kid Icarus (USA Europe).zip
+- Kid Klown in Night Mayor World (USA).nes
+- Kid Klown in Night Mayor World (USA).zip
+- Kid Kool and the Quest for the Seven Wonder Herbs (USA).nes
+- Kid Kool and the Quest for the Seven Wonder Herbs (USA).zip
+- Kid Niki - Radical Ninja (USA) (Rev A).nes
+- Kid Niki - Radical Ninja (USA) (Rev A).zip
+- Kid Niki - Radical Ninja (USA).nes
+- Kid Niki - Radical Ninja (USA).zip
+- Kiddy Sun in Fantasia (Taiwan).zip
+- King Neptune's Adventure (USA) (Beta) (Unl).nes
+- King Neptune's Adventure (USA) (Beta) (Unl).zip
+- King Neptune's Adventure (USA) (Unl).nes
+- King Neptune's Adventure (USA) (Unl).zip
+- King of Ghost.zip
+- King of Kings  The (USA) (v1.1) (Unl).nes
+- King of Kings  The (USA) (v1.2) (Unl).nes
+- King of Kings  The (USA) (v1.3) (Unl).nes
+- King of Kings  The (USA) (v5.0) (Unl).nes
+- King of Kings The (USA) (v1.1) (Unl).zip
+- King of Kings The (USA) (v1.2) (Unl).zip
+- King of Kings The (USA) (v1.3) (Unl).zip
+- King of Kings The (USA) (v5.0) (Unl).zip
+- King's Knight (USA).nes
+- King's Knight (USA).zip
+- Kings of the Beach - Professional Beach Volleyball (USA).nes
+- Kings of the Beach - Professional Beach Volleyball (USA).zip
+- King's Quest V (USA).nes
+- King's Quest V (USA).zip
+- Kira Kira Star Night DX.zip
+- Kira Kira Star Night.zip
+- Kirby's Adventure (Canada).zip
+- Kirby's Adventure (Europe).nes
+- Kirby's Adventure (Europe).zip
+- Kirby's Adventure (France).nes
+- Kirby's Adventure (France).zip
+- Kirby's Adventure (Germany).zip
+- Kirby's Adventure (USA) (Rev A).nes
+- Kirby's Adventure (USA) (Rev A).zip
+- Kirby's Adventure (USA).nes
+- Kirby's Adventure (USA).zip
+- Kitty's Catch (USA) (Proto) (Unl).nes
+- Kitty's Catch (USA) (Proto) (Unl).zip
+- Kiwi Kraze - A Bird-Brained Adventure! (USA).nes
+- Kiwi Kraze - A Bird-Brained Adventure! (USA).zip
+- KlashBall (USA).nes
+- KlashBall (USA).zip
+- Klax (USA) (Beta) (Unl).nes
+- Klax (USA) (Beta) (Unl).zip
+- Klax (USA) (Unl).nes
+- Klax (USA) (Unl).zip
+- Knight Rider (Europe).nes
+- Knight Rider (Europe).zip
+- Knight Rider (USA).nes
+- Knight Rider (USA).zip
+- Koko Adventure (Korea) (Unl).zip
+- Konami Hyper Soccer (Europe).nes
+- Konami Hyper Soccer (Europe).zip
+- Korean Igo (Korea) (Unl).zip
+- Krazy Kreatures (USA) (Beta) (Unl).nes
+- Krazy Kreatures (USA) (Beta) (Unl).zip
+- Krazy Kreatures (USA) (Unl).nes
+- Krazy Kreatures (USA) (Unl).zip
+- Krion Conquest  The (USA).nes
+- Krion Conquest The (PT-BR).zip
+- Krion Conquest The (USA).zip
+- Krusty's Fun House (Europe).nes
+- Krusty's Fun House (Europe).zip
+- Krusty's Fun House (USA).nes
+- Krusty's Fun House (USA).zip
+- Kung Fu (Europe).nes
+- Kung Fu (Europe).zip
+- Kung Fu (Japan  USA).nes
+- Kung Fu (U) (PT-BR).zip
+- Kung-Fu Heroes (USA).nes
+- Kung-Fu Heroes (USA).zip
+- Larry.zip
+- Laser Invasion (USA).nes
+- Laser Invasion (USA).zip
+- Last Action Hero (USA).nes
+- Last Action Hero (USA).zip
+- Last Ninja  The (USA).nes
+- Last Ninja The (USA).zip
+- Last Starfighter  The (USA).nes
+- Last Starfighter The (USA).zip
+- Lee Trevino's Fighting Golf (Europe).nes
+- Lee Trevino's Fighting Golf (Europe).zip
+- Lee Trevino's Fighting Golf (USA).nes
+- Lee Trevino's Fighting Golf (USA).zip
+- Legacy of the Wizard (USA).nes
+- Legacy of the Wizard (USA).zip
+- Legend of Kage  The (USA).nes
+- Legend of Kage The (USA).zip
+- Legend of Prince Valiant  The (Europe).nes
+- Legend of Prince Valiant The (Europe).zip
+- Legend of Robin Hood  The (USA) (Proto).nes
+- Legend of Robin Hood The (USA) (Proto).zip
+- Legend of Zelda - Fall of the Moon v1.0 (Zelda Hack).zip
+- Legend of Zelda - GST (Zelda Hack).zip
+- Legend of Zelda - Outlands Final by GameMakr24.zip
+- Legend of Zelda - Search for Link The (Zelda Hack).zip
+- Legend of Zelda - SouthPark Zelda (Zelda Hack).zip
+- Legend of Zelda  The (Europe) (Rev A).nes
+- Legend of Zelda  The (Europe).nes
+- Legend of Zelda  The (USA) (Rev A) (GameCube Edition).nes
+- Legend of Zelda  The (USA) (Rev A).nes
+- Legend of Zelda  The (USA) (Rev B) (GameCube Edition).nes
+- Legend of Zelda  The (USA).nes
+- Legend of Zelda - Triforce of the Gods (China) (Unl) (T).zip
+- Legend of Zelda - Zelda Story The.zip
+- Legend of Zelda The (Europe) (Rev A).zip
+- Legend of Zelda The (Europe).zip
+- Legend of Zelda The (USA) (Rev A) (GameCube Edition).zip
+- Legend of Zelda The (USA) (Rev A).zip
+- Legend of Zelda The (USA) (Rev B) (GameCube Edition).zip
+- Legend of Zelda The (USA).zip
+- Legendary Wings (USA).nes
+- Legendary Wings (USA).zip
+- Legends of the Diamond - The Baseball Championship Game (USA).nes
+- Legends of the Diamond - The Baseball Championship Game (USA).zip
+- Lei Dian Huang Bi Ka Qiu Chuan Shuo (China) (Unl) (T).zip
+- Lemmings (Europe).nes
+- Lemmings (Europe).zip
+- Lemmings (USA).nes
+- Lemmings (USA).zip
+- Lethal Weapon (Europe).nes
+- Lethal Weapon (Europe).zip
+- Lethal Weapon (USA).nes
+- Lethal Weapon (USA).zip
+- Life Force - Salamander (Europe).nes
+- Life Force - Salamander (Europe).zip
+- Life Force (USA).nes
+- Life Force (USA).zip
+- Lightgun Game 2 in 1 - Cosmocop + Cyber Monster (Asia) (Unl).nes
+- Lightgun Game 2 in 1 - Cosmocop + Cyber Monster (Asia) (Unl).zip
+- Lightgun Game 2 in 1 - Tough Cop + Super Tough Cop (Asia) (Unl).nes
+- Lightgun Game 2 in 1 - Tough Cop + Super Tough Cop (Asia) (Unl).zip
+- Lin Ze Xu Jin Yan (China) (Unl) (T).zip
+- Lin Ze Xu Jin Yan (China) (Unl).zip
+- Linus Spacehead's Cosmic Crusade (USA) (En Fr De Es) (Unl).nes
+- Linus Spacehead's Cosmic Crusade (USA) (En Fr De Es) (Unl).zip
+- Lion King  The (Europe).nes
+- Lion King Legeng (China) (Unl) (T).zip
+- Lion King The (Europe).zip
+- Little League Baseball - Championship Series (USA).nes
+- Little League Baseball - Championship Series (USA).zip
+- Little Medusa.zip
+- Little Mermaid  The (USA).nes
+- Little Mermaid The (PT-BR).zip
+- Little Mermaid The (USA).zip
+- Little Nemo - The Dream Master (Europe).nes
+- Little Nemo - The Dream Master (Europe).zip
+- Little Nemo - The Dream Master (U) (PT-BR).zip
+- Little Nemo - The Dream Master (USA).nes
+- Little Nemo - The Dream Master (USA).zip
+- Little Ninja Brothers (Europe).nes
+- Little Ninja Brothers (Europe).zip
+- Little Ninja Brothers (USA).nes
+- Little Ninja Brothers (USA).zip
+- Little Ninja Hattori.zip
+- Little Red Hood - Xiao Hong Mao (Asia) (Unl).nes
+- Little Red Hood - Xiao Hong Mao (Asia) (Unl).zip
+- Little Red Hood (Australia) (Unl).zip
+- Little Samson (Europe).nes
+- Little Samson (Europe).zip
+- Little Samson (USA).nes
+- Little Samson (USA).zip
+- Lizard.zip
+- Locksmith (Asia) (PAL) (Unl).nes
+- Locksmith (Asia) (PAL) (Unl).zip
+- Lode Runner - Mario Runner by Y.Project (Championship Lode Runner Hack).zip
+- Lode Runner - Omeka (Lode Runner Hack).zip
+- Lode Runner - Takeshikun (Lode Runner Hack).zip
+- Lode Runner (U) (PT-BR).zip
+- Lode Runner (USA).nes
+- Lode Runner (USA).zip
+- Lode Runner Kai (Hack).zip
+- Lode Runner.zip
+- Log Jammers.zip
+- Lone Ranger  The (USA).nes
+- Lone Ranger The (USA).zip
+- Loopz (USA).nes
+- Loopz (USA).zip
+- Lot Lot.zip
+- Love Warrior Nicol.zip
+- Low G Man - The Low Gravity Man (Europe).nes
+- Low G Man - The Low Gravity Man (Europe).zip
+- Low G Man - The Low Gravity Man (USA).nes
+- Low G Man - The Low Gravity Man (USA).zip
+- Lu Ye Xian Zong (China) (Unl) (T).zip
+- Lucky Bingo 777 (Asia) (PAL) (Unl).nes
+- Lucky Bingo 777 (Asia) (PAL) (Unl).zip
+- Lunar Ball - Loony Pool (Lunar Ball Hack).zip
+- Lunar Pool (Europe).nes
+- Lunar Pool (Europe).zip
+- Lunar Pool (PT-BR).zip
+- Lunar Pool (USA).nes
+- Lunar Pool (USA).zip
+- M.C. Kids (USA) (Beta).nes
+- M.C. Kids (USA) (Beta).zip
+- M.C. Kids (USA).nes
+- M.C. Kids (USA).zip
+- M.U.L.E. (USA).nes
+- M.U.L.E. (USA).zip
+- M.U.S.C.L.E. - Tag Team Match (USA).nes
+- M.U.S.C.L.E. - Tag Team Match (USA).zip
+- M82 Game Selectable Working Product Display (Europe).nes
+- M82 Game Selectable Working Product Display (Europe).zip
+- Mach Rider (Europe).nes
+- Mach Rider (Europe).zip
+- Mach Rider (Japan  USA) (Rev A).nes
+- Mach Rider (Japan  USA).nes
+- Mach Rider (PT-BR).zip
+- Macross - Jetfire (Macross Hack).zip
+- Macross.zip
+- Mad Max (USA).nes
+- Mad Max (USA).zip
+- Mafat Conspiracy  The (USA).nes
+- Mafat Conspiracy The (USA).zip
+- Magic Block (Asia) (Mega Soft) (Unl).nes
+- Magic Block (Asia) (Mega Soft) (Unl).zip
+- Magic Cube (Asia) (PAL) (Unl).nes
+- Magic Cube (Asia) (PAL) (Unl).zip
+- Magic Darts (USA).nes
+- Magic Darts (USA).zip
+- Magic Jewelry (Asia) (Unl).nes
+- Magic Jewelry (Asia) (Unl).zip
+- Magic Jewelry 2 (Asia) (Unl).nes
+- Magic Jewelry 2 (Asia) (Unl).zip
+- Magic Jewelry.zip
+- Magic Johnson's Fast Break (USA).nes
+- Magic Johnson's Fast Break (USA).zip
+- Magic Kid Googoo (Korea) (Unl).zip
+- Magic of Scheherazade  The (USA).nes
+- Magic of Scheherazade The (USA).zip
+- Magical Mathematics (Asia) (NTSC) (Unl).nes
+- Magical Mathematics (Asia) (NTSC) (Unl).zip
+- Magical Mathematics (Asia) (PAL) (Unl).nes
+- Magical Mathematics (Asia) (PAL) (Unl).zip
+- Magical Rockman (Magical Doropie Hack).zip
+- Magician (USA) (Beta 1).nes
+- Magician (USA) (Beta 1).zip
+- Magician (USA) (Beta 2).nes
+- Magician (USA) (Beta 2).zip
+- Magician (USA).nes
+- Magician (USA).zip
+- Magmax (USA).nes
+- Magmax (USA).zip
+- Mahjang Companion (Asia) (Hacker) (Unl).nes
+- Mahjang Companion (Asia) (Hacker) (Unl).zip
+- Mahjang Companion (Asia) (Sachen) (Unl).nes
+- Mahjang Companion (Asia) (Sachen) (Unl).zip
+- Mahjong Academy (Asia) (Unl).nes
+- Mahjong Academy (Asia) (Unl).zip
+- Mahjong Block (Unknown) (Unl).zip
+- Mahjong Trap - Si Cuan Ma Que (Asia) (Unl).nes
+- Mahjong Trap - Si Cuan Ma Que (Asia) (Unl).zip
+- Mahjong World  The - Ma Que Shi Jie (Asia) (NTSC) (Unl).nes
+- Mahjong World  The - Ma Que Shi Jie (Asia) (PAL) (Unl).nes
+- Mahjong World The - Ma Que Shi Jie (Asia) (NTSC) (Unl).zip
+- Mahjong World The - Ma Que Shi Jie (Asia) (PAL) (Unl).zip
+- Major League Baseball (USA) (Rev A).nes
+- Major League Baseball (USA) (Rev A).zip
+- Major League Baseball (USA).nes
+- Major League Baseball (USA).zip
+- Makai Island (USA) (Proto).nes
+- Makai Island (USA) (Proto).zip
+- Maniac Mansion (Europe).nes
+- Maniac Mansion (Europe).zip
+- Maniac Mansion (France).nes
+- Maniac Mansion (France).zip
+- Maniac Mansion (Germany).zip
+- Maniac Mansion (Italy).zip
+- Maniac Mansion (Spain).zip
+- Maniac Mansion (Sweden).zip
+- Maniac Mansion (USA) (Beta).nes
+- Maniac Mansion (USA) (Beta).zip
+- Maniac Mansion (USA).nes
+- Maniac Mansion (USA).zip
+- Mappy (Mr.Magoo) (PT-BR).zip
+- Mappy-Land (Mr.Magoo) (PT-BR).zip
+- Mappy-Land (USA).nes
+- Mappy-Land (USA).zip
+- Marble Madness (Europe).nes
+- Marble Madness (Europe).zip
+- Marble Madness (USA).nes
+- Marble Madness (USA).zip
+- Mario & Yoshi (Europe).nes
+- Mario & Yoshi (Europe).zip
+- Mario Bros. - Evil Tetris Hack.zip
+- Mario Bros. - Hell Bros. Edition.zip
+- Mario Bros. (Europe) (Rev A).nes
+- Mario Bros. (Europe) (Rev A).zip
+- Mario Bros. (USA) (GameCube Edition).nes
+- Mario Bros. (USA) (GameCube Edition).zip
+- Mario Bros. (World).zip
+- Mario Bros. Classic (Europe).nes
+- Mario Bros. Classic (Europe).zip
+- Mario Is Missing! (Europe).nes
+- Mario Is Missing! (Europe).zip
+- Mario Is Missing! (USA).nes
+- Mario Is Missing! (USA).zip
+- Mario Runner (PT-BR).zip
+- Mario Runner 2 (PT-BR).zip
+- Mario's Time Machine (USA).nes
+- Mario's Time Machine (USA).zip
+- Masked Ninja Hanamaru.zip
+- Master Chu and the Drunkard Hu (Asia) (PAL) (Unl).nes
+- Master Chu and the Drunkard Hu (Asia) (PAL) (Unl).zip
+- Master Chu and the Drunkard Hu (USA) (Unl).nes
+- Master Chu and the Drunkard Hu (USA) (Unl).zip
+- Master Shooter (Asia) (Unl).nes
+- Master Shooter (Asia) (Unl).zip
+- Maxi 15 (USA) (Rev 1) (Unl).nes
+- Maxi 15 (USA) (Rev 1) (Unl).zip
+- Maxi 15 (USA) (Unl).nes
+- Maxi 15 (USA) (Unl).zip
+- Maxi-15 Pack (Australia) (Unl).zip
+- McDonaldland (Europe).nes
+- McDonaldland (Europe).zip
+- McDonaldland (France).nes
+- McDonaldland (France).zip
+- Mechanized Attack (USA).nes
+- Mechanized Attack (USA).zip
+- Mega Man (Europe).nes
+- Mega Man (Europe).zip
+- Mega Man (USA).nes
+- Mega Man (USA).zip
+- Mega Man 2 (Europe).nes
+- Mega Man 2 (Europe).zip
+- Mega Man 2 (USA).nes
+- Mega Man 2 (USA).zip
+- Mega Man 3 (Europe) (Rev A).nes
+- Mega Man 3 (Europe) (Rev A).zip
+- Mega Man 3 (Europe).nes
+- Mega Man 3 (Europe).zip
+- Mega Man 3 (USA) (Beta).nes
+- Mega Man 3 (USA) (Beta).zip
+- Mega Man 3 (USA).nes
+- Mega Man 3 (USA).zip
+- Mega Man 4 (Europe).nes
+- Mega Man 4 (Europe).zip
+- Mega Man 4 (USA) (Rev A).nes
+- Mega Man 4 (USA) (Rev A).zip
+- Mega Man 4 (USA).nes
+- Mega Man 4 (USA).zip
+- Mega Man 5 (Europe).nes
+- Mega Man 5 (Europe).zip
+- Mega Man 5 (USA).nes
+- Mega Man 5 (USA).zip
+- Mega Man 6 (USA).nes
+- Mega Man 6 (USA).zip
+- MegaMan - 133TMAN V1.0 by Clomax Dominion (Mega Man (U) Hack).zip
+- MegaMan - 1977 (Hack).zip
+- MegaMan - AFF Challenge Redone.zip
+- MegaMan - Alpha (Mega Man Hack).zip
+- MegaMan - Bass Dr. W.zip
+- MegaMan - Bytes Adventure.zip
+- MegaMan - EX V1.0 by The Elite Hacking Force (Mega Man Hack).zip
+- MegaMan - Googies Megamix.zip
+- MegaMan - High Speed Megaman (Mega Man Hack).zip
+- MegaMan - In the Mushroom Kingdom (Megaman Hack).zip
+- MegaMan - Kamikaze Megaman (Mega Man Hack).zip
+- MegaMan - Mega133TMAN V1.0 by Clomax Dominion (Megaman Hack).zip
+- MegaMan - MegaMari.zip
+- MegaMan - Reloaded V1.2.zip
+- MegaMan - Rockman 2000 (J).zip
+- MegaMan - Rockman Claw (J).zip
+- MegaMan - Rockman Kai (J).zip
+- MegaMan - Rockman NEO (Rockman Hack).zip
+- MegaMan - Rockman RX.zip
+- MegaMan - Showdown I (Mega Man Hack).zip
+- MegaMan - Wily's Conquest V0.46 by Clomax Dominion (Megaman Hack).zip
+- Megaman (U) [!] [T-BR] [T-spyblack G-Trans-Center] [V-1.1 FINAL P-100% A-2011].zip
+- MegaMan II - Adventures of Bass 2.zip
+- MegaMan II - AVGN Vs Dr.Wly.zip
+- MegaMan II - Eight Beasts 2 V2.01 by Matrixz (Megaman II Hack).zip
+- MegaMan II - MegaMan In Java Island.zip
+- MegaMan II - NEO (Megaman II Hack).zip
+- MegaMan II - Rockman EXILE (J).zip
+- MegaMan II - Rockman No Constancy Hard Edition (J).zip
+- MegaMan II - Rockman No Constancy Normal Edition (J).zip
+- MegaMan II - Rockman Z (J).zip
+- MegaMan II - The Revenge of the Eight Robot Masters (Hack).zip
+- MegaMan II - Ultra.zip
+- MegaMan II - Wily's Conquest 2 v0.71b (Megaman II Hack).zip
+- MegaMan II - X (Mega Man 2 Hack).zip
+- Megaman II (U) (PT-BR).zip
+- MegaMan III - (Enemy Lifebar Hack).zip
+- MegaMan III - Battle Of Gamma (U).zip
+- MegaMan III - Break Man 3 (U).zip
+- MegaMan III - Dr.Wily Visits Indonesia (U).zip
+- MegaMan III - Ever (U).zip
+- MegaMan III - Hedgehog Trap! - EASY (U).zip
+- MegaMan III - Hedgehog Trap! - HARD (U).zip
+- MegaMan III - Hedgehog Trap! - NORMAL (U).zip
+- MegaMan III - Powa 1 (U).zip
+- MegaMan III - Powa 2 (U).zip
+- MegaMan III - Powa 2 Hard Version (U).zip
+- MegaMan III - Ridley X 1 (U).zip
+- MegaMan III - Ridley X 2 (U).zip
+- MegaMan III - Rise & Fall of Dr.Wily (U).zip
+- MegaMan III - The Return (U).zip
+- Megaman III (U) (PT-BR).zip
+- MegaMan IV - After In Indonesia.zip
+- MegaMan IV - C4 (U).zip
+- MegaMan IV - Eons of dreams part 4 (U).zip
+- MegaMan IV - Gadget Master.zip
+- MegaMan IV - Maverick Revenge.zip
+- MegaMan IV - Minus Infinity.zip
+- MegaMan IV - Ridley X Hack 1 (U).zip
+- MegaMan IV - Ridley X Hack 2 (U).zip
+- Megaman IV (U) (PT-BR).zip
+- MegaMan V - Fly by Matrixz (Hack).zip
+- MegaMan V - Time Attack V0.311 by Matrixz (Hack).zip
+- Megaman V (U) (PT-BR).zip
+- MegaMan VI - Showdown VI (Megaman VI Hack).zip
+- Megaman VI (U) (PT-BR).zip
+- Mei Guo Fu Hao - American Man (China) (Unl).zip
+- Menace Beach (USA) (Unl).nes
+- Menace Beach (USA) (Unl).zip
+- Mendel Palace (USA).nes
+- Mendel Palace (USA).zip
+- Meng Huan - Xiang Shuai Chuan Qi Zhi Xue Hai Piao Ling (China) (Unl).zip
+- Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).nes
+- Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).zip
+- Metal Fighter (Asia) (Sachen) (Unl).nes
+- Metal Fighter (Asia) (Sachen) (Unl).zip
+- Metal Fighter (USA) (Unl).nes
+- Metal Fighter (USA) (Unl).zip
+- Metal Force (Korea) (Unl).zip
+- Metal Gear (Europe).nes
+- Metal Gear (Europe).zip
+- Metal Gear (U) (PT-BR).zip
+- Metal Gear (USA).nes
+- Metal Gear (USA).zip
+- Metal Mech - Man & Machine (USA).nes
+- Metal Mech - Man & Machine (USA).zip
+- Metal Storm (USA).nes
+- Metal Storm (USA).zip
+- Metroid - 2000.zip
+- Metroid - Adventure.zip
+- Metroid - Challenge.zip
+- Metroid - Challenger V0.87 (Metroid Hack).zip
+- Metroid - Deluxe v1.1 (Metroid Hack).zip
+- Metroid - Genocide (Metroid Hack).zip
+- Metroid - Hard Core Elite (Metroid Hack).zip
+- Metroid - Invasion (U).zip
+- Metroid - M (Metroid Hack).zip
+- Metroid - Mutation (Metroid Hack).zip
+- Metroid - Omega (Metroid Hack).zip
+- Metroid - Planet (Metroid Hack).zip
+- Metroid - Remix V1.2 (Metroid Hack).zip
+- Metroid - Revenge (U).zip
+- Metroid - TSI (Metroid Hack).zip
+- Metroid - Wart's Invasion (Metroid Hack).zip
+- Metroid - X V1.0 (Metroid Hack).zip
+- Metroid (Europe).nes
+- Metroid (Europe).zip
+- Metroid (U) (PT-BR).zip
+- Metroid (USA).nes
+- Metroid (USA).zip
+- Metroid Origin (alt Samus).zip
+- Metroid Origin (enhanced).zip
+- Metroid Origin.zip
+- Michael Andretti's World GP (USA).nes
+- Michael Andretti's World GP (USA).zip
+- Mickey Mouse - Dream Balloon (USA) (Beta).nes
+- Mickey Mouse - Dream Balloon (USA) (Beta).zip
+- Mickey Mousecapade (USA).nes
+- Mickey Mousecapade (USA).zip
+- Mickey's Adventure in Numberland (USA).nes
+- Mickey's Adventure in Numberland (USA).zip
+- Mickey's Safari in Letterland (USA).nes
+- Mickey's Safari in Letterland (USA).zip
+- Micro Machines (Europe) (Unl).nes
+- Micro Machines (Europe) (Unl).zip
+- Micro Machines (USA) (Aladdin Compact Cartridge) (Unl).nes
+- Micro Machines (USA) (Aladdin Compact Cartridge) (Unl).zip
+- Micro Machines (USA) (Unl).nes
+- Micro Machines (USA) (Unl).zip
+- Micro Mages.zip
+- MiG 29 - Soviet Fighter (USA) (Unl).nes
+- MiG 29 - Soviet Fighter (USA) (Unl).zip
+- Might & Magic - Secret of the Inner Sanctum (USA).nes
+- Might & Magic - Secret of the Inner Sanctum (USA).zip
+- Mighty Bomb Jack (Europe).nes
+- Mighty Bomb Jack (Europe).zip
+- Mighty Bomb Jack (USA).nes
+- Mighty Bomb Jack (USA).zip
+- Mighty Final Fight (Europe).nes
+- Mighty Final Fight (Europe).zip
+- Mighty Final Fight (U) (PT-BR).zip
+- Mighty Final Fight (USA).nes
+- Mighty Final Fight (USA).zip
+- Mike Tyson's Intergalactic Power Punch (USA) (Beta) [b].nes
+- Mike Tyson's Intergalactic Power Punch (USA) (Beta) [b].zip
+- Mike Tyson's Punch-Out!! (Europe) (Rev A).nes
+- Mike Tyson's Punch-Out!! (Europe) (Rev A).zip
+- Mike Tyson's Punch-Out!! (Europe).nes
+- Mike Tyson's Punch-Out!! (Europe).zip
+- Mike Tyson's Punch-Out!! (Japan  USA) (Rev A).nes
+- Mike Tyson's Punch-Out!! (Japan  USA).nes
+- Millionaire (Asia) (PAL) (Unl).nes
+- Millionaire (Asia) (PAL) (Unl).zip
+- Millipede (USA).nes
+- Millipede (USA).zip
+- Millipede.zip
+- Milon's Secret Castle (USA).nes
+- Milon's Secret Castle (USA).zip
+- Mind Blower Pak (Australia) (Unl).zip
+- Miracle Piano Teaching System  The (France).nes
+- Miracle Piano Teaching System  The (USA).nes
+- Miracle Piano Teaching System The (France).zip
+- Miracle Piano Teaching System The (Germany).zip
+- Miracle Piano Teaching System The (USA).zip
+- Miss Peach World (Unl).zip
+- Mission Cobra (USA) (Unl).nes
+- Mission Cobra (USA) (Unl).zip
+- Mission Impossible (Europe).nes
+- Mission Impossible (Europe).zip
+- Mission Impossible (France).nes
+- Mission Impossible (France).zip
+- Mission Impossible (USA).nes
+- Mission Impossible (USA).zip
+- Mitsume ga Tooru (J) (PT-BR).zip
+- Moai-kun - Luigi-Kun by Googie (J).zip
+- Moai-kun - Mario-kun (Moai-kun Hack).zip
+- Monkey King (China) (Unl) (T).zip
+- Monkey King (Unl).zip
+- Monopoly (France).nes
+- Monopoly (France).zip
+- Monopoly (Germany).zip
+- Monopoly (USA).nes
+- Monopoly (USA).zip
+- Monster in My Pocket (Europe).nes
+- Monster in My Pocket (Europe).zip
+- Monster in my Pocket (PT-BR).zip
+- Monster in My Pocket (USA) (Beta).nes
+- Monster in My Pocket (USA) (Beta).zip
+- Monster in My Pocket (USA).nes
+- Monster in My Pocket (USA).zip
+- Monster Party (USA).nes
+- Monster Party (USA).zip
+- Monster Truck Rally (USA).nes
+- Monster Truck Rally (USA).zip
+- Monstruo de los Globos El (Spain) (Gluk Video) (Unl).zip
+- Monstruo de los Globos El (Spain) (Rev 1) (Gluk Video) (Unl).zip
+- Moon Crystal (J) (PT-BR).zip
+- Moon Ranger (USA) (Unl).nes
+- Moon Ranger (USA) (Unl).zip
+- Mortal Kombat 2 (Unl) [!].zip
+- Mortal Kombat 3 - Special 56 Peoples (Unl) [!].zip
+- Mortal Kombat 3 (Unl).zip
+- Mortal Kombat 3 Extra 60 (Unl) [!].zip
+- Mortal Kombat 4.zip
+- Mortal Kombat II Special (Unl) [!].zip
+- Mortal Kombat Trilogy - MK5 (16player) (Unl) [!].zip
+- Mortal Kombat V1996 Turbo 30 Peoples (Unl) [!].zip
+- MotorCity Patrol (USA).nes
+- MotorCity Patrol (USA).zip
+- Mr. Gimmick (Europe).nes
+- Mr. Gimmick (Europe).zip
+- Mr. Gimmick (USA) (Proto).nes
+- Mr. Gimmick (USA) (Proto).zip
+- Mr. Gimmick 2.zip
+- Ms. Pac-Man (USA) (Unl).nes
+- Ms. Pac-Man (USA) (Unl).zip
+- Ms. Pac-Man (USA).nes
+- Ms. Pac-Man (USA).zip
+- Muppet Adventure - Chaos at the Carnival (USA).nes
+- Muppet Adventure - Chaos at the Carnival (USA).zip
+- Mutant Virus  The - Crisis in a Computer World (USA).nes
+- Mutant Virus The - Crisis in a Computer World (USA).zip
+- Mystery Quest (USA).nes
+- Mystery Quest (USA).zip
+- Mystery World Dizzy (Europe) (En Pt Pl) (Unl).zip
+- NARC (USA).nes
+- NARC (USA).zip
+- nba??.zip
+- nebs-n-debs.zip
+- Nekketsu Kouha - Kunio Kun (J).nes
+- Nekketsu Kouha - Kunio-kun (Girl Version Hack).zip
+- Nekketsu Koukou Dodgeball Bu - Soccer Hen (J) [o1].nes
+- Nekketsu Koukou Dodgeball Bu - Soccer Hen (J).nes
+- Nekketsu Koukou Dodgeball Bu (J) [hFFE].nes
+- Nekketsu Koukou Dodgeball Bu (J) [o1].nes
+- Nekketsu Koukou Dodgeball Bu (J) [o1][T+Chi_OLD LIU].nes
+- Nekketsu Koukou Dodgeball Bu (J) [T+Chi_OLD LIU].nes
+- Nekketsu Koukou Dodgeball Bu (J).nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J) [o1].nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J) [T+Eng.75_ICE].nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J) [T+Rus].nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J) [T-Eng.50].nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J).nes
+- Nemo - Pajama Hero (J) [o1].nes
+- Nemo - Pajama Hero (J) [o1][T+Chi].nes
+- Nemo - Pajama Hero (J) [p1].nes
+- Nemo - Pajama Hero (J) [T+Chi].nes
+- Nemo - Pajama Hero (J).nes
+- NES Audio Tester V1.3 (PD).nes
+- NES Color Bars Demo by Quietust (PD).nes
+- NES Color Bars Demo V2 by Quietust (PD).nes
+- NES CPU Test by Kevin Horton (PD).nes
+- NES Dream Team (Cocoron Hack) [o1].nes
+- NES Dream Team (Cocoron Hack).nes
+- NES Land Journey (Kid Icarus Hack) [o1].nes
+- NES Land Journey (Kid Icarus Hack).nes
+- NES Music Programming Language Example by Bob Rost (PD).nes
+- NES NTSC Branch Timing Tests - Backward Branch by Shay Green (PD).nes
+- NES NTSC Branch Timing Tests - Branch Basics by Shay Green (PD).nes
+- NES NTSC Branch Timing Tests - Forward Branch by Shay Green (PD).nes
+- NES NTSC Frame Phase Test by Shay Green (PD).nes
+- NES NTSC Line Phase Test by Shay Green (PD).nes
+- NES NTSC Special Frame Phase by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Basics by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Details by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Emulator by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Obscure by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Timing by Shay Green (PD).nes
+- NES Open Tournament Golf (Europe).nes
+- NES Open Tournament Golf (Europe).zip
+- NES Open Tournament Golf (U) [!].nes
+- NES Open Tournament Golf (U) [b1].nes
+- NES Open Tournament Golf (U) [o1].nes
+- NES Open Tournament Golf (USA).nes
+- NES Open Tournament Golf (USA).zip
+- NES Play Action Football (U) [!].nes
+- NES Play Action Football (U) [b1].nes
+- NES Play Action Football (U) [o1].nes
+- NES Play Action Football (USA).nes
+- NES Play Action Football (USA).zip
+- NES PowerPad Test Cart (U) [!].nes
+- NES Quine Demo (PD).nes
+- NES Scrolling Test by Lasse Oorni (Cadaver) (PD).nes
+- NES Test Cart (Official Nintendo) (U) [!].nes
+- NES Test Program by Memblers (PD).nes
+- NES Tutor 101 by Michael Martin (PD).nes
+- NES Tutor 101 Rev 1.2, 23 Mar 2002 by Michael Martin (PD).nes
+- NES Virus Cleaner (USA) (Unl).zip
+- NESA Audio Player - Little Nemo Sample by Chris Covell (PD).nes
+- NESA Audio Player - Times of Lore by Chris Covell (PD).nes
+- NESHLA Demo Program - Hello, World by Brian Provinciano (PD).nes
+- NESmas  03 by Mic (PD).nes
+- NESmas  05 by Mic (PD).nes
+- NeSnake (NTSC) by Matrixz (PD).nes
+- NeSnake 2 (Preview Demo) by Matrixz (PD).nes
+- NeSnake 2 (V1.2) (NTSC) by Matrixz (PD).nes
+- NeSnake 2 (V1.2) (PAL) by Matrixz (PD).nes
+- NeSnake 2 (V1.x) by Matrixz (PD).nes
+- NEStress (PD) [a1].nes
+- NEStress (PD).nes
+- New Ghostbusters II (E) [!].nes
+- New Ghostbusters II (E) [T+Rus].nes
+- New Ghostbusters II (Europe).nes
+- New Ghostbusters II (Europe).zip
+- New Ghostbusters II (J) [hFFE].nes
+- New Ghostbusters II (J) [hFFE][b1].nes
+- New Ghostbusters II (J) [p1][hM01].nes
+- New Ghostbusters II (J).nes
+- New Ghostbusters II (USA) (Proto).nes
+- New Ghostbusters II (USA) (Proto).zip
+- New Quest After SMB2j, The - Clouds by AP (SMB1 Hack).nes
+- New Quest After SMB2j, The - DX by AP (SMB1 Hack).nes
+- New Quest After SMB2j, The - Y.R.P.P. by AP (SMB1 Hack).nes
+- New Quest After SMB2j, The by AP (SMB1 Hack).nes
+- New York Nyankies (J) [o1].nes
+- New York Nyankies (J).nes
+- New Zealand Story  The (Europe).nes
+- New Zealand Story The (Europe).zip
+- New Zealand Story, The (E).nes
+- New-River City Ransom (Hack).nes
+- NewZealand Story The (Europe).zip
+- NFL (USA).nes
+- NFL (USA).zip
+- NFL 99 (Tecmo Super Bowl Hack).nes
+- NFL Football (U) [!].nes
+- NFL Football (U) [b1].nes
+- NFL Football (U) [b2].nes
+- NFL Football (U) [o1].nes
+- Nibbles by Damian Yeppick (PD).nes
+- Nichibutsu Mahjong 3 - Mahjong G Men (J).nes
+- Nigel Mansell s World Championship Challenge (U) [!].nes
+- Nigel Mansell s World Championship Challenge (U) [b1].nes
+- Nigel Mansell s World Championship Challenge (U) [o1].nes
+- Nigel Mansell's World Championship Challenge (USA).nes
+- Nigel Mansell's World Championship Challenge (USA).zip
+- Nigel Mansell's World Championship Racing (Europe) (En Fr De Es It).nes
+- Nigel Mansell's World Championship Racing (Europe) (En Fr De Es It).zip
+- Nigger Tennis (Tennis Hack) [o1].nes
+- Nigger Tennis (Tennis Hack).nes
+- Night Arrow (Ch).nes
+- Night of the Lee High Slayer (PD).nes
+- Nightmare on Elm Street  A (USA).nes
+- Nightmare on Elm Street A (U) (PT-BR).zip
+- Nightmare on Elm Street A (USA).zip
+- Nightmare on Elm Street, A (U) [!].nes
+- Nightmare on Elm Street, A (U) [o1].nes
+- Nightmare on Elm Street, A (U) [T+Por_BRGames].nes
+- Nightmare on Elm Street, A (U) [T+Spa1.00_ShinjiE].nes
+- Nightshade (U) [!].nes
+- Nightshade (U) [b1].nes
+- Nightshade (U) [b2].nes
+- Nightshade (U) [b3].nes
+- Nightshade (U) [o1].nes
+- Nightshade (USA).nes
+- Nightshade (USA).zip
+- Nihonichi no Mei Kantoku (J).nes
+- Niji no Silk Road (J) [b1].nes
+- Niji no Silk Road (J) [o1].nes
+- Niji no Silk Road (J) [o1][T+Eng1.01_Gaijin Productions].nes
+- Niji no Silk Road (J) [T+Eng1.01_Gaijin Productions].nes
+- Niji no Silk Road (J) [T+Eng1.01_Gaijin Productions][o1].nes
+- Niji no Silk Road (J) [T+Eng1.01_Gaijin Productions][o2].nes
+- Niji no Silk Road (J).nes
+- Nim-tendo by Erik Jakobsson 2004 (PD).nes
+- Ningen Heiki - Dead Fox (J) [b1].nes
+- Ningen Heiki - Dead Fox (J) [b2].nes
+- Ningen Heiki - Dead Fox (J) [o1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a1][o1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a2].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a2][o1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a3].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a3][o1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][o1].nes
+- Ningen Heiki - Dead Fox (J).nes
+- Ninja 3.zip
+- Ninja Cop Saizou (J) [o1].nes
+- Ninja Cop Saizou (J).nes
+- Ninja Crusaders - Ryuuga (J) [o1].nes
+- Ninja Crusaders - Ryuuga (J).nes
+- Ninja Crusaders (U) (PT-BR).zip
+- Ninja Crusaders (U) [!p].nes
+- Ninja Crusaders (U) [b1].nes
+- Ninja Crusaders (U) [o1].nes
+- Ninja Crusaders (U) [T+Por100%_Central de Traducuo].nes
+- Ninja Crusaders (U) [T+Rus].nes
+- Ninja Crusaders (USA).nes
+- Ninja Crusaders (USA).zip
+- Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Beta) (1990-01-18).nes
+- Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Beta) (1990-01-18).zip
+- Ninja Gaiden - Evil Edition (U) [!].zip
+- Ninja Gaiden - Virgin Edition (U) [!].zip
+- Ninja Gaiden (PC10).nes
+- Ninja Gaiden (U) (PT-BR).zip
+- Ninja Gaiden (U) [!].nes
+- Ninja Gaiden (U) [b1].nes
+- Ninja Gaiden (U) [b1][o1].nes
+- Ninja Gaiden (U) [b1][o1][T+Por1.1_Hellmatic].nes
+- Ninja Gaiden (U) [b1][o2].nes
+- Ninja Gaiden (U) [b2].nes
+- Ninja Gaiden (U) [b2][o1].nes
+- Ninja Gaiden (U) [b3].nes
+- Ninja Gaiden (U) [b3][o1].nes
+- Ninja Gaiden (U) [b4].nes
+- Ninja Gaiden (U) [b5].nes
+- Ninja Gaiden (U) [b5][o1][T-Por].nes
+- Ninja Gaiden (U) [b5][T-Por].nes
+- Ninja Gaiden (U) [b6].nes
+- Ninja Gaiden (U) [o1].nes
+- Ninja Gaiden (U) [T+Ita1.1_SadNES_City].nes
+- Ninja Gaiden (U) [T+Por1.1_Hellmatic].nes
+- Ninja Gaiden (U) [T+Por100%_IPS Point].nes
+- Ninja Gaiden (U) [T+Spa_DJ Traducciones].nes
+- Ninja Gaiden (U) [T+Swe.9_MetalHead].nes
+- Ninja Gaiden (U) [T-Ita1.0_SadNES_City].nes
+- Ninja Gaiden (U) [T-Por1.0].nes
+- Ninja Gaiden (USA) (Beta).nes
+- Ninja Gaiden (USA) (Beta).zip
+- Ninja Gaiden (USA).nes
+- Ninja Gaiden (USA).zip
+- Ninja Gaiden 2 - The dark sword of chaos (U) (PT-BR).zip
+- Ninja Gaiden 3 - The Ancient Ship of Doom (U) (PT-BR).zip
+- Ninja Gaiden II - The Dark Sword of Chaos (PC10).nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) (Prototype).nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [!].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [b1].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [b2].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [o1].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [o2].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Arabian].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Arabian][o1].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Fre_Terminus].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Ita1.0].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Por100%Emulacao Brasil].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Ser1.0_MadFox].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Swe1.0_MetalHead].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (USA).nes
+- Ninja Gaiden II - The Dark Sword of Chaos (USA).zip
+- Ninja Gaiden III - The Ancient Ship of Doom (PC10).nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [!].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [b1].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [b2].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [b3].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [b4].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [o1].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [o2].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [T+Fre_Terminus].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [T+Por1.0_CBT].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [T+Por100%_ZERO].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [T+Rus].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [t1].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (USA).nes
+- Ninja Gaiden III - The Ancient Ship of Doom (USA).zip
+- Ninja Hattori Kun (J) [b1].nes
+- Ninja Hattori Kun (J) [b1][o1].nes
+- Ninja Hattori Kun (J) [b2].nes
+- Ninja Hattori Kun (J) [o1].nes
+- Ninja Hattori Kun (J) [p1].nes
+- Ninja Hattori Kun (J) [p2].nes
+- Ninja Hattori Kun (J).nes
+- Ninja II.zip
+- Ninja Jajamaru - Ginga Daisakusen (J) [b1].nes
+- Ninja Jajamaru - Ginga Daisakusen (J) [b1][o1].nes
+- Ninja Jajamaru - Ginga Daisakusen (J) [T+Eng1.00_HTI].nes
+- Ninja Jajamaru - Ginga Daisakusen (J).nes
+- Ninja Jajamaru Kun (J) [hM03].nes
+- Ninja Jajamaru Kun (J) [hM03][b1].nes
+- Ninja Jajamaru Kun (J) [hM03][p1].nes
+- Ninja Jajamaru Kun (J) [hM03][p1][o1].nes
+- Ninja Jajamaru Kun (J) [t1].nes
+- Ninja Jajamaru Kun (J) [t1][T+Chi_MS emumax].nes
+- Ninja Jajamaru Kun (J) [t1][T-Chi_MS emumax].nes
+- Ninja Jajamaru Kun (J) [t1][T-Chi_MS emumax][a1].nes
+- Ninja Jajamaru Kun (J) [t1][T-Chi_MS emumax][a2].nes
+- Ninja Jajamaru Kun (J) [t1][T-Chi_MS emumax][a3].nes
+- Ninja Jajamaru Kun (J).nes
+- Ninja Jajamaru Kun (VS).nes
+- Ninja Kid (U) [!].nes
+- Ninja Kid (U) [b1].nes
+- Ninja Kid (U) [o1].nes
+- Ninja Kid (U) [o2].nes
+- Ninja Kid (USA).nes
+- Ninja Kid (USA).zip
+- Ninja Kun - Ashura no Shou (J) [b1].nes
+- Ninja Kun - Ashura no Shou (J) [b2].nes
+- Ninja Kun - Ashura no Shou (J) [o1].nes
+- Ninja Kun - Ashura no Shou (J) [o1][T+Eng].nes
+- Ninja Kun - Ashura no Shou (J) [o2].nes
+- Ninja Kun - Ashura no Shou (J) [o3].nes
+- Ninja Kun - Ashura no Shou (J) [T+Chi].nes
+- Ninja Kun - Ashura no Shou (J) [T+Eng].nes
+- Ninja Kun - Ashura no Shou (J).nes
+- Ninja Kun (J) [b1].nes
+- Ninja Kun (J) [o1].nes
+- Ninja Kun (J) [p1].nes
+- Ninja Kun (J) [p1][o1].nes
+- Ninja Kun (J) [p2].nes
+- Ninja Kun (J).nes
+- Ninja Ryukenden (J) [b1].nes
+- Ninja Ryukenden (J) [o1].nes
+- Ninja Ryukenden (J) [T+Chi].nes
+- Ninja Ryukenden (J).nes
+- Ninja Ryukenden II - Ankoku no Jashin Ken (J) [o1].nes
+- Ninja Ryukenden II - Ankoku no Jashin Ken (J) [T+Chi].nes
+- Ninja Ryukenden II - Ankoku no Jashin Ken (J).nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [a1].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [a1][o1].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [o1].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [o1][T+Chi].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [o1][T-Chi].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [T+Chi].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [T+Kor].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [T-Chi].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J).nes
+- Ninja.zip
+- Ninjara Hoi! (J) [b1].nes
+- Ninjara Hoi! (J) [b2].nes
+- Ninjara Hoi! (J).nes
+- Nintendo - NTF2 System Cartridge (USA).nes
+- Nintendo - NTF2 System Cartridge (USA).zip
+- Nintendo - NTF2 Test Cartridge (NES Test) (USA) (Rev 1).nes
+- Nintendo - NTF2 Test Cartridge (NES Test) (USA) (Rev 1).zip
+- Nintendo - NTF2 Test Cartridge (USA).nes
+- Nintendo - NTF2 Test Cartridge (USA).zip
+- Nintendo World Championships 1990 (U) [!].nes
+- Nintendo World Championships 1990 (USA).nes
+- Nintendo World Championships 1990 (USA).zip
+- Nintendo World Class Service - Control Deck Test Cartridge (USA).nes
+- Nintendo World Class Service - Control Deck Test Cartridge (USA).zip
+- Nintendo World Class Service - Joystick Test Cartridge (USA).nes
+- Nintendo World Class Service - Joystick Test Cartridge (USA).zip
+- Nintendo World Class Service - Port Test Cartridge (USA).nes
+- Nintendo World Class Service - Port Test Cartridge (USA).zip
+- Nintendo World Class Service - Power Pad Test Cartridge (USA).nes
+- Nintendo World Class Service - Power Pad Test Cartridge (USA).zip
+- Nintendo World Cup (E) (PRG0).nes
+- Nintendo World Cup (E) (PRG1).nes
+- Nintendo World Cup (Europe) (Rev A).nes
+- Nintendo World Cup (Europe) (Rev A).zip
+- Nintendo World Cup (Europe) (Rev B).nes
+- Nintendo World Cup (Europe) (Rev B).zip
+- Nintendo World Cup (Europe).nes
+- Nintendo World Cup (Europe).zip
+- Nintendo World Cup (PC10) [b1].nes
+- Nintendo World Cup (PC10).nes
+- Nintendo World Cup (U) [!].nes
+- Nintendo World Cup (U) [b1].nes
+- Nintendo World Cup (U) [b2].nes
+- Nintendo World Cup (U) [b3].nes
+- Nintendo World Cup (U) [b4].nes
+- Nintendo World Cup (U) [b5].nes
+- Nintendo World Cup (U) [o1].nes
+- Nintendo World Cup (U) [T+Fre99%_YF06].nes
+- Nintendo World Cup (USA).nes
+- Nintendo World Cup (USA).zip
+- Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (J) [b1].nes
+- Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (J) [o1].nes
+- Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (J).nes
+- Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (J) [b1].nes
+- Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (J) [o1].nes
+- Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (J).nes
+- Nishitetsu Busjack (Buggy Popper Hack).nes
+- Nittereb (Arkanoid Hack).nes
+- NMI Suppression Timing Test by Shay Green (6 Nov 2005) (PD).nes
+- NMI Timing Test by Shay Green (6 Nov 2005) (PD).nes
+- Noah s Ark (E) [!].nes
+- Noah s Ark (E) [b1].nes
+- Noah s Ark (E) [b2].nes
+- Noah's Ark (Europe).nes
+- Noah's Ark (Europe).zip
+- Nobunaga no Yabou - Bushou Fuuun Roku (J).nes
+- Nobunaga no Yabou - Sengoku Gunyuu Den (J) [o1].nes
+- Nobunaga no Yabou - Sengoku Gunyuu Den (J).nes
+- Nobunaga no Yabou - Zenkoku Han (J) [a1].nes
+- Nobunaga no Yabou - Zenkoku Han (J) [hM02].nes
+- Nobunaga no Yabou - Zenkoku Han (J).nes
+- Nobunaga s Ambition (U) [!].nes
+- Nobunaga s Ambition (U) [b1].nes
+- Nobunaga s Ambition (U) [b2].nes
+- Nobunaga s Ambition (U) [b3].nes
+- Nobunaga s Ambition (U) [o1].nes
+- Nobunaga s Ambition 2 (U) [!p].nes
+- Nobunaga s Ambition 2 (U) [b1].nes
+- Nobunaga s Ambition 2 (U) [o1].nes
+- Nobunaga's Ambition (USA).nes
+- Nobunaga's Ambition (USA).zip
+- Nobunaga's Ambition II (USA).nes
+- Nobunaga's Ambition II (USA).zip
+- nomolos.zip
+- North & South (Europe).nes
+- North & South (Europe).zip
+- North _ South (E) [!].nes
+- North _ South (E) [T+FreFinal_Generation IX].nes
+- North _ South (J).nes
+- North _ South (U) [!].nes
+- North _ South (U) [b1].nes
+- North _ South (U) [b1][o1].nes
+- North _ South (U) [b1][o2].nes
+- North _ South (U) [b2].nes
+- North _ South (U) [b3].nes
+- North _ South (U) [b4].nes
+- North _ South (U) [b5].nes
+- North _ South (U) [T+Swe1.0_TheTranslator].nes
+- North and South (USA).nes
+- North and South (USA).zip
+- NTF2 System Cart (U).nes
+- NTF2 Test Cart (PD).nes
+- Nude Barbie (Beta 1) (Barbie Hack) [b1].nes
+- Nude Barbie (Beta 1) (Barbie Hack) [o1].nes
+- Nude Barbie (Beta 1) (Barbie Hack).nes
+- Nude Punch Out (Punch-Out!! Hack).nes
+- Nullsleep - Kuribos Requiem (PD).nes
+- Nuts & Milk (J) (PT-BR).zip
+- Nuts _ Milk (J) [o1].nes
+- Nuts _ Milk (J) [o2].nes
+- Nuts _ Milk (J) [p1].nes
+- Nuts _ Milk (J) [p1][o1].nes
+- Nuts _ Milk (J) [T+Chi_MS emumax].nes
+- Nuts _ Milk (J) [T+FreFinal_ks151].nes
+- Nuts _ Milk (J) [T-Chi_MS emumax].nes
+- Nuts _ Milk (J) [T-Chi_MS emumax][a1].nes
+- Nuts _ Milk (J) [T-Chi_MS emumax][a2].nes
+- Nuts _ Milk (J).nes
+- Nuts _ Milk by PE (Hack) [o1].nes
+- Nuts _ Milk by PE (Hack).nes
+- Oaty Invaders by Pope Hentai (Space Invaders Hack).nes
+- Obake no Q Tarou - Wanwan Panic (J) [p1].nes
+- Obake no Q Tarou - Wanwan Panic (J).nes
+- Obocchama Kun (J) [o1].nes
+- Obocchama Kun (J).nes
+- Oct Man v0.7 (Pac-Man Hack).nes
+- Oeka Kids - Anpanman no Hiragana Daisuki (J).nes
+- Oeka Kids - Anpanman to Oekaki Shiyou!! (J).nes
+- Oishinbo (J) [b1].nes
+- Oishinbo (J) [b2].nes
+- Oishinbo (J) [o1].nes
+- Oishinbo (J).nes
+- Old Pond, Diving Frog and Water Sound by U1 (SMB1 Hack).nes
+- Olympic I.Q. (Asia) (PAL) (Unl).nes
+- Olympic I.Q. (Asia) (PAL) (Unl).zip
+- Olympic IQ (Sachen) [!].nes
+- Olympus no Tatakai (J) [b1].nes
+- Olympus no Tatakai (J) [b2].nes
+- Olympus no Tatakai (J).nes
+- Omeka (Lode Runner Hack).nes
+- Onyanko Town (J) [!].nes
+- Onyanko Town (J) [o1].nes
+- Onyanko Town (J) [p1].nes
+- Operation Secret Storm (Unl) [!p].nes
+- Operation Secret Storm (Unl) [o1].nes
+- Operation Secret Storm (USA) (Unl).nes
+- Operation Secret Storm (USA) (Unl).zip
+- Operation Wolf (E) [!].nes
+- Operation Wolf (Europe).nes
+- Operation Wolf (Europe).zip
+- Operation Wolf (J).nes
+- Operation Wolf (U) [!].nes
+- Operation Wolf (U) [b1].nes
+- Operation Wolf (U) [b1][o1].nes
+- Operation Wolf (U) [b2].nes
+- Operation Wolf (U) [b3].nes
+- Operation Wolf (U) [b4].nes
+- Operation Wolf (U) [b5].nes
+- Operation Wolf (U) [o1].nes
+- Operation Wolf (U) [o2].nes
+- Operation Wolf (USA) (Rev 0A).nes
+- Operation Wolf (USA) (Rev 0A).zip
+- Orb 3D (U) [!].nes
+- Orb 3D (U) [b1].nes
+- Orb 3D (U) [b2].nes
+- Orb 3D (U) [b3].nes
+- Orb 3D (U) [b4].nes
+- Orb 3D (U) [o1].nes
+- Orb 3D (USA).nes
+- Orb 3D (USA).zip
+- Orgada (TwinBee Hack) [b1].nes
+- Osama Hunt (Duck Hunt Hack).nes
+- Osomatsu Kun (J) [a1].nes
+- Osomatsu Kun (J) [o1].nes
+- Osomatsu Kun (J).nes
+- Otaku no Seiza - An Adventure in the Otaku Galaxy (J) [o1].nes
+- Otaku no Seiza - An Adventure in the Otaku Galaxy (J) [T+Eng0.0001cg_Suicidal].nes
+- Otaku no Seiza - An Adventure in the Otaku Galaxy (J).nes
+- Othello (Australia) (Unl).zip
+- Othello (HES) [!].nes
+- Othello (HES) [b1].nes
+- Othello (HES) [o1].nes
+- Othello (J) (FDS Hack).nes
+- Othello (U) (PT-BR).zip
+- Othello (U) [!].nes
+- Othello (U) [o1].nes
+- Othello (U) [o2].nes
+- Othello (U) [T+Por100%_Solus].nes
+- Othello (USA).nes
+- Othello (USA).zip
+- Othello.zip
+- Our Demo (PD).nes
+- Our Demo NEW1 (PD).nes
+- Our Demo NEW2 (PD).nes
+- Our Demo NEW3 (PD).nes
+- Outlanders (J) [a1].nes
+- Outlanders (J) [a2].nes
+- Outlanders (J) [o1].nes
+- Outlanders (J).nes
+- Over Horizon (E) [!].nes
+- Over Horizon (Europe).nes
+- Over Horizon (Europe).zip
+- Over Horizon (J) [o1].nes
+- Over Horizon (J).nes
+- Overflow Test (PD).nes
+- Overlord (U) [!].nes
+- Overlord (U) [b1].nes
+- Overlord (U) [o1].nes
+- Overlord (USA).nes
+- Overlord (USA).zip
+- P radikus Conflict, The (Unl) [!p].nes
+- P radikus Conflict, The (Unl) [o1].nes
+- P.O.W. - Prisoners of War (Europe).nes
+- P.O.W. - Prisoners of War (Europe).zip
+- P.O.W. - Prisoners of War (U) (PT-BR).zip
+- P.O.W. - Prisoners of War (U) [!].nes
+- P.O.W. - Prisoners of War (U) [b1].nes
+- P.O.W. - Prisoners of War (U) [b2].nes
+- P.O.W. - Prisoners of War (U) [o1].nes
+- P.O.W. - Prisoners of War (U) [T+Chi].nes
+- P.O.W. - Prisoners of War (U) [T+Chi_MS emumax].nes
+- P.O.W. - Prisoners of War (U) [T+Chi_PEACOCKWANG].nes
+- P.O.W. - Prisoners of War (U) [T+Chi_PEACOCKWANG][t1].nes
+- P.O.W. - Prisoners of War (U) [T+Por1.0_GTC].nes
+- P.O.W. - Prisoners of War (U) [T+Por90%_Leon Games].nes
+- P.O.W. - Prisoners of War (USA).nes
+- P.O.W. - Prisoners of War (USA).zip
+- Paaman - Enban wo Torikaese!! (J) [b1].nes
+- Paaman - Enban wo Torikaese!! (J) [o1].nes
+- Paaman - Enban wo Torikaese!! (J).nes
+- Paaman Part 2 - Himitsu Kessha Madoodan wo Taose! (J) [o1].nes
+- Paaman Part 2 - Himitsu Kessha Madoodan wo Taose! (J) [T+Eng1.00_KingMike].nes
+- Paaman Part 2 - Himitsu Kessha Madoodan wo Taose! (J).nes
+- Pachi Com (J) [o1].nes
+- Pachi Com (J) [o2].nes
+- Pachi Com (J) [p1].nes
+- Pachi Com (J).nes
+- Pachinko Daisakusen (J) [b1].nes
+- Pachinko Daisakusen (J) [o1].nes
+- Pachinko Daisakusen (J).nes
+- Pachinko Daisakusen 2 (J) [o1].nes
+- Pachinko Daisakusen 2 (J).nes
+- Pachio Kun 2 (J) [o1].nes
+- Pachio Kun 2 (J) [p1][hM02].nes
+- Pachio Kun 2 (J).nes
+- Pachio Kun 3 (J) [o1].nes
+- Pachio Kun 3 (J).nes
+- Pachio Kun 4 (J) [b1].nes
+- Pachio Kun 4 (J) [o1].nes
+- Pachio Kun 4 (J).nes
+- Pachio Kun 5 (J).nes
+- Pachi-Slot Adventure 2 - Sorotta Kun no Pachi Slot Tanteidan (J) [!].nes
+- Pachi-Slot Adventure 2 - Sorotta Kun no Pachi Slot Tanteidan (J) [b1].nes
+- Pachi-Slot Adventure 2 - Sorotta Kun no Pachi Slot Tanteidan (J) [o1].nes
+- Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan! (J) [!].nes
+- Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan! (J) [b1].nes
+- Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan! (J) [o1].nes
+- Pac-Land (J) [b1].nes
+- Pac-Land (J) [b1][o1].nes
+- Pac-Land (J) [b2].nes
+- Pac-Land (J) [p1].nes
+- Pac-Land (J).nes
+- Pac-Man (E) [!].nes
+- Pac-Man (E) [T+FreFinal_ks151].nes
+- Pac-Man (Europe).nes
+- Pac-Man (Europe).zip
+- Pac-Man (J) [o1].nes
+- Pac-Man (J) [p1].nes
+- Pac-Man (J) [p1][b1].nes
+- Pac-Man (J) [p1][o1].nes
+- Pac-Man (J) [p1][o2].nes
+- Pac-Man (J) [p1][o3].nes
+- Pac-Man (J) [p2].nes
+- Pac-Man (J) [p2][o1].nes
+- Pac-Man (J) [T+Chi_MS emumax].nes
+- Pac-Man (J).nes
+- Pac-Man (Japan) (En) (Rev B).nes
+- Pac-Man (U) (Namco) [!p].nes
+- Pac-Man (U) (Namco) [o1].nes
+- Pac-Man (U) (PT-BR).zip
+- Pac-Man (U) (Tengen) [!].nes
+- Pac-Man (U) (Tengen) [b1].nes
+- Pac-Man (U) (Tengen) [o1].nes
+- Pac-Man (U) (Tengen) [T+Por85%_BRGames].nes
+- Pac-Man (Unl) [!].nes
+- Pac-Man (Unl) [o1].nes
+- Pac-Man (USA) (Namco).nes
+- Pac-Man (USA) (Namco).zip
+- Pac-Man (USA) (Tengen) (Unl).nes
+- Pac-Man (USA) (Tengen) (Unl).zip
+- Pac-Man (USA) (Tengen).nes
+- Pac-Man (USA) (Tengen).zip
+- Pac-Man 3 by DahrkDaiz (Ms. Pac-Man Hack) [a1].nes
+- Pac-Man 3 by DahrkDaiz (Ms. Pac-Man Hack).nes
+- Pac-Man 3 by DahrkDaiz (Ms. Pac-Man Hack).zip
+- Pac-Man Bros (SMB1 Hack).nes
+- Pac-Man Bubble Bobble (Bubble Bobble Hack) [o1].nes
+- Pac-Man Bubble Bobble (Bubble Bobble Hack).nes
+- Pac-Man Remix by Lagomorph (Hack) [o1].nes
+- Pac-Man Remix by Lagomorph (Hack).nes
+- Pac-Man.zip
+- Pac-Mania (Unl) [!].nes
+- Pac-Mania (Unl) [b1].nes
+- Pac-Mania (Unl) [o1].nes
+- Pac-Mania (USA) (Unl).nes
+- Pac-Mania (USA) (Unl).zip
+- Pac-Mix 2 (SMB2 Hack).nes
+- Palamedes (J) [b1].nes
+- Palamedes (J) [b2].nes
+- Palamedes (J).nes
+- Palamedes (U) [!].nes
+- Palamedes (U) [o1].nes
+- Palamedes (USA).nes
+- Palamedes (USA).zip
+- Palamedes 2 - Star Twinkles (J).nes
+- Palette Test by Loopy (PD).nes
+- Panic Restaurant (Europe).nes
+- Panic Restaurant (Europe).zip
+- Panic Restaurant (U) [!].nes
+- Panic Restaurant (U) [b1].nes
+- Panic Restaurant (U) [b2].nes
+- Panic Restaurant (U) [o1].nes
+- Panic Restaurant (U) [p1][!].nes
+- Panic Restaurant (U) [T+Fre].nes
+- Panic Restaurant (U) [T+Rus].nes
+- Panic Restaurant (USA).nes
+- Panic Restaurant (USA).zip
+- Paperboy (Europe).nes
+- Paperboy (Europe).zip
+- Paperboy (J).nes
+- Paperboy (U) [!].nes
+- Paperboy (U) [f1].nes
+- Paperboy (U) [o1].nes
+- Paperboy (U) [p1].nes
+- Paperboy (U) [p1][o1].nes
+- Paperboy (U) [p1][o2].nes
+- Paperboy (U) [p2].nes
+- Paperboy (USA).nes
+- Paperboy (USA).zip
+- Paperboy 2 (Europe).nes
+- Paperboy 2 (Europe).zip
+- Paperboy 2 (U) [!].nes
+- Paperboy 2 (U) [b1].nes
+- Paperboy 2 (U) [b2].nes
+- Paperboy 2 (U) [b3].nes
+- Paperboy 2 (U) [o1].nes
+- Paperboy 2 (USA).nes
+- Paperboy 2 (USA).zip
+- Papergirl (Paperboy Hack) [o1].nes
+- Papergirl (Paperboy Hack).nes
+- Papillon (Joy Van) [!].nes
+- Papillon (Joy Van) [b1].nes
+- Parallel World (J) [o1].nes
+- Parallel World (J) [T+Eng1.00_PentarouZero].nes
+- Paranoiz by Nurv Cockyman (PD).nes
+- Parasol Henbee (J) [o1].nes
+- Parasol Stars - Rainbow Islands II (Europe).nes
+- Parasol Stars - Rainbow Islands II (Europe).zip
+- Parasol Stars - The Story of Bubble Bobble 3 (E) (Prototype) [!].nes
+- Parasol Stars - The Story of Bubble Bobble 3 (E) [!].nes
+- Parasol Stars - The Story of Bubble Bobble III (Europe) (Beta).nes
+- Parasol Stars - The Story of Bubble Bobble III (Europe) (Beta).zip
+- Paris-Dakar Rally Special (J) [b1].nes
+- Paris-Dakar Rally Special (J) [o1].nes
+- Paris-Dakar Rally Special (J).nes
+- Parodius (E) [!].nes
+- Parodius (E) [T+Chi].nes
+- Parodius (Europe) (Beta).nes
+- Parodius (Europe) (Beta).zip
+- Parodius (Europe).nes
+- Parodius (Europe).zip
+- Parodius da! (J) [!].nes
+- Parodius da! (J) [hFFE][p1].nes
+- Parodius da! (J) [hFFE][p1][b1].nes
+- Parodius da! (J) [hFFE][p1][b2].nes
+- Parodius da! (J) [hFFE][p1][b3].nes
+- Parodius da! (J) [p1][hM04].nes
+- PasoFami Demo 1 (PD).nes
+- PasoFami Demo 2 (TwinBee) (PD).nes
+- PCGC Tank (Battle City Chinese Hack).nes
+- PCM Demo (PD).nes
+- Peach _ Daisy - The Royal Quest (Alpha) (SMB1 Hack) [a1].nes
+- Peach _ Daisy - The Royal Quest (Alpha) (SMB1 Hack).nes
+- Peach _ Daisy in The Ultimate Quest (SMB3 PRG0 Hack).nes
+- Peach _ Daisy in The Ultimate Quest (SMB3 PRG1 Hack) [a1].nes
+- Peach _ Daisy in The Ultimate Quest (SMB3 PRG1 Hack).nes
+- Peach _ Daisy in The Ultimate Quest V2b (SMB3 PRG1 Hack).nes
+- Peach s Nightmare - No Mercy (Beta) (SMB1 Hack).nes
+- Peach s Nightmare - No Mercy (SMB1 Hack).nes
+- Peek-A-Boo Poker (Asia) (Unl).nes
+- Peek-A-Boo Poker (Asia) (Unl).zip
+- Peek-A-Boo Poker (Unl) [!].nes
+- Peek-A-Boo Poker (Unl) [o1].nes
+- Peepar Time (J) [o1].nes
+- Pegasus 4 in 1 (Unknown) (Unl).zip
+- Pegasus 5 in 1 (Unknown) (Unl).zip
+- Pegs.zip
+- Pencilvania (CV Hack).nes
+- Penguin & Seal  The (Asia  Australia) (Unl).nes
+- Penguin & Seal The (Asia Australia) (Unl).zip
+- Penguin _ Seal, The (Sachen-HES) [!].nes
+- Penguin _ Seal, The (Sachen-HES) [o1].nes
+- Penguin Kun Wars (J) [b1].nes
+- Penguin Kun Wars (J) [p1].nes
+- Penguin Kun Wars (J) [T+Eng1.012_Penguin].nes
+- Penguin Kun Wars (J) [T+Fre1.0_ks151].nes
+- Penguin Kun Wars (J) [T-Eng1.011_Penguin].nes
+- Penguin Kun Wars (J).nes
+- Penguin Kun Wars by Rinkaku (Hack).nes
+- Penisian (Galaxian Hack).nes
+- PepsiMan by Mogemogesama (Metro-Cross Hack).nes
+- Perfect Bowling (J) [o1].nes
+- Perfect Bowling (J).nes
+- Perfect Dark.zip
+- Perfect Fit (U) [!].nes
+- Perfect Fit (U) [b1].nes
+- Perfect Fit (U) [o1].nes
+- Perfect Pair (USA) (Unl).zip
+- Pescatore (J) (Prototype).nes
+- Pesterminator - The Western Exterminator (Unl) [!p].nes
+- Pesterminator - The Western Exterminator (Unl) [o1].nes
+- Pesterminator (USA) (Unl).nes
+- Pesterminator (USA) (Unl).zip
+- Peter Pan _ The Pirates (U) [!].nes
+- Peter Pan _ The Pirates (U) [b1].nes
+- Peter Pan _ The Pirates (U) [b2].nes
+- Peter Pan _ The Pirates (U) [b3].nes
+- Peter Pan _ The Pirates (U) [o1].nes
+- Peter Pan _ The Pirates (U) [o2].nes
+- Peter Pan _ The Pirates (U) [o3].nes
+- Peter Pan _ The Pirates (U) [o4].nes
+- Phantasy Star 2 (Unl).nes
+- Phantom Air Mission (Europe).nes
+- Phantom Air Mission (Europe).zip
+- Phantom Fighter (U) [!].nes
+- Phantom Fighter (U) [b1].nes
+- Phantom Fighter (U) [b2].nes
+- Phantom Fighter (U) [b3].nes
+- Phantom Fighter (U) [o1].nes
+- Phantom Fighter (U) [o2].nes
+- Phantom Fighter (USA).nes
+- Phantom Fighter (USA).zip
+- Phat (SMB1 Hack) [o1].nes
+- Phat (SMB1 Hack).nes
+- Pi Nu Cao De Fu Su (China) (Unl) (T).zip
+- Pi Nuo Cao De Fu Su (Ch) [b1].nes
+- Pi Nuo Cao De Fu Su (Ch).nes
+- PICLoading (PD).nes
+- Pictionary - The Game of Video Quick Draw (USA).nes
+- Pictionary - The Game of Video Quick Draw (USA).zip
+- Pictionary (U) [!].nes
+- Pictionary (U) [b1].nes
+- Pictionary (U) [o1].nes
+- Pictionary (U) [o2].nes
+- PICUnreal (PD).nes
+- PICWindows (PD).nes
+- Pig River City Ransom (Hack).nes
+- Pikachu (Unl).nes
+- Pikachu Bros V0.2 (SMB1 Hack).nes
+- Pikachu Bros Vx.x (SMB1 Hack).nes
+- Pikachu Dig Dug by Mogemogesama (Dig Dug Hack).nes
+- Pikachu Y2K (Unl) [a1].nes
+- Pikachu Y2K (Unl) [b1].nes
+- Pikachu Y2K (Unl).nes
+- Pill Bros (SMB1 Hack).nes
+- Pimpin Extasy (Little Nemo - The Dream Master Hack).nes
+- Pin Bot (E).nes
+- Pin Bot (Europe).nes
+- Pin Bot (Europe).zip
+- Pin Bot (PC10).nes
+- Pin Bot (U) [!].nes
+- Pin Bot (U) [b1].nes
+- Pin Bot (U) [b1][o1].nes
+- Pin Bot (U) [o1].nes
+- Pin Bot (U) [o2].nes
+- Pin Bot (U) [o3].nes
+- Pin Bot (USA).nes
+- Pin Bot (USA).zip
+- Pinball (E) [!].nes
+- Pinball (E) [T+FreFinal_ks151].nes
+- Pinball (Europe) (Rev A).nes
+- Pinball (Europe) (Rev A).zip
+- Pinball (GBA e-Reader) (U).nes
+- Pinball (GC).nes
+- Pinball (J-AC).nes
+- Pinball (JU) [!].nes
+- Pinball (JU) [b1].nes
+- Pinball (JU) [o1].nes
+- Pinball (JU) [o2].nes
+- Pinball (JU) [o3].nes
+- Pinball (JU) [o4].nes
+- Pinball (JU) [p1].nes
+- Pinball (JU) [p1][o1].nes
+- Pinball (JU) [T+Chi_MS emumax].nes
+- Pinball (USA) (GameCube Edition).nes
+- Pinball (USA) (GameCube Edition).zip
+- Pinball (VS) [a1].nes
+- Pinball (VS).nes
+- Pinball (World).zip
+- Pinball CV by Redrum (Hack) [o1].nes
+- Pinball CV by Redrum (Hack).nes
+- Pinball II (Pinball Hack).nes
+- Pinball Macbee (Hack).nes
+- Pinball Quest (Australia).zip
+- Pinball Quest (E) [!].nes
+- Pinball Quest (J).nes
+- Pinball Quest (U) [!].nes
+- Pinball Quest (U) [b1].nes
+- Pinball Quest (U) [b2].nes
+- Pinball Quest (U) [o1].nes
+- Pinball Quest (U) [o2].nes
+- Pinball Quest (USA).nes
+- Pinball Quest (USA).zip
+- Pinball Quest Nude (Hack).nes
+- Pipe 5 (Asia) (Unl).nes
+- Pipe 5 (Asia) (Unl).zip
+- Pipe Dream (U) (PT-BR).zip
+- Pipe Dream (U) [!].nes
+- Pipe Dream (U) [b1].nes
+- Pipe Dream (U) [b1][o1].nes
+- Pipe Dream (USA).nes
+- Pipe Dream (USA).zip
+- Pipemania (Australia) (HES) (Unl).zip
+- Pirates! (E) [!].nes
+- Pirates! (Europe).zip
+- Pirates! (Germany).zip
+- Pirates! (U) [!].nes
+- Pirates! (U) [b1].nes
+- Pirates! (U) [b2].nes
+- Pirates! (U) [b3].nes
+- Pirates! (U) [b4].nes
+- Pirates! (U) [o1].nes
+- Pirates! (USA).zip
+- Pizza Pop! (J) [b1].nes
+- Pizza Pop! (J) [o1].nes
+- Pizza Pop! (J).nes
+- Plasma Ball (J) [o1].nes
+- PLATINA (SMB1 Hack).nes
+- Platoon (U) (PRG0) [b1].nes
+- Platoon (U) (PRG0) [b2].nes
+- Platoon (U) (PRG0) [o1].nes
+- Platoon (U) (PRG0).nes
+- Platoon (U) (PRG1) [!].nes
+- Platoon (U) (PRG1) [hFFE][b1].nes
+- Platoon (U) (PRG1) [hFFE][b2].nes
+- Platoon (USA) (Rev A).nes
+- Platoon (USA) (Rev A).zip
+- Platoon (USA).nes
+- Platoon (USA).zip
+- Platoon (VS) [b1].nes
+- Platoon (VS) [b2].nes
+- Platoon (VS).nes
+- Playbox BASIC (Prototype V0.0).nes
+- Po Po Team (Sachen) [!].nes
+- Pocahontas (Unl).nes
+- Pocket Monster (Unl) [!].nes
+- Pocket Monster (Unl) [o1].nes
+- Pocket Monsters Red (Ch) [!].nes
+- Pocket Monsters Red (Ch) [b1].nes
+- Pocket Zaurus - Juu Ouken no Nazo (J) [hFFE].nes
+- Pocket Zaurus - Juu Ouken no Nazo (J) [o1].nes
+- Pocket Zaurus - Juu Ouken no Nazo (J).nes
+- Poke Block (Asia) (Unl).nes
+- Poke Block (Asia) (Unl).zip
+- Poke Block (Unl) (Prototype).nes
+- Pokecide (SMB2 Hack).nes
+- Poker (Hacker) [b1].nes
+- Poker (Hacker) [b2].nes
+- Poker (Hacker).nes
+- Poker (Unl) [!p].nes
+- Poker (Unl) [b1].nes
+- Poker (Unl) [b1][T+Chi].nes
+- Poker II (Asia) (Unl).nes
+- Poker II (Asia) (Unl).zip
+- Poker II (Sachen) [!].nes
+- Poker III (Asia) (Unl).nes
+- Poker III (Asia) (Unl).zip
+- Poker III (Sachen) [!].nes
+- Poker III (Sachen) [a1].nes
+- Poker III 5-in-1 (Sachen) [!].nes
+- Poker Mahjong - Pu Ke Mao Que (Asia) (Unl).nes
+- Poker Mahjong - Pu Ke Mao Que (Asia) (Unl).zip
+- Poker Mahjong (Sachen) [!].nes
+- Polar Pinwheel Demo by Chris Covell (PD).nes
+- Polar Pop Demo by Chris Covell (PD).nes
+- Polar Rotation 1 Demo by Chris Covell (PD).nes
+- Polar Rotation 21 Demo by Chris Covell (PD).nes
+- Polar Rotation 79 Demo by Chris Covell (PD).nes
+- Polar Rotation 8 Demo by Chris Covell (PD).nes
+- Pole Tchudes (R) [!].nes
+- Pole Tchudes 2 (R) [!].nes
+- Policeman (Spain) (Gluk Video) (Unl).zip
+- Pong and Head Bounce by Bob Rost (PD).nes
+- Pong by Paul Talbot (PD).nes
+- Pony Cat.zip
+- Pooyan (J) (PT-BR).zip
+- Pooyan (J) [b1].nes
+- Pooyan (J) [b1][o1].nes
+- Pooyan (J) [b1][o2].nes
+- Pooyan (J) [b1][o3].nes
+- Pooyan (J) [b2].nes
+- Pooyan (J) [p1].nes
+- Pooyan (J) [p1][o1].nes
+- Pooyan (J) [p2].nes
+- Pooyan (J) [T+Chi_MS emumax].nes
+- Pooyan (J) [T-Chi_MS emumax].nes
+- Pooyan (J) [T-Chi_MS emumax][a1].nes
+- Pooyan (J).nes
+- Pooyan.zip
+- Popeye (J) (PRG0) [!].nes
+- Popeye (J) (PRG0) [o1].nes
+- Popeye (J) (PRG0) [o1][T+Ger].nes
+- Popeye (J) (PRG0) [o2].nes
+- Popeye (J) (PRG0) [o3].nes
+- Popeye (J) (PRG0) [o4].nes
+- Popeye (J) (PRG0) [o5].nes
+- Popeye (J) (PRG0) [o6].nes
+- Popeye (J) (PRG0) [o7].nes
+- Popeye (J) (PRG0) [p1].nes
+- Popeye (J) (PRG0) [p1][o1].nes
+- Popeye (J) (PRG0) [T+Ger].nes
+- Popeye (J) (PRG0) [T+Spa_PaladinKnights].nes
+- Popeye (W) (PRG1) [!].nes
+- Popeye (W) (PRG1) [p1].nes
+- Popeye (W) (PRG1) [T+Chi_MS emumax].nes
+- Popeye (W) (PRG1) [T-Chi_MS emumax].nes
+- Popeye (W) (PRG1) [T-Chi_MS emumax][a1].nes
+- Popeye (World) (Rev A).zip
+- Popeye 2 - Travels in Persia (Unl) [!].nes
+- Popeye no Eigo Asobi (J) [o1].nes
+- Popeye no Eigo Asobi (J) [o2].nes
+- Popeye no Eigo Asobi (J) [o3].nes
+- Popeye no Eigo Asobi (J) [T+Eng1.0_KingMike].nes
+- Popeye no Eigo Asobi (J).nes
+- Popo Team (Asia) (Unl).nes
+- Popo Team (Asia) (Unl).zip
+- Poppy s Pinball (Pinball Hack).nes
+- Porno Island (Takahashi Meijin no Bouken Shima Hack).nes
+- Port Test Cartridge (U).nes
+- Porter (Asia) (Unl).nes
+- Porter (Asia) (Unl).zip
+- Portopia Renzoku Satsujin Jiken (J) [b1].nes
+- Portopia Renzoku Satsujin Jiken (J) [b2].nes
+- Portopia Renzoku Satsujin Jiken (J) [h1].nes
+- Portopia Renzoku Satsujin Jiken (J).nes
+- Potman 3 (Rockman 3 Hack).nes
+- Power Blade (E) [!].nes
+- Power Blade (Europe).nes
+- Power Blade (Europe).zip
+- Power Blade (PC10) [!].nes
+- Power Blade (U) [!] (T-BR) (T-OX-Carnage G-Central de Tradu--es) (2007).zip
+- Power Blade (U) [!].nes
+- Power Blade (U) [b1].nes
+- Power Blade (U) [b2].nes
+- Power Blade (U) [b3].nes
+- Power Blade (U) [o1].nes
+- Power Blade (U) [T+Fre99%_yf06].nes
+- Power Blade (USA).nes
+- Power Blade (USA).zip
+- Power Blade 2 (U) (PT-BR).zip
+- Power Blade 2 (U) [!].nes
+- Power Blade 2 (U) [o1].nes
+- Power Blade 2 (U) [p1].nes
+- Power Blade 2 (U) [T+Fre99%_YF06].nes
+- Power Blade 2 (U) [T+Rus_Barsick].nes
+- Power Blade 2 (USA).nes
+- Power Blade 2 (USA).zip
+- Power Blazer (J) (PT-BR).zip
+- Power Blazer (J) [o1].nes
+- Power Blazer (J).nes
+- Power Pad Test Program by Tennessee Carmel-Veilleux (PD).nes
+- Power Punch 2 (U) [!p].nes
+- Power Punch 2 (U) [b1].nes
+- Power Punch 2 (U) [b2].nes
+- Power Punch 2 (U) [o1].nes
+- Power Punch II (USA).nes
+- Power Punch II (USA).zip
+- Power Rangers 2 (Unl) [!].nes
+- Power Rangers III (Unl) [!].nes
+- Power Rangers IV (Unl) [!].nes
+- Power Soccer (J).nes
+- Power Up Palette Table Contents Test by Shay Green (15 Sep 2005) (PD).nes
+- PPU Palette RAM Access _ Mirroring Test by Shay Green (15 Sep 2005) (PD).nes
+- PPU Timing V2 by Kevin Horton (PD).nes
+- P'Radikus Conflict (USA) (Unl).nes
+- P'Radikus Conflict (USA) (Unl).zip
+- Pravila Doroznogo Dvizenija (R) [!].nes
+- Predator - Schwarzenegger - Soon the Hunt Will Begin (Hack).nes
+- Predator (Australia).zip
+- Predator (J) [b1].nes
+- Predator (J) [b2].nes
+- Predator (J) [o1].nes
+- Predator (J).nes
+- Predator (PT-BR).zip
+- Predator (U) [!].nes
+- Predator (U) [b1].nes
+- Predator (U) [b1][o1].nes
+- Predator (U) [b2].nes
+- Predator (U) [b3].nes
+- Predator (U) [b4].nes
+- Predator (U) [o1].nes
+- Predator (U) [o2].nes
+- Predator (USA).nes
+- Predator (USA).zip
+- President no Sentaku (J) [b1].nes
+- President no Sentaku (J) [o1].nes
+- President no Sentaku (J).nes
+- Prince of Persia (Europe).nes
+- Prince of Persia (Europe).zip
+- Prince of Persia (F) [!].nes
+- Prince of Persia (France).nes
+- Prince of Persia (France).zip
+- Prince of Persia (Germany).zip
+- Prince of Persia (Spain).zip
+- Prince of Persia (U) [!].nes
+- Prince of Persia (U) [b1].nes
+- Prince of Persia (U) [b1][o1].nes
+- Prince of Persia (U) [b2].nes
+- Prince of Persia (U) [b3].nes
+- Prince of Persia (U) [b4].nes
+- Prince of Persia (U) [o1].nes
+- Prince of Persia (U) [p1].nes
+- Prince of Persia (USA).nes
+- Prince of Persia (USA).zip
+- Princess Tomato in Salad Kingdom (U) (Prototype).nes
+- Princess Tomato in Salad Kingdom (U) [!].nes
+- Princess Tomato in Salad Kingdom (U) [b1].nes
+- Princess Tomato in Salad Kingdom (U) [b2].nes
+- Princess Tomato in Salad Kingdom (U) [o1].nes
+- Princess Tomato in Salad Kingdom (USA) (Beta).nes
+- Princess Tomato in Salad Kingdom (USA) (Beta).zip
+- Princess Tomato in the Salad Kingdom (USA).nes
+- Princess Tomato in the Salad Kingdom (USA).zip
+- Pro Action Replay (E) (No Cart Present) (V1.2 RevB) [!].nes
+- Pro Action Replay (E) (REVA) [!].nes
+- Pro Action Replay (E) (V1.2 RevB) [!].nes
+- Pro Action Replay (Europe) (v1.0) (Unl).nes
+- Pro Action Replay (Europe) (v1.0) (Unl).zip
+- Pro Action Replay (Europe) (v1.2) (Cart Present) (Unl).nes
+- Pro Action Replay (Europe) (v1.2) (Cart Present) (Unl).zip
+- Pro Action Replay (Europe) (v1.2) (No Cart Present) (Unl).nes
+- Pro Action Replay (Europe) (v1.2) (No Cart Present) (Unl).zip
+- Pro Sport Hockey (U) [!].nes
+- Pro Sport Hockey (U) [o1].nes
+- Pro Sport Hockey (USA).nes
+- Pro Sport Hockey (USA).zip
+- Pro Wrestling (E) [!].nes
+- Pro Wrestling (Europe).nes
+- Pro Wrestling (Europe).zip
+- Pro Wrestling (PC10) [b1].nes
+- Pro Wrestling (PC10).nes
+- Pro Wrestling (U) (PRG0) [b1].nes
+- Pro Wrestling (U) (PRG0) [b1][o1].nes
+- Pro Wrestling (U) (PRG0) [b2].nes
+- Pro Wrestling (U) (PRG0) [b3].nes
+- Pro Wrestling (U) (PRG0) [b4].nes
+- Pro Wrestling (U) (PRG0) [o1].nes
+- Pro Wrestling (U) (PRG0) [o2].nes
+- Pro Wrestling (U) (PRG0).nes
+- Pro Wrestling (U) (PRG1) [!].nes
+- Pro Wrestling (U) (PRG1) [b1].nes
+- Pro Wrestling (USA) (Rev A).nes
+- Pro Wrestling (USA) (Rev A).zip
+- Pro Wrestling (USA).nes
+- Pro Wrestling (USA).zip
+- Pro Yakyuu - Family Stadium  85 PAL ( 87 Hack).nes
+- Pro Yakyuu - Family Stadium  87 (J) [b1].nes
+- Pro Yakyuu - Family Stadium  87 (J) [b1][o1].nes
+- Pro Yakyuu - Family Stadium  87 (J).nes
+- Pro Yakyuu - Family Stadium  88 (J) [b1].nes
+- Pro Yakyuu - Family Stadium  88 (J) [b1][o1].nes
+- Pro Yakyuu - Family Stadium  88 (J) [b2].nes
+- Pro Yakyuu - Family Stadium  88 (J).nes
+- Pro Yakyuu - Family Stadium (J).nes
+- Pro Yakyuu Satsujin Jiken! (J) [!].nes
+- Pro Yakyuu Satsujin Jiken! (J) [hM02].nes
+- Pro Yakyuu Satsujin Jiken! (J) [hM02][b1].nes
+- Pro Yakyuu Satsujin Jiken! (J) [p1][hM02].nes
+- Pro Yakyuu Satsujin Jiken! (J) [p1][hM02][o1].nes
+- Probotector (E) [!].nes
+- Probotector (Europe).nes
+- Probotector (Europe).zip
+- Probotector II - Return of the Evil Forces (E) [b1].nes
+- Probotector II - Return of the Evil Forces (E).nes
+- Probotector II - Return of the Evil Forces (Europe).nes
+- Probotector II - Return of the Evil Forces (Europe).zip
+- Project Q (J).nes
+- Propeller Master (Blaster Master Hack) [o1].nes
+- Propeller Master (Blaster Master Hack).nes
+- Protoman - The Red Bomber (Megaman Hack).nes
+- Protoman (Megaman V Hack) [b1].nes
+- Protoman (Megaman V Hack).nes
+- Protoman 5 (Megaman V Hack).nes
+- Protonman (Megaman III Hack).nes
+- Pu Ke Jing Ling (China) (Unl).zip
+- Puc-Man (Pac-Man Hack) [o1].nes
+- Puc-Man (Pac-Man Hack).nes
+- Puffy s Capades (Mickey Mouse Hack).nes
+- Puffy! Land (Older) by Rinkaku (Binary Land Hack).nes
+- Puffy! Land by Rinkaku (Binary Land Hack).nes
+- Punch-Out!! (E) [!].nes
+- Punch-Out!! (Europe).nes
+- Punch-Out!! (Europe).zip
+- Punch-Out!! (J).nes
+- Punch-Out!! (U) [!].nes
+- Punch-Out!! (U) [b1].nes
+- Punch-Out!! (U) [b1][o1].nes
+- Punch-Out!! (U) [b1][o2].nes
+- Punch-Out!! (U) [b2].nes
+- Punch-Out!! (USA).nes
+- Punch-Out!! (USA).zip
+- Punch-Out!! Kirby (Punch-Out!! Hack).nes
+- Punisher  The (USA).nes
+- Punisher The (USA).zip
+- Punisher, The (U) [!].nes
+- Punisher, The (U) [b1].nes
+- Punisher, The (U) [b2].nes
+- Punisher, The (U) [b3].nes
+- Punisher, The (U) [b4].nes
+- Punisher, The (U) [b5].nes
+- Punisher, The (U) [o1].nes
+- Punisher, The (U) [T+Rus].nes
+- Punk Bros (SMB1 Hack).nes
+- Punk Tennis (Tennis Hack) [o1].nes
+- Punk Tennis (Tennis Hack).nes
+- Puss  n Boots - Pero s Great Adventure (U) [!].nes
+- Puss  n Boots - Pero s Great Adventure (U) [b1].nes
+- Puss  n Boots - Pero s Great Adventure (U) [b2].nes
+- Puss  n Boots - Pero s Great Adventure (U) [b3].nes
+- Puss  n Boots - Pero s Great Adventure (U) [o1].nes
+- Puss n Boots - Pero's Great Adventure (USA).nes
+- Puss n Boots - Pero's Great Adventure (USA).zip
+- Pussy City Pimps (River City Ransom Hack).nes
+- Puteshestvie po Europe (R).nes
+- Putt Putt (PD).nes
+- Puyo Puyo (J) [o1].nes
+- Puyo Puyo (J) [o1][T+Eng1.0_AGTP].nes
+- Puyo Puyo (J) [T+Eng1.0_AGTP].nes
+- Puyo Puyo (J).nes
+- Puzslot (J) [!].nes
+- Puzslot (J) [b1].nes
+- Puzzle (NINA03-USA) (Unl) [!].nes
+- Puzzle (Spain) (Gluk Video) (Unl).zip
+- Puzzle (Unl) [a1].nes
+- Puzzle (Unl) [a2].nes
+- Puzzle (Unl) [b1].nes
+- Puzzle (Unl) [b2].nes
+- Puzzle (Unl) [o1].nes
+- Puzzle (Unl) [o2].nes
+- Puzzle (Unl).nes
+- Puzzle (USA) (Beta) (Unl).nes
+- Puzzle (USA) (Beta) (Unl).zip
+- Puzzle (USA) (Unl).nes
+- Puzzle (USA) (Unl).zip
+- Puzznic (E) [!].nes
+- Puzznic (Europe).nes
+- Puzznic (Europe).zip
+- Puzznic (J).nes
+- Puzznic (U) [!].nes
+- Puzznic (U) [o1].nes
+- Puzznic (USA).nes
+- Puzznic (USA).zip
+- Pyokotan no Dai Meiro (J).nes
+- Pyramid (Sachen) [!].nes
+- Pyramid (Sachen) [hFFE][b1].nes
+- Pyramid (Sachen) [o1].nes
+- Pyramid (Sachen) [o2].nes
+- Pyramid (Sachen+NINA03) [!].nes
+- Pyramid (Sachen-Hacker).nes
+- Pyramid (USA) (Rev 1) (Unl).nes
+- Pyramid (USA) (Rev 1) (Unl).zip
+- Pyramid (USA) (Unl).nes
+- Pyramid (USA) (Unl).zip
+- Pyramid [p1].nes
+- Pyramid [p1][b1].nes
+- Pyramid II (Asia) (PAL) (Unl).nes
+- Pyramid II (Asia) (PAL) (Unl).zip
+- Pyramid II (Sachen) [!].nes
+- Q Boy (Asia) (Unl).nes
+- Q Boy (Asia) (Unl).zip
+- Q Boy (Sachen) [!].nes
+- Q ?? (??) (??).nes
+- Q ?? - ???? (??) (??).nes
+- Q ?? (???) (??).nes
+- Q ?? (??) (??).nes
+- Q-bert (U) (PT-BR).zip
+- Q-bert (U) [!].nes
+- Q-bert (U) [b1].nes
+- Q-bert (U) [b2].nes
+- Q-bert (U) [b3].nes
+- Q-bert (U) [o1].nes
+- Q-bert (USA).nes
+- Q-bert (USA).zip
+- Qi Tian Lie Encyclopedia.nes
+- Qi Wang - Chinese Chess (Asia) (Unl).nes
+- Qi Wang - Chinese Chess (Asia) (Unl).zip
+- Qi Wang - Chinese Chess (MGC-001) (Ch) [!].nes
+- Qix (U) [!p].nes
+- Qix (U) [b1].nes
+- Qix (U) [b2].nes
+- Qix (U) [o1].nes
+- QIX (USA).nes
+- QIX (USA).zip
+- Q-taro the Ghost BowWow Panic.zip
+- Quad Challenge.zip
+- Quadruple Dragons (FF1 Hack).nes
+- Quadz (PD).nes
+- Quarter Back Scramble (J).nes
+- Quarth (J).nes
+- Quattro Adventure (Treasure Island Dizzy Only Hack).nes
+- Quattro Adventure (Unl) (Aladdin) [!].nes
+- Quattro Adventure (Unl) (Aladdin) [o1].nes
+- Quattro Adventure (Unl) [!p].nes
+- Quattro Adventure (Unl) [T+Pol(T.Island Only)].nes
+- Quattro Adventure (USA) (Unl).nes
+- Quattro Adventure (USA) (Unl).zip
+- Quattro Arcade (Go! Dizzy Go! Only Hack).nes
+- Quattro Arcade (Unl) [!].nes
+- Quattro Arcade (Unl) [b1].nes
+- Quattro Arcade (Unl) [b2].nes
+- Quattro Arcade (Unl) [o1].nes
+- Quattro Arcade (Unl) [T+Pol].nes
+- Quattro Arcade (USA) (Unl).nes
+- Quattro Arcade (USA) (Unl).zip
+- Quattro Sports (Pro Tennis Only Hack).nes
+- Quattro Sports (Unl) (Aladdin) [!].nes
+- Quattro Sports (Unl) (Aladdin) [o1].nes
+- Quattro Sports (Unl) (V3 Plug-Thru Cart) [b1].nes
+- Quattro Sports (Unl) (V3 Plug-Thru Cart).nes
+- Quattro Sports (Unl) [!p].nes
+- Quattro Sports (USA) (Unl).nes
+- Quattro Sports (USA) (Unl).zip
+- Quest for the Missing Hat (SMB1 Hack) [a1].nes
+- Quest for the Missing Hat (SMB1 Hack).nes
+- Quest Forge.zip
+- Quest of Ki, The (J) [b1].nes
+- Quest of Ki, The (J) [o1].nes
+- Quest of Ki, The (J) [T+Chi].nes
+- Quest of Ki, The (J).nes
+- Questionable Crystalis (Hack) [a1].nes
+- Questionable Crystalis (Hack).nes
+- Quinty (J) [b1].nes
+- Quinty (J) [hFFE].nes
+- Quinty (J) [hM04].nes
+- Quinty (J) [hM04][b1].nes
+- q??????.zip
+- q??????????.zip
+- q????????.zip
+- q???????.zip
+- q??????.zip
+- R.B.I. Baseball - 2003RBI by brisco (R.B.I. Baseball Hack).zip
+- R.B.I. Baseball - 88 89 Diff Teams (R.B.I. Baseball Hack).zip
+- R.B.I. Baseball (USA) (Unl).nes
+- R.B.I. Baseball (USA) (Unl).zip
+- R.B.I. Baseball (USA).nes
+- R.B.I. Baseball (USA).zip
+- R.B.I. Baseball 2 (USA) (Unl).nes
+- R.B.I. Baseball 2 (USA) (Unl).zip
+- R.B.I. Baseball 3 (USA) (Unl).nes
+- R.B.I. Baseball 3 (USA) (Unl).zip
+- R.B.I. League 2006 by Clambutt.zip
+- R.C. Pro-Am (E) (PRG0) [b1].nes
+- R.C. Pro-Am (E) (PRG0).nes
+- R.C. Pro-Am (E) (PRG1).nes
+- R.C. Pro-Am (Europe) (Rev A).nes
+- R.C. Pro-Am (Europe) (Rev A).zip
+- R.C. Pro-Am (Europe).nes
+- R.C. Pro-Am (Europe).zip
+- R.C. Pro-Am (PC10).nes
+- R.C. Pro-Am (U) (PRG0) [!].nes
+- R.C. Pro-Am (U) (PRG1) [!].nes
+- R.C. Pro-Am (U) (PRG1) [b1].nes
+- R.C. Pro-Am (U) (PRG1) [o1].nes
+- R.C. Pro-Am (USA) (Rev A).nes
+- R.C. Pro-Am (USA) (Rev A).zip
+- R.C. Pro-Am (USA).nes
+- R.C. Pro-Am (USA).zip
+- R.C. Pro-Am 2 (U) [!p].nes
+- R.C. Pro-Am 2 (U) [b1].nes
+- R.C. Pro-Am 2 (U) [b2].nes
+- R.C. Pro-Am 2 (U) [b3].nes
+- R.C. Pro-Am 2 (U) [o1].nes
+- R.C. Pro-Am II (Europe).nes
+- R.C. Pro-Am II (Europe).zip
+- R.C. Pro-Am II (USA).nes
+- R.C. Pro-Am II (USA).zip
+- Rabbit and Rope (Mappy Hack).nes
+- Race America (U) [!].nes
+- Race America (U) [b1].nes
+- Race America (U) [o1].nes
+- Race America (U) [o2].nes
+- Race America (USA).nes
+- Race America (USA).zip
+- Racer Mini Yonku - Japan Cup (J) [b1].nes
+- Racer Mini Yonku - Japan Cup (J).nes
+- Racermate Challenge II (USA) (v3.11.088) (Unl).nes
+- Racermate Challenge II (USA) (v3.11.088) (Unl).zip
+- Racermate Challenge II (USA) (v3.12.027) (Unl).nes
+- Racermate Challenge II (USA) (v3.12.027) (Unl).zip
+- Racermate Challenge II (USA) (v5.01.033) (Unl).nes
+- Racermate Challenge II (USA) (v5.01.033) (Unl).zip
+- Racermate Challenge II (USA) (v6.02.002) (Unl).nes
+- Racermate Challenge II (USA) (v6.02.002) (Unl).zip
+- Racermate Challenge II (USA) (v9.03.128) (Unl).nes
+- Racermate Challenge II (USA) (v9.03.128) (Unl).zip
+- Racermate Challenger II V6.02.002 (U).nes
+- Racket Attack (E) [!].nes
+- Racket Attack (Europe).nes
+- Racket Attack (Europe).zip
+- Racket Attack (U) [!].nes
+- Racket Attack (U) [b1].nes
+- Racket Attack (U) [b2].nes
+- Racket Attack (U) [b3].nes
+- Racket Attack (U) [b4].nes
+- Racket Attack (U) [b5].nes
+- Racket Attack (U) [b6].nes
+- Racket Attack (U) [b7].nes
+- Racket Attack (U) [b8].nes
+- Racket Attack (U) [o1].nes
+- Racket Attack (U) [o2].nes
+- Racket Attack (USA).nes
+- Racket Attack (USA).zip
+- Rackets & Rivals (Europe).nes
+- Rackets & Rivals (Europe).zip
+- Rackets _ Rivals (E) [!].nes
+- Rad Racer (E) [!p].nes
+- Rad Racer (Europe).nes
+- Rad Racer (Europe).zip
+- Rad Racer (PC10) [b1].nes
+- Rad Racer (PC10).nes
+- Rad Racer (U) [!].nes
+- Rad Racer (U) [b1].nes
+- Rad Racer (U) [b2].nes
+- Rad Racer (U) [o1].nes
+- Rad Racer (USA).nes
+- Rad Racer (USA).zip
+- Rad Racer 2 (PC10) [!].nes
+- Rad Racer 2 (U) [!].nes
+- Rad Racer 2 (U) [b1].nes
+- Rad Racer 2 (U) [b2].nes
+- Rad Racer 2 (U) [b3].nes
+- Rad Racer 2 (U) [o1].nes
+- Rad Racer II (USA).nes
+- Rad Racer II (USA).zip
+- Rad Racket - Deluxe Tennis II (Unl) [!].nes
+- Rad Racket - Deluxe Tennis II (Unl) [b1].nes
+- Rad Racket - Deluxe Tennis II (Unl) [b2].nes
+- Rad Racket - Deluxe Tennis II (Unl) [o1].nes
+- Rad Racket - Deluxe Tennis II (USA) (Unl).nes
+- Rad Racket - Deluxe Tennis II (USA) (Unl).zip
+- Radia Senki - Reimei Hen (J) [o1].nes
+- Radia Senki - Reimei Hen (J) [o1][T+Eng1.00_dreamless+Jair+cx].nes
+- Radia Senki - Reimei Hen (J) [o2].nes
+- Radia Senki - Reimei Hen (J) [o2][T+Eng1.00_dreamless+Jair+cx].nes
+- Radia Senki - Reimei Hen (J) [T+Eng1.00_dreamless+Jair+cx].nes
+- Radia Senki - Reimei Hen (J) [T+EngBeta1_Dayeigth].nes
+- Radia Senki - Reimei Hen (J).nes
+- Raf World (J) [T+Rus_Boogerman].nes
+- Raf World (J) [T+Spa_Djt].nes
+- Raf World (J) [T+Spa_SARG].nes
+- Raf World (J).nes
+- Raid 2020 (Unl) [!].nes
+- Raid 2020 (Unl) [o1].nes
+- Raid 2020 (Unl) [o2].nes
+- Raid 2020 (Unl) [o3].nes
+- Raid 2020 (Unl) [o4].nes
+- Raid 2020 (Unl) [o5].nes
+- Raid 2020 (USA) (Unl).nes
+- Raid 2020 (USA) (Unl).zip
+- Raid on Bungeling Bay (J) [a1].nes
+- Raid on Bungeling Bay (J) [o1].nes
+- Raid on Bungeling Bay (J).nes
+- Raid on Bungeling Bay (Japan) (En) (Rev A).nes
+- Raid on Bungeling Bay (U) [!].nes
+- Raid on Bungeling Bay (U) [b1].nes
+- Raid on Bungeling Bay (U) [b2].nes
+- Raid on Bungeling Bay (U) [o1].nes
+- Raid on Bungeling Bay (U) [o2].nes
+- Raid on Bungeling Bay (U) [o3].nes
+- Raid on Bungeling Bay (U) [o4].nes
+- Raid on Bungeling Bay (U) [p1].nes
+- Raid on Bungeling Bay (U) [p1][o1].nes
+- Raid on Bungeling Bay (USA).nes
+- Raid on Bungeling Bay (USA).zip
+- Rainbow Islands - Bubble Bobble 2 (Europe).nes
+- Rainbow Islands - Bubble Bobble 2 (Europe).zip
+- Rainbow Islands - The Story of Bubble Bobble 2 (E) [!].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (J) [b1].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (J) [p1].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (J) [p1][a1].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (J).nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (U) [!].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (U) [o1].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (U) [T+Rus_CaH4e3___Chronix].nes
+- Rainbow Islands (USA).nes
+- Rainbow Islands (USA).zip
+- Rally Bike (U) [!].nes
+- Rally Bike (U) [b1].nes
+- Rally Bike (U) [o1].nes
+- Rally Bike (USA).nes
+- Rally Bike (USA).zip
+- Ralph Belmondo Densetsu by Redrum (Legend of Kage Hack) [a1].nes
+- Ralph Belmondo Densetsu by Redrum (Legend of Kage Hack) [b1].nes
+- Ralph Belmondo Densetsu by Redrum (Legend of Kage Hack).nes
+- Rambo - First Blood Part II (J) [!].nes
+- Rambo - First Blood Part II (J) [b1].nes
+- Rambo - First Blood Part II (J) [b1][o1].nes
+- Rambo - First Blood Part II (J) [b2].nes
+- Rambo - First Blood Part II (J) [b3].nes
+- Rambo - First Blood Part II (J) [o1].nes
+- Rambo - First Blood Part II (J) [o2].nes
+- Rambo (U) (PRG0) [!].nes
+- Rambo (U) (PRG0) [b1].nes
+- Rambo (U) (PRG0) [b2].nes
+- Rambo (U) (PRG0) [b3].nes
+- Rambo (U) (PRG0) [b4].nes
+- Rambo (U) (PRG0) [o1].nes
+- Rambo (U) (PRG0) [T+Rus].nes
+- Rambo (U) (PRG1) [!].nes
+- Rambo (USA) (Rev A).nes
+- Rambo (USA) (Rev A).zip
+- Rambo (USA).nes
+- Rambo (USA).zip
+- Rampage (U) [!].nes
+- Rampage (U) [b1].nes
+- Rampage (U) [b2].nes
+- Rampage (U) [b3].nes
+- Rampage (U) [hFFE][b1].nes
+- Rampage (U) [o1].nes
+- Rampage (U) [o2].nes
+- Rampage (U) [T+Swe1.01_General CoolNES].nes
+- Rampage (USA).nes
+- Rampage (USA).zip
+- Rampart (Europe).nes
+- Rampart (Europe).zip
+- Rampart (J) [!].nes
+- Rampart (U) [!].nes
+- Rampart (U) [b1].nes
+- Rampart (U) [b2].nes
+- Rampart (U) [b3].nes
+- Rampart (U) [o1].nes
+- Rampart (USA).nes
+- Rampart (USA).zip
+- Ran - The Little Commie Bot (Megaman II Hack).nes
+- Rasaaru Ishii no Childs Quest (J) [o1].nes
+- Rasaaru Ishii no Childs Quest (J).nes
+- Raster Chroma Luma Test by Chris Covell (PD).nes
+- Raster Demo by Norix (PD).nes
+- Raster Test 1 by Chris Covell (PD).nes
+- Raster Test 2 by Chris Covell (PD).nes
+- Raster Test 3 by Chris Covell (PD).nes
+- Raster Test 3a by Chris Covell (PD).nes
+- Raster Test 3b by Chris Covell (PD).nes
+- Raster Test 3c by Chris Covell (PD).nes
+- Raster Test 3d by Chris Covell (PD).nes
+- Raster Test 3e by Chris Covell (PD).nes
+- Rayban the Third (Unl) [!].nes
+- Real Player's Pak (Australia) (Unl).zip
+- Red Ariimaa II (J) [!].nes
+- Red Ariimaa II (J) [p1].nes
+- Red Pig (Unl) [o1].nes
+- Red Pig (Unl).nes
+- Reigen Doushi (J) [hM02].nes
+- Reigen Doushi (J).nes
+- Religious Blackjack by RyanVG (Blackjack Hack).nes
+- Remote Control (U) [!].nes
+- Remote Control (U) [b1].nes
+- Remote Control (U) [o1].nes
+- Remote Control (U) [o2].nes
+- Remote Control (U) [o3].nes
+- Remote Control (USA).nes
+- Remote Control (USA).zip
+- Ren & Stimpy Show  The - Buckeroo$! (USA).nes
+- Ren & Stimpy Show The - Buckeroo$! (USA).zip
+- Ren _ Stimpy Show, The (U) [!p].nes
+- Ren _ Stimpy Show, The (U) [b1].nes
+- Ren _ Stimpy Show, The (U) [b2].nes
+- Ren _ Stimpy Show, The (U) [b3].nes
+- Ren _ Stimpy Show, The (U) [o1].nes
+- Ren _ Stimpy Show, The (U) [o2].nes
+- Renegade (U) [!].nes
+- Renegade (U) [b1].nes
+- Renegade (U) [b2].nes
+- Renegade (U) [b3].nes
+- Renegade (U) [o1].nes
+- Renegade (U) [o2].nes
+- Renegade (USA).nes
+- Renegade (USA).zip
+- Rescue - The Embassy Mission (E) [!].nes
+- Rescue - The Embassy Mission (Europe).nes
+- Rescue - The Embassy Mission (Europe).zip
+- Rescue - The Embassy Mission (U) (Prototype).nes
+- Rescue - The Embassy Mission (U) [!].nes
+- Rescue - The Embassy Mission (U) [b1].nes
+- Rescue - The Embassy Mission (U) [b1][o1].nes
+- Rescue - The Embassy Mission (U) [b2].nes
+- Rescue - The Embassy Mission (U) [b3].nes
+- Rescue - The Embassy Mission (U) [b4].nes
+- Rescue - The Embassy Mission (USA) (Beta).nes
+- Rescue - The Embassy Mission (USA) (Beta).zip
+- Rescue - The Embassy Mission (USA).nes
+- Rescue - The Embassy Mission (USA).zip
+- Reset Based 4-in-1 [p1].nes
+- Reset Timing Test by Shay Green (30 Jun 2005) (PD).nes
+- Ret s Escape Puzzle World by Excel (SMB1 Hack).nes
+- Retrocoders Demo for Y2Kode (PD).nes
+- Retrocoders Music Roms - Years Behind (PD).nes
+- Return of the Black Mage by Redrum (Warpman Hack) [o1].nes
+- Return of the Black Mage by Redrum (Warpman Hack).nes
+- Return of the Jedi (Zen Intergalactic Ninja Hack) [p1][!].nes
+- RGB Demo by Chris Covell (PD).nes
+- Riddler s Escape From Arkham (Megaman III Hack) [b1].nes
+- Riddler s Escape From Arkham (Megaman III Hack) [b2].nes
+- Riddler s Escape From Arkham (Megaman III Hack).nes
+- Riddler Tennis (Tennis Hack).nes
+- Rikers Quest (SMB1 Hack) [o1].nes
+- Rikers Quest (SMB1 Hack) [o2].nes
+- Rikers Quest (SMB1 Hack).nes
+- Ring King (U) [!].nes
+- Ring King (U) [b1].nes
+- Ring King (U) [b1][o1].nes
+- Ring King (U) [b1][o2].nes
+- Ring King (U) [b2].nes
+- Ring King (U) [b3].nes
+- Ring King (U) [b4].nes
+- Ring King (U) [o1].nes
+- Ring King (U) [o2].nes
+- Ring King (USA).nes
+- Ring King (USA).zip
+- Risotowa (SMB1 Hack).nes
+- River City Brawl (River City Ransom Hack).nes
+- River City Nudist Colony (River City Ransom Hack).nes
+- River City Ransom (U) (PT-BR).zip
+- River City Ransom (U) [!].nes
+- River City Ransom (U) [b1].nes
+- River City Ransom (U) [b1][T+Ger1.00_StarTrans].nes
+- River City Ransom (U) [b2].nes
+- River City Ransom (U) [b3].nes
+- River City Ransom (U) [b4].nes
+- River City Ransom (U) [o1].nes
+- River City Ransom (U) [T+Fre].nes
+- River City Ransom (U) [T+Fre1.00GoldEdition_Jean-Jacques Goldman].nes
+- River City Ransom (U) [T+Ger1.00_StarTrans].nes
+- River City Ransom (U) [T+Rus1.1_gottaX].nes
+- River City Ransom (U) [T+Spa100%_Chilensis].nes
+- River City Ransom (U) [T-Rus].nes
+- River City Ransom (U) [T-Rus][a1].nes
+- River City Ransom (USA).nes
+- River City Ransom (USA).zip
+- River City Ransom ZERO V1.00 by Vice (Nekketsu Kouha - Kunio Kun Hack) [b1].nes
+- River City Ransom ZERO V1.00 by Vice (Nekketsu Kouha - Kunio Kun Hack).nes
+- River City Ransom ZERO V1.01 by Vice (Nekketsu Kouha - Kunio Kun Hack).nes
+- Road Fighter (E) [!].nes
+- Road Fighter (Europe).nes
+- Road Fighter (Europe).zip
+- Road Fighter (J) (PT-BR).zip
+- Road Fighter (J) [o1].nes
+- Road Fighter (J) [o1][T+Por100%_BRGames].nes
+- Road Fighter (J) [p1][b1].nes
+- Road Fighter (J) [p1][b1][o1].nes
+- Road Fighter (J) [p1][b1][o1][T+Por].nes
+- Road Fighter (J) [p1][b1][o2].nes
+- Road Fighter (J) [p1][b1][T+Por].nes
+- Road Fighter (J) [p2].nes
+- Road Fighter (J) [p2][o1].nes
+- Road Fighter (J) [p3][b1].nes
+- Road Fighter (J) [p3][b1][o1].nes
+- Road Fighter (J) [T+Chi].nes
+- Road Fighter (J) [T+Chi][o1].nes
+- Road Fighter (J).nes
+- Road Runner (Unl) [!].nes
+- Road Runner (Unl) [b1].nes
+- Road Runner (Unl) [b2].nes
+- Road Runner (Unl) [b3].nes
+- Road Runner (Unl) [o1].nes
+- Road Runner (USA) (Unl).nes
+- Road Runner (USA) (Unl).zip
+- RoadBlasters (Europe).nes
+- RoadBlasters (Europe).zip
+- RoadBlasters (U) [!].nes
+- RoadBlasters (U) [b1].nes
+- RoadBlasters (U) [b2].nes
+- RoadBlasters (U) [b3].nes
+- RoadBlasters (U) [b4].nes
+- RoadBlasters (U) [b5].nes
+- RoadBlasters (U) [b6].nes
+- RoadBlasters (U) [o1].nes
+- RoadBlasters (U) [p1][!].nes
+- RoadBlasters (USA).nes
+- RoadBlasters (USA).zip
+- Robert Byrne's Pool Challenge (USA) (Proto) (Unl).nes
+- Robert Byrne's Pool Challenge (USA) (Proto) (Unl).zip
+- Robin Hood - Prince of Thieves (Europe).nes
+- Robin Hood - Prince of Thieves (Europe).zip
+- Robin Hood - Prince of Thieves (G) [!].nes
+- Robin Hood - Prince of Thieves (Germany).zip
+- Robin Hood - Prince of Thieves (Spain).zip
+- Robin Hood - Prince of Thieves (U) (PRG0) [!].nes
+- Robin Hood - Prince of Thieves (U) (PRG0) [o1].nes
+- Robin Hood - Prince of Thieves (USA) (Rev A).nes
+- Robin Hood - Prince of Thieves (USA) (Rev A).zip
+- Robin Hood - Prince of Thieves (USA).nes
+- Robin Hood - Prince of Thieves (USA).zip
+- Robo Warrior (Europe).nes
+- Robo Warrior (Europe).zip
+- Robo Warrior (U) [!].nes
+- Robo Warrior (U) [o1].nes
+- Robo Warrior (USA).nes
+- Robo Warrior (USA).zip
+- Robocco Wars (J) [o1].nes
+- Robocco Wars (J).nes
+- Robocop (E) [!].nes
+- RoboCop (Europe).nes
+- RoboCop (Europe).zip
+- RoboCop (J).nes
+- RoboCop (U) (Prototype).nes
+- RoboCop (U) (PT-BR).zip
+- RoboCop (U) [!].nes
+- RoboCop (U) [b1].nes
+- RoboCop (U) [b2].nes
+- RoboCop (U) [b3].nes
+- RoboCop (U) [b4].nes
+- RoboCop (U) [o1].nes
+- RoboCop (U) [T+Ita1.0_Psyco].nes
+- RoboCop (U) [T+Por100%_BRGames].nes
+- RoboCop (U) [T+Spa99%_Emu4ever].nes
+- RoboCop (USA) (Beta).nes
+- RoboCop (USA) (Beta).zip
+- RoboCop (USA).nes
+- RoboCop (USA).zip
+- RoboCop 2 (E) [!].nes
+- RoboCop 2 (Europe).nes
+- RoboCop 2 (Europe).zip
+- RoboCop 2 (J).nes
+- RoboCop 2 (U) (PRG1) [!].nes
+- RoboCop 2 (U) (PRG1) [b1].nes
+- RoboCop 2 (U) (PRG1) [b1][o1].nes
+- RoboCop 2 (U) (PRG1) [b1][o2].nes
+- RoboCop 2 (U) (PRG1) [b2].nes
+- RoboCop 2 (U) (PRG1) [b3].nes
+- RoboCop 2 (U) (PRG1) [b4].nes
+- RoboCop 2 (U) (PRG1) [T+Rus_Chronix].nes
+- RoboCop 2 (USA) (Rev A).nes
+- RoboCop 2 (USA) (Rev A).zip
+- RoboCop 2 (USA).nes
+- RoboCop 2 (USA).zip
+- Robocop 3 (E) [!].nes
+- RoboCop 3 (Europe).nes
+- RoboCop 3 (Europe).zip
+- RoboCop 3 (U) [!p].nes
+- RoboCop 3 (U) [b1].nes
+- RoboCop 3 (U) [b2].nes
+- RoboCop 3 (U) [o1].nes
+- RoboCop 3 (U) [o2].nes
+- RoboCop 3 (U) [T+Ita1.0_Psyco].nes
+- RoboCop 3 (U) [T+Rus].nes
+- RoboCop 3 (USA).nes
+- RoboCop 3 (USA).zip
+- RoboCop 4 [p1][!].nes
+- RoboCop 4 [p2][!].nes
+- RoboCop 4 [p3].nes
+- RoboCop versus The Terminator (USA) (Proto).nes
+- RoboCop versus The Terminator (USA) (Proto).zip
+- RoboCop Vs The Terminator (U) (Prototype) [b1].nes
+- RoboCop Vs The Terminator (U) (Prototype) [b2].nes
+- RoboCop Vs The Terminator (U) (Prototype) [o1].nes
+- RoboCop Vs The Terminator (U) (Prototype).nes
+- Robodemons (Unl) [!p].nes
+- Robodemons (Unl) [b1].nes
+- Robodemons (Unl) [o1].nes
+- Robodemons (Unl) [o2].nes
+- Robodemons (USA) (Unl).nes
+- Robodemons (USA) (Unl).zip
+- Rock  n  Ball (U) [!].nes
+- Rock  n  Ball (U) [b1].nes
+- Rock  n  Ball (U) [o1].nes
+- Rock  n  Ball (U) [o2].nes
+- Rock 'n' Ball (USA).nes
+- Rock 'n' Ball (USA).zip
+- Rockball (Asia) (Unl).nes
+- Rockball (Asia) (Unl).zip
+- Rockball (Sachen) [!].nes
+- Rocket Ranger (U) [!].nes
+- Rocket Ranger (U) [b1].nes
+- Rocket Ranger (U) [o1].nes
+- Rocket Ranger (USA).nes
+- Rocket Ranger (USA).zip
+- Rocketeer  The (USA).nes
+- Rocketeer The (USA).zip
+- Rocketeer, The (U) [!].nes
+- Rocketeer, The (U) [o1].nes
+- Rockin  Kats (E) [!].nes
+- Rockin  Kats (PC10) [!].nes
+- Rockin  Kats (U) [!].nes
+- Rockin  Kats (U) [b1].nes
+- Rockin  Kats (U) [b2].nes
+- Rockin  Kats (U) [o1].nes
+- Rockin  Kats (U) [T+Por1.0_CBT].nes
+- Rockin  Kats (U) [T+Rus].nes
+- Rockin' Kats (Europe).nes
+- Rockin' Kats (Europe).zip
+- Rockin' Kats (U) (PT-BR).zip
+- Rockin' Kats (USA) (Beta).nes
+- Rockin' Kats (USA) (Beta).zip
+- Rockin' Kats (USA).nes
+- Rockin' Kats (USA).zip
+- Rockman (J) (PT-BR).zip
+- Rockman (J) [!].nes
+- Rockman (J) [b1].nes
+- Rockman (J) [b2].nes
+- Rockman (J) [b3].nes
+- Rockman (J) [b4].nes
+- Rockman (J) [o1].nes
+- Rockman (J) [o2].nes
+- Rockman (J) [p1].nes
+- Rockman (J) [T+Chi].nes
+- Rockman (J) [T+Ger0.90_G-Trans].nes
+- Rockman (J) [T+Por1.00_Emuway].nes
+- Rockman (J) [T+Spa_Chinoman].nes
+- Rockman (J) [T+Spa_PaladinKnights].nes
+- Rockman (J) [T+Spa010_chilensis].nes
+- Rockman (Japan) (En).nes
+- Rockman 2 - 2.5 Small Apple Ver (J).zip
+- Rockman 2 - Chaos (J).zip
+- Rockman 2 - Claw 2 (J).zip
+- Rockman 2 - Dash (J).zip
+- Rockman 2 - Dash Hard Version (J).zip
+- Rockman 2 - Deus Ex Machina (J).zip
+- Rockman 2 - Dr. Wily no Nazo (J) [!].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [b1].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [b2].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [o1].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [o1][T+Eng1.0_AGTP].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [p1].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [T+Chi].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [T+Eng1.0_AGTP].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [T-Eng.9_AGTP].nes
+- Rockman 2 - Exhaust (J).zip
+- Rockman 2 - Grey Zone (J).zip
+- Rockman 2 - GX.zip
+- Rockman 2 - Joho Boshu Edition (J).zip
+- Rockman 2 - Min (J).zip
+- Rockman 2 - NEO (J).zip
+- Rockman 2 - Peercast (J).zip
+- Rockman 2 - Rockman 2nd (J).zip
+- Rockman 2 - Rockman E (J).zip
+- Rockman 2 - Rockman Last (J).zip
+- Rockman 2 - Rockman Plus! (J).zip
+- Rockman 2 - SP (J).zip
+- Rockman 2 - Wed Of Slasher (J).zip
+- Rockman 2 - Yender Code (J).zip
+- Rockman 2 Easy (Hack) [o1].nes
+- Rockman 2 Easy (Hack).nes
+- Rockman 2000 (Rockman Hack) [o1].nes
+- Rockman 2000 (Rockman Hack).nes
+- Rockman 3 - Alpha (J).zip
+- Rockman 3 - Burst Chaser.zip
+- Rockman 3 - Dr. Wily no Saigo! (J) [hFFE][b1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [hFFE][b2].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [o1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1][b1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1][b1][o1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1][b2].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1][b3].nes
+- Rockman 3 - Eon of Dream Pt3 (J).zip
+- Rockman 3 - Extra (J).zip
+- Rockman 3 - Luokeren MAX 2 Jiaomie (J).zip
+- Rockman 3 - Overdrive (J).zip
+- Rockman 3 - Peercast 2 V1.1 (J).zip
+- Rockman 3 Bass (Hack).nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b1].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b1][o1].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b2].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b3].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b4].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b5].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [o1].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [o1][T+Chi].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [T+Chi].nes
+- Rockman 4 - Aratanaru Yabou!! (J).nes
+- Rockman 4 - DX (J).zip
+- Rockman 4 - Luokeren 7 Xiyang Xia De Zhandou (J).zip
+- Rockman 4 - Luokeren 8 Emeng De Kaishi (J).zip
+- Rockman 5 - Air Sliding (J).zip
+- Rockman 5 - Blues no Chousen (J).zip
+- Rockman 5 - Blues no Wana! (J) [b1].nes
+- Rockman 5 - Blues no Wana! (J) [o1].nes
+- Rockman 5 - Blues no Wana! (J) [o1][T+Chi].nes
+- Rockman 5 - Blues no Wana! (J).nes
+- Rockman 5 - Dood in Wily's Last (J).zip
+- Rockman 5 - JohoBoshu 1 (J).zip
+- Rockman 5 - KT (J).zip
+- Rockman 5 - Wily's Dream Space (J).zip
+- Rockman 5 (Darkwing Duck Hack) [p1][!].nes
+- Rockman 5-7 V1.0 by Dark Mark (Rockman 5 Hack).nes
+
+---
+
+## Nintendo Entertainment System - NES (6696 jogos)
+
+- 001 Super Mario Bros.nes
+- 002 Super Mario World.nes
+- 003 Super Mario Bros. 3.nes
+- 004 Super Mario Bros 2.nes
+- 005 Super Mario Bros IV.nes
+- 006 Dr. Mario.nes
+- 007 Super Mario Bros. 2.nes
+- 008 Mario Open Golf.nes
+- 009 Mario Wrecking Crew.nes
+- 010 Mario's Time Machine!.nes
+- 011 Mario Bros.nes
+- 012 Mario is Missing!.nes
+- 013 Super Mario Bros 6.nes
+- 014 Super Mario World 9.nes
+- 015 Super Mario 14.nes
+- 016 Mario 16.nes
+- 017 Super Mario BT.nes
+- 018 Kamikaze Mario Bros..nes
+- 019 Kamikaze Mario Bros. 2.nes
+- 020 Mario TV.nes
+- 021 Contra.nes
+- 022 Super Contra.nes
+- 023 Contra Force.nes
+- 024 Contra-Special II.nes
+- 025 Super Contra 5.nes
+- 026 Double Dragon.nes
+- 027 Double Dragon II-The Revenge.nes
+- 028 Double Dragon III-The Sacred Stones.nes
+- 029 Rockman 1.nes
+- 030 Rockman 3.nes
+- 031 Rockman 4.nes
+- 032 Rockman 5.nes
+- 033 Rockman 7.nes
+- 034 Battle City.nes
+- 035 Snow Brothers.nes
+- 036 Power Blade 1.nes
+- 037 Power Blade 2.nes
+- 038 Teenage Mutant Hero Turtles.nes
+- 039 Teenage Mutant Hero Turtles II.nes
+- 040 Teenage Mutant Ninja Turtles III.nes
+- 041 G.I. Joe-A Real American Hero.nes
+- 042 G.I. Joe-The Atlantis Factor.nes
+- 043 Kage.nes
+- 044 The Legend of Kage.nes
+- 045 Tetris.nes
+- 046 Tetris 2.nes
+- 047 Tetris 2+Bombliss.nes
+- 048 Tetris 2 -Tengen.nes
+- 049 Tetris Game.nes
+- 050 Soccer.nes
+- 051 Tiny Toon Adventures.nes
+- 052 Tiny Toon Adventures 2.nes
+- 053 Bubble Bobble Part 2.nes
+- 054 Metal Storm.nes
+- 055 RoboCop.nes
+- 056 RoboCop 2.nes
+- 057 RoboCop Vs The Terminator.nes
+- 058 Tekken 2.nes
+- 059 Ikari Warriors.nes
+- 060 Ikari Warriors 2.nes
+- 061 Ikari Warriors II-Victory Road.nes
+- 062 Ikari III-The Rescue.nes
+- 063 Journey to Silius.nes
+- 064 Kirby's Adventure.nes
+- 065 Hudson's Adventure Island.nes
+- 066 Hudson's Adventure Island II.nes
+- 067 Hudson's Adventure Island III.nes
+- 068 Kick Master.nes
+- 069 Castlevania.nes
+- 070 Castlevania 2.nes
+- 071 Castlevania 3-Dracula's Curse.nes
+- 072 Ninja Gaiden 1.nes
+- 073 Ninja Gaiden 2.nes
+- 074 Ninja Gaiden 3.nes
+- 075 Ninja Crusaders.nes
+- 076 Ninja Crusaders-Ryuuga.nes
+- 077 Ms. Pac-Man.nes
+- 078 Pac-Land.nes
+- 079 Pokemon Blue.nes
+- 080 Pokemon Green.nes
+- 081 Pokemon 2000.nes
+- 082 Pokemon 4in1.nes
+- 083 Punisher.nes
+- 084 Angry Birds.nes
+- 085 Angry Bird 2.nes
+- 086 Angry bird 3.nes
+- 087 Angry Bird 4.nes
+- 088 Bomberman.nes
+- 089 Bomberman II.nes
+- 090 Bomberman-Killerman.nes
+- 091 The Battle of Valhalla-1943.nes
+- 092 Cross Fire.nes
+- 093 Duck Tales 1.nes
+- 094 Duck Tales 2.nes
+- 095 Darkwing Duck.nes
+- 096 Mickey Mania 7.nes
+- 097 Donkey Kong Jr. Math.nes
+- 098 King Kong 2.nes
+- 099 Chip 'n Dale Rescue Rangers.nes
+- 100 Exed Exes.nes
+- 101 Fire 'n Ice.nes
+- 102 Shadow of the Ninja.nes
+- 103 Airwolf.nes
+- 104 Silk Worm.nes
+- 105 Batman.nes
+- 106 Dynamite Batman.nes
+- 107 Batman Returns.nes
+- 108 Cobra Command.nes
+- 109 Spider-Man-Return of the Sinister Six.nes
+- 10-Yard Fight (USA  Europe).nes
+- 110 Little Nemo-The Dream Master.nes
+- 111 Alien 3.nes
+- 112 Astro Robo Sasa.nes
+- 113 Back to the Future.nes
+- 114 Back to the Future Part II & III.nes
+- 115 Bad Dudes.nes
+- 116 Battletoads & Double Dragon-The Ultimate Team.nes
+- 117 Battletoads.nes
+- 118 Bee 52.nes
+- 119 Blaster Master.nes
+- 120 B-Wings.nes
+- 121 Road Runner.nes
+- 122 Lode Runner.nes
+- 123 Lode Runner 2.nes
+- 124 Jackie Chan's Action Kung Fu.nes
+- 125 Kung Fu.nes
+- 126 Dig Dug II.nes
+- 127 RoadBlasters.nes
+- 128 Tom & Jerry (and Tuffy).nes
+- 129 Tom & Jerry 3.nes
+- 130 Captain America and The Avengers.nes
+- 131 Captain Planet and the Planeteers.nes
+- 132 Street Fighter 12 Peoples.nes
+- 133 Street Fighter 16 Peoples.nes
+- 134 Street Fighter 2010-The Final Fight.nes
+- 135 Street Fighter III(13 Peoples).nes
+- 136 Street Fighter V(10 Peoples).NES
+- 137 ce Hockey.nes
+- 138 S.C.A.T.-Special Cybernetic Attack Team.nes
+- 139 Kyuukyoku Tiger.nes
+- 140 Eliminator Boat Duel.nes
+- 141 100 Man Dollar Kid-Maboroshi no Teiou Hen.nes
+- 142 8 Eyes.nes
+- 143 A Boy and His Blob-Trouble on Blobolonia.nes
+- 144 Abado X.nes
+- 145 Adventures in the Magic Kingdom.nes
+- 146 Adventures of Lolo 1.nes
+- 147 Adventures of Lolo 2.nes
+- 148 Adventures of Lolo 3.nes
+- 149 Adventures of Rad Gravity.nes
+- 150 After Burner.nes
+- 151 Air Fortress.nes
+- 152 Aladdin 3.nes
+- 153 Alfred Chicken.nes
+- 154 Alien Syndrome.nes
+- 155 Alpha Mission.nes
+- 156 Amagon.nes
+- 157 American Dream.nes
+- 158 American Gladiators.nes
+- 159 Antarctic Adventure.nes
+- 160 Arch Rivals-A Basket Brawl!.nes
+- 161 Arctic.nes
+- 162 Argos no Senshi.nes
+- 163 Arkanoid 1.nes
+- 164 Arkanoid 2.nes
+- 165 Arkista's Ring.nes
+- 166 Armadillo.nes
+- 167 Asmik-kun Land.nes
+- 168 Athena.nes
+- 169 Attack Animal Gakuen.nes
+- 170 Attack of the Killer Tomatoes.nes
+- 171 Bad Street Brawler.nes
+- 172 Ballblazer.nes
+- 173 Baltron.nes
+- 174 Banana Prince.nes
+- 175 Banana.nes
+- 176 Bandai Golf-Challenge Pebble Beach.nes
+- 177 Barbie.nes
+- 178 Baseball Fighter.nes
+- 179 Baseball Simulator 1.000.nes
+- 180 Baseball.nes
+- 181 Bases Loaded.nes
+- 182 Batsu & Terry.nes
+- 183 Battle Chess.nes
+- 184 Battle Fleet.nes
+- 185 Battle Formula.nes
+- 186 Battle of Midway1942.nes
+- 187 Battle Storm.nes
+- 188 Battleship.nes
+- 189 Battletank.nes
+- 190 Beetlejuice.nes
+- 191 Bible Adventures.nes
+- 192 Big Nose the Caveman.nes
+- 193 Bionic Commando.nes
+- 194 Bird Week.nes
+- 1942 (Japan  USA).nes
+- 1942.zip
+- 1942??????.zip
+- 1942???.zip
+- 1943 - The Battle of Midway (USA).nes
+- 1943.zip
+- 1943???????beta??.zip
+- 1943?????????.zip
+- 1943?????????.zip
+- 1944.zip
+- 1944???.zip
+- 1944??????????????????????.zip
+- 1945.zip
+- 195 Blodia Land-Puzzle Quest.nes
+- 196 Bokosuka Wars.nes
+- 197 Bonk's Adventure.nes
+- 198 Boulder Dash.nes
+- 199 Break Time-The National Pool Tour.nes
+- 1991 Du Ma Racing (Asia) (Unl) (T).zip
+- 1991 Du Ma Racing (Asia) (Unl).zip
+- 1991?????.zip
+- 200 BreakThru.nes
+- 201 Brush Roller.nes
+- 202 Bucky O'Hare.nes
+- 203 Bugs Bunny Blowout.nes
+- 204 Bugs Bunny Fun House.nes
+- 205 Bump'n'Jump.nes
+- 206 Burger Time.nes
+- 207 Cabal.nes
+- 208 Cadillac.nes
+- 209 Capcom Barcelona'92.nes
+- 210 Captain Saver.nes
+- 211 Captain Tsubasa 2.nes
+- 212 Captain Tsubasa.nes
+- 213 Casino Derby.nes
+- 214 Casino Kid 2.nes
+- 215 Casino Kid.nes
+- 216 Castle Excellent.nes
+- 217 Castle of Deceit.nes
+- 218 Castle of Dragon.nes
+- 219 Caveman Games.nes
+- 220 Chack 'n Pop.nes
+- 221 Challenge of the Dragon.nes
+- 222 Challenger.nes
+- 223 Championship Bowling.nes
+- 224 Championship Pool.nes
+- 225 Cheetahmen II.nes
+- 226 Chester Field.nes
+- 227 Chitei Senkuu Vazolder.nes
+- 228 Choujin Sentai-Jetman.nes
+- 229 Chubby Cherub.nes
+- 230 Circus Caper.nes
+- 231 City Adventure Touch-Mystery of Triangle.nes
+- 232 Clash at Demonhead.nes
+- 233 Cliffhanger.nes
+- 234 Clu Clu Land.nes
+- 235 Color a Dinosaur.nes
+- 236 Columbus-Ougon no Yoake.nes
+- 237 Commando.nes
+- 238 Conan.nes
+- 239 Conquest of the Crystal Palace.nes
+- 240 Cosmo Genesis.nes
+- 241 Crackout.nes
+- 242 Crash 'n the Boys-Street Challenge.nes
+- 243 Crash Dummies.nes
+- 244 Crayon Shin-Chan-Ora to Poi Poi.nes
+- 245 Crazy Climber.nes
+- 246 Cyberball.nes
+- 247 Cybernoid-The Fighting Machine.nes
+- 248 Daiva-Imperial of Nirsartia.nes
+- 249 Darkman.nes
+- 250 Dash Galaxy in the Alien Asylum.nes
+- 251 Deblock.nes
+- 252 Defender II.nes
+- 253 Defenders of Dynatron City.nes
+- 254 Demon Sword.nes
+- 255 Destination Earthstar.nes
+- 256 Dick Tracy.nes
+- 257 Die Hard.nes
+- 258 Digger T. Rock-The Legend of the Lost City.nes
+- 259 Dirty Harry.nes
+- 25th Anniversary Super Mario Bros. (Europe) (Promo  Virtual Console).nes
+- 25th Anniversary Super Mario Bros. (Europe) (Promo Virtual Console).zip
+- 260 Don Doko Don.nes
+- 261 Door Door.nes
+- 262 Double Dare.nes
+- 263 Double Dribble.nes
+- 264 Dough Boy.nes
+- 265 Downtown Special.nes
+- 266 Dr. Jekyll and Mr. Hyde.nes
+- 267 Dragon Ball 3-Gokuu Den.nes
+- 268 Dragon Ball Party 4 In 1.nes
+- 269 Dragon Ball Z-Kyoushuu! Saiya Jin.nes
+- 270 Dragon Buster 4.nes
+- 271 Dragon Buster II.nes
+- 272 Dragon Fighter.nes
+- 273 Dragon Scroll-Yomigaerishi Maryuu.nes
+- 274 Dragon Spirit-Aratanaru Densetsu.nes
+- 275 Dragon Spirit-The New Legend.nes
+- 276 Dragon Warrior-Part II.nes
+- 277 Dragon's Lair 1.nes
+- 278 Dropzone.nes
+- 279 Duck Maze.nes
+- 280 Dudes With Attitude.nes
+- 281 Dusty Diamond's All-Star Softball.nes
+- 282 Dynablaster.nes
+- 283 Dynamite Bowl.nes
+- 284 Dynowarz-Destruction of Spondylus.nes
+- 285 Earthwhorm Jim 3.nes
+- 286 Eggerland-Meikyuu no Fukkatsu.nes
+- 287 Egypt.nes
+- 288 Elevator Action.nes
+- 289 Erika to Satoru no Yume Bouken.nes
+- 290 Erunaaku no Zaihou.nes
+- 291 Esper Bouken Tai.nes
+- 292 Excitebike.nes
+- 293 Exciting Boxing.nes
+- 294 Exciting Rally - World Rally Championship.nes
+- 295 Exerion.nes
+- 296 Exodus-Journey to the Promised Land.nes
+- 297 F-15 Strike Eagle.nes
+- 298 Famicom Doubutsu Seitai Zukan!.nes
+- 299 Family Pinball.nes
+- 3 in 1 Supergun (Asia) (Unl).nes
+- 300 Fantastic Adventures of Dizzy.nes
+- 301 Fantasy Zone.nes
+- 302 Fatal Fury Special.nes
+- 303 Felix the Cat.nes
+- 304 Field Combat.nes
+- 305 Fisher-Price-Firehouse Rescue.nes
+- 306 Fisher-Price-I Can Remember.nes
+- 307 Fisher-Price-Perfect Fit.nes
+- 308 Fishwar.nes
+- 309 Flappy.nes
+- 310 Flintstones, The Rescue of Dino & Hoppy.nes
+- 311 Flipull-An Exciting Cube Game.nes
+- 312 Formation Z.nes
+- 313 Friday the 13th.nes
+- 314 Galactic Crusader.nes
+- 315 Gauntlet.nes
+- 316 Geimos.nes
+- 317 Gekitotsu Yonku Battle.nes
+- 318 Gekitou Stadium!!.nes
+- 319 George Foreman's KO Boxing.nes
+- 320 Getsufuu Maden.nes
+- 321 Ghostbusters 1.nes
+- 322 Ghostbusters 2.nes
+- 323 Ghosts'n Goblins.nes
+- 324 Ghoul School.nes
+- 325 Gird Dance.nes
+- 326 Golgo 13-Top Secret Episode.nes
+- 327 Goonies II.nes
+- 328 Gorby no Pipeline Daisakusen.nes
+- 329 Grand Master.nes
+- 330 Great Battle Cyber.nes
+- 331 Great Tank.nes
+- 332 Gremlins 2-The New Batch.nes
+- 333 Gremlins 2.nes
+- 334 Gun Nac.nes
+- 335 Gun-Dec.nes
+- 336 Gyrodine.nes
+- 337 Gyromite.nes
+- 338 Gyruss.nes
+- 339 Hammerin' Harry.nes
+- 340 Hana no Star Kaidou.nes
+- 341 Happy Birthday Bugs.nes
+- 342 Hassle.nes
+- 343 Hatris.nes
+- 344 Heavy Barrel.nes
+- 345 Hebereke.nes
+- 346 Hector 87.nes
+- 347 Hell Fighter.nes
+- 348 High Speed.nes
+- 349 Holy Diver.nes
+- 350 Home Alone 2.nes
+- 351 Hotman.nes
+- 352 Hudson Hawk.nes
+- 353 Hyper Olympic.nes
+- 354 Insector X.nes
+- 355 Ironsword - Wizards & Warriors II.nes
+- 356 Isolated Warrior.nes
+- 357 Jackal.nes
+- 358 James Bond Jr.nes
+- 359 Jeopardy! 25th Anniversary Edition.nes
+- 360 Joe & Mac-Caveman Ninja.nes
+- 361 John Elway's Quarterback.nes
+- 362 Joshua & the Battle of Jericho.nes
+- 363 Jurassic Boy 2.nes
+- 364 Jurassic Park.nes
+- 365 Juuouki.nes
+- 366 Karate Champ.nes
+- 367 Karateka.nes
+- 368 Karnov.nes
+- 369 Kid Icarus-Angel Land Story.nes
+- 370 Kid Klown-in Night Mayor World.nes
+- 371 Kid Niki-Radical Ninja.nes
+- 372 King's Knight.nes
+- 373 Kiwi Kraze-A Bird-Brained Adventure!.nes
+- 374 Krazy Kreatures.nes
+- 375 Krion Conquest.nes
+- 376 Krusty's Fun House.nes
+- 377 Kujaku Ou 2.nes
+- 378 Kujaku Ou.nes
+- 379 Kyonsees 2.nes
+- 380 Labyrinth.nes
+- 381 Last Action Hero.nes
+- 382 Layla.nes
+- 383 Legendary Wings.nes
+- 384 Lethal Weapon.nes
+- 385 Little Samson.nes
+- 386 Locksmith.nes
+- 387 Lone Ranger.nes
+- 388 Lost Word of Jenny.nes
+- 389 Low G Man-The Low Gravity Man.nes
+- 390 Low G Man.nes
+- 391 Lunar Pool.nes
+- 392 Lupin Sansei-Pandora no Isan.nes
+- 393 M.C Kids.nes
+- 394 Mach Rider.nes
+- 395 Mad Max.nes
+- 396 Magic Block.nes
+- 397 Magic Jewelry.nes
+- 398 Magmax.nes
+- 399 Maharaja.nes
+- 3-D Block (Asia) (Hwang Shinwei) (Unl).nes
+- 3-D Block (Asia) (RCM Group) (Unl).nes
+- 3-D WorldRunner (USA).nes
+- 3d?????.zip
+- 3d????????.zip
+- 3d?????????.zip
+- 3d?????????1.zip
+- 400 Mahjang Companion.nes
+- 401 Mahjong RPG Dora 3.nes
+- 402 Majaventure-Mahjong Senki.nes
+- 403 Mappy-Land.nes
+- 404 Marble Madness.nes
+- 405 Master Chu & Drunkard Hu-Dao Shuai.nes
+- 406 Master Chu & The Drunkard Hu.nes
+- 407 Master Fighter II-The Horld Harrior.nes
+- 408 Mechanized Attack.nes
+- 409 Meikyuu Jima.nes
+- 410 Metal Fighter.nes
+- 411 Metro-Cross.nes
+- 412 Micro Machines.nes
+- 413 Mighty Bomb Jack.nes
+- 414 Mighty Final Fight.nes
+- 415 Millipede.nes
+- 416 Milon's Secret Castle.nes
+- 417 Miracle Ropit's Adventure in 2100.nes
+- 418 Mission Impossible 1.nes
+- 419 Mission Impossible 2.nes
+- 420 Mito Koumon-Sekai Manyuu Ki.nes
+- 421 Moai Kun.nes
+- 422 Moero!! Juudou Warriors.nes
+- 423 Monster Party.nes
+- 424 Monster Truck Rally.nes
+- 425 Mottomo Abunai Deka.nes
+- 426 Mr. Gimmick.nes
+- 427 Mystery Quest.nes
+- 428 NARC.nes
+- 429 Navy Blue.nes
+- 430 Nekketsu Kouha Kunio Kun.nes
+- 431 Nekketsu! Street Basket-Ganbare Dunk Heroes.nes
+- 432 New Ghostbusters II.nes
+- 433 Nightshade.nes
+- 434 Ninja Hattori Kun.nes
+- 435 Ninja Kun - Ashura no Shou.nes
+- 436 Noah's Ark.nes
+- 437 Nuts & Milk.nes
+- 438 Onyanko Town.nes
+- 439 Operation Wolf.nes
+- 440 Othello.nes
+- 441 Over Horizon.nes
+- 442 Paaman Part 2.nes
+- 443 Pachi Com.nes
+- 444 Palamedes.nes
+- 445 Panic Restaurant.nes
+- 446 Paperboy 1.nes
+- 447 Paperboy 2.nes
+- 448 Parallel World.nes
+- 449 Parasol Stars.nes
+- 450 Peek-A-Boo Poker.nes
+- 451 Penguin Kun Wars.nes
+- 452 Perfect Bowling.nes
+- 453 Perman Part 2.nes
+- 454 Pesterminator.nes
+- 455 Peter Pan & The Pirates.nes
+- 456 Peter Pan and The Pirates.nes
+- 457 Pinball.nes
+- 458 Pipe Dream.nes
+- 459 Plants Vs Zomb.nes
+- 460 Plants vs. Zombies.nes
+- 461 Plasma Ball.nes
+- 462 Platoon.nes
+- 463 Pocket Zaurus-Juu Ouken no Nazo.nes
+- 464 Poker III 5 in 1.nes
+- 465 Power Soccer.nes
+- 466 Predator.nes
+- 467 Punch-Out!.nes
+- 468 Puzznic.nes
+- 469 Pyokotan no Dai Meiro.nes
+- 470 Q-bert.nes
+- 471 Quarth.nes
+- 472 Quattro Adventure.nes
+- 473 Quattro Arcade.nes
+- 474 Raid on Bungeling Bay.nes
+- 475 Rainbow Islands.nes
+- 476 Rampage.nes
+- 477 Red Arremar 2.nes
+- 478 Red Pig.nes
+- 479 Rescue-The Embassy Mission.nes
+- 480 River City Ransom.nes
+- 481 Robo Warrior.nes
+- 482 Robodemons.nes
+- 483 Rocketeer.nes
+- 484 Rockin' Kats.nes
+- 485 Rod Land.nes
+- 486 Rollerblade Racer.nes
+- 487 Rollergames.nes
+- 488 Rolling Thunder.nes
+- 489 Route-16 Turbo.nes
+- 490 Rush'n Attack.nes
+- 491 Salamander 1.nes
+- 492 Salamander 2.nes
+- 493 Salamander 3.nes
+- 494 Samurai Zombie Nation.nes
+- 495 Secret Ties.nes
+- 496 Seicross.nes
+- 497 Sesame Street Countdown.nes
+- 498 Shanghai 1.nes
+- 499 Shanghai 2.nes
+- 4???.zip
+- 4??????.zip
+- 500 Shatterhand.nes
+- 720 Degrees (USA).nes
+- 75??.zip
+- 76?1.zip
+- 8 Eyes (USA).nes
+- 89?????????.zip
+- 8eyes???.zip
+- 91?????????.zip
+- 93???.zip
+- 93?????.zip
+- 99?????????.zip
+- 9???.zip
+- Abadox - The Deadly Inner War (USA).zip
+- Abadox (U) (PT-BR).zip
+- Action 52 (USA) (Rev A) (Unl).zip
+- Action 52 (USA) (Unl).nes
+- Action 52 (USA) (Unl).zip
+- Action in New York (Europe).nes
+- Action in New York (Europe).zip
+- Adan y Eva (Spain) (Gluk Video) (Unl).zip
+- Addams Family  The - Pugsley's Scavenger Hunt (Europe) (Beta).nes
+- Addams Family  The - Pugsley's Scavenger Hunt (Europe).nes
+- Addams Family  The - Pugsley's Scavenger Hunt (USA).nes
+- Addams Family  The - Uncle Fester's Quest (USA) (Beta).nes
+- Addams Family  The (Europe) (En Fr De).nes
+- Addams Family  The (USA).nes
+- Addams Family The - Pugsley's Scavenger Hunt (Europe) (Beta).zip
+- Addams Family The - Pugsley's Scavenger Hunt (Europe).zip
+- Addams Family The - Pugsley's Scavenger Hunt (USA).zip
+- Addams Family The - Uncle Fester's Quest (USA) (Beta).zip
+- Addams Family The (Europe) (En Fr De).zip
+- Addams Family The (U) (PT-BR).zip
+- Addams Family The (USA).zip
+- Advanced Dungeons & Dragons - Dragon Strike (U) [!] [T-BR] [T-Balboa G-Monkey's Traducoes] [V-1.0 P-100% A-2009].zip
+- Advanced Dungeons & Dragons - DragonStrike (USA).nes
+- Advanced Dungeons & Dragons - DragonStrike (USA).zip
+- Advanced Dungeons & Dragons - Heroes of the Lance (USA) (Beta).nes
+- Advanced Dungeons & Dragons - Heroes of the Lance (USA) (Beta).zip
+- Advanced Dungeons & Dragons - Heroes of the Lance (USA).nes
+- Advanced Dungeons & Dragons - Heroes of the Lance (USA).zip
+- Advanced Dungeons & Dragons - Hillsfar (USA).nes
+- Advanced Dungeons & Dragons - Hillsfar (USA).zip
+- Advanced Dungeons & Dragons - Pool of Radiance (USA).nes
+- Advanced Dungeons & Dragons - Pool of Radiance (USA).zip
+- Adventure Island 3 (USA).nes
+- Adventure Island 3 (USA).zip
+- Adventure Island Classic (Europe).nes
+- Adventure Island Classic (Europe).zip
+- Adventure Island II (USA).nes
+- Adventure Island II (USA).zip
+- Adventure Island Part II  The (Europe).nes
+- Adventure Island Part II The (Europe).zip
+- Adventures in the Magic Kingdom - Sora Edition.zip
+- Adventures in the Magic Kingdom (Europe).nes
+- Adventures in the Magic Kingdom (Europe).zip
+- Adventures in the Magic Kingdom (USA) (Beta 1).nes
+- Adventures in the Magic Kingdom (USA) (Beta 1).zip
+- Adventures in the Magic Kingdom (USA) (Beta 2).nes
+- Adventures in the Magic Kingdom (USA) (Beta 2).zip
+- Adventures in the Magic Kingdom (USA).nes
+- Adventures in the Magic Kingdom (USA).zip
+- Adventures of Bayou Billy  The (Europe).nes
+- Adventures of Bayou Billy  The (USA).nes
+- Adventures of Bayou Billy The (Europe).zip
+- Adventures of Bayou Billy The (USA).zip
+- Adventures of Dino Riki (USA).nes
+- Adventures of Dino Riki (USA).zip
+- Adventures of Dr. Franken  The (USA) (Proto).nes
+- Adventures of Dr. Franken The (USA) (Proto).zip
+- Adventures of Gilligan's Island  The (USA).nes
+- Adventures of Gilligan's Island The (USA).zip
+- Adventures of Lolo - Kopio (Lolo1 Hack).zip
+- Adventures of Lolo (Europe).nes
+- Adventures of Lolo (Europe).zip
+- Adventures of Lolo (USA).nes
+- Adventures of Lolo (USA).zip
+- Adventures of Lolo 2 (Europe).nes
+- Adventures of Lolo 2 (Europe).zip
+- Adventures of Lolo 2 (USA).nes
+- Adventures of Lolo 2 (USA).zip
+- Adventures of Lolo 2 Challenge Edition (U) [!].zip
+- Adventures of Lolo 2 CSTutor Full Hack (U) [!].zip
+- Adventures of Lolo 2 Remix (Hack).zip
+- Adventures of Lolo 3 (Europe).nes
+- Adventures of Lolo 3 (Europe).zip
+- Adventures of Lolo 3 (U) (PT-BR).zip
+- Adventures of Lolo 3 (USA).nes
+- Adventures of Lolo 3 (USA).zip
+- Adventures of Lolo 3 Eggerland Mystery Hack [!].zip
+- Adventures of Lolo Challenge Edition (U) [!].zip
+- Adventures of Rad Gravity  The (USA).nes
+- Adventures of Rad Gravity The (USA).zip
+- Adventures of Rocky and Bullwinkle and Friends  The (USA).nes
+- Adventures of Rocky and Bullwinkle and Friends The (USA).zip
+- Adventures of Tom Sawyer (USA).nes
+- Adventures of Tom Sawyer (USA).zip
+- After Burner (USA) (Unl).nes
+- After Burner (USA) (Unl).zip
+- Air Fortress (Europe).nes
+- Air Fortress (Europe).zip
+- Air Fortress (USA).nes
+- Air Fortress (USA).zip
+- Airball (Unknown) (Proto 1).zip
+- Airball (Unknown) (Proto 2).zip
+- Airwolf (Europe).nes
+- Airwolf (Europe).zip
+- Airwolf (USA).nes
+- Airwolf (USA).zip
+- Akumajou Densetsu (J) (PT-BR).zip
+- Al Unser Jr. Turbo Racing (USA).nes
+- Al Unser Jr. Turbo Racing (USA).zip
+- Aladdin (Europe).nes
+- Aladdin (Europe).zip
+- ALF Escapes!.zip
+- Alfombra Magica La (Spain) (Gluk Video) (Unl).zip
+- Alfonzo.zip
+- Alfred Chicken (Europe).nes
+- Alfred Chicken (Europe).zip
+- Alfred Chicken (USA).nes
+- Alfred Chicken (USA).zip
+- Alien 3 (Europe).nes
+- Alien 3 (Europe).zip
+- Alien 3 (USA).nes
+- Alien 3 (USA).zip
+- Alien 3.nes
+- Alien Syndrome (USA) (Unl).nes
+- Alien Syndrome (USA) (Unl).zip
+- Alien war.nes
+- All-Pro Basketball (USA).nes
+- All-Pro Basketball (USA).zip
+- Almost Hero.zip
+- Alpha Mission (Europe).nes
+- Alpha Mission (Europe).zip
+- Alpha Mission (USA).nes
+- Alpha Mission (USA).zip
+- Amagon (U) (PT-BR).zip
+- Amagon (USA).nes
+- Amagon (USA).zip
+- Anticipation (Europe).nes
+- Anticipation (Europe).zip
+- Anticipation (USA).nes
+- Anticipation (USA).zip
+- Arabian.zip
+- Arcadia VI (USA) (Proto).nes
+- Arcadia VI (USA) (Proto).zip
+- Arch Rivals - A Basketbrawl! (Europe).nes
+- Arch Rivals - A Basketbrawl! (Europe).zip
+- Arch Rivals - A Basketbrawl! (USA).nes
+- Arch Rivals - A Basketbrawl! (USA).zip
+- Archon (U).nes
+- Archon (USA).nes
+- Archon (USA).zip
+- Argus.zip
+- Arkanoid - Annoid (Arkanoid Hack).zip
+- Arkanoid - Bigball (Arkanoid Hack).zip
+- Arkanoid - Dimension of Doh (Hack).zip
+- Arkanoid - Nittere Brand Arkanoid by Rinkaku (Arkanoid Hack).zip
+- Arkanoid - Teknoid (Arkanoid Hack).zip
+- Arkanoid (J) (PT-BR).zip
+- Arkanoid (USA).nes
+- Arkanoid (USA).zip
+- Arkanoid 98 (Arkanoid Hack).zip
+- Arkista's Ring (USA).nes
+- Arkista's Ring (USA).zip
+- armadillo Mr.Magoo (PT-BR).zip
+- ASO - Armored Scrum Object (Japan) (En) (Sample).nes
+- Asterix (Europe) (En Fr De Es It).nes
+- Asterix (Europe) (En Fr De Es It).zip
+- Astyanax - The Movie.zip
+- Astyanax (Europe).nes
+- Astyanax (Europe).zip
+- Astyanax (U) (PT-BR).zip
+- Astyanax (USA) (Beta).nes
+- Astyanax (USA) (Beta).zip
+- Astyanax (USA).nes
+- Astyanax (USA).zip
+- Astyanax Remix by Googie (Hack).zip
+- Athena (USA).nes
+- Athena (USA).zip
+- Attack Animal Gakuen by Rinkaku (Hack).zip
+- Attack of the Killer Tomatoes (Europe).nes
+- Attack of the Killer Tomatoes (Europe).zip
+- Attack of the Killer Tomatoes (USA).nes
+- Attack of the Killer Tomatoes (USA).zip
+- Aussie Rules Footy (Australia).zip
+- Auto-Upturn (Asia) (PAL) (Unl).nes
+- Auto-Upturn (Asia) (PAL) (Unl).zip
+- AV Kyuukyoku Mahjong 2 (Asia) (Unl).nes
+- AV Kyuukyoku Mahjong 2 (Asia) (Unl).zip
+- AV Mahjong Club (Asia) (Unl).nes
+- AV Mahjong Club (Asia) (Unl).zip
+- B ?? (??) (??).nes
+- Baby Boomer (USA) (Unl).nes
+- Baby Boomer (USA) (Unl).zip
+- Back to the Future (Enhanced).zip
+- Back to the Future (USA).nes
+- Back to the Future (USA).zip
+- Back to the Future Part II & III (USA).nes
+- Back to the Future Part II & III (USA).zip
+- Bad Dudes (USA).nes
+- Bad Dudes (USA).zip
+- Bad Dudes vs. Dragon Ninja (Europe).nes
+- Bad Dudes vs. Dragon Ninja (Europe).zip
+- Bad News Baseball (USA).nes
+- Bad News Baseball (USA).zip
+- Balloon Fight (Europe).nes
+- Balloon Fight (Europe).zip
+- Balloon Fight (J) (PT-BR).zip
+- Balloon Fight (USA).nes
+- Balloon Fight (USA).zip
+- Baltron.zip
+- Banana Prince (Germany).zip
+- Bandai Golf - Challenge Pebble Beach (USA).nes
+- Bandai Golf - Challenge Pebble Beach (USA).zip
+- Bandit Kings of Ancient China (USA).nes
+- Bandit Kings of Ancient China (USA).zip
+- Barbie (Europe).nes
+- Barbie (Europe).zip
+- Barbie (USA) (Rev A).nes
+- Barbie (USA) (Rev A).zip
+- Barbie (USA).nes
+- Barbie (USA).zip
+- Bard's Tale  The - Tales of the Unknown (USA) (Beta 1).nes
+- Bard's Tale  The - Tales of the Unknown (USA) (Beta 2).nes
+- Bard's Tale  The (USA).nes
+- Baseball (USA  Europe).nes
+- Baseball (USA Europe).zip
+- Baseball (USA) (GameCube Edition).nes
+- Baseball (USA) (GameCube Edition).zip
+- Baseball Simulator 1.000 (USA).nes
+- Baseball Simulator 1.000 (USA).zip
+- Baseball Simulator 2013.zip
+- Baseball Stars (USA).nes
+- Baseball Stars (USA).zip
+- Baseball Stars 1989 by Ignarant (Hack).zip
+- Baseball Stars 1991 by GRG (Baseball Stars Hack).zip
+- Baseball Stars 2005 Pennant Race by GRG (Hack).zip
+- Baseball Stars II (USA).nes
+- Baseball Stars II (USA).zip
+- Bases Loaded - Nippon Pro Baseball 2007 (Bases Loaded Hack).zip
+- Bases Loaded (USA) (Rev A).nes
+- Bases Loaded (USA) (Rev A).zip
+- Bases Loaded (USA) (Rev B).nes
+- Bases Loaded (USA) (Rev B).zip
+- Bases Loaded (USA).nes
+- Bases Loaded (USA).zip
+- Bases Loaded 2004 Newer by GRG (Bases Loaded 3 Hack).zip
+- Bases Loaded 2006 v.Final by GRG (Bases Loaded Hack).zip
+- Bases Loaded 3 (USA).nes
+- Bases Loaded 3 (USA).zip
+- Bases Loaded 4 (USA).nes
+- Bases Loaded 4 (USA).zip
+- Bases Loaded II - Second Season (USA).nes
+- Bases Loaded II - Second Season (USA).zip
+- Bashi Bazook - Morphoid Masher (USA) (Proto).nes
+- Bashi Bazook - Morphoid Masher (USA) (Proto).zip
+- Basketball enemies.nes
+- Basse Def Adventures.zip
+- Batman - Return of the Joker (Europe).nes
+- Batman - Return of the Joker (Europe).zip
+- Batman - Return of the Joker (U) (PT-BR).zip
+- Batman - Return of the Joker (U) [!] {hack} [T-BR] [T-devilfox G-POBRE] [V-1.0 P-100% A-2010].zip
+- Batman - Return of the Joker (USA) (Beta).nes
+- Batman - Return of the Joker (USA) (Beta).zip
+- Batman - Return of the Joker (USA).nes
+- Batman - Return of the Joker (USA).zip
+- Batman - The Video Game (Europe).nes
+- Batman - The Video Game (Europe).zip
+- Batman - The Video Game (USA) (Beta 1).nes
+- Batman - The Video Game (USA) (Beta 1).zip
+- Batman - The Video Game (USA) (Beta 2).nes
+- Batman - The Video Game (USA) (Beta 2).zip
+- Batman - The Video Game (USA).nes
+- Batman - The Video Game (USA).zip
+- Batman (U) (Older Beta) {hack} [T-BR] [T-devilfox G-POBRE] [V-1.0 P-100% A-2011].zip
+- Batman (U) [!] {hack} [T-BR] [T-devilfox G-POBRE] [V-1.1 P-100% A-2011].zip
+- Batman 3 (PT-BR).zip
+- Batman Returns (Europe).nes
+- Batman Returns (Europe).zip
+- Batman Returns (Unknown) (Beta).zip
+- Batman Returns (USA).nes
+- Batman Returns (USA).zip
+- Batman V1.2 by Macbee (fixed colors).zip
+- Battle City - Battle Road (J).zip
+- Battle City - Marble City (J).zip
+- Battle City - Pac-Man Saw Battle City (J).zip
+- Battle City - PCGC Tank (Battle City Chinese Hack).zip
+- Battle City - Reload City (J).zip
+- Battle City - Tank (Battle City Hack).zip
+- Battle City - Tank Z (Battle City Hack).zip
+- Battle City - Warsaw City V4.5 (J).zip
+- Battle City 2 (Warpman Hack).zip
+- Battle City by Mayuge (Hack).zip
+- Battle of Olympus  The (Europe).nes
+- Battle of Olympus  The (USA).nes
+- Battle of Olympus The (Europe).zip
+- Battle of Olympus The (USA).zip
+- Battle_Kid - Fortress_of Peril.zip
+- Battle_Kid_2_Mountain_of_Torment.zip
+- Battleship (Europe) (En Fr De Es).nes
+- Battleship (Europe) (En Fr De Es).zip
+- Battleship (USA).nes
+- Battleship (USA).zip
+- Battletoads (Europe).nes
+- Battletoads (Europe).zip
+- Battletoads (PT-BR).zip
+- Battletoads (USA).nes
+- Battletoads (USA).zip
+- Battletoads-Double Dragon (Europe).nes
+- Battletoads-Double Dragon (Europe).zip
+- Battletoads-Double Dragon (USA).nes
+- Battletoads-Double Dragon (USA).zip
+- BB Car (Unknown) (Unl).zip
+- Beauty and the Beast (Europe).nes
+- Beauty and the Beast (Europe).zip
+- Bee 52 (USA) (Unl).nes
+- Bee 52 (USA) (Unl).zip
+- BeerSlinger (USA) (Unl).zip
+- Beetlejuice (U).nes
+- Beetlejuice (USA).nes
+- Beetlejuice (USA).zip
+- Best of the Best - Championship Karate (Europe).nes
+- Best of the Best - Championship Karate (Europe).zip
+- Best of the Best - Championship Karate (USA).nes
+- Best of the Best - Championship Karate (USA).zip
+- Bible Adventures (USA) (Unl).nes
+- Bible Adventures (USA) (Unl).zip
+- Bible Adventures (USA) (v1.1) (Unl).nes
+- Bible Adventures (USA) (v1.1) (Unl).zip
+- Bible Adventures (USA) (v1.2) (Unl).nes
+- Bible Adventures (USA) (v1.2) (Unl).zip
+- Bible Adventures (USA) (v1.3) (Unl).nes
+- Bible Adventures (USA) (v1.3) (Unl).zip
+- Bible Adventures (USA) (v1.4) (Unl).nes
+- Bible Adventures (USA) (v1.4) (Unl).zip
+- Bible Buffet (USA) (v6.0) (Unl).nes
+- Bible Buffet (USA) (v6.0) (Unl).zip
+- Bible Buffet (Ver 6_0) (U).nes
+- Big eye frog square.nes
+- Big Kids Pro-Wrestling by RyanVG (TTW Hack).zip
+- Big Nose the Caveman (USA) (Unl).nes
+- Big Nose the Caveman (USA) (Unl).zip
+- Big planet.nes
+- Big shot of the universe.nes
+- Big stone collision.nes
+- Big tank.nes
+- Big Trouble in Little China.zip
+- Bigfoot (Europe).nes
+- Bigfoot (Europe).zip
+- Bigfoot (USA).nes
+- Bigfoot (USA).zip
+- Bill & Ted's Excellent Video Game Adventure (USA).nes
+- Bill & Ted's Excellent Video Game Adventure (USA).zip
+- Bill Elliott's NASCAR Challenge (USA).nes
+- Bill Elliott's NASCAR Challenge (USA).zip
+- Billiard ball.nes
+- Billiard.nes
+- Binary & Land.zip
+- Binary Land - Finaly Land (Binary Land Hack).zip
+- Binary Land - Kuzu (Binary Land Hack).zip
+- Binary Land - Links Desert Escape (J) [!].zip
+- Bing Bee II unlimited life.nes
+- Bing Bee III Unlimited Life.nes
+- Bingo 75 (Asia) (Unl).nes
+- Bingo 75 (Asia) (Unl).zip
+- BinGuo 75 (Asia) (Unl).nes
+- BinGuo 75 (Asia) (Unl).zip
+- Bio Force Ape (Japan) (En) (Proto).nes
+- Bionic Commando (Europe).nes
+- Bionic Commando (Europe).zip
+- Bionic Commando (U) (PT-BR).zip
+- Bionic Commando (USA).nes
+- Bionic Commando (USA).zip
+- Bionic Commando 99 by Chris Covell (Bionic Commando Hack).zip
+- Bionic Commando Winter Theme (V0.1) by Matrixz (Bionic Commando Hack).zip
+- Bionic Hippy Commando (Bionic Commando Hack).zip
+- Bird Week.zip
+- Birthday Bash.zip
+- Black Bass  The (USA).nes
+- Black Bass The (USA).zip
+- Black Friday-13.nes
+- Blackjack (USA) (Unl).nes
+- Blackjack (USA) (Unl).zip
+- Blades of Steel - S. American Championship (Hack).zip
+- Blades of Steel (Europe).nes
+- Blades of Steel (Europe).zip
+- Blades of Steel (USA).nes
+- Blades of Steel (USA).zip
+- Blaster Master - Remaster (U) [!].zip
+- Blaster Master (Europe).nes
+- Blaster Master (Europe).zip
+- Blaster Master (U) (PT-BR).zip
+- Blaster Master (USA) (Beta).nes
+- Blaster Master (USA) (Beta).zip
+- Blaster Master (USA).nes
+- Blaster Master (USA).zip
+- Bloque Magico El (Spain) (Gluk Video) (Unl).zip
+- Blow'Em Out! (USA) (Unl).zip
+- Blue Shadow (Europe).nes
+- Blue Shadow (Europe).zip
+- Blues Brothers  The (Europe).nes
+- Blues Brothers  The (USA).nes
+- Blues Brothers The (Europe).zip
+- Blues Brothers The (USA).zip
+- Bo Jackson Baseball (USA).nes
+- Bo Jackson Baseball (USA).zip
+- Bomb.zip
+- Bomber King (J) (PT-BR).zip
+- Bomberman - Birdman (Bomberman Collection Hack).zip
+- Bomberman - Bomber Mario (Bomberman Hack).zip
+- Bomberman - Bubbleman (Bomberman Collection Hack).zip
+- Bomberman - Chack 'n Pop 2 (Bomberman Hack).zip
+- Bomberman - DoraeBomb by Rinkaku (Bomberman Hack).zip
+- Bomberman - Escape From Base 57 V1.0 by BMF54123 (Bomberman Hack).zip
+- Bomberman - Imperial Palace Moat Story (Bomberman Hack).zip
+- Bomberman - Killerman (Bomberman Collection Hack).zip
+- BomberMan - Mario Maze (Bomberman Collection Hack).zip
+- Bomberman (USA).nes
+- Bomberman II (PT-BR).zip
+- Bomberman II (USA).nes
+- Bomberman II (USA).zip
+- Bonk's Adventure (USA).nes
+- Bonk's Adventure (USA).zip
+- Booky Man (Spain) (Gluk Video) (Unl).zip
+- Bookyman.zip
+- Boulder Dash (Europe).nes
+- Boulder Dash (Europe).zip
+- Boulder Dash (USA).nes
+- Boulder Dash (USA).zip
+- Bounce.zip
+- Bowling (Unknown) (Proto).zip
+- Bram Stoker's Dracula (Europe).nes
+- Bram Stoker's Dracula (Europe).zip
+- Bram Stoker's Dracula (USA).nes
+- Bram Stoker's Dracula (USA).zip
+- Break Time - The National Pool Tour (USA).nes
+- Break Time - The National Pool Tour (USA).zip
+- BreakThru (USA).nes
+- BreakThru (USA).zip
+- Brilliant Com Pack 2 (Korea) (Unl).zip
+- Brush Roller (Asia) (Unl).nes
+- Brush Roller (Asia) (Unl).zip
+- Brush Roller (Unl).zip
+- Bubble Bath Babes (USA) (Unl).nes
+- Bubble Bath Babes (USA) (Unl).zip
+- Bubble Bobble - Arcade Version (U) [!].zip
+- Bubble Bobble - New Levels (Bubble Bobble Hack).zip
+- Bubble Bobble - New Quest (Bubble Bobble Hack).zip
+- Bubble Bobble (Europe).nes
+- Bubble Bobble (Europe).zip
+- Bubble Bobble (USA).nes
+- Bubble Bobble (USA).zip
+- Bubble Bobble by John's Program (Bubble Bobble Hack).zip
+- Bubble Bobble Madness by Weasel (Bubble Bobble Hack).zip
+- Bubble Bobble Part 2 (USA).nes
+- Bubble Bobble Part 2 (USA).zip
+- Bucky O'Hare (Europe).nes
+- Bucky O'Hare (Europe).zip
+- Bucky O'Hare (USA).nes
+- Bucky O'Hare (USA).zip
+- Buggy Popper - Nishitetsu Busjack (Buggy Popper Hack).zip
+- Bugs Bunny Birthday Blowout  The (USA).nes
+- Bugs Bunny Birthday Blowout The (USA).zip
+- Bugs Bunny Blowout  The (Europe).nes
+- Bugs Bunny Blowout The (Europe).zip
+- Bugs Bunny Crazy Castle - Second Ultimate Bugs Bunny Crazy Castle The.zip
+- Bugs Bunny Crazy Castle  The (USA).nes
+- Bugs Bunny Crazy Castle The (USA).zip
+- Bugs Bunny Fun House (USA) (Beta).nes
+- Bugs Bunny Fun House (USA) (Beta).zip
+- Bump'n'Jump (USA).nes
+- Bump'n'Jump (USA).zip
+- Burai Fighter (Europe).nes
+- Burai Fighter (Europe).zip
+- Burai Fighter (USA).nes
+- Burai Fighter (USA).zip
+- BurgerTime (USA).nes
+- BurgerTime (USA).zip
+- BurgerTime.zip
+- Buzz & Waldog (USA) (Proto) (Unl).nes
+- Buzz & Waldog (USA) (Proto) (Unl).zip
+- b??.zip
+- b??????.zip
+- Cabal (USA).nes
+- Cabal (USA).zip
+- Caesars Palace (USA) (Beta).nes
+- Caesars Palace (USA) (Beta).zip
+- Caesars Palace (USA).nes
+- Caesars Palace (USA).zip
+- California Games (USA).nes
+- California Games (USA).zip
+- California Raisins - The Grape Escape (USA) (Proto 1).nes
+- California Raisins - The Grape Escape (USA) (Proto 1).zip
+- California Raisins - The Grape Escape (USA) (Proto 2).nes
+- California Raisins - The Grape Escape (USA) (Proto 2).zip
+- Caltron - 6 in 1 (USA) (Unl).nes
+- Caltron - 6 in 1 (USA) (Unl).zip
+- Capcom's Gold Medal Challenge '92 (Europe).nes
+- Capcom's Gold Medal Challenge '92 (Europe).zip
+- Capcom's Gold Medal Challenge '92 (USA).nes
+- Capcom's Gold Medal Challenge '92 (USA).zip
+- Captain America - The Winter Soldier.zip
+- Captain America and the Avengers (Australia).zip
+- Captain America and The Avengers (U) (PT-BR).zip
+- Captain America and the Avengers (USA).nes
+- Captain America and the Avengers (USA).zip
+- Captain Comic - The Adventure (USA) (Unl).nes
+- Captain Comic - The Adventure (USA) (Unl).zip
+- Captain Planet and the Planeteers (Europe).nes
+- Captain Planet and the Planeteers (Europe).zip
+- Captain Planet and the Planeteers (PT-BR).zip
+- Captain Planet and the Planeteers (USA).nes
+- Captain Planet and the Planeteers (USA).zip
+- Captain Skyhawk (Europe).nes
+- Captain Skyhawk (Europe).zip
+- Captain Skyhawk (USA) (Rev A).nes
+- Captain Skyhawk (USA) (Rev A).zip
+- Captain Skyhawk (USA).nes
+- Captain Skyhawk (USA).zip
+- Casino Kid (USA).nes
+- Casino Kid (USA).zip
+- Casino Kid II (USA).nes
+- Casino Kid II (USA).zip
+- Castelian (USA).nes
+- Castelian (USA).zip
+- Castle of Deceit (USA) (Unl).nes
+- Castle of Deceit (USA) (Unl).zip
+- Castle of Dragon (USA).nes
+- Castle of Dragon (USA).zip
+- Castlequest (USA).nes
+- Castlequest (USA).zip
+- Castlevania - Bloody Adventures V0.61 (CV Hack).zip
+- Castlevania - Chorus of Mysteries v2 (Castlevania Hack).zip
+- Castlevania - Curse of suffering.zip
+- Castlevania - Dracula's Revenge (Hack).zip
+- Castlevania - Extreme.zip
+- Castlevania - Fan Edition (Hack).zip
+- Castlevania - Hells Fury (U) (PRG1) [!].zip
+- Castlevania - Hells Fury Easy (U) (PRG1) [!].zip
+- Castlevania - Opposing Bloodlines by Redrum (Hack).zip
+- Castlevania - Orchestra of Despair v2 (Hack).zip
+- Castlevania - Overflow Darkness English.zip
+- Castlevania - Pencilvania (CV Hack).zip
+- Castlevania - Poisonous Offering (CV PRG1 Hack).zip
+- Castlevania - Prelude Of Darkness (Easy Type).zip
+- Castlevania - Prelude Of Darkness (Hard Type).zip
+- Castlevania - Prelude Of Darkness (Normal Type).zip
+- Castlevania - Reborn.zip
+- Castlevania - Red Scale (Hack).zip
+- Castlevania - Remix (CV PRG1 Hack).zip
+- Castlevania - Retold V2.0 (U) (PRG1) [!].zip
+- Castlevania - Shadows (Hack).zip
+- Castlevania - Skel's Revenge v0.9b (Hack).zip
+- Castlevania - Slumber of Darkness V1.2.zip
+- Castlevania - Stairs Of Doom (U) (PRG1) [!].zip
+- Castlevania (Europe).nes
+- Castlevania (Europe).zip
+- Castlevania (U) (PT-BR).zip
+- Castlevania (USA) (Rev A).nes
+- Castlevania (USA) (Rev A).zip
+- Castlevania (USA).nes
+- Castlevania (USA).zip
+- Castlevania II - Dishonor Thy Father.zip
+- Castlevania II - Simon s Quest (U) [b7].nes
+- Castlevania II - Simon s Quest (U) [b8].nes
+- Castlevania II - Simon s Quest (U) [b9].nes
+- Castlevania II - Simon s Quest (U) [ba].nes
+- Castlevania II - Simon s Quest (U) [bb].nes
+- Castlevania II - Simon s Quest (U) [bc].nes
+- Castlevania II - Simon s Quest (U) [bc][o1].nes
+- Castlevania II - Simon s Quest (U) [bd].nes
+- Castlevania II - Simon s Quest (U) [bd][o1].nes
+- Castlevania II - Simon s Quest (U) [bd][o2].nes
+- Castlevania II - Simon s Quest (U) [o1].nes
+- Castlevania II - Simon s Quest (U) [o1][b1].nes
+- Castlevania II - Simon s Quest (U) [o1][b2].nes
+- Castlevania II - Simon s Quest (U) [o1][T+Por100%_BRGames].nes
+- Castlevania II - Simon s Quest (U) [o1][T+Spa].nes
+- Castlevania II - Simon s Quest (U) [o1][T+Spa_Djt].nes
+- Castlevania II - Simon s Quest (U) [o1][T-Spa].nes
+- Castlevania II - Simon s Quest (U) [o2].nes
+- Castlevania II - Simon s Quest (U) [o3].nes
+- Castlevania II - Simon s Quest (U) [T+Esperanto].nes
+- Castlevania II - Simon s Quest (U) [T+FreBeta_Generation IX].nes
+- Castlevania II - Simon s Quest (U) [T+Ger100%_TransX].nes
+- Castlevania II - Simon s Quest (U) [T+Ita1.0_Psyco].nes
+- Castlevania II - Simon s Quest (U) [T+Por1.0_Hexagon].nes
+- Castlevania II - Simon s Quest (U) [T+Por100%_BRGames].nes
+- Castlevania II - Simon s Quest (U) [T+Rus].nes
+- Castlevania II - Simon s Quest (U) [T+Rus][a1].nes
+- Castlevania II - Simon s Quest (U) [T+Spa].nes
+- Castlevania II - Simon s Quest (U) [T+Spa_Djt].nes
+- Castlevania II - Simon s Quest (U) [T+Spa1.0_SkAnDa].nes
+- Castlevania II - Simon s Quest (U) [T+Spa100%_Chilensis].nes
+- Castlevania II - Simon s Quest (U) [T+Spa100%_Tanero].nes
+- Castlevania II - Simon s Quest (U) [T+Swe1.0_MetalHead].nes
+- Castlevania II - Simon s Quest (U) [T+Swe1.0_TheTranslator].nes
+- Castlevania II - Simon s Quest (U) [T-Rus].nes
+- Castlevania II - Simon s Quest (U) [T-Spa].nes
+- Castlevania II - Simon's Quest (Europe).nes
+- Castlevania II - Simon's Quest (Europe).zip
+- Castlevania II - Simon's Quest (U) (PT-BR).zip
+- Castlevania II - Simon's Quest (USA).nes
+- Castlevania II - Simon's Quest (USA).zip
+- Castlevania II - Simon's Quest FIXED Version.zip
+- Castlevania II - Trevor s Quest (CV2 Hack).nes
+- Castlevania II - Vengence of Hell (CV2 Hack) [b1].nes
+- Castlevania II - Vengence of Hell (CV2 Hack) [b1][o1].nes
+- Castlevania II - Vengence of Hell (CV2 Hack).nes
+- Castlevania II - Vengence on Hell V1.0d (CV2 Hack).nes
+- Castlevania II - Vengence on Hell V1.0d (CV2 Hack).zip
+- Castlevania II (Unknown CV2 Hack).nes
+- Castlevania II Opposing Bloodlines (CV2 Hack).nes
+- Castlevania II Remix 1 (Hack) [b1].nes
+- Castlevania II Remix 2 (Hack) [b1].nes
+- Castlevania III - Dracula s Curse (E) [!p].nes
+- Castlevania III - Dracula s Curse (E) [T+Spa080_toruzz].nes
+- Castlevania III - Dracula s Curse (E) [T-Spa].nes
+- Castlevania III - Dracula s Curse (KC).nes
+- Castlevania III - Dracula s Curse (U) [!].nes
+- Castlevania III - Dracula s Curse (U) [b1].nes
+- Castlevania III - Dracula s Curse (U) [b1][o1].nes
+- Castlevania III - Dracula s Curse (U) [b2].nes
+- Castlevania III - Dracula s Curse (U) [b2][o1].nes
+- Castlevania III - Dracula s Curse (U) [b3].nes
+- Castlevania III - Dracula s Curse (U) [b3][o1].nes
+- Castlevania III - Dracula s Curse (U) [b4].nes
+- Castlevania III - Dracula s Curse (U) [b5].nes
+- Castlevania III - Dracula s Curse (U) [b6].nes
+- Castlevania III - Dracula s Curse (U) [o1].nes
+- Castlevania III - Dracula s Curse (U) [o2].nes
+- Castlevania III - Dracula s Curse (U) [o3].nes
+- Castlevania III - Dracula s Curse (U) [o4].nes
+- Castlevania III - Dracula s Curse (U) [o5].nes
+- Castlevania III - Dracula s Curse (U) [o6].nes
+- Castlevania III - Dracula s Curse (U) [o7].nes
+- Castlevania III - Dracula s Curse (U) [T+Por100%_BRGames].nes
+- Castlevania III - Dracula s Curse (U) [T+Por100%_BRGames][b1].nes
+- Castlevania III - Dracula s Curse (U) [T+Por100%_Odin Games].nes
+- Castlevania III - Dracula s Curse (U) [T+Rus].nes
+- Castlevania III - Dracula s Curse (U) [T+Spa_PaladinKnights].nes
+- Castlevania III - Dracula s Curse (U) [T+Spa1.0_eduardo_a2j].nes
+- Castlevania III - Dracula s Curse (U) [T+Spa1.0_eduardo_a2j][o1].nes
+- Castlevania III - Dracula s Curse (U) [T+Spa1.0_Toruzz].nes
+- Castlevania III - Dracula s Curse (U) [T-Spa0.82_Toruzz].nes
+- Castlevania III - Dracula's Curse (Europe).nes
+- Castlevania III - Dracula's Curse (Europe).zip
+- Castlevania III - Dracula's Curse (U) (PT-BR).zip
+- Castlevania III - Dracula's Curse (USA).nes
+- Castlevania III - Dracula's Curse (USA).zip
+- Castlevania III - Resurrection (Akumajou Densetsu Hack).zip
+- Castlevania III (Unknown Hack).zip
+- Castlevania Poisonous Offering (CV PRG0 Hack) [b1].nes
+- Castlevania Poisonous Offering (CV PRG0 Hack).nes
+- Castlevania Poisonous Offering (CV PRG1 Hack).nes
+- Castlevania Red Scale (Hack).nes
+- Castlevania Remix (CV PRG0 Hack) [a1].nes
+- Castlevania Remix (CV PRG0 Hack).nes
+- Castlevania Remix (CV PRG1 Hack).nes
+- Castlevania Resurrection (Akumajou Densetsu Hack) [o1].nes
+- Castlevania Resurrection (Akumajou Densetsu Hack).nes
+- Castlevania Retold V1.1 (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Axe Knight s Shield Fix) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Beta Cross Pickup) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Craptacular Players Edition) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (CV2 Simon Sprites) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Easier Game) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Fixed Tileset) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Original Level 5 s Tileset) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Original Zombies) (CV PRG0 Hack).nes
+- Castlevania Retold V2.0 (Pink-purple Level 2) (CV PRG0 Hack).nes
+- Castlevania Shadows (Hack).nes
+- Cat Man 3 (Gun.Smoke Hack).nes
+- Cat Man 4 (FF1 Hack).nes
+- Caveman Games (U) [!].nes
+- Caveman Games (U) [b1].nes
+- Caveman Games (U) [b2].nes
+- Caveman Games (U) [b3].nes
+- Caveman Games (U) [b4].nes
+- Caveman Games (U) [b5].nes
+- Caveman Games (U) [b6].nes
+- Caveman Games (U) [o1].nes
+- CBMario 3 (SMB3 PRG1 Hack).nes
+- Celebrity Golfing (Golf  92 Hack).nes
+- Chack  n Pop (J) [p1].nes
+- Chack  n Pop (J) [p1][o1].nes
+- Chack  n Pop (J).nes
+- Chall enger.zip
+- Challenge of the Dragon (Color Dreams) [!p].nes
+- Challenge of the Dragon (Color Dreams) [o1].nes
+- Challenge of the Dragon (Sachen) [!].nes
+- Challenge of the Dragon (USA) (Unl).nes
+- Challenge of the Dragon (USA) (Unl).zip
+- Challenger (J) [b1].nes
+- Challenger (J) [b1][o1].nes
+- Challenger (J) [b2].nes
+- Challenger (J) [p1].nes
+- Challenger (J).nes
+- Challenging Lolo (Lolo1 Hack).nes
+- Championship Bowling (J) [b1].nes
+- Championship Bowling (J) [o1].nes
+- Championship Bowling (J).nes
+- Championship Bowling (U) [!].nes
+- Championship Bowling (U) [b1].nes
+- Championship Bowling (U) [b1][o1].nes
+- Championship Bowling (U) [b2].nes
+- Championship Bowling (U) [b2][o1].nes
+- Championship Lode Runner (J) [o1].nes
+- Championship Lode Runner (J) [p1].nes
+- Championship Lode Runner (J) [p1][o1].nes
+- Championship Lode Runner (J) [T+FreFinal_ks151].nes
+- Championship Lode Runner (J).nes
+- Championship Lode Runner Kai (Hack).nes
+- Championship Lode Runner Kai (Hack).zip
+- Championship Pool (U) [!].nes
+- Championship Pool (U) [b1].nes
+- Championship Pool (U) [o1].nes
+- Championship Rally (A) [!].nes
+- Chao Ji Han Man - The Hummer (China) (Unl) (T).zip
+- Chaos World (J) [o1].nes
+- Chaos World (J) [o1][T+Eng.98f(B)_AGTP].nes
+- Chaos World (J) [o1][T-Eng.98f(A)_AGTP].nes
+- Chaos World (J) [T+Eng.98f(B)_AGTP].nes
+- Chaos World (J) [T-Eng.6a_AGTP].nes
+- Chaos World (J) [T-Eng.98f(A)_AGTP].nes
+- Chapolim Adventure (SMB1 Hack).nes
+- Cheetah Men II (U) [!p].nes
+- Cheetah Men II (U) [b1].nes
+- Cheetah Men II (U) [b2].nes
+- Cheetah Men II (U) [o1].nes
+- Cheetahmen II (USA) (Unl).nes
+- Cheetahmen II (USA) (Unl).zip
+- Chess Academy (Asia) (NTSC) (Unl) (T).zip
+- Chess Academy (Asia) (NTSC) (Unl).nes
+- Chess Academy (Asia) (NTSC) (Unl).zip
+- Chess Academys (Sachen-JAP) [!].nes
+- Chess v0.0beta by Matrixz (PD).nes
+- Chessmaster  The (USA).nes
+- Chessmaster The (USA).zip
+- Chessmaster, The (E) [!].nes
+- Chessmaster, The (U) (PRG0) [!].nes
+- Chessmaster, The (U) (PRG0) [b1].nes
+- Chessmaster, The (U) (PRG0) [b2].nes
+- Chessmaster, The (U) (PRG0) [o1].nes
+- Chester Field - Ankoku Shin heno Chousen (J) [o1].nes
+- Chester Field - Ankoku Shin heno Chousen (J) [o2].nes
+- Chester Field - Ankoku Shin heno Chousen (J) [T+Eng1.00b_AGTP].nes
+- Chester Field - Ankoku Shin heno Chousen (J).nes
+- Chevaliers du Zodiaque  Les - La Legende d'Or (France).nes
+- Chevaliers du Zodiaque Les - La Legende d'Or (France).zip
+- Chexder.zip
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [hM04].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [hM04][b1].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [hM04][b2].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [hM04][b3].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J) [o1].nes
+- Chibi Maruko-Chan - Uki Uki Shopping (J).nes
+- Chicken Bros (SMB1 Hack).nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [b1].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [b1][o1].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [b2].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [o1].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [o2].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J) [T+Eng_KingMike].nes
+- Chiisana Obake - Acchi Socchi Kocchi (J).nes
+- Chik Bik Ji Jin - Saam Gwok Ji (Asia) (Unl) (T).zip
+- Chik Bik Ji Jin - Saam Gwok Ji (Asia) (Unl).nes
+- Chiki Chiki Machine Mou Race (J) [!].nes
+- Chiller (Australia) (Unl).zip
+- Chiller (HES) [!].nes
+- Chiller (Unl) [!].nes
+- Chiller (Unl) [b1].nes
+- Chiller (Unl) [b1][o1].nes
+- Chiller (Unl) [b1][o2].nes
+- Chiller (Unl) [b2].nes
+- Chiller (Unl) [o1].nes
+- Chiller (USA) (Unl).nes
+- Chiller (USA) (Unl).zip
+- China Rabbit Baby (Unl) [!].nes
+- Chinese Character Demo (PD).nes
+- Chinese Checkers (Asia) (NTSC) (Unl).nes
+- Chinese Checkers (Asia) (NTSC) (Unl).zip
+- Chinese Checkers (Asia) (PAL) (Unl).nes
+- Chinese Checkers (Asia) (PAL) (Unl).zip
+- Chinese Checkers (Sachen-JAP) [!].nes
+- Chinese Checkers (Sachen-USA) [!].nes
+- Chinese KungFu (Asia) (Unl).nes
+- Chinese KungFu (Asia) (Unl).zip
+- Chinese Odyssey, A (AKA Da Hua Xi You) (Unl) [b1].nes
+- Chinese Odyssey, A (AKA Da Hua Xi You) (Unl) [b2].nes
+- Chinese Odyssey, A (AKA Da Hua Xi You) (Unl).nes
+- Chip  n Dale Rescue Rangers (E) [!p].nes
+- Chip  n Dale Rescue Rangers (E) [T+Fre100%_Terminus].nes
+- Chip  n Dale Rescue Rangers (PC10) [!].nes
+- Chip  n Dale Rescue Rangers (U) [!].nes
+- Chip  n Dale Rescue Rangers (U) [b1].nes
+- Chip  n Dale Rescue Rangers (U) [b2].nes
+- Chip  n Dale Rescue Rangers (U) [b3].nes
+- Chip  n Dale Rescue Rangers (U) [b4].nes
+- Chip  n Dale Rescue Rangers (U) [o1].nes
+- Chip  n Dale Rescue Rangers (U) [o1][T+Ger1.0_StarTrans].nes
+- Chip  n Dale Rescue Rangers (U) [o1][T+Por1.0_Trans-Center].nes
+- Chip  n Dale Rescue Rangers (U) [o1][T+Por90%_BRGames].nes
+- Chip  n Dale Rescue Rangers (U) [o2].nes
+- Chip  n Dale Rescue Rangers (U) [o2][T+Por90%_BRGames].nes
+- Chip  n Dale Rescue Rangers (U) [o3].nes
+- Chip  n Dale Rescue Rangers (U) [o4].nes
+- Chip  n Dale Rescue Rangers (U) [T+Fre].nes
+- Chip  n Dale Rescue Rangers (U) [T+Ger1.0_StarTrans].nes
+- Chip  n Dale Rescue Rangers (U) [T+Por1.0_Trans-Center].nes
+- Chip  n Dale Rescue Rangers (U) [T+Por90%BRGames].nes
+- Chip  n Dale Rescue Rangers (U) [T+Rus].nes
+- Chip  n Dale Rescue Rangers (U) [T+Rus][o1].nes
+- Chip  n Dale Rescue Rangers (U) [T+Swe1.0_TheTranslator].nes
+- Chip  n Dale Rescue Rangers 2 (Prototype).nes
+- Chip  n Dale Rescue Rangers 2 (U) [!].nes
+- Chip  n Dale Rescue Rangers 2 (U) [b1].nes
+- Chip  n Dale Rescue Rangers 2 (U) [o1].nes
+- Chip  n Dale Rescue Rangers 2 (U) [o2].nes
+- Chip  n Dale Rescue Rangers 2 (U) [T+Rus].nes
+- Chip  n Dale Rescue Rangers 2 (U) [T+Swe].nes
+- Chip  n Dale Rescue Rangers 2 (U) [t1].nes
+- Chip _ Dale 3 (Unl) [o1].nes
+- Chip _ Dale 3 (Unl).nes
+- Chip Addiction by Mic (PD).nes
+- Chip 'n Dale - Rescue Rangers (Europe).nes
+- Chip 'n Dale - Rescue Rangers (Europe).zip
+- Chip 'n Dale - Rescue Rangers (USA).nes
+- Chip 'n Dale - Rescue Rangers (USA).zip
+- Chip 'n Dale - Rescue Rangers 2 (Europe).nes
+- Chip 'n Dale - Rescue Rangers 2 (Europe).zip
+- Chip 'n Dale - Rescue Rangers 2 (USA) (Beta).nes
+- Chip 'n Dale - Rescue Rangers 2 (USA) (Beta).zip
+- Chip 'n Dale - Rescue Rangers 2 (USA).nes
+- Chip 'n Dale - Rescue Rangers 2 (USA).zip
+- Chip 'n Dale Rescue Rangers - Alternative.zip
+- Chip 'n Dale Rescue Rangers - Roket Type V2 .zip
+- Chip 'n Dale Rescue Rangers (U) (PT-BR).zip
+- Chip to Dale no Daisakusen (J) [!].nes
+- Chip to Dale no Daisakusen (J) [b1].nes
+- Chip to Dale no Daisakusen (J) [b2].nes
+- Chip to Dale no Daisakusen (J) [o1].nes
+- Chip to Dale no Daisakusen (J) [p1][!].nes
+- Chip to Dale no Daisakusen 2 (J) [b1].nes
+- Chip to Dale no Daisakusen 2 (J) [o1].nes
+- Chip to Dale no Daisakusen 2 (J) [t1].nes
+- Chip to Dale no Daisakusen 2 (J).nes
+- Chitei Senkuu Vazorudaa (J) [b1].nes
+- Chitei Senkuu Vazorudaa (J) [b2].nes
+- Chitei Senkuu Vazorudaa (J).nes
+- Chocobo DW V0.3 (Dragon Warrior Hack).nes
+- Chodius (Gradius Hack).nes
+- Chogga (SMB1 Hack).nes
+- Choplifter (J) [hM03].nes
+- Choplifter (J) [hM03][a1].nes
+- Choplifter (J) [hM03][o1].nes
+- Choplifter (J) [hM03][o2].nes
+- Choplifter (J) [hM03][o3].nes
+- Choplifter (J) [hM03][o4].nes
+- Choplifter (J).nes
+- Choplifter (Japan) (En) (Rev 1).nes
+- Chopper (PD).nes
+- Chou Hen (J) (Joy Van).nes
+- Chou Hen (J) [p1].nes
+- Chou Hen (J) [p1][b1].nes
+- Choujikuu Yousai - Macross (J) [b1].nes
+- Choujikuu Yousai - Macross (J) [o1].nes
+- Choujikuu Yousai - Macross (J) [o2].nes
+- Choujikuu Yousai - Macross (J) [p1].nes
+- Choujikuu Yousai - Macross (J) [p1][o1].nes
+- Choujikuu Yousai - Macross (J) [p1][o2].nes
+- Choujikuu Yousai - Macross (J) [p1][o3].nes
+- Choujikuu Yousai - Macross (J) [p1][o4].nes
+- Choujikuu Yousai - Macross (J) [p1][o5].nes
+- Choujikuu Yousai - Macross (J) [p2].nes
+- Choujikuu Yousai - Macross (J) [p2][o1].nes
+- Choujikuu Yousai - Macross (J).nes
+- Choujikuu Yousai - Macross 7 (Hack).nes
+- Choujin Ookami Senki - Warwolf (J).nes
+- Choujin Sentai - Jetman (J) [b1].nes
+- Choujin Sentai - Jetman (J) [b2].nes
+- Choujin Sentai - Jetman (J) [o1].nes
+- Choujin Sentai - Jetman (J) [o1][T+Eng1.00_Magimoogle].nes
+- Choujin Sentai - Jetman (J) [T+Eng1.00_Magimoogle].nes
+- Choujin Sentai - Jetman (J) [t1].nes
+- Choujin Sentai - Jetman (J).nes
+- Chou-Wakusei Senki - MetaFight (J).nes
+- Chris Evert & Ivan Lendl in Top Players' Tennis (USA).nes
+- Chris Evert & Ivan Lendl in Top Players' Tennis (USA).zip
+- Christmas 2001 Demo for the NES by Chris Covell (PD).nes
+- Chu Da D (Ch).nes
+- Chu Han Zheng Ba - The War Between Chu _ Han (Unl) [b1].nes
+- Chu Han Zheng Ba - The War Between Chu _ Han (Unl).nes
+- Chubby Cherub (U) [!p].nes
+- Chubby Cherub (U) [o1].nes
+- Chubby Cherub (U) [o2].nes
+- Chubby Cherub (U) [o3].nes
+- Chubby Cherub (U) [o4].nes
+- Chubby Cherub (U) [o5].nes
+- Chubby Cherub (USA).nes
+- Chubby Cherub (USA).zip
+- Chuugoku Janshi Story - Tonpuu (J) [!].nes
+- Chuugoku Janshi Story - Tonpuu (J) [hFFE][b1].nes
+- Chuugoku Janshi Story - Tonpuu (J) [T+Chi].nes
+- Chuugoku Senseijutsu (J) [o1].nes
+- Chuugoku Senseijutsu (J) [p1].nes
+- Chuugoku Senseijutsu (J).nes
+- Chuuka Taisen (J) [b1].nes
+- Chuuka Taisen (J) [b2].nes
+- Chuuka Taisen (J) [b3].nes
+- Chuuka Taisen (J) [b4].nes
+- Chuuka Taisen (J) [o1].nes
+- Chuuka Taisen (J) [o1][T+Eng1.00_Ice].nes
+- Chuuka Taisen (J) [T+Eng1.00_Ice].nes
+- Chuuka Taisen (J).nes
+- Cikco Charlie (Circus Charlie Hack).nes
+- Circle Screen Saver Demo by KZ-S (PD).nes
+- Circus Caper (U) [!].nes
+- Circus Caper (U) [b1].nes
+- Circus Caper (U) [b2].nes
+- Circus Caper (U) [b3].nes
+- Circus Caper (U) [o1].nes
+- Circus Caper (USA).nes
+- Circus Caper (USA).zip
+- Circus Chablite.zip
+- Circus Charlie (J) [a1].nes
+- Circus Charlie (J) [a1][o1].nes
+- Circus Charlie (J) [b1].nes
+- Circus Charlie (J) [p1].nes
+- Circus Charlie (J) [p1][a1].nes
+- Circus Charlie (J) [p1][o1].nes
+- Circus Charlie (J) [p1][o2].nes
+- Circus Charlie (J) [p1][o3].nes
+- Circus Charlie (J) [p2].nes
+- Circus Charlie (J) [p2][o1].nes
+- Circus Charlie (J) [T+Chi_MS emumax].nes
+- Circus Charlie (J) [T+Chi_MS emumax][a1].nes
+- Circus Charlie (J) [T+Fre1.0_Generation IX].nes
+- Circus Charlie (J) [T+Swe1.0_TheTranslator].nes
+- Circus Charlie (J).nes
+- Circus Fantasy (Circus Charlie Hack).nes
+- City Adventure Touch - Mystery of Triangle (J) [a1].nes
+- City Adventure Touch - Mystery of Triangle (J) [p1].nes
+- City Adventure Touch - Mystery of Triangle (J).nes
+- City Connection (Europe).nes
+- City Connection (Europe).zip
+- City Connection (J) [b1].nes
+- City Connection (J) [b2].nes
+- City Connection (J) [hM00].nes
+- City Connection (J) [hM00][p1].nes
+- City Connection (J) [hM00][p1][o1].nes
+- City Connection (J) [hM03].nes
+- City Connection (J).nes
+- City Connection (U) [!].nes
+- City Connection (U) [b1].nes
+- City Connection (U) [b1][o1].nes
+- City Connection (U) [o1].nes
+- City Connection (U) [o2].nes
+- City Connection (U) [o3].nes
+- City Connection (U) [o4].nes
+- City Connection (U) [o5].nes
+- City Connection (U) [T+Chi_MS emumax].nes
+- City Connection (U) [T-Chi_MS emumax].nes
+- City Connection (USA).nes
+- City Connection (USA).zip
+- City Trouble.zip
+- Clash at Demonhead (PT-BR).zip
+- Clash at Demonhead (U) [!].nes
+- Clash at Demonhead (U) [b1].nes
+- Clash at Demonhead (U) [b2].nes
+- Clash at Demonhead (U) [o1].nes
+- Clash at Demonhead (U) [o2].nes
+- Clash at Demonhead (USA).nes
+- Clash at Demonhead (USA).zip
+- Classic Concentration (U) [!].nes
+- Classic Concentration (U) [b1].nes
+- Classic Concentration (U) [b1][o1].nes
+- Classic Concentration (USA).nes
+- Classic Concentration (USA).zip
+- Clear VBL Flag Timing Test by Shay Green (15 Sep 2005) (PD).nes
+- Cliffhanger (U) [!p].nes
+- Cliffhanger (U) [b1].nes
+- Cliffhanger (U) [o1].nes
+- Cliffhanger (USA).nes
+- Cliffhanger (USA).zip
+- Clock Skipping Test - Background Enabled on Odd Frames by Shay Green (PD).nes
+- Cloud Bros (SMB1 Hack) [o1].nes
+- Cloud Bros (SMB1 Hack).nes
+- Clu Clu Land (PT-BR).zip
+- Clu Clu Land (USA) (GameCube Edition).nes
+- Clu Clu Land (USA) (GameCube Edition).zip
+- Clu Clu Land (World).zip
+- Clyde s Revenge (Pac-Man Hack) [o1].nes
+- Clyde s Revenge (Pac-Man Hack).nes
+- CMC 80 s Demo by Chris Covell (PD).nes
+- CMC Wavy Demo by Chris Covell (PD).nes
+- Cobra Command (J) [b1].nes
+- Cobra Command (J) [b2].nes
+- Cobra Command (J).nes
+- Cobra Command (U) [!].nes
+- Cobra Command (U) [b1].nes
+- Cobra Command (U) [b2].nes
+- Cobra Command (U) [b3].nes
+- Cobra Command (U) [o1].nes
+- Cobra Command (U) [o2].nes
+- Cobra Command (USA).nes
+- Cobra Command (USA).zip
+- Cobra Mission (Asia) (Unl).nes
+- Cobra Mission (Asia) (Unl).zip
+- Cobra Triangle (E).nes
+- Cobra Triangle (Europe).nes
+- Cobra Triangle (Europe).zip
+- Cobra Triangle (U) [!].nes
+- Cobra Triangle (U) [b1].nes
+- Cobra Triangle (U) [b1][o1].nes
+- Cobra Triangle (U) [o1].nes
+- Cobra Triangle (USA).nes
+- Cobra Triangle (USA).zip
+- Cocoron (J) [b1].nes
+- Cocoron (J) [b2].nes
+- Cocoron (J) [o1].nes
+- Cocoron (J) [o1][T+Eng1.0_Akujin].nes
+- Cocoron (J) [T+Eng1.0_Akujin].nes
+- Cocoron (J).nes
+- Code Name - Viper (U) (PT-BR).zip
+- Code Name - Viper (U) [!].nes
+- Code Name - Viper (U) [b1].nes
+- Code Name - Viper (U) [b2].nes
+- Code Name - Viper (U) [b3].nes
+- Code Name - Viper (U) [o1].nes
+- Code Name - Viper (U) [o2].nes
+- Code Name - Viper (U) [T+Por100%_Emuroms].nes
+- Code Name - Viper (U) [T+Spa_DJ_Traducciones].nes
+- Code Name - Viper (U) [T-Por].nes
+- Code Name - Viper (USA).nes
+- Code Name - Viper (USA).zip
+- Codename 23 (SMB1 Hack).nes
+- Coke Head Junkie (Code Name Viper Hack).nes
+- Color A Dinosaur (U) [!].nes
+- Color A Dinosaur (U) [o1].nes
+- Color a Dinosaur (USA) (Beta).nes
+- Color a Dinosaur (USA) (Beta).zip
+- Color a Dinosaur (USA).nes
+- Color a Dinosaur (USA).zip
+- Colorful Dragon (Asia) (PAL) (Unl).nes
+- Colorful Dragon (Asia) (PAL) (Unl).zip
+- Colorful Dragon (Sachen).nes
+- Colour Bars Mapper 0 V1.1 by Mark Knibbs (PD).nes
+- Colour Bars Mapper 0 V1.2 by Mark Knibbs (PD).nes
+- Colour Bars MMC1 V1.2 by Mark Knibbs (PD).nes
+- Colours Demo by Chris Covell (PD) [a1].nes
+- Colours Demo by Chris Covell (PD).nes
+- Columbus - Ougon no Yoake (J) [!].nes
+- Columbus - Ougon no Yoake (J) [b1].nes
+- Columbus - Ougon no Yoake (J) [b1][T+Chi].nes
+- Columbus - Ougon no Yoake (J) [b1][T+Eng2.01_PLTransForce].nes
+- Columbus - Ougon no Yoake (J) [b1][T-Eng0.50_XTrans].nes
+- Combat.zip
+- Commando (U) (PT-BR).zip
+- Commando (U) [!].nes
+- Commando (U) [b1].nes
+- Commando (U) [b1][o1].nes
+- Commando (U) [b1][T+Por_BRGames].nes
+- Commando (U) [b2].nes
+- Commando (U) [b3].nes
+- Commando (U) [b4].nes
+- Commando (U) [b5].nes
+- Commando (U) [b6].nes
+- Commando (USA).nes
+- Commando (USA).zip
+- Conan - The Mysteries of Time (U) [!p].nes
+- Conan - The Mysteries of Time (U) [o1].nes
+- Conan - The Mysteries of Time (U) [o2].nes
+- Conan (USA).nes
+- Conan (USA).zip
+- Conflict (J).nes
+- Conflict (U) [!].nes
+- Conflict (U) [b1].nes
+- Conflict (U) [b1][o1].nes
+- Conflict (U) [b2].nes
+- Conflict (U) [b3].nes
+- Conflict (U) [o1].nes
+- Conflict (USA).nes
+- Conflict (USA).zip
+- Conquest of the Crystal Palace (U) (PT-BR).zip
+- Conquest of the Crystal Palace (U) [!].nes
+- Conquest of the Crystal Palace (U) [b1].nes
+- Conquest of the Crystal Palace (U) [b2].nes
+- Conquest of the Crystal Palace (U) [o1].nes
+- Conquest of the Crystal Palace (U) [T+Fre1.0_Generation IX].nes
+- Conquest of the Crystal Palace (U) [T+Fre1.0_Generation IX][b1].nes
+- Conquest of the Crystal Palace (USA).nes
+- Conquest of the Crystal Palace (USA).zip
+- Contra - Super Contra II.zip
+- Contra (Beta) [t1].nes
+- Contra (Beta) [t1][o1].nes
+- Contra (J) [b1].nes
+- Contra (J) [b2].nes
+- Contra (J) [b3].nes
+- Contra (J) [hFFE].nes
+- Contra (J) [hFFE][a1].nes
+- Contra (J) [hFFE][b1].nes
+- Contra (J) [o1].nes
+- Contra (J) [o1][T+Eng1.0_MadHacker].nes
+- Contra (J) [o2].nes
+- Contra (J) [p1][T+Eng1.0_MadHacker].nes
+- Contra (J) [p1][T+Eng1.0_MadHacker][o1].nes
+- Contra (J) [p2][T+Eng1.0_MadHacker].nes
+- Contra (J) [p2][T+Eng1.0_MadHacker][o1].nes
+- Contra (J) [T+Chi].nes
+- Contra (J) [T+Chi_MS emumax].nes
+- Contra (J) [T+Eng1.0_MadHacker].nes
+- Contra (J) [T+Por1.0_Trans-Center].nes
+- Contra (J) [T+Por1.12_GTP].nes
+- Contra (J) [T+Rus_Chronix].nes
+- Contra (J) [T+Spa_Djt].nes
+- Contra (J) [t1].nes
+- Contra (J) [t2].nes
+- Contra (J) [t3].nes
+- Contra (J) [T-Chi].nes
+- Contra (J).nes
+- Contra (KC).nes
+- Contra (PC10) [b1].nes
+- Contra (PC10).nes
+- Contra (U) (PT-BR).zip
+- Contra (U) [!].nes
+- Contra (U) [o1].nes
+- Contra (U) [o2].nes
+- Contra (U) [o3].nes
+- Contra (U) [o4].nes
+- Contra (U) [o5].nes
+- Contra (U) [T+Ger1.0_StarTrans].nes
+- Contra (U) [T+Por100%_TRB].nes
+- Contra (U) [T+Por90%_Groxo].nes
+- Contra (U) [T+Por90%_ZeroNet].nes
+- Contra (U) [T+Spa_DJ_Traducciones].nes
+- Contra (U) [T+Spa100%].nes
+- Contra (USA).nes
+- Contra (USA).zip
+- Contra (With +4 Menu) (Unl) [o1].nes
+- Contra (With +4 Menu) (Unl).nes
+- Contra 1993 (Unl).nes
+- Contra Force (PT-BR).zip
+- Contra Force (U) [!].nes
+- Contra Force (U) [o1].nes
+- Contra Force (U) [p1].nes
+- Contra Force (U) [p1][b1].nes
+- Contra Force (U) [p1][o1].nes
+- Contra Force (U) [p1][o2].nes
+- Contra Force (U) [p1][o3].nes
+- Contra Force (U) [p1][T+Rus07a].nes
+- Contra Force (U) [p1][t1].nes
+- Contra Force (U) [p1][t1][o1].nes
+- Contra Force (U) [T+Chi_MS emumax].nes
+- Contra Force (U) [T+Chi_MS emumax][o1].nes
+- Contra Force (U) [T+Rus07a].nes
+- Contra Force (U) [t1].nes
+- Contra Force (USA).nes
+- Contra Force (USA).zip
+- Contra Spirits (1995) (Unl).nes
+- Contra Spirits (1996) (Unl) [!].nes
+- Contra.zip
+- Cooey Found Weed (Earthbound Hack).nes
+- Cool World (U) [!].nes
+- Cool World (U) [b1].nes
+- Cool World (U) [b2].nes
+- Cool World (U) [o1].nes
+- Cool World (U) [T+FreBeta_Generation IX].nes
+- Cool World (USA).nes
+- Cool World (USA).zip
+- Copper Bars Demo by Quietust (PD) [a1].nes
+- Copper Bars Demo by Quietust (PD).nes
+- Corre Benny (Spain) (Gluk Video) (Unl).zip
+- Corvette ZR-1 Challenge (E) [!].nes
+- Corvette ZR-1 Challenge (Europe).nes
+- Corvette ZR-1 Challenge (Europe).zip
+- Cosmic Crusade (Unl) (M4).nes
+- Cosmic Epsilon (J) [b1].nes
+- Cosmic Epsilon (J) [o1].nes
+- Cosmic Epsilon (J).nes
+- Cosmic Spacehead (Europe) (En Fr De Es) (Unl).nes
+- Cosmic Spacehead (Europe) (En Fr De Es) (Unl).zip
+- Cosmic Wars (J) [b1].nes
+- Cosmic Wars (J) [b1][o1].nes
+- Cosmic Wars (J) [b2].nes
+- Cosmic Wars (J) [T+Eng.993_TransBRC].nes
+- Cosmic Wars (J).nes
+- Cosmo Genesis (J) [o1].nes
+- Cosmo Genesis (J) [o1][T+Eng1.1_AGTP].nes
+- Cosmo Genesis (J) [o2].nes
+- Cosmo Genesis (J) [o3].nes
+- Cosmo Genesis (J) [o4].nes
+- Cosmo Genesis (J) [T+Eng1.1_AGTP].nes
+- Cosmo Genesis (J) [T-Eng1.0_AGTP].nes
+- Cosmo Genesis (J).nes
+- Cosmo Police Galivan (J) [hFFE][b1].nes
+- Cosmo Police Galivan (J) [hFFE][p1].nes
+- Cosmo Police Galivan (J) [o1].nes
+- Cosmo Police Galivan (J) [o1][T+Eng1.00_Jair].nes
+- Cosmo Police Galivan (J) [T+Eng1.00_Jair].nes
+- Cosmo Police Galivan (J).nes
+- Cosmos Cop (Asia) (Mega Soft) (Unl).nes
+- Cosmos Cop (Asia) (Mega Soft) (Unl).zip
+- Cosmos Cop (Spain) (Gluk Video) (Unl).zip
+- Cowboy Kid (U) [!].nes
+- Cowboy Kid (U) [o1].nes
+- Cowboy Kid (USA).nes
+- Cowboy Kid (USA).zip
+- Crackout (E) [!p].nes
+- Crackout (Europe).nes
+- Crackout (Europe).zip
+- Crackout (U) (Prototype).nes
+- Crackout (USA) (Proto).nes
+- Crackout (USA) (Proto).zip
+- Crap Demo Shooter by Jandar (PD).nes
+- Crash  n the Boys - Street Challenge (U) [!].nes
+- Crash  n the Boys - Street Challenge (U) [b1].nes
+- Crash  n the Boys - Street Challenge (U) [o1].nes
+- Crash 'n' the Boys - Street Challenge (USA).nes
+- Crash 'n' the Boys - Street Challenge (USA).zip
+- Crawlin (PD) [b1].nes
+- Crayon Shin-Chan - Ora to Poi Poi (J) [b1].nes
+- Crayon Shin-Chan - Ora to Poi Poi (J) [T+Eng0.1_Alcy].nes
+- Crayon Shin-Chan - Ora to Poi Poi (J).nes
+- Crayon Shin-chan (Future Media) (Ch) [!].nes
+- Crazy Climber (J) [hM15].nes
+- Crazy Climber (J) [hM15][b1].nes
+- Crazy Climber (J) [hM15][b2].nes
+- Crazy Climber (J) [hM15][b3].nes
+- Crazy Climber (J).nes
+- Crazy Coons in Cloud Land (SMB1 Hack).nes
+- Creatom (Spain) (Gluk Video) (Unl).zip
+- Creatom (Unl) [!].nes
+- Creepy Brawlers.zip
+- Cresent 2 (SMB1 Hack).nes
+- Crime Busters (Unknown) (Unl).zip
+- Crisis Force (J) [!].nes
+- Crisis Force (J) [b1].nes
+- Crisis Force (J) [hM04].nes
+- Crisis Force (J) [hM04][b1].nes
+- Crisis Force (J) [hM04][b2].nes
+- Crisis Force (J) [T+Chi].nes
+- Crisis Force (J) [T+Chi_huanxiang].nes
+- Crisis Force (J) [T+Fre1.0_ks151].nes
+- Crisis Force (PT-BR).zip
+- Cross Fire (J) [b1].nes
+- Cross Fire (J) [b2].nes
+- Cross Fire (J) [b3].nes
+- Cross Fire (J).nes
+- Cross Fire (PT-BR).zip
+- Cross Fire (U) (Prototype) [!].nes
+- Cross Fire (USA) (Proto).nes
+- Cross Fire (USA) (Proto).zip
+- Crypto.zip
+- Crystal Mines (Unl) [!p].nes
+- Crystal Mines (Unl) [b1].nes
+- Crystal Mines (Unl) [b2].nes
+- Crystal Mines (Unl) [o1].nes
+- Crystal Mines (Unl) [o2].nes
+- Crystal Mines (Unl) [o3].nes
+- Crystal Mines (Unl) [o4].nes
+- Crystal Mines (Unl) [o5].nes
+- Crystal Mines (Unl) [o6].nes
+- Crystal Mines (USA) (Unl).nes
+- Crystal Mines (USA) (Unl).zip
+- Crystalis (Nude Hack) [o1].nes
+- Crystalis (Nude Hack).nes
+- Crystalis (U) (Prototype) [a1].nes
+- Crystalis (U) (Prototype) [o1].nes
+- Crystalis (U) (Prototype).nes
+- Crystalis (U) (PT-BR).zip
+- Crystalis (U) [!].nes
+- Crystalis (U) [b1].nes
+- Crystalis (U) [b2].nes
+- Crystalis (U) [b3].nes
+- Crystalis (U) [b4].nes
+- Crystalis (U) [o1].nes
+- Crystalis (U) [o2].nes
+- Crystalis (U) [T+Por1.0_BRGames].nes
+- Crystalis (U) [T+Rus1.00_Shedevr].nes
+- Crystalis (USA) (Beta).nes
+- Crystalis (USA) (Beta).zip
+- Crystalis (USA).nes
+- Crystalis (USA).zip
+- Cuba War (Guerrilla War Hack).nes
+- Cum Fu (Kung Fu Hack) [o1].nes
+- Cum Fu (Kung Fu Hack).nes
+- Cutterblade Megaman by Matrixz (Megaman V Hack).nes
+- Cvetnie Linii (R) [!].nes
+- Cyber Stadium Series - Base Wars (USA).nes
+- Cyber Stadium Series - Base Wars (USA).zip
+- Cyberball (U) [!].nes
+- Cyberball (U) [b1].nes
+- Cyberball (U) [b2].nes
+- Cyberball (U) [b3].nes
+- Cyberball (U) [b4].nes
+- Cyberball (U) [o1].nes
+- Cyberball (USA).nes
+- Cyberball (USA).zip
+- Cybernoid - The Fighting Machine (U) [!].nes
+- Cybernoid - The Fighting Machine (U) [b1].nes
+- Cybernoid - The Fighting Machine (U) [b2].nes
+- Cybernoid - The Fighting Machine (U) [o1].nes
+- Cybernoid - The Fighting Machine (U) [o2].nes
+- Cybernoid - The Fighting Machine (USA).nes
+- Cybernoid - The Fighting Machine (USA).zip
+- Cycle Race - Road Man (J) [!].nes
+- Cycle Race - Road Man (J) [b1].nes
+- Cycle Race - Road Man (J) [b2].nes
+- Cycle Race - Road Man (J) [b3].nes
+- D.J. Boy (Unl) [!].nes
+- Dai Meiro - Meikyuu no Tatsujin (J).nes
+- Dai-2-Ji - Super Robot Taisen (J) [b1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [o1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [p1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Chi].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Chi][a1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Chi][b1].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Eng.6a_AGTP].nes
+- Dai-2-Ji - Super Robot Taisen (J) [T+Kor].nes
+- Dai-2-Ji - Super Robot Taisen (J).nes
+- Daikaijuu Deburas (J) [b1].nes
+- Daikaijuu Deburas (J) [b2].nes
+- Daikaijuu Deburas (J) [o1].nes
+- Daikaijuu Deburas (J) [T+Eng0.30_manipulate].nes
+- Daikaijuu Deburas (J).nes
+- Daikoukai Jidai (J) [b1].nes
+- Daikoukai Jidai (J).nes
+- Daiku no Gen San (J) [b1].nes
+- Daiku no Gen San (J).nes
+- Daiku no Gen San 2 - Akage no Dan no Gyakushuu (J) [b1].nes
+- Daiku no Gen San 2 - Akage no Dan no Gyakushuu (J) [b2].nes
+- Daiku no Gen San 2 - Akage no Dan no Gyakushuu (J) [o1].nes
+- Daiku no Gen San 2 - Akage no Dan no Gyakushuu (J).nes
+- Daisenryaku (Ch) [!].nes
+- Daisenryaku (Ch) [b1].nes
+- Daisenryaku (J) [o1].nes
+- Daisenryaku (J) [o1][T+Eng1.0_AGTP].nes
+- Daisenryaku (J) [o2].nes
+- Daisenryaku (J) [T+Eng1.0_AGTP].nes
+- Daisenryaku (J).nes
+- Daiva - Imperial of Nirsartia (J) [b1].nes
+- Daiva - Imperial of Nirsartia (J) [o1].nes
+- Daiva - Imperial of Nirsartia (J) [o2].nes
+- Daiva - Imperial of Nirsartia (J) [p1].nes
+- Daiva - Imperial of Nirsartia (J).nes
+- Dalton McGuinty s Kids  Computer Game by RyanVG (M.C. Kids Hack).nes
+- Dan s Stake Demo (Castlevania Hack).nes
+- Dan s Stake Demo PAL (Castlevania Hack).nes
+- Dance Aerobics (U) [!].nes
+- Dance Aerobics (U) [b1].nes
+- Dance Aerobics (U) [o1].nes
+- Dance Aerobics (USA).nes
+- Dance Aerobics (USA).zip
+- Dancing Blocks (Asia) (PAL) (Unl).nes
+- Dancing Blocks (Asia) (PAL) (Unl).zip
+- Dancing Blocks (Sachen) [!].nes
+- Danny Sullivan s Indy Heat (U) [!].nes
+- Danny Sullivan s Indy Heat (U) [o1].nes
+- Danny Sullivan's Indy Heat (Europe).nes
+- Danny Sullivan's Indy Heat (Europe).zip
+- Danny Sullivan's Indy Heat (USA).nes
+- Danny Sullivan's Indy Heat (USA).zip
+- Dao Shuai (Asia) (Unl).nes
+- Dao Shuai (Asia) (Unl).zip
+- Dark Lord (J) [o1].nes
+- Dark Lord (J).nes
+- Dark Monk (SMB1 Hack) [b1].nes
+- Dark X - Wily Strikes Back V1.1 (Megaman II Hack).nes
+- Darkman (Europe).nes
+- Darkman (Europe).zip
+- Darkman (U) [!].nes
+- Darkman (U) [b1].nes
+- Darkman (U) [b2].nes
+- Darkman (U) [o1].nes
+- Darkman (U) [T+Spa100%_spctrmxd].nes
+- Darkman (USA).nes
+- Darkman (USA).zip
+- Darkseed (Unl) [p1].nes
+- Darkseed (Unl) [p1][b1].nes
+- Darkseed (Unl).nes
+- Darkwing Duck - The New Levels.zip
+- Darkwing Duck (E) [!p].nes
+- Darkwing Duck (Europe).nes
+- Darkwing Duck (Europe).zip
+- Darkwing Duck (Germany).zip
+- Darkwing Duck (U) (Prototype) [T+Rus].nes
+- Darkwing Duck (U) (Prototype).nes
+- Darkwing Duck (U) (PT-BR).zip
+- Darkwing Duck (U) [!].nes
+- Darkwing Duck (U) [b1].nes
+- Darkwing Duck (U) [b2].nes
+- Darkwing Duck (U) [b3].nes
+- Darkwing Duck (U) [b4].nes
+- Darkwing Duck (U) [o1].nes
+- Darkwing Duck (U) [o2].nes
+- Darkwing Duck (U) [p1][!].nes
+- Darkwing Duck (U) [T+Dut0.99_Little Mac].nes
+- Darkwing Duck (U) [T+Fre_Samda Knowe].nes
+- Darkwing Duck (U) [T+Ger.99].nes
+- Darkwing Duck (U) [T+Gre0.80_IronKitos,Giama,Lugia_13gr].nes
+- Darkwing Duck (U) [T+Ita1.0_Psyco].nes
+- Darkwing Duck (U) [T+Por100%_Trans-Center].nes
+- Darkwing Duck (U) [T+Por70%_Aeris].nes
+- Darkwing Duck (U) [T+Rus].nes
+- Darkwing Duck (U) [T+Rus2003_MasterZ].nes
+- Darkwing Duck (U) [T+Rus2003_MasterZ][a1].nes
+- Darkwing Duck (U) [T+Spa_Djt].nes
+- Darkwing Duck (U) [T+Spa100_PaladinKnights].nes
+- Darkwing Duck (U) [t1].nes
+- Darkwing Duck (U) [t1][o1].nes
+- Darkwing Duck (U) [t2].nes
+- Darkwing Duck (U) [T-Rus2002_MasterZ].nes
+- Darkwing Duck (USA) (Beta).nes
+- Darkwing Duck (USA) (Beta).zip
+- Darkwing Duck (USA).nes
+- Darkwing Duck (USA).zip
+- Darkwing Duck 2 (Unl) [p1][!].nes
+- Darkwing Duck 2 (Unl) [p2][!].nes
+- Darkwing Duck 2 (Unl) [p2][o1].nes
+- Darkwing Duck Advance.zip
+- Dash Galaxy in the Alien Asylum (U) [!].nes
+- Dash Galaxy in the Alien Asylum (U) [b1].nes
+- Dash Galaxy in the Alien Asylum (U) [o1].nes
+- Dash Galaxy in the Alien Asylum (USA).nes
+- Dash Galaxy in the Alien Asylum (USA).zip
+- Dash Rascal.zip
+- Dash Yarou (J) [b1].nes
+- Dash Yarou (J) [o1].nes
+- Dash Yarou (J).nes
+- Datach - Battle Rush - Build Up Robot Tournament (J).nes
+- Datach - Crayon Shin Chan - Ora to Poi Poi (J).nes
+- Datach - Dragon Ball Z - Gekitou Tenkaichi Budou Kai (J).nes
+- Datach - J League Super Top Players (J).nes
+- Datach - SD Gundam - Gundam Wars (J).nes
+- Datach - Ultraman Club - Supokon Fight! (J) [o1].nes
+- Datach - Ultraman Club - Supokon Fight! (J).nes
+- Datach - Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai (J).nes
+- Datsugoku (J) [hFFE][b1].nes
+- Datsugoku (J) [hFFE][b2].nes
+- Datsugoku (J) [hFFE][p1].nes
+- Datsugoku (J) [hFFE][p1][b1].nes
+- Datsugoku (J) [p1][!].nes
+- Datsugoku (J).nes
+- Dave Warrior (Dragon Warrior Hack) [o1].nes
+- Dave Warrior (Dragon Warrior Hack).nes
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe) (Rev A).nes
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe) (Rev A).zip
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe).nes
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe).zip
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).nes
+- David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).zip
+- Day Dreamin  Davey (U) [!].nes
+- Day Dreamin  Davey (U) [b1].nes
+- Day Dreamin  Davey (U) [b2].nes
+- Day Dreamin  Davey (U) [b3].nes
+- Day Dreamin  Davey (U) [b4].nes
+- Day Dreamin  Davey (U) [b5].nes
+- Day Dreamin  Davey (U) [o1].nes
+- Day Dreamin' Davey (USA).nes
+- Day Dreamin' Davey (USA).zip
+- Days of Thunder (E) [!].nes
+- Days of Thunder (Europe).nes
+- Days of Thunder (Europe).zip
+- Days of Thunder (U) [!].nes
+- Days of Thunder (U) [o1].nes
+- Days of Thunder (USA).nes
+- Days of Thunder (USA).zip
+- Dead Bubble Bobble (Hack) [o1].nes
+- Dead Bubble Bobble (Hack).nes
+- Dead Double Dragon Twins (DD2 Hack) [o1].nes
+- Dead Double Dragon Twins (DD2 Hack).nes
+- Dead or Alive (SMB1 Hack).nes
+- Deadline Console Invitation Intro (PD).nes
+- Deadly Towers (U) [!].nes
+- Deadly Towers (U) [b1].nes
+- Deadly Towers (U) [o1].nes
+- Deadly Towers (USA).nes
+- Deadly Towers (USA).zip
+- Dear, My Memory... by Sinzan (SMB1 Hack).nes
+- Death Dodge Ball (Super Dodge Ball Hack) [o1].nes
+- Death Dodge Ball (Super Dodge Ball Hack).nes
+- Death Marcher (River City Ransom Hack).nes
+- Death Race (Unl) [!p].nes
+- Death Race (Unl) [o1].nes
+- Death Race (USA) (Unl).nes
+- Death Race (USA) (Unl).zip
+- Deathbots (Unl) [!p].nes
+- Deathbots (Unl) [a1].nes
+- Deathbots (Unl) [o1].nes
+- Deathbots (USA) (Rev 1) (Unl).nes
+- Deathbots (USA) (Rev 1) (Unl).zip
+- Deathbots (USA) (Unl).nes
+- Deathbots (USA) (Unl).zip
+- Debate Dude (Dragon Warrior Hack).nes
+- Deblock (J) [b1].nes
+- Deblock (J) [o1].nes
+- Deblock (J).nes
+- Decathlon (Asia) (Unl).nes
+- Decathlon (Asia) (Unl).zip
+- Decathlon (Unl).nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J) [hFFE].nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J) [hM02].nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J) [o1].nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J) [T+Eng_SSX].nes
+- Deep Dungeon 3 - Yuushi heno Tabi (J).nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [!].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [b1].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [b2].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [o1].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [o1][T+Eng1.0_Dragoon-X].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [o2].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [T+Eng0.1_OffCourse].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [T+Eng1.0_Dragoon-X].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [T-Eng].nes
+- Deep Dungeon 4 - Kuro no Youjutsushi (J) [T-Eng][a1].nes
+- Defender II (U) [!].nes
+- Defender II (U) [b1].nes
+- Defender II (U) [b2].nes
+- Defender II (U) [o1].nes
+- Defender II (U) [o2].nes
+- Defender II (U) [o3].nes
+- Defender II (U) [o4].nes
+- Defender II (U) [o5].nes
+- Defender II (U) [o6].nes
+- Defender II (U) [o7].nes
+- Defender II (U) [o8].nes
+- Defender II (U) [o9].nes
+- Defender II (USA).nes
+- Defender II (USA).zip
+- Defender of the Crown (E).nes
+- Defender of the Crown (Europe).nes
+- Defender of the Crown (Europe).zip
+- Defender of the Crown (F) [!].nes
+- Defender of the Crown (France).nes
+- Defender of the Crown (France).zip
+- Defender of the Crown (U) [!].nes
+- Defender of the Crown (U) [b1].nes
+- Defender of the Crown (U) [b1][o1].nes
+- Defender of the Crown (U) [b2].nes
+- Defender of the Crown (U) [b3].nes
+- Defender of the Crown (U) [o1].nes
+- Defender of the Crown (U) [o2].nes
+- Defender of the Crown (U) [o3].nes
+- Defender of the Crown (USA).nes
+- Defender of the Crown (USA).zip
+- Defenders of Dynatron City (U) [!].nes
+- Defenders of Dynatron City (U) [b1].nes
+- Defenders of Dynatron City (U) [b2].nes
+- Defenders of Dynatron City (U) [o1].nes
+- Defenders of Dynatron City (USA).nes
+- Defenders of Dynatron City (USA).zip
+- Deformed Bros (SMB1 Hack).nes
+- Deja Vu (Sw) [b1].nes
+- Deja Vu (Sw) [b2].nes
+- Deja Vu (Sw).nes
+- Deja Vu (Sweden).zip
+- Deja Vu (U) [!].nes
+- Deja Vu (U) [b1].nes
+- Deja Vu (U) [b2].nes
+- Deja Vu (U) [o1].nes
+- Deja Vu (USA).nes
+- Deja Vu (USA).zip
+- Demo Boy 2 (Unl).nes
+- Demogorgon Monk (Unl) [b1].nes
+- Demogorgon Monk (Unl).nes
+- Demon Dug 2 (Dig Dug II Hack).nes
+- Demon Sword (U) [!].nes
+- Demon Sword (U) [b1].nes
+- Demon Sword (U) [b1][T+Chi].nes
+- Demon Sword (U) [b1][T+Chi_MS emumax].nes
+- Demon Sword (U) [b1][T-Chi_MS emumax].nes
+- Demon Sword (U) [b2].nes
+- Demon Sword (U) [b3].nes
+- Demon Sword (U) [b4].nes
+- Demon Sword (U) [o1].nes
+- Demon Sword (USA).nes
+- Demon Sword (USA).zip
+- Demonbike (Excitebike Hack) [o1].nes
+- Demonbike (Excitebike Hack).nes
+- Dengeki - Big Bang! (J) [!].nes
+- Dengeki - Big Bang! (J) [b1].nes
+- Dengeki - Big Bang! (J) [o1].nes
+- Densetsu no Kishi - Elrond (J) [b1].nes
+- Densetsu no Kishi - Elrond (J).nes
+- Derby Stallion - Zenkoku Han (J) [b1].nes
+- Derby Stallion - Zenkoku Han (J) [b2].nes
+- Derby Stallion - Zenkoku Han (J) [o1].nes
+- Derby Stallion - Zenkoku Han (J).nes
+- Desert Commander (U) [!].nes
+- Desert Commander (U) [b1].nes
+- Desert Commander (U) [b2].nes
+- Desert Commander (U) [o1].nes
+- Desert Commander (U) [o2].nes
+- Desert Commander (U) [o3].nes
+- Desert Commander (U) [o4].nes
+- Desert Commander (USA).nes
+- Desert Commander (USA).zip
+- Destination Earthstar (U) [!].nes
+- Destination Earthstar (U) [o1].nes
+- Destination Earthstar (USA).nes
+- Destination Earthstar (USA).zip
+- Destiny of an Emperor - Ludmeisters Remix V2.zip
+- Destiny of an Emperor - Rise of Ieyasu V2.zip
+- Destiny of an Emperor - Rise of Lu Bu V2.zip
+- Destiny of an Emperor - Yuan Shaos Revenge.zip
+- Destiny of an Emperor (U) [!].nes
+- Destiny of an Emperor (U) [o1].nes
+- Destiny of an Emperor (U) [o2].nes
+- Destiny of an Emperor (U) [o3].nes
+- Destiny of an Emperor (USA).nes
+- Destiny of an Emperor (USA).zip
+- Destiny of an Emporor - Dragon Destiny V0.12 (Destiny of an Emperor Hack).zip
+- Destructive Dan 3 (Megaman III Hack).nes
+- Destructor El (Spain) (Gluk Video) (Unl).zip
+- Devil Hunter Yohko Dithering Demo by Chris Covell (PD).nes
+- Devil Man (J) [b1].nes
+- Devil Man (J) [b2].nes
+- Devil Man (J) [o1].nes
+- Devil Man (J).nes
+- Devil World (E) [!].nes
+- Devil World (E) [T+Fre1.0_ks151].nes
+- Devil World (Europe).nes
+- Devil World (Europe).zip
+- Devil World (J) [a1].nes
+- Devil World (J) [b1].nes
+- Devil World (J) [o1].nes
+- Devil World (J) [p1].nes
+- Devil World (J) [p1][o1].nes
+- Devil World (J).nes
+- Devil World.zip
+- Dezaemon (J) [!].nes
+- Dezaemon (J) [o1].nes
+- Dezaemon (J) [o1][T+Eng1.1_AGTP].nes
+- Dezaemon (J) [T+Eng.01_Lagomorph].nes
+- Dezaemon (J) [T+Eng1.1_AGTP].nes
+- Dezaemon (J) [T-Eng.99_AGTP].nes
+- Dezaemon (J) [T-Eng.99AltFont_AGTP].nes
+- Dezaemon (J) [T-Eng0.6a_AGTP][b1].nes
+- Di 4 Ci - Ji Qi Ren Dai Zhan (Ch).nes
+- Di Dao Zhan (Ch).nes
+- Diablo II.zip
+- Dian Shi Ma Li (Ch) [b1].nes
+- Dian Shi Ma Li (Ch) [b1][o1].nes
+- Dian Shi Ma Li (Ch) [b2].nes
+- Dian Shi Ma Li (Ch) [b2][o1].nes
+- Dian Shi Ma Li (Ch) [b3].nes
+- Dian Shi Ma Li (Ch).nes
+- Dick _ Milk (Nuts _ Milk Hack) [o1].nes
+- Dick _ Milk (Nuts _ Milk Hack).nes
+- Dick Dug (Dig Dug Hack) [o1].nes
+- Dick Dug (Dig Dug Hack) [o2].nes
+- Dick Dug (Dig Dug Hack).nes
+- Dick Kids (M.C. Kids Hack).nes
+- Dick Tracy (U) [!].nes
+- Dick Tracy (U) [o1].nes
+- Dick Tracy (U) [T+Fre_Rosetta].nes
+- Dick Tracy (USA).nes
+- Dick Tracy (USA).zip
+- Die Hard (E) [!].nes
+- Die Hard (Europe).nes
+- Die Hard (Europe).zip
+- Die Hard (J) [b1].nes
+- Die Hard (J) [o1].nes
+- Die Hard (U) [!p].nes
+- Die Hard (U) [o1].nes
+- Die Hard (USA).nes
+- Die Hard (USA).zip
+- Diffusion Chamber by Michael Martin (PD).nes
+- Dig Dug - BuB-BoB by Tempez (Dig Dug Hack).zip
+- Dig Dug - Getta Robo (Dig Dug Hack).zip
+- Dig Dug - Tempez Dig Dug (Dig Dug Hack).zip
+- Dig Dug (J) [b1].nes
+- Dig Dug (J) [b1][T+Spa_PaladinKnights].nes
+- Dig Dug (J) [o1].nes
+- Dig Dug (J) [o1][T+Spa_PaladinKnights].nes
+- Dig Dug (J) [o2].nes
+- Dig Dug (J) [o3].nes
+- Dig Dug (J) [p1][b1].nes
+- Dig Dug (J) [p1][b1][o1].nes
+- Dig Dug (J) [T+Chi_MS emumax].nes
+- Dig Dug (J) [T+Gre].nes
+- Dig Dug (J) [T+Spa_PaladinKnights].nes
+- Dig Dug (J) [T-Chi_MS emumax].nes
+- Dig Dug (J) [T-Chi_MS emumax][a1].nes
+- Dig Dug (J).nes
+- Dig Dug II - Blob Buster V1.0 by BMF54123 (Dig Dug II Hack).zip
+- Dig Dug II - Trouble in Paradise (U) [!].nes
+- Dig Dug II - Trouble in Paradise (U) [b1].nes
+- Dig Dug II - Trouble in Paradise (U) [o1].nes
+- Dig Dug II - Trouble in Paradise (USA).nes
+- Dig Dug II - Trouble in Paradise (USA).zip
+- Dig Dug II (J) [!].nes
+- Dig Dug II (J) [b1].nes
+- Dig Dug II (J) [b1][o1].nes
+- Dig Dug II (J) [o1].nes
+- Dig Dug II (J) [o2].nes
+- Dig Dug II (J) [p1].nes
+- Dig Dug III (Hottaaman no Chitei Tanken Hack).nes
+- Digger - The Legend of the Lost City (U) [!].nes
+- Digger - The Legend of the Lost City (U) [b1].nes
+- Digger - The Legend of the Lost City (U) [b2].nes
+- Digger - The Legend of the Lost City (U) [o1].nes
+- Digger - The Legend of the Lost City (USA).nes
+- Digger - The Legend of the Lost City (USA).zip
+- Digger T. Rock - The Legend of the Lost City (E) [!p].nes
+- Digger T. Rock - The Legend of the Lost City (Europe).nes
+- Digger T. Rock - The Legend of the Lost City (Europe).zip
+- Digital Devil Monogatari - Megami Tensei (J) [b1].nes
+- Digital Devil Monogatari - Megami Tensei (J) [b2].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04][b1].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04][b2].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04][b3].nes
+- Digital Devil Monogatari - Megami Tensei (J) [hM04][o1].nes
+- Digital Devil Monogatari - Megami Tensei (J) [o1].nes
+- Digital Devil Monogatari - Megami Tensei (J).nes
+- Digital Devil Monogatari - Megami Tensei II (J) [b1].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [h1].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [h1][o1].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [h2].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [hFFE].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [hFFE][b1].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [hM04].nes
+- Digital Devil Monogatari - Megami Tensei II (J) [o1].nes
+- Digital Devil Monogatari - Megami Tensei II (J).nes
+- Digital Dragon (Ch) [!].nes
+- Digital Dragon (Ch) [b1].nes
+- Dikki Painguin - TKO for the Third Reich (PD).nes
+- Dino-Hockey (USA) (Proto).nes
+- Dino-Hockey (USA) (Proto).zip
+- Dirty Harry - The War Against Drugs (U) [!p].nes
+- Dirty Harry - The War Against Drugs (U) [b1].nes
+- Dirty Harry - The War Against Drugs (U) [b2].nes
+- Dirty Harry - The War Against Drugs (U) [b3].nes
+- Dirty Harry - The War Against Drugs (U) [b4].nes
+- Dirty Harry - The War Against Drugs (U) [o1].nes
+- Dirty Harry - The War Against Drugs (U) [o2].nes
+- Dirty Harry (USA).nes
+- Dirty Harry (USA).zip
+- Disable NMI Timing Test by Shay Green (6 Nov 2005) (PD).nes
+- Dishonor Thy Father (CV2 Hack).nes
+- Dizzy The Adventurer (Unl) (Aladdin) [!].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [b1].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o1].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o1][T+Rus].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o2].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o2][T+Rus].nes
+- Dizzy The Adventurer (Unl) (Aladdin) [o3].nes
+- Dizzy the Adventurer (USA) (Aladdin Compact Cartridge) (Unl).nes
+- Dizzy the Adventurer (USA) (Aladdin Compact Cartridge) (Unl).zip
+- DJ-Boy(??).nes
+- Doctor PC Jr. - Xue Si Dian Nao (Ch) [a1].nes
+- Doctor PC Jr. - Xue Si Dian Nao (Ch).nes
+- Doctor PC Jr. - Xue Si Dian Nao (Part 1) (Ch).nes
+- Doctor PC Jr. - Xue Si Dian Nao (Part 2) (Ch).nes
+- Doki Doki Panik! by MB Hacks (SMB2 Hack).nes
+- Doki! Doki! Yuuenchi (J) [!].nes
+- Doki! Doki! Yuuenchi (J) [b1].nes
+- Doki! Doki! Yuuenchi (J) [b1][o1].nes
+- Doki! Doki! Yuuenchi (J) [b1][o1][T+Eng1.1_NoTalent].nes
+- Doki! Doki! Yuuenchi (J) [b1][T+Eng1.1_NoTalent].nes
+- Doki! Doki! Yuuenchi (J) [b1][T-Eng1.0_NoTalent].nes
+- Doki! Doki! Yuuenchi (J) [b2].nes
+- Doki! Doki! Yuuenchi (J) [hFFE].nes
+- Doki! Doki! Yuuenchi (J) [T+Eng1.0_Vice].nes
+- Doki! Doki! Yuuenchi (J) [T+Eng1.1_No_Talent].nes
+- Dokuganryuu Masamune (J) [b1].nes
+- Dokuganryuu Masamune (J) [h1].nes
+- Dokuganryuu Masamune (J) [h1][o1].nes
+- Dokuganryuu Masamune (J) [hFFE].nes
+- Dokuganryuu Masamune (J) [hFFE][b1].nes
+- Dokuganryuu Masamune (J) [o1].nes
+- Dokuganryuu Masamune (J).nes
+- Domkey Kong (Tiny Toon Adventures) [p1][!].nes
+- Don Doko Don (J) [o1].nes
+- Don Doko Don (J).nes
+- Don Doko Don 2 (J) [o1].nes
+- Don Doko Don 2 (J).nes
+- Donald Duck (J) [b1].nes
+- Donald Duck (J) [b2].nes
+- Donald Duck (J) [o1].nes
+- Donald Duck (J).nes
+- Donald Land (J) [b1].nes
+- Donald Land (J) [hFFE].nes
+- Donald Land (J) [o1].nes
+- Donald Land (J).nes
+- Donald Magic (BurgerTime Hack).nes
+- Dong Dong Nao 1 (Asia) (Unl).nes
+- Dong Dong Nao 1 (Asia) (Unl).zip
+- Dong Dong Nao II - Guo Zhong Ying Wen (Middle School English II) (Sachen).nes
+- Dong Dong Nao II - Guo Zhong Ying Wen (Yi) (Asia) (Unl).nes
+- Dong Dong Nao II - Guo Zhong Ying Wen (Yi) (Asia) (Unl).zip
+- Dong Fang de Chuan Shuo - The Hyrule Fantasy (Ch) [b1].nes
+- Dong Fang de Chuan Shuo - The Hyrule Fantasy (Ch).nes
+- Donkey Kong (U) (PT-BR).zip
+- Donkey Kong (USA) (GameCube Edition).nes
+- Donkey Kong (USA) (GameCube Edition).zip
+- Donkey Kong (World) (Rev A).zip
+- Donkey Kong 3 (World).zip
+- Donkey Kong Classics (USA  Europe).nes
+- Donkey Kong Classics (USA Europe).zip
+- Donkey Kong Jr. (JU) (PT-BR).zip
+- Donkey Kong Jr. (USA) (GameCube Edition).nes
+- Donkey Kong Jr. (USA) (GameCube Edition).zip
+- Donkey Kong Jr. (World) (Rev A).zip
+- Donkey Kong Jr. Math (USA  Europe).nes
+- Donkey Kong Jr. Math (USA Europe).zip
+- Dooly Bravo Land (Korea) (Unl).zip
+- Door Door (J) (FDS Hack).nes
+- Door Door (J) [b1].nes
+- Door Door (J) [b2].nes
+- Door Door (J) [b3].nes
+- Door Door (J) [b4].nes
+- Door Door (J) [b5].nes
+- Door Door (J) [p1].nes
+- Door Door (J) [p1][o1].nes
+- Door Door (J).nes
+- Door Door.zip
+- DoraeBomb by Rinkaku (Bomberman Hack) [o1].nes
+- DoraeBomb by Rinkaku (Bomberman Hack).nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o1].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o1][T+Eng1.0_WakdHacks].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o2].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o2][T+Eng1.0_WakdHacks].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [o3].nes
+- Doraemon - Giga Zombie no Gyakushuu (J) [T+Eng1.0_WakdHacks].nes
+- Doraemon - Giga Zombie no Gyakushuu (J).nes
+- Doraemon (Ch) [b1].nes
+- Doraemon (Ch).nes
+- Doraemon (J) [b1].nes
+- Doraemon (J) [hM15].nes
+- Doraemon (J) [hM15][T+Eng1.1_Neokid].nes
+- Doraemon (J) [o1].nes
+- Doraemon (J) [o2].nes
+- Doraemon (J) [o3].nes
+- Doraemon (J) [o4].nes
+- Doraemon (J) [p1].nes
+- Doraemon (J) [p2].nes
+- Doraemon (J).nes
+- Doraemon World 3 by Kiku (Doraemon Hack).nes
+- Dou Zhi Pin Pan - Wisdom Boy (China) (Unl).zip
+- Double Dare (U) [!].nes
+- Double Dare (U) [o1].nes
+- Double Dare (USA).nes
+- Double Dare (USA).zip
+- Double Dragon - Chuck Norris Edition.zip
+- Double Dragon - Easy Type (Hack).zip
+- Double Dragon - Hard Type (Hack).zip
+- Double Dragon - RCR Edition V0.5a (Hack).nes
+- Double Dragon (E) [T+Fre].nes
+- Double Dragon (E).nes
+- Double Dragon (Easy Type Hack).nes
+- Double Dragon (Europe).nes
+- Double Dragon (Europe).zip
+- Double Dragon (Hard Type Hack).nes
+- Double Dragon (J) [hFFE].nes
+- Double Dragon (J).nes
+- Double Dragon (Nude Hack) [o1].nes
+- Double Dragon (Nude Hack).nes
+- Double Dragon (PC10) [b1].nes
+- Double Dragon (PC10).nes
+- Double Dragon (U) (Easy Type Hack).zip
+- Double Dragon (U) (Hard Type Hack).zip
+- Double Dragon (U) (PT-BR).zip
+- Double Dragon (U) [!].nes
+- Double Dragon (U) [b1].nes
+- Double Dragon (U) [b1][o1].nes
+- Double Dragon (U) [b2].nes
+- Double Dragon (U) [b2][T+Ger1.00_StarTrans].nes
+- Double Dragon (U) [b3].nes
+- Double Dragon (U) [o1].nes
+- Double Dragon (U) [o2].nes
+- Double Dragon (U) [o3].nes
+- Double Dragon (U) [T+Chi].nes
+- Double Dragon (U) [T+Chi][o1].nes
+- Double Dragon (U) [T+Chi_Foyi].nes
+- Double Dragon (U) [T+Chi_Foyi][o1].nes
+- Double Dragon (U) [T+Ger1.00_StarTrans].nes
+- Double Dragon (U) [T+Por1.1_BRGames].nes
+- Double Dragon (USA).nes
+- Double Dragon (USA).zip
+- Double Dragon by EmuWorld (Hack) [o1].nes
+- Double Dragon by EmuWorld (Hack).nes
+- Double Dragon II - Boss Edition by shinwa (Hack).zip
+- Double Dragon II - The Revenge (E) [!].nes
+- Double Dragon II - The Revenge (Europe).nes
+- Double Dragon II - The Revenge (Europe).zip
+- Double Dragon II - The Revenge (J) [o1].nes
+- Double Dragon II - The Revenge (J) [o1][T+Chi].nes
+- Double Dragon II - The Revenge (J) [p1].nes
+- Double Dragon II - The Revenge (J) [T+Chi].nes
+- Double Dragon II - The Revenge (J).nes
+- Double Dragon II - The Revenge (U) (PRG1) [!].nes
+- Double Dragon II - The Revenge (U) (PRG1) [b1].nes
+- Double Dragon II - The Revenge (U) (PRG1) [b2].nes
+- Double Dragon II - The Revenge (U) (PRG1) [b3].nes
+- Double Dragon II - The Revenge (U) (PRG1) [o1].nes
+- Double Dragon II - The Revenge (U) (PRG1) [o2].nes
+- Double Dragon II - The Revenge (U) (PRG1) [T+Bra1.0_T-devilfox G-POBRE].zip
+- Double Dragon II - The Revenge (U) (PRG1) [T+Fre].nes
+- Double Dragon II - The Revenge (U) (PRG1) [t1].nes
+- Double Dragon II - The Revenge (USA) (Rev A).nes
+- Double Dragon II - The Revenge (USA) (Rev A).zip
+- Double Dragon II - The Revenge (USA).nes
+- Double Dragon II - The Revenge (USA).zip
+- Double Dragon III - The Rosetta Stone (J) [o1].nes
+- Double Dragon III - The Rosetta Stone (J) [p1].nes
+- Double Dragon III - The Rosetta Stone (J) [T+Kor].nes
+- Double Dragon III - The Rosetta Stone (J).nes
+- Double Dragon III - The Rosetta Stone.zip
+- Double Dragon III - The Sacred Stones (E) [!p].nes
+- Double Dragon III - The Sacred Stones (Europe).nes
+- Double Dragon III - The Sacred Stones (Europe).zip
+- Double Dragon III - The Sacred Stones (U) (PT-BR).zip
+- Double Dragon III - The Sacred Stones (U) [!].nes
+- Double Dragon III - The Sacred Stones (U) [b1].nes
+- Double Dragon III - The Sacred Stones (U) [b1][o1].nes
+- Double Dragon III - The Sacred Stones (U) [b2].nes
+- Double Dragon III - The Sacred Stones (U) [b2][o1].nes
+- Double Dragon III - The Sacred Stones (U) [b3].nes
+- Double Dragon III - The Sacred Stones (U) [b4].nes
+- Double Dragon III - The Sacred Stones (U) [b5].nes
+- Double Dragon III - The Sacred Stones (U) [o1].nes
+- Double Dragon III - The Sacred Stones (U) [o2].nes
+- Double Dragon III - The Sacred Stones (U) [T+Chi].nes
+- Double Dragon III - The Sacred Stones (U) [T+Chi][o1].nes
+- Double Dragon III - The Sacred Stones (U) [T+Fre].nes
+- Double Dragon III - The Sacred Stones (U) [T+Por1.1_BRGames].nes
+- Double Dragon III - The Sacred Stones (U) [T+Spa1.0_Chilensis].nes
+- Double Dragon III - The Sacred Stones (U) [t1].nes
+- Double Dragon III - The Sacred Stones (USA).nes
+- Double Dragon III - The Sacred Stones (USA).zip
+- Double Dragon IV (Unl).nes
+- Double Dribble (E) [!].nes
+- Double Dribble (Europe).nes
+- Double Dribble (Europe).zip
+- Double Dribble (PC10) [b1].nes
+- Double Dribble (PC10).nes
+- Double Dribble (U) (PRG0) [!].nes
+- Double Dribble (U) (PRG0) [b1].nes
+- Double Dribble (U) (PRG0) [b2].nes
+- Double Dribble (U) (PRG0) [o1].nes
+- Double Dribble (U) (PRG0) [o2].nes
+- Double Dribble (U) (PRG0) [o3].nes
+- Double Dribble (U) (PRG0) [o4].nes
+- Double Dribble (U) (PRG0) [p1].nes
+- Double Dribble (U) (PRG1) [!].nes
+- Double Dribble (U) (PRG1) [b1].nes
+- Double Dribble (USA) (Rev A).nes
+- Double Dribble (USA) (Rev A).zip
+- Double Dribble (USA).nes
+- Double Dribble (USA).zip
+- Double Moon Densetsu (J) [o1].nes
+- Double Moon Densetsu (J) [T+EngBeta4_Kiwibonga].nes
+- Double Moon Densetsu (J) [T-EngBeta].nes
+- Double Moon Densetsu (J).nes
+- Double Strike - Aerial Attack Force (USA) (v1.0) (Unl).nes
+- Double Strike - Aerial Attack Force (USA) (v1.0) (Unl).zip
+- Double Strike - Aerial Attack Force (USA) (v1.1) (Unl).nes
+- Double Strike - Aerial Attack Force (USA) (v1.1) (Unl).zip
+- Double Strike (Unl) [!p].nes
+- Double Strike (Unl) [a1].nes
+- Double Strike (Unl) [b1].nes
+- Double Strike (Unl) [o1].nes
+- Dough Boy (J) [b1].nes
+- Dough Boy (J) [o1].nes
+- Dough Boy (J) [o2].nes
+- Dough Boy (J) [p1].nes
+- Dough Boy (J).nes
+- Dough Boy.zip
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [o1].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [o1][T+Chi1.0_Poe].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [T+Chi1.0_Poe].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [T+Eng.15_Disconnected].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J) [T+Kor].nes
+- Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J).nes
+- Downtown - Nekketsu Monogatari (J) [o1].nes
+- Downtown - Nekketsu Monogatari (J) [T+Chi].nes
+- Downtown - Nekketsu Monogatari (J) [T+Chi_AirTeam].nes
+- Downtown - Nekketsu Monogatari (J).nes
+- Downtown - Nekketsu Monogatari Girl Version (Hack).nes
+- Downtown - Nekketsu Monogatari Girl Version (Hack).zip
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [b1].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [o1].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [o1][T+Eng1.0_TechnosSamuraiTeam].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [T+Eng1.0_TechnosSamuraiTeam].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [T+Eng1.0_TechnosSamuraiTeam][a1].nes
+- Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J).nes
+- Dr Web (R) [!].nes
+- Dr Web 2 (R) [!].nes
+- Dr. Chaos (U) [!].nes
+- Dr. Chaos (U) [b1].nes
+- Dr. Chaos (U) [o1].nes
+- Dr. Chaos (USA).nes
+- Dr. Chaos (USA).zip
+- Dr. Jekyll and Mr. Hyde (U) [!].nes
+- Dr. Jekyll and Mr. Hyde (U) [b1].nes
+- Dr. Jekyll and Mr. Hyde (U) [b2].nes
+- Dr. Jekyll and Mr. Hyde (U) [o1].nes
+- Dr. Jekyll and Mr. Hyde (USA).nes
+- Dr. Jekyll and Mr. Hyde (USA).zip
+- Dr. Mario (Europe).nes
+- Dr. Mario (Europe).zip
+- Dr. Mario (Japan  USA) (Rev A).nes
+- Dr. Mario (Japan  USA).nes
+- Dr. Mario (JU) (PRG0) [T+Por100%_Altieres].zip
+- Dr. Mario (USA) (Beta) (1990-04-27).nes
+- Dr. Mario (USA) (Beta) (1990-04-27).zip
+- Dr. Mario (USA) (Beta) (Between 1990-02-02 & 1990-04-27  later).nes
+- Dr. Mario (USA) (Beta) (Between 1990-02-02 & 1990-04-27 later).zip
+- Drac s Night Out (U) (Prototype) [!].nes
+- Drac s Night Out (U) (Prototype) [o1].nes
+- Drac's Night Out (USA) (Proto).nes
+- Drac's Night Out (USA) (Proto).zip
+- Dragon Ball - Dai Maou Fukkatsu (J) [b1].nes
+- Dragon Ball - Dai Maou Fukkatsu (J) [b2].nes
+- Dragon Ball - Dai Maou Fukkatsu (J) [b3].nes
+- Dragon Ball - Dai Maou Fukkatsu (J) [hFFE].nes
+- Dragon Ball - Dai Maou Fukkatsu (J) [o1].nes
+- Dragon Ball - Dai Maou Fukkatsu (J).nes
+- Dragon Ball - Dragon Mystery (Hack).nes
+- Dragon Ball - Dragon Tricks (Hack).nes
+- Dragon Ball - Le Secret Du Dragon (F) [!].nes
+- Dragon Ball - Le Secret du Dragon (France) (Rev A).nes
+- Dragon Ball - Le Secret du Dragon (France) (Rev A).zip
+- Dragon Ball - Le Secret du Dragon (France).nes
+- Dragon Ball - Le Secret du Dragon (France).zip
+- Dragon Ball - Shen Long no Nazo (J) (PT-BR).zip
+- Dragon Ball - Shen Long no Nazo (J) [b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [b1][o1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hFFE][b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][b2].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][b3].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][b4].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM15][T-Eng].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM16].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM16][b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM16][b2].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b2].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b3].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b4].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b5].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b6].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][b7].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][o1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][o1][T+Eng1.11_TransBRC].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T+Eng1.11_TransBRC].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T+Eng1.11_TransBRC][a1].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T+Por1.00_TransBRC+CBT].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T+Por95%_CBT].nes
+- Dragon Ball - Shen Long no Nazo (J) [hM34][T-Eng1.0_TransBRC].nes
+- Dragon Ball - Shen Long no Nazo (J) [o1].nes
+- Dragon Ball - Shen Long no Nazo (J) [o2].nes
+- Dragon Ball - Shen Long no Nazo (J) [p1].nes
+- Dragon Ball - Shen Long no Nazo (J) [T+Eng].nes
+- Dragon Ball - Shen Long no Nazo (J).nes
+- Dragon Ball 3 - Gokuu Den (J) [a1].nes
+- Dragon Ball 3 - Gokuu Den (J) [hFFE].nes
+- Dragon Ball 3 - Gokuu Den (J) [hFFE][b1].nes
+- Dragon Ball 3 - Gokuu Den (J) [T+Eng0.15_Dodgy].nes
+- Dragon Ball 3 - Gokuu Den (J).nes
+- Dragon Ball Party [p1][!].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) (PT-BR).zip
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [b1].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [b2].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [b3].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [o1].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [p1].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [p1][T+Por100].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Eng0.47_Eigo ni Yakusu Productions].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Eng1.01_RedComet].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Eng1.1].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Por100%_RaphFS].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Por45%_Tradu-Roms].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T+Spa_PaladinKnights].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Eng].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Eng0.50_TransBRC].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Eng0.99_RedComet].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Eng1.00_RedComet].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J) [T-Spa].nes
+- Dragon Ball Z - Kyoushuu! Saiya Jin (J).nes
+- Dragon Ball Z - Super Butouden 2 (Unl) [b1].nes
+- Dragon Ball Z - Super Butouden 2 (Unl) [hM04].nes
+- Dragon Ball Z - Super Butouden 2 (Unl).nes
+- Dragon Ball Z 5 (Ch).nes
+- Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J) [b1].nes
+- Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J) [o1].nes
+- Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J) [T+Eng0.05_Saiya].nes
+- Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J).nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [b1].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [hFFE][p1].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [hFFE][p1][b1].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [o1].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [T+Eng0.35_Omniverse].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [T+Eng0.70_Saiya].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J) [T+Spa70%_PaladinKnights].nes
+- Dragon Ball Z II - Gekishin Freeza!! (J).nes
+- Dragon Ball Z II - Gekishin Freeza!! (Japan) (Rev 1).nes
+- Dragon Ball Z II - Gekishin Freeza!! (Japan).nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1][b1].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1][b2].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1][b3].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [hFFE][p1][b4].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [o1].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [T+Eng].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [T+Ger010].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [T+Ger10%_Sven Rech].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J) [T+Spa70%_PaladinKnights].nes
+- Dragon Ball Z III - Ressen Jinzou Ningen (J).nes
+- Dragon Buster (J) [b1].nes
+- Dragon Buster (J) [h1].nes
+- Dragon Buster (J) [o1].nes
+- Dragon Buster (J) [T+Fre1.0_ks151].nes
+- Dragon Buster (J).nes
+- Dragon Buster II - Yami no Fuuin (J) [b1].nes
+- Dragon Buster II - Yami no Fuuin (J) [o1].nes
+- Dragon Buster II - Yami no Fuuin (J) [T+Eng1.0_PentarouZero].nes
+- Dragon Buster II - Yami no Fuuin (J).nes
+- Dragon Destiny V0.12 (Destiny of an Emperor Hack) [o1].nes
+- Dragon Destiny V0.12 (Destiny of an Emperor Hack).nes
+- Dragon Fighter (J) [o1].nes
+- Dragon Fighter (J).nes
+- Dragon Fighter (U) [!].nes
+- Dragon Fighter (U) [b1].nes
+- Dragon Fighter (U) [o1].nes
+- Dragon Fighter (U) [o2].nes
+- Dragon Fighter (USA).nes
+- Dragon Fighter (USA).zip
+- Dragon Ninja (J) [o1].nes
+- Dragon Ninja (J) [p1][!].nes
+- Dragon Ninja (J).nes
+- Dragon Pervert by Spooky Kids (Dragon Warrior Hack) [a1].nes
+- Dragon Pervert by Spooky Kids (Dragon Warrior Hack) [a1][o1].nes
+- Dragon Pervert by Spooky Kids (Dragon Warrior Hack) [o1].nes
+- Dragon Pervert by Spooky Kids (Dragon Warrior Hack).nes
+- Dragon Pervert by Spooky Kids (Older) (Dragon Warrior Hack) [o1].nes
+- Dragon Pervert by Spooky Kids (Older) (Dragon Warrior Hack).nes
+- Dragon Power (U) [!].nes
+- Dragon Power (U) [b1].nes
+- Dragon Power (U) [b2].nes
+- Dragon Power (U) [o1].nes
+- Dragon Power (USA).nes
+- Dragon Power (USA).zip
+- Dragon Quest (J) [b1].nes
+- Dragon Quest (J) [b1][o1].nes
+- Dragon Quest (J) [b1][o2].nes
+- Dragon Quest (J) [b2].nes
+- Dragon Quest (J) [b3].nes
+- Dragon Quest (J) [T+Chi90%_ROMQUEST][b1].nes
+- Dragon Quest (J) [T+Chi90%_ROMQUEST][o1][b1].nes
+- Dragon Quest (J).nes
+- Dragon Quest 34 (DQ3 Hack) [o1].nes
+- Dragon Quest 34 (DQ3 Hack).nes
+- Dragon Quest II (J) [b1].nes
+- Dragon Quest II (J) [b2].nes
+- Dragon Quest II (J) [f1].nes
+- Dragon Quest II (J) [f2].nes
+- Dragon Quest II (J) [o1].nes
+- Dragon Quest II (J).nes
+- Dragon Quest III (J) [f1].nes
+- Dragon Quest III (J) [f1][o1].nes
+- Dragon Quest III (J) [f1][o2].nes
+- Dragon Quest III (J) [f1][o3].nes
+- Dragon Quest III (J) [f1][o4].nes
+- Dragon Quest III (J) [o1].nes
+- Dragon Quest III (J) [T+Eng0.0111_Spinner_8].nes
+- Dragon Quest III (J).nes
+- Dragon Quest IV (J) [b1].nes
+- Dragon Quest IV (J) [b2].nes
+- Dragon Quest IV (J) [b3].nes
+- Dragon Quest IV (J) [b4].nes
+- Dragon Quest IV (J) [o1].nes
+- Dragon Quest IV (J) [o2].nes
+- Dragon Quest IV (J) [o3].nes
+- Dragon Quest IV (J).nes
+- Dragon Quest IV (Unl) [b1].nes
+- Dragon Quest IV (Unl).nes
+- Dragon Quest IV Mayuge V1.0 (DQ4 Hack).nes
+- Dragon s Lair (E) [!p].nes
+- Dragon s Lair (J) [b1].nes
+- Dragon s Lair (J).nes
+- Dragon s Lair (U) [!].nes
+- Dragon s Lair (U) [b1].nes
+- Dragon s Lair (U) [o1].nes
+- Dragon s Lair (U) [o2].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [!].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [hFFE].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [hFFE][a1].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [hFFE][b1].nes
+- Dragon Scroll - Yomigaerishi Maryuu (J) [o1].nes
+- Dragon Slayer 4 - Drasle Family (J) [b1].nes
+- Dragon Slayer 4 - Drasle Family (J) [b2].nes
+- Dragon Slayer 4 - Drasle Family (J) [b3].nes
+- Dragon Slayer 4 - Drasle Family (J) [T+Chi].nes
+- Dragon Slayer 4 - Drasle Family (J).nes
+- Dragon Spirit - Aratanaru Densetsu (J) [b1].nes
+- Dragon Spirit - Aratanaru Densetsu (J) [hFFE].nes
+- Dragon Spirit - Aratanaru Densetsu (J) [hM04].nes
+- Dragon Spirit - Aratanaru Densetsu (J) [o1].nes
+- Dragon Spirit - Aratanaru Densetsu (J).nes
+- Dragon Spirit - The New Legend (U) (PT-BR).zip
+- Dragon Spirit - The New Legend (U) [!].nes
+- Dragon Spirit - The New Legend (U) [o1].nes
+- Dragon Spirit - The New Legend (U) [T+Por100%_BRGames].nes
+- Dragon Spirit - The New Legend (U) [T+Rus].nes
+- Dragon Spirit - The New Legend (USA).nes
+- Dragon Spirit - The New Legend (USA).zip
+- Dragon Unit (J) [p1].nes
+- Dragon Unit (J).nes
+- Dragon Warrior - Chocobo DW V0.3 (Dragon Warrior Hack).zip
+- Dragon Warrior - Dragoon X Final by Sliver X (Original).zip
+- Dragon Warrior - Dragoon X Omega V2.0f Gold.zip
+- Dragon Warrior - Super Mario Remix 2 v1.0 (Incomplete).zip
+- Dragon Warrior (U) (PRG0) [!] - Special Edition V1.3a.zip
+- Dragon Warrior (U) (PRG0) [!].nes
+- Dragon Warrior (U) (PRG0) [b1].nes
+- Dragon Warrior (U) (PRG0) [b1][o1].nes
+- Dragon Warrior (U) (PRG0) [b2].nes
+- Dragon Warrior (U) (PRG0) [o1].nes
+- Dragon Warrior (U) (PRG0) [o2].nes
+- Dragon Warrior (U) (PRG0) [o3].nes
+- Dragon Warrior (U) (PRG0) [T+Fre].nes
+- Dragon Warrior (U) (PRG0) [T+FreBeta_Generation IX].nes
+- Dragon Warrior (U) (PRG0) [T+Ger0.95_alemanic].nes
+- Dragon Warrior (U) (PRG0) [T+Ger0.95_alemanic][o1].nes
+- Dragon Warrior (U) (PRG0) [T+Ger1.00_TranX].nes
+- Dragon Warrior (U) (PRG0) [T+Ita1.0f Jeg].nes
+- Dragon Warrior (U) (PRG0) [T+Por1.1_CBT].nes
+- Dragon Warrior (U) (PRG0) [T+Por1.1_CBT][o1].nes
+- Dragon Warrior (U) (PRG0) [T+Swe1.0_General CoolNES].nes
+- Dragon Warrior (U) (PRG0) [T-Ger3%_alemanic].nes
+- Dragon Warrior (U) (PRG1) [!].nes
+- Dragon Warrior (U) (PRG1) [T+Rus_MJOLNIR Vlad].nes
+- Dragon Warrior (U) (PRG1) [T+Rus_MJOLNIR Vlad][o1].nes
+- Dragon Warrior (USA) (Rev A).nes
+- Dragon Warrior (USA) (Rev A).zip
+- Dragon Warrior (USA).nes
+- Dragon Warrior (USA).zip
+- Dragon Warrior by CRTJ (Hack) [o1].nes
+- Dragon Warrior by CRTJ (Hack).nes
+- Dragon Warrior by EDS (Hack) [o1].nes
+- Dragon Warrior by EDS (Hack).nes
+- Dragon Warrior Enhanced (Hack) [o1].nes
+- Dragon Warrior Enhanced (Hack).nes
+- Dragon Warrior Fuck Hack by Trixy (Hack) [o1].nes
+- Dragon Warrior Fuck Hack by Trixy (Hack).nes
+- Dragon Warrior II (U) [!].nes
+- Dragon Warrior II (U) [o1].nes
+- Dragon Warrior II (U) [o2].nes
+- Dragon Warrior II (USA).nes
+- Dragon Warrior II (USA).zip
+- Dragon Warrior III (U) (PRG0) [!].nes
+- Dragon Warrior III (U) (PRG0) [b1].nes
+- Dragon Warrior III (U) (PRG0) [b1][o1].nes
+- Dragon Warrior III (U) (PRG0) [b2].nes
+- Dragon Warrior III (U) (PRG0) [b2][o1].nes
+- Dragon Warrior III (U) (PRG0) [b3].nes
+- Dragon Warrior III (U) (PRG0) [b4].nes
+- Dragon Warrior III (U) (PRG0) [b5].nes
+- Dragon Warrior III (U) (PRG0) [b6].nes
+- Dragon Warrior III (U) (PRG0) [o1].nes
+- Dragon Warrior III (U) (PRG0) [o2].nes
+- Dragon Warrior III (U) (PRG0) [T+Fre1.0_Generation IX].nes
+- Dragon Warrior III (U) (PRG0) [T+Por1.1_CBT].nes
+- Dragon Warrior III (U) (PRG0) [T-FreBeta_Generation IX].nes
+- Dragon Warrior III (U) (PRG0) [T-Por_CBT].nes
+- Dragon Warrior III (U) (PT-BR).zip
+- Dragon Warrior III (USA).nes
+- Dragon Warrior III (USA).zip
+- Dragon Warrior III Special Ed. V0.5 (Hack).nes
+- Dragon Warrior IV (U) [!].nes
+- Dragon Warrior IV (U) [b1].nes
+- Dragon Warrior IV (U) [o1].nes
+- Dragon Warrior IV (U) [o2].nes
+- Dragon Warrior IV (U) [o3].nes
+- Dragon Warrior IV (U) [o4].nes
+- Dragon Warrior IV (U) [o5].nes
+- Dragon Warrior IV (U) [o6].nes
+- Dragon Warrior IV (USA).nes
+- Dragon Warrior IV (USA).zip
+- Dragon Warrior Plus by interordi V0.33 (PRG0 Hack) [o1].nes
+- Dragon Warrior Plus by interordi V0.33 (PRG0 Hack).nes
+- Dragon Warrior Plus by interordi V0.33 (PRG1 Hack) [o1].nes
+- Dragon Warrior Plus by interordi V0.33 (PRG1 Hack).nes
+- Dragon Warrior Special Edition V1.3 (Hack) [o1].nes
+- Dragon Warrior Special Edition V1.3 (Hack).nes
+- Dragon Warrior Trip V1.0 (Hack) [a1].nes
+- Dragon Warrior Trip V1.0 (Hack) [o1].nes
+- Dragon Warrior Trip V1.0 (Hack).nes
+- Dragon Wars (J).nes
+- Dragon Wars (USA) (Proto).nes
+- Dragon Wars (USA) (Proto).zip
+- Dragon, The (Unl) [b1].nes
+- Dragon, The (Unl) [p1][!].nes
+- Dragon, The (Unl).nes
+- Dragon's Lair (Europe).nes
+- Dragon's Lair (Europe).zip
+- Dragon's Lair (USA).nes
+- Dragon's Lair (USA).zip
+- Dragoon X by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Final by Sliver X (Dragon Warrior Hack) [o1].nes
+- Dragoon X Final by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V0.91 by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V0.98 by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V1.00 by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V2.0 by Sliver X (Dragon Warrior Hack) [o1].nes
+- Dragoon X Omega V2.0 by Sliver X (Dragon Warrior Hack).nes
+- Dragoon X Omega V2.0f Gold by Sliver X (Dragon Warrior Hack) [o1].nes
+- Dragoon X Omega V2.0f Gold by Sliver X (Dragon Warrior Hack).nes
+- Draiocht.zip
+- Draque Buster (Dragon Buster Hack).nes
+- Dream Master (J) [b1].nes
+- Dream Master (J) [b1][o1].nes
+- Dream Master (J) [b2].nes
+- Dream Master (J) [b3].nes
+- Dream Master (J) [b4].nes
+- Dream Master (J).nes
+- Dreamworld Pogie (Unknown) (Proto 1) (Unl).zip
+- Dreamworld Pogie (Unknown) (Proto 2) (Unl).zip
+- Drop Zone (E) [b1].nes
+- Drop Zone (E).nes
+- Dropoff 7 Demo by Memblers (PD).nes
+- Dropzone (Europe).nes
+- Dropzone (Europe).zip
+- Duck (Unl) [o1].nes
+- Duck (Unl).nes
+- Duck Hunt (JU) [!].nes
+- Duck Hunt (JU) [b1].nes
+- Duck Hunt (JU) [b2].nes
+- Duck Hunt (JU) [o1].nes
+- Duck Hunt (JU) [o2].nes
+- Duck Hunt (JU) [p1].nes
+- Duck Hunt (JU) [p1][o1].nes
+- Duck Hunt (JU) [p1][T+Fre].nes
+- Duck Hunt (JU) [p2].nes
+- Duck Hunt (JU) [p3].nes
+- Duck Hunt (JU) [p3][b1][o1].nes
+- Duck Hunt (JU) [p3][o1].nes
+- Duck Hunt (JU) [p3][o2].nes
+- Duck Hunt (JU) [T+Dut1.1_OK Impala!].nes
+- Duck Hunt (JU) [T+Fre].nes
+- Duck Hunt (JU) [T-Dut1.0_OK Impala!].nes
+- Duck Hunt (PC10) [T+Fre1.1_ks151].nes
+- Duck Hunt (PC10).nes
+- Duck Hunt (VS) [b1].nes
+- Duck Hunt (VS).nes
+- Duck Hunt (World).zip
+- Duck Maze (Australia) (Unl).zip
+- Duck Maze (HES) [!].nes
+- Duck Tales (E).nes
+- Duck Tales (U) (Prototype).nes
+- Duck Tales (U) (PT-BR).zip
+- Duck Tales (U) [!].nes
+- Duck Tales (U) [b1].nes
+- Duck Tales (U) [b1][o1].nes
+- Duck Tales (U) [b2].nes
+- Duck Tales (U) [o1].nes
+- Duck Tales (U) [o2].nes
+- Duck Tales (U) [o3].nes
+- Duck Tales (U) [T+Fre].nes
+- Duck Tales (U) [T+FreBeta_Generation IX].nes
+- Duck Tales (U) [T+Por1.0_CBT].nes
+- Duck Tales (U) [T+Por90%_Emuroms].nes
+- Duck Tales (U) [T+Swe1.0_GeneralCoolNES].nes
+- Duck Tales (U) [T+Swe2.0_TheTranslator].nes
+- Duck Tales 2 (E) (Prototype).nes
+- Duck Tales 2 (E) [!].nes
+- Duck Tales 2 (F) [!].nes
+- Duck Tales 2 (J).nes
+- Duck Tales 2 (U) (PT-BR).zip
+- Duck Tales 2 (U) [!].nes
+- Duck Tales 2 (U) [o1].nes
+- Duck Tales 2 (U) [o2].nes
+- Duck Tales 2 (U) [o3].nes
+- Duck Tales 2 (U) [o4].nes
+- Duck Tales 2 (U) [T+Fre(Cigarette Patch featuring GreatSkaori)].nes
+- Duck Tales 2 (U) [T+Por100%_BRTranslations].nes
+- Duck Tales III (Duck Tales) [p1][!].nes
+- Duck.zip
+- DuckTales (Europe).nes
+- DuckTales (Europe).zip
+- DuckTales (USA) (Beta).nes
+- DuckTales (USA) (Beta).zip
+- DuckTales (USA).nes
+- DuckTales (USA).zip
+- DuckTales 2 (Europe) (Beta).nes
+- DuckTales 2 (Europe) (Beta).zip
+- DuckTales 2 (Europe).nes
+- DuckTales 2 (Europe).zip
+- DuckTales 2 (France).nes
+- DuckTales 2 (France).zip
+- DuckTales 2 (Germany).zip
+- DuckTales 2 (USA).nes
+- DuckTales 2 (USA).zip
+- Dudes With Attitude (Unl) [!].nes
+- Dudes With Attitude (Unl) [b1].nes
+- Dudes With Attitude (Unl) [b2].nes
+- Dudes With Attitude (Unl) [o1].nes
+- Dudes with Attitude (USA) (Rev 1) (Unl).nes
+- Dudes with Attitude (USA) (Rev 1) (Unl).zip
+- Dudes with Attitude (USA) (Unl).nes
+- Dudes with Attitude (USA) (Unl).zip
+- Duel, The by Bokudono (PD).nes
+- Dungeon _ Magic - Swords of Element (J) [!].nes
+- Dungeon _ Magic - Swords of Element (J) [b1].nes
+- Dungeon _ Magic - Swords of Element (J) [o1].nes
+- Dungeon Kid (J) [b1].nes
+- Dungeon Kid (J).nes
+- Dungeon Magic - Sword of the Elements (U) [!].nes
+- Dungeon Magic - Sword of the Elements (U) [b1].nes
+- Dungeon Magic - Sword of the Elements (U) [o1].nes
+- Dungeon Magic - Sword of the Elements (U) [o2].nes
+- Dungeon Magic - Sword of the Elements (U) [o3].nes
+- Dungeon Magic - Sword of the Elements (USA).nes
+- Dungeon Magic - Sword of the Elements (USA).zip
+- Duo Bao Xiao Ying Hao - Guang Ming yu An Hei Chuan Shuo (Ch) [a1].nes
+- Duo Bao Xiao Ying Hao - Guang Ming yu An Hei Chuan Shuo (Ch) [b1].nes
+- Duo Bao Xiao Ying Hao - Guang Ming yu An Hei Chuan Shuo (Ch).nes
+- Dusty Diamond s All-Star Softball (U) [!p].nes
+- Dusty Diamond s All-Star Softball (U) [b1].nes
+- Dusty Diamond s All-Star Softball (U) [b2].nes
+- Dusty Diamond s All-Star Softball (U) [o1].nes
+- Dusty Diamond's All-Star Softball (USA).nes
+- Dusty Diamond's All-Star Softball (USA).zip
+- Dynablaster (E).nes
+- Dynablaster (Europe).nes
+- Dynablaster (Europe).zip
+- Dynamite Batman (J) [hFFE][p1].nes
+- Dynamite Batman (J) [hFFE][p1][b1].nes
+- Dynamite Batman (J) [hFFE][p1][o1].nes
+- Dynamite Batman (J).nes
+- Dynamite Bowl (J) [o1].nes
+- Dynamite Bowl (J) [o2].nes
+- Dynamite Bowl (J) [p1][!].nes
+- Dynamite Bowl (J).nes
+- Dynowarz - Destruction of Spondylus (USA).nes
+- Dynowarz - Destruction of Spondylus (USA).zip
+- Dynowarz - The Destruction of Spondylus (U) [!].nes
+- Dynowarz - The Destruction of Spondylus (U) [b1].nes
+- Dynowarz - The Destruction of Spondylus (U) [b2].nes
+- Dynowarz - The Destruction of Spondylus (U) [b3].nes
+- Dynowarz - The Destruction of Spondylus (U) [b4].nes
+- Dynowarz - The Destruction of Spondylus (U) [b5].nes
+- Dynowarz - The Destruction of Spondylus (U) [o1].nes
+- E.T. - The Extra Terrestrial (KHAN Games) (PD).zip
+- EAC 2001 3-in-1 by Mankeli (PD) [a1].nes
+- EAC 2001 3-in-1 by Mankeli (PD).nes
+- Earth Bound (USA) (Proto).nes
+- Earth Bound (USA) (Proto).zip
+- Earthbound (U) (Prototype) [b1].nes
+- Earthbound (U) (Prototype) [h1] (Time Hack).nes
+- Earthbound (U) (Prototype) [h2].nes
+- Earthbound (U) (Prototype) [h3].nes
+- Earthbound (U) (Prototype) [h4].nes
+- Earthbound (U) (Prototype) [o1].nes
+- Earthbound (U) (Prototype) [T+Ger1.0_GTrans].nes
+- Earthbound (U) (Prototype) [T+Ger1.0_GTrans][a1].nes
+- Earthbound (U) (Prototype).nes
+- Earthbound Alpha (Hack).nes
+- Earthbound Zero (Demiforce Hack).nes
+- Earthbound Zero (Demiforce v1.01-1 Hack) [b1].nes
+- Earthbound Zero (Demiforce v1.01-1 Hack) [b2].nes
+- Earthbound Zero (Demiforce v1.01-1 Hack).nes
+- Earthbound Zero (Demiforce v1.01-2 Hack) [o1].nes
+- Earthbound Zero (Demiforce v1.01-2 Hack).nes
+- EarthWorm Jim 2 (Unl) [p1][!].nes
+- EarthWorm Jim 2 (Unl) [p1][f1].nes
+- EarthWorm Jim 3 (Unl) [!].nes
+- EarthWorm Jim 3 (Unl) [a1].nes
+- Easy Final Fantasy (FF1 Hack).nes
+- Education Games 18-in-1 (Ch) [a1].nes
+- Education Games 18-in-1 (Ch).nes
+- Eggland - Meikyuu no Fukkatsu (J) [o1].nes
+- Eggland - Meikyuu no Fukkatsu (J).nes
+- Egypt (J) [o1].nes
+- Egypt (J) [T+Eng0.90_Magic Destiny].nes
+- Egypt (J) [T+Eng1.00_Dodgy].nes
+- Egypt (J) [T+FreBeta_Generation IX].nes
+- Egypt (J) [T+Unk_Ramah].nes
+- Egypt (J) [T-Eng0.50_Dodgy].nes
+- Egypt (J).nes
+- Eight Beasts 2 V2.01 by Matrixz (Megaman II Hack).nes
+- Elemental Resurrection 3 (V0.2) by Matrixz (Megaman III Hack).nes
+- Elevator Action - Matrix The (Elevator Action Hack).zip
+- Elevator Action (J) [o1].nes
+- Elevator Action (J) [o2].nes
+- Elevator Action (J) [o3].nes
+- Elevator Action (J) [o4].nes
+- Elevator Action (J) [p1].nes
+- Elevator Action (J).nes
+- Elevator Action (U) [!].nes
+- Elevator Action (U) [o1].nes
+- Elevator Action (USA).nes
+- Elevator Action (USA).zip
+- Eliminator Boat Dual (E) [!].nes
+- Eliminator Boat Duel (Europe).nes
+- Eliminator Boat Duel (Europe).zip
+- Eliminator Boat Duel (U) [!].nes
+- Eliminator Boat Duel (U) [b1].nes
+- Eliminator Boat Duel (U) [o1].nes
+- Eliminator Boat Duel (U) [o2].nes
+- Eliminator Boat Duel (USA).nes
+- Eliminator Boat Duel (USA).zip
+- Elite (E) [!p].nes
+- Elite (Europe) (En Fr De).nes
+- Elite (Europe) (En Fr De).zip
+- Elite (USA) (Proto) [b].nes
+- Elite (USA) (Proto) [b].zip
+- Elite by Ian Bell _ David Braben (NTSC Hack) [o1].nes
+- Elite by Ian Bell _ David Braben (NTSC Hack).nes
+- Elysion (J) [!].nes
+- Elysion (J) [hFFE].nes
+- Elysion (J) [o1].nes
+- Emo Yan no 10 Bai Pro Yakyuu (J) [b1].nes
+- Emo Yan no 10 Bai Pro Yakyuu (J) [o1].nes
+- Emo Yan no 10 Bai Pro Yakyuu (J).nes
+- Empereur  L' (USA).nes
+- Empereur L' (USA).zip
+- Empire Invaders (Space Invaders Hack) [o1].nes
+- Empire Invaders (Space Invaders Hack).nes
+- Endless mission.nes
+- Energy Warrior 1.nes
+- Energy Warrior 2.nes
+- English Word Blaster V1.0 (Unl) [!].nes
+- English Word Blaster V1.0 (Unl) [b1].nes
+- Entertainment 3 in 1.nes
+- EraserHead (SMB1 Hack).nes
+- Eric Cantona Football Challenge - Goal! 2 (Europe).nes
+- Eric Cantona Football Challenge - Goal! 2 (Europe).zip
+- Eric Goal! 2 (E) [b1].nes
+- Eric Goal! 2 (E).nes
+- Erika to Satoru no Yume Bouken (J) [f1].nes
+- Erika to Satoru no Yume Bouken (J) [f1][o1].nes
+- Erika to Satoru no Yume Bouken (J) [hM04].nes
+- Erika to Satoru no Yume Bouken (J).nes
+- Ernie _ The Muppets Take It All Off (Sesame Street ABC Hack).nes
+- Erunaaku no Zaihou (J) [a1].nes
+- Erunaaku no Zaihou (J) [b1].nes
+- Erunaaku no Zaihou (J).nes
+- Escape from Atlantis  The (USA) (Proto 1) (Unl).nes
+- Escape from Atlantis  The (USA) (Proto 2) (Unl).nes
+- Escape from Atlantis The (USA) (Proto 1) (Unl).zip
+- Escape from Atlantis The (USA) (Proto 2) (Unl).zip
+- Escape From Atlantis, The (Prototype-1).nes
+- Escape From Atlantis, The (Prototype-2).nes
+- Escape From Base 57 V1.0 by BMF54123 (Bomberman Hack).nes
+- Escape From Planet Transexual (SMB1 Hack).nes
+- Escape From Pong Rev 2 by Adam Gashlin (PD).nes
+- Escape From Pong Rev 4 by Adam Gashlin (PD).nes
+- Escape From Pong Rev 4bw by Adam Gashlin (PD).nes
+- Eskimo Bob Deluxe Edition.zip
+- Esper Bouken Tai (J) [f1].nes
+- Esper Bouken Tai (J) [o1].nes
+- Esper Bouken Tai (J).nes
+- Esper Dream 2 - Aratanaru Tatakai (J) [o1].nes
+- Esper Dream 2 - Aratanaru Tatakai (J).nes
+- Europe Sensen (Unl).nes
+- EverQuest (Ch) [!].nes
+- EverQuest (Ch) [b1].nes
+- Evil Kirby (Kirby s Adventure Hack).nes
+- Evil Z 3 (SMB3 PRG1 Hack).nes
+- Excitebike (E) [!p].nes
+- Excitebike (Europe).nes
+- Excitebike (Europe).zip
+- Excitebike (GBA e-Reader) (U).nes
+- Excitebike (GC).nes
+- Excitebike (Japan  USA).nes
+- Excitebike (JU) (PT-BR).zip
+- Excitebike (JU) [!].nes
+- Excitebike (JU) [b1].nes
+- Excitebike (JU) [b1][o1].nes
+- Excitebike (JU) [b2].nes
+- Excitebike (JU) [b2][o1].nes
+- Excitebike (JU) [b3].nes
+- Excitebike (JU) [b4].nes
+- Excitebike (JU) [o1].nes
+- Excitebike (JU) [o1][T+Por].nes
+- Excitebike (JU) [o2].nes
+- Excitebike (JU) [o3].nes
+- Excitebike (JU) [o4].nes
+- Excitebike (JU) [o5].nes
+- Excitebike (JU) [p1].nes
+- Excitebike (JU) [p1][o1].nes
+- Excitebike (JU) [T+Chi].nes
+- Excitebike (JU) [T+Pol].nes
+- Excitebike (JU) [T+Por99%_EmuSamba].nes
+- Excitebike (JU) [T+Por99%_EmuSamba][o1].nes
+- Excitebike (JU) [T+Spa].nes
+- Excitebike (JU) [T+Spa][o1].nes
+- Excitebike (JU) [T+Spa][o2].nes
+- Excitebike (PC10) [T+Fre1.0_ks151].nes
+- Excitebike (PC10).nes
+- Excitebike (USA) (GameCube Edition).nes
+- Excitebike (USA) (GameCube Edition).zip
+- Excitebike (VS) [a1].nes
+- Excitebike (VS).nes
+- Excitebike 2.zip
+- Excitebike Bug (Hack) [o1].nes
+- Excitebike Bug (Hack) [o2].nes
+- Excitebike Bug (Hack).nes
+- Excitebike Unicycle (Hack) [o1].nes
+- Excitebike Unicycle (Hack) [o2].nes
+- Excitebike Unicycle (Hack).nes
+- Exciting Boxing (J) [o1].nes
+- Exciting Boxing (J).nes
+- Exciting Rally - World Rally Championship (J) [o1].nes
+- Exciting Rally - World Rally Championship (J) [T+Eng1.00_Klepto_Software].nes
+- Exciting Rally - World Rally Championship (J).nes
+- Exciting! Amusement Park.zip
+- Exed Exes (J) [o1].nes
+- Exed Exes (J) [o2].nes
+- Exed Exes (J) [o3].nes
+- Exed Exes (J) [p1].nes
+- Exed Exes (J).nes
+- Exed Exes.zip
+- Exerion (J) [b1].nes
+- Exerion (J) [b2].nes
+- Exerion (J) [b3].nes
+- Exerion (J) [b4].nes
+- Exerion (J) [b5].nes
+- Exerion (J) [b6].nes
+- Exerion (J) [o1].nes
+- Exerion (J) [p1].nes
+- Exerion (J) [p1][o1].nes
+- Exerion (J).nes
+- Exerion (Japan) (En) (Proto) [b].nes
+- Exerion (Japan) (En).nes
+- Exerion.zip
+- Exodus - Journey to the Promised Land (USA) (v4.0) (Unl).nes
+- Exodus - Journey to the Promised Land (USA) (v4.0) (Unl).zip
+- Exodus - Journey to the Promised Land (USA) (v5.0) (Unl).nes
+- Exodus - Journey to the Promised Land (USA) (v5.0) (Unl).zip
+- Exodus (Unl) (V4.0) [!].nes
+- Exodus (Unl) (V4.0) [b1].nes
+- Exodus (Unl) (V4.0) [o1].nes
+- Expedition.zip
+- Exploding Fist (USA) (Proto 1).nes
+- Exploding Fist (USA) (Proto 1).zip
+- Exploding Fist (USA) (Proto 2).nes
+- Exploding Fist (USA) (Proto 2).zip
+- F1 Circus (J).nes
+- F-1 Race (J) [b1].nes
+- F-1 Race (J) [b1][o1].nes
+- F-1 Race (J) [b1][o2].nes
+- F-1 Race (J) [p1].nes
+- F-1 Race (J) [p1][o1].nes
+- F-1 Race (J) [T+Chi_MS emumax].nes
+- F-1 Race (J).nes
+- F1 Race.zip
+- F-1 Sensation (J).nes
+- F-1 ???? (??) (??).nes
+- F-1 ???? (??) (??).nes
+- F-1 ???? (??) (??).nes
+- F-1 ??? (??) (??).nes
+- F-1 ??? (??) (??).nes
+- F-117A - Stealth Fighter (USA).nes
+- F-117A - Stealth Fighter (USA).zip
+- F-117A Stealth Fighter (U) [!].nes
+- F-117A Stealth Fighter (U) [o1].nes
+- F-117A ???? (??) (????).nes
+- f117a??????????.zip
+- F15 City War (Spain) (Gluk Video) (Unl).zip
+- F-15 City War (Unl) (REV1.1) [!].nes
+- F-15 City War (Unl) (REV1.x) [!p].nes
+- F-15 City War (Unl) (REV1.x) [a1].nes
+- F-15 City War (Unl) (REV1.x) [b1].nes
+- F-15 City War (Unl) (REV1.x) [b2].nes
+- F-15 City War (Unl) (REV1.x) [b3].nes
+- F-15 City War (Unl) (REV1.x) [b4].nes
+- F-15 City War (Unl) (REV1.x) [o1].nes
+- F15 City War (USA) (v1.0) (Unl).nes
+- F15 City War (USA) (v1.0) (Unl).zip
+- F15 City War (USA) (v1.1) (Unl).nes
+- F15 City War (USA) (v1.1) (Unl).zip
+- F-15 Strike Eagle (Europe).nes
+- F-15 Strike Eagle (Europe).zip
+- F-15 Strike Eagle (F) (M3) [!].nes
+- F-15 Strike Eagle (France) (En Fr Nl).nes
+- F-15 Strike Eagle (France) (En Fr Nl).zip
+- F-15 Strike Eagle (Germany).zip
+- F-15 Strike Eagle (Italy).zip
+- F-15 Strike Eagle (Sweden) (Sv Da Fi).zip
+- F-15 Strike Eagle (U) [!].nes
+- F-15 Strike Eagle (U) [b1].nes
+- F-15 Strike Eagle (U) [o1].nes
+- F-15 Strike Eagle (USA).nes
+- F-15 Strike Eagle (USA).zip
+- F-15 ???? (??) (V1.0) (??).nes
+- F-15 ???? (??) (V1.1) (??).nes
+- F-15 ???? (????) (????).nes
+- F-15 ???? (??) (????).nes
+- F-15 ???? (??) (????).nes
+- F-15 ???? (???) (????).nes
+- F-15 ???? (??) (????).nes
+- f15??????v1.0??.zip
+- f15??????v1.1??.zip
+- f15????????????.zip
+- f15??????????.zip
+- f15???????????.zip
+- f15??????????.zip
+- f15??????????1.zip
+- f1????????.zip
+- f1????????.zip
+- f1????????.zip
+- f1???????.zip
+- f1???????.zip
+- f1?????.zip
+- f1?????1.zip
+- Facemaker (Dr. PC Jr.) (Ch).nes
+- Fade to Black by Frederik Schultz _ Morgan Johansson (PD).nes
+- Famicom Disk System BIOS (J) [b1].nes
+- Famicom Disk System BIOS (J).nes
+- Famicom Doubutsu Seitai Zukan! - Katte ni Shirokuma - Mori wo Sukue no Maki! (J) [!].nes
+- Famicom Igo Nyuumon (J) [o1].nes
+- Famicom Igo Nyuumon (J).nes
+- Famicom Jump - Eiyuu Retsuden (J) [f1].nes
+- Famicom Jump - Eiyuu Retsuden (J).nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [b1].nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [hFFE].nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [hFFE][a1].nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [hFFE][b1].nes
+- Famicom Jump II - Saikyou no 7 Nin (J) [o1].nes
+- Famicom Jump II - Saikyou no 7 Nin (J).nes
+- Famicom Meijin Sen (J) [o1].nes
+- Famicom Meijin Sen (J).nes
+- Famicom Pro Action Rocky Encoder-Decoder by Chris Covell, ReaperSMS _ Jamethiel (PD).nes
+- Famicom Shougi - Ryuuousen (J) [o1].nes
+- Famicom Shougi - Ryuuousen (J).nes
+- Famicom Top Management (J).nes
+- Famicom Wars (J) [b1].nes
+- Famicom Wars (J) [b2].nes
+- Famicom Wars (J) [b3].nes
+- Famicom Wars (J) [o1].nes
+- Famicom Wars (J) [T+Eng.75a_SkullCastle].nes
+- Famicom Wars (J) [T+Eng0.99_akadewboy].nes
+- Famicom Wars (J) [T+Eng0.99_akadewboy][b1].nes
+- Famicom Wars (J) [T-Eng0.90_akadewboy].nes
+- Famicom Wars (J).nes
+- Famicom Yakyuu Han (J) [hFFE][b1].nes
+- Famicom Yakyuu Han (J).nes
+- Famicom Yarou Vol.1 7-in-1 (Unl) [!].nes
+- Famicon Yarou Vol.5 7-in-1 (Unl) [!].nes
+- Family BASIC (J) (V2.0a).nes
+- Family BASIC (J) (V2.1a).nes
+- Family BASIC (J) (V3.0) [b1].nes
+- Family BASIC (J) (V3.0).nes
+- Family Block (J) [b1].nes
+- Family Block (J).nes
+- Family Boxing (J) [b1].nes
+- Family Boxing (J) [b2].nes
+- Family Boxing (J).nes
+- Family Circuit  91 (J) [o1].nes
+- Family Circuit  91 (J) [o2].nes
+- Family Circuit  91 (J) [o3].nes
+- Family Circuit  91 (J).nes
+- Family Circuit (J) [b1].nes
+- Family Circuit (J) [o1].nes
+- Family Circuit (J) [o2].nes
+- Family Circuit (J).nes
+- Family Circuit '91 (Japan) (En).nes
+- Family Computer - Othello (J) [b1].nes
+- Family Computer - Othello (J) [b2].nes
+- Family Computer - Othello (J) [o1].nes
+- Family Computer - Othello (J) [p1].nes
+- Family Computer - Othello (J).nes
+- Family Feud (U) [!].nes
+- Family Feud (U) [b1].nes
+- Family Feud (U) [o1].nes
+- Family Feud (USA).nes
+- Family Feud (USA).zip
+- Family Jockey (J) [o1].nes
+- Family Jockey (J).nes
+- Family Mahjong (J).nes
+- Family Mahjong (Rickachu Hack) [a1].nes
+- Family Mahjong (Rickachu Hack).nes
+- Family Mahjong II - Shanghai heno Michi (J) [b1].nes
+- Family Mahjong II - Shanghai heno Michi (J).nes
+- Family Picross! (USA) (Unl).zip
+- Family Pinball (J) [hFFE].nes
+- Family Pinball (J) [hFFE][b1].nes
+- Family Pinball (J) [hFFE][b2].nes
+- Family Pinball (J).nes
+- Family Quiz (J).nes
+- Family School (J).nes
+- Family Tennis (J) [b1].nes
+- Family Tennis (J) [b2].nes
+- Family Tennis (J) [b3].nes
+- Family Tennis (J).nes
+- Family Trainer - Aerobics Studio (J).nes
+- Family Trainer - Athletic World (J).nes
+- Family Trainer - Daiundoukai (J).nes
+- Family Trainer - Fuuun! Takeshi Shiro 2 (J).nes
+- Family Trainer - Jogging Race (J) [b1].nes
+- Family Trainer - Jogging Race (J).nes
+- Family Trainer - Manhattan Police (J).nes
+- Family Trainer - Meiro Daisakusen (J).nes
+- Family Trainer - Rairai Kyonshiizu (J) (Prototype) [!].nes
+- Family Trainer - Rairai Kyonshiizu (J).nes
+- Family Trainer - Running Stadium (J) [o1].nes
+- Family Trainer - Running Stadium (J).nes
+- Family Trainer - Totsugeki! Fuuun Takeshi Shiro (J).nes
+- Famista  89 - Kaimaku Han!! (J) [b1].nes
+- Famista  89 - Kaimaku Han!! (J) [o1].nes
+- Famista  89 - Kaimaku Han!! (J) [o2].nes
+- Famista  89 - Kaimaku Han!! (J).nes
+- Famista  90 (J) [b1].nes
+- Famista  90 (J).nes
+- Famista  91 (J) [hM04].nes
+- Famista  91 (J).nes
+- Famista  92 (J) (PAL V1.1 Hack).nes
+- Famista  92 (J) [hM04].nes
+- Famista  92 (J).nes
+- Famista  93 (J) [hM04].nes
+- Famista  93 (J) [hM04][b1].nes
+- Famista  93 (J).nes
+- Famista  94 (J) [hM04].nes
+- Famista  94 (J) [hM04][b1].nes
+- Famista  94 (J) [hM04][b2].nes
+- Famista  94 (J).nes
+- Famista  99 (Famista  89 Hack).nes
+- Famista  99 (Famista  91 Hack).nes
+- Fan Kong Jing Ying (China) (Unl).zip
+- Fantastic Adventures of Dizzy  The (USA) (Aladdin Compact Cartridge) (Unl).nes
+- Fantastic Adventures of Dizzy  The (USA) (Unl).nes
+- Fantastic Adventures of Dizzy The (USA) (Aladdin Compact Cartridge) (Unl).zip
+- Fantastic Adventures of Dizzy The (USA) (Unl).zip
+- Fantastic Adventures of Dizzy, The (Unl) (Aladdin) [!].nes
+- Fantastic Adventures of Dizzy, The (Unl) (Aladdin) [b1].nes
+- Fantastic Adventures of Dizzy, The (Unl) (Aladdin) [b2].nes
+- Fantastic Adventures of Dizzy, The (Unl) [!].nes
+- Fantastic Adventures of Dizzy, The (Unl) [b1].nes
+- Fantastic Adventures of Dizzy, The (Unl) [o1].nes
+- Fantastic Adventures of Dizzy, The (Unl) [T+Pol].nes
+- Fantasy Fighter (SMB1 Hack).nes
+- Fantasy of Darkness (FF1 Hack).nes
+- Fantasy Zone (J) [hM02].nes
+- Fantasy Zone (J) [hM02][b1].nes
+- Fantasy Zone (J) [hM02][b2].nes
+- Fantasy Zone (J) [hM02][b3].nes
+- Fantasy Zone (J) [hM02][o1].nes
+- Fantasy Zone (J) [hM02][o2].nes
+- Fantasy Zone (J) [hM02][o3].nes
+- Fantasy Zone (J).nes
+- Fantasy Zone (Unl) [!].nes
+- Fantasy Zone (Unl) [o1].nes
+- Fantasy Zone (USA) (Unl).nes
+- Fantasy Zone (USA) (Unl).zip
+- Fantasy Zone 2 - The Teardrop of Opa-Opa (J) [hFFE].nes
+- Fantasy Zone 2 - The Teardrop of Opa-Opa (J) [o1].nes
+- Fantasy Zone 2 - The Teardrop of Opa-Opa (J).nes
+- Faria - A World of Mystery & Danger! (USA).nes
+- Faria - A World of Mystery & Danger! (USA).zip
+- Faria - A World of Mystery _ Danger! (U) [!].nes
+- Faria - A World of Mystery _ Danger! (U) [b1].nes
+- Faria - A World of Mystery _ Danger! (U) [o1].nes
+- Faria (J) [b1].nes
+- Faria (J) [b2].nes
+- Faria (J).nes
+- Fatal Fury 2 (Unl) [a1].nes
+- Fatal Fury 2 (Unl) [a1][b1].nes
+- Fatal Fury 2 (Unl).nes
+- Fatal Fury 2 (Unl).zip
+- Faxanadu (E) [T+Fre100_BessaB].nes
+- Faxanadu (E) [T+Ger1.2_GTrans].nes
+- Faxanadu (E) [T-Ger].nes
+- Faxanadu (E).nes
+- Faxanadu (Europe).nes
+- Faxanadu (Europe).zip
+- Faxanadu (J) [b1].nes
+- Faxanadu (J) [f1].nes
+- Faxanadu (J) [hM02].nes
+- Faxanadu (J) [hM02][b1].nes
+- Faxanadu (J) [hM02][o1].nes
+- Faxanadu (J).nes
+- Faxanadu (U) (PRG0) [!].nes
+- Faxanadu (U) (PRG0) [b1].nes
+- Faxanadu (U) (PRG0) [b2].nes
+- Faxanadu (U) (PRG0) [b3].nes
+- Faxanadu (U) (PRG0) [b4].nes
+- Faxanadu (U) (PRG0) [o1].nes
+- Faxanadu (U) (PRG0) [o2].nes
+- Faxanadu (U) (PRG0) [o3].nes
+- Faxanadu (U) (PRG0) [T+Fre].nes
+- Faxanadu (U) (PRG0) [T+Ita1.0_Luigi].nes
+- Faxanadu (U) (PRG0) [T+Por100%_BRGames].nes
+- Faxanadu (U) (PRG0) [T+Swe1.00_TheTranslator].nes
+- Faxanadu (U) (PRG1) [!].nes
+- Faxanadu (U) (PT-BR).zip
+- Faxanadu (USA) (Rev A).nes
+- Faxanadu (USA) (Rev A).zip
+- Faxanadu (USA).nes
+- Faxanadu (USA).zip
+- FC Genjin - Freakthoropus Computerus (J) [b1].nes
+- FC Genjin - Freakthoropus Computerus (J).nes
+- FC Genjin - Freakthoropus Computerus (Japan).nes
+- FC ?? (??) (??).nes
+- FC ?? (??) (??).nes
+- FC??(??).nes
+- fc??????.zip
+- fc?????.zip
+- fc??????.zip
+- Felix the Cat (Europe).nes
+- Felix the Cat (Europe).zip
+- Felix the Cat (U) [!].nes
+- Felix the Cat (U) [b1].nes
+- Felix the Cat (U) [b2].nes
+- Felix the Cat (U) [b3].nes
+- Felix the Cat (USA).nes
+- Felix the Cat (USA).zip
+- Felix the Cat Port(U) (PT-BR).zip
+- Feng Shen Bang (Asia) (Unl).nes
+- Feng Shen Bang (Asia) (Unl).zip
+- fengli???.zip
+- Ferrari Grand Prix Challenge (Europe).nes
+- Ferrari Grand Prix Challenge (Europe).zip
+- Ferrari Grand Prix Challenge (USA).nes
+- Ferrari Grand Prix Challenge (USA).zip
+- Fester's Quest (Europe).nes
+- Fester's Quest (Europe).zip
+- Fester's Quest (USA).nes
+- Fester's Quest (USA).zip
+- Fighting frog and double dragon.nes
+- Fighting Hero (Asia) (Unl).nes
+- Fighting Hero (Asia) (Unl).zip
+- Fighting Hero III (Asia) (Unl).nes
+- Fighting Hero III (Asia) (Unl).zip
+- Final Combat (Asia) (NTSC) (Unl).nes
+- Final Combat (Asia) (NTSC) (Unl).zip
+- Final Combat (Asia) (PAL) (Unl).nes
+- Final Combat (Asia) (PAL) (Unl).zip
+- Final Fantasy - Another Story (FF1 Hack).zip
+- Final Fantasy - Dragoon X Omega II - Easy Type (FF1 Hack).zip
+- Final Fantasy - Dragoon X Omega II (FF1 Hack).zip
+- Final Fantasy - Epica V2.0 by Clomax Dominion (FF1 Hack).zip
+- Final Fantasy - Grond's Final Fantasy V3.2.zip
+- Final Fantasy - Legend of the 7th King.zip
+- Final Fantasy - Lenophis' Other Final Fantasy (FF1 Hack).zip
+- Final Fantasy - Mario Fantasy Adventure (FF1 Hack).zip
+- Final Fantasy - Negative One.zip
+- Final Fantasy - Return of Lich (FF1 Hack).zip
+- Final Fantasy - Revolution.zip
+- Final Fantasy - Spiritua Rising V2.0 (FF1 Hack).zip
+- Final Fantasy - The Dawn Warriors.zip
+- Final Fantasy (U) (PT-BR).zip
+- Final Fantasy (USA).nes
+- Final Fantasy (USA).zip
+- Final Fantasy ++ Part 1 by Grond V1.5.zip
+- Final Fantasy ++ Part 2 World Of Chaos by Grond V1.2.zip
+- Final Fantasy 3 (J) (PT-BR).zip
+- Final Fantasy II - Demonic Pandemonium.zip
+- Final Fantasy II (J) [T+Bra10%_BRGames].zip
+- Final Fantasy II (USA) (Proto).nes
+- Final Fantasy II (USA) (Proto).zip
+- Final Fantasy VII - Zui Zhong Huan Xiang 7 (Ch) [T-Eng] [T-Lindblum] {V-1.0 A-2013].zip
+- Final Fantasy VII (China) (Unl) (T).zip
+- Final Fantasy VII (Complete  Version) (U).zip
+- Final Fight 3 (Unl) [!].zip
+- Final Mission (J) (PT-BR).zip
+- Fire Dragon (Asia) (Unl).nes
+- Fire Dragon (Asia) (Unl).zip
+- Fire Fighter.zip
+- Fire Hawk (USA) (Unl).nes
+- Fire Hawk (USA) (Unl).zip
+- Fire 'n Ice (USA).nes
+- Fire 'n Ice (USA).zip
+- Fisher-Price - Firehouse Rescue (USA).nes
+- Fisher-Price - Firehouse Rescue (USA).zip
+- Fisher-Price - I Can Remember (USA).nes
+- Fisher-Price - I Can Remember (USA).zip
+- Fisher-Price - Perfect Fit (USA).nes
+- Fisher-Price - Perfect Fit (USA).zip
+- Fist of the North Star (USA).nes
+- Fist of the North Star (USA).zip
+- Flight of the Intruder (USA).nes
+- Flight of the Intruder (USA).zip
+- Flintstones  The - The Rescue of Dino & Hoppy (Europe).nes
+- Flintstones  The - The Rescue of Dino & Hoppy (USA).nes
+- Flintstones  The - The Surprise at Dinosaur Peak (Europe).nes
+- Flintstones  The - The Surprise at Dinosaur Peak! (USA).nes
+- Flintstones The - The Rescue of Dino & Hoppy (Europe).zip
+- Flintstones The - The Rescue of Dino & Hoppy (USA).zip
+- Flintstones The - The Surprise at Dinosaur Peak (Europe).zip
+- Flintstones The - The Surprise at Dinosaur Peak! (USA).zip
+- Flipull - An Exciting Cube Game (Japan) (En) (Rev 1).nes
+- Flipull - An Exciting Cube Game (Japan) (En).nes
+- Flying Dragon - The Secret Scroll (USA).nes
+- Flying Dragon - The Secret Scroll (USA).zip
+- Flying Warriors (USA) (Beta).nes
+- Flying Warriors (USA) (Beta).zip
+- Flying Warriors (USA).nes
+- Flying Warriors (USA).zip
+- Formation Z.zip
+- Formula 1 Sensation (Europe).nes
+- Formula 1 Sensation (Europe).zip
+- Formula One - Built to Win (USA).nes
+- Formula One - Built to Win (USA).zip
+- Four Players' Tennis (Europe).nes
+- Four Players' Tennis (Europe).zip
+- Fox's Peter Pan & the Pirates - The Revenge of Captain Hook (USA).zip
+- Frankenstein - The Monster Returns (U) (PT-BR).zip
+- Frankenstein - The Monster Returns (USA).nes
+- Frankenstein - The Monster Returns (USA).zip
+- Freddy VS Jason.zip
+- Free Fall (USA) (Proto).nes
+- Free Fall (USA) (Proto).zip
+- Free up space.nes
+- Freedom Force (USA).nes
+- Freedom Force (USA).zip
+- Friday the 13th (USA).nes
+- Friday the 13th (USA).zip
+- Front Line (Japan).nes
+- Frontline battle [Chinese version].nes
+- Frontline revision.nes
+- Fun Blaster Pak (Australia) (Unl).zip
+- Fun House (USA).nes
+- Fun House (USA).zip
+- Futebol (Brazil) (PT-BR).zip
+- Futebol (Brazil) (Unl).zip
+- Fuzzical Fighter (J) (PT-BR).zip
+- G.I. Joe - A Real American Hero - The Atlantis Factor (USA) (Beta).nes
+- G.I. Joe - A Real American Hero - The Atlantis Factor (USA) (Beta).zip
+- G.I. Joe - A Real American Hero (USA).nes
+- G.I. Joe - A Real American Hero (USA).zip
+- G.I. Joe - The Atlantis Factor (USA).nes
+- G.I. Joe - The Atlantis Factor (USA).zip
+- G.I. Joe - The Atlantis Factor-Port (U) (PT-BR).zip
+- G.I. Joe (U) (PT-BR).zip
+- Gaiapolis (Asia) (Unl).nes
+- Gaiapolis (Asia) (Unl).zip
+- Galactic Crusader (Asia) (Unl).nes
+- Galactic Crusader (Asia) (Unl).zip
+- Galactic Crusader (USA) (Unl).nes
+- Galactic Crusader (USA) (Unl).zip
+- Galaga - Demons of Death (USA).nes
+- Galaga - Demons of Death (USA).zip
+- Galaga (Europe).nes
+- Galaga (Europe).zip
+- Galaga (J) (PT-BR).zip
+- Galaxy 5000 (Europe).nes
+- Galaxy 5000 (Europe).zip
+- Galaxy 5000 (USA).nes
+- Galaxy 5000 (USA).zip
+- Galg.zip
+- Game Genie (USA) (Unl).nes
+- Game Genie (USA) (Unl).zip
+- Game Master Kid (Unknown) (Proto) (RAM) (Unl).zip
+- Game Master Kid (Unknown) (Proto) (Unl).zip
+- Gargoyle's Quest II (Europe).nes
+- Gargoyle's Quest II (Europe).zip
+- Gargoyle's Quest II (USA).nes
+- Gargoyle's Quest II (USA).zip
+- Garry Kitchen's BattleTank (USA).nes
+- Garry Kitchen's BattleTank (USA).zip
+- Gauntlet - Blink 2 - Lost in Tokyo (Gauntlet Hack).zip
+- Gauntlet - Final Fantasy Epic V0.03 Final by Sliver X (Gauntlet Hack).zip
+- Gauntlet (USA) (Unl).nes
+- Gauntlet (USA) (Unl).zip
+- Gauntlet (USA).nes
+- Gauntlet (USA).zip
+- Gauntlet II (Europe).nes
+- Gauntlet II (Europe).zip
+- Gauntlet II (USA).nes
+- Gauntlet II (USA).zip
+- Geimos.zip
+- Gemfire (USA).nes
+- Gemfire (USA).zip
+- General's Son.zip
+- Genghis Khan (USA).nes
+- Genghis Khan (USA).zip
+- George Foreman's KO Boxing (Europe).nes
+- George Foreman's KO Boxing (Europe).zip
+- George Foreman's KO Boxing (USA).nes
+- George Foreman's KO Boxing (USA).zip
+- Get'Em Gary (USA) (Unl).zip
+- Ghost Lion (USA).nes
+- Ghost Lion (USA).zip
+- Ghostbusters (SMS Enhanced).zip
+- Ghostbusters (USA).nes
+- Ghostbusters (USA).zip
+- Ghostbusters II (Europe).nes
+- Ghostbusters II (Europe).zip
+- Ghostbusters II (USA).nes
+- Ghostbusters II (USA).zip
+- Ghost'n Goblins (Europe).nes
+- Ghost'n Goblins (Europe).zip
+- Ghosts 'N Goblins - All Hallow's Eve (Ghosts 'N Goblins Hack).zip
+- Ghosts 'N Goblins (U) [!] [T-BR] [T-Jvitor Belchior G-Nenhum] [A-2015].zip
+- Ghosts 'N Goblins Hardtype (Hack).zip
+- Ghosts'n Goblins (USA).nes
+- Ghosts'n Goblins (USA).zip
+- Ghoul School (USA).nes
+- Ghoul School (USA).zip
+- Gluk the Thunder Warrior (Spain) (Gluk Video) (Unl).zip
+- Goal! (Europe).nes
+- Goal! (Europe).zip
+- Goal! (USA).nes
+- Goal! (USA).zip
+- Goal! Two (USA).nes
+- Goal! Two (USA).zip
+- God of War 2.zip
+- God of War.zip
+- Godzilla - Monster of Monsters! (Europe).nes
+- Godzilla - Monster of Monsters! (Europe).zip
+- Godzilla - Monster of Monsters! (USA).nes
+- Godzilla - Monster of Monsters! (USA).zip
+- Godzilla 2 - War of the Monsters (USA).nes
+- Godzilla 2 - War of the Monsters (USA).zip
+- Golf - Kiss Goes Golfing starring Ace Frehley (Golf Hack).zip
+- Golf - Kiss Goes Golfing starring Gene Simmons (Golf Hack).zip
+- Golf - Kiss Goes Golfing starring Paul Stanley (Golf Hack).zip
+- Golf - Kiss Goes Golfing starring Peter Criss (Golf Hack).zip
+- Golf (Europe).nes
+- Golf (Europe).zip
+- Golf (USA).nes
+- Golf (USA).zip
+- Golf Grand Slam (USA).nes
+- Golf Grand Slam (USA).zip
+- Golgo 13 - Top Secret Episode (USA).nes
+- Golgo 13 - Top Secret Episode (USA).zip
+- Goonies 2 - Fratelli Saigo no Chousen (Japan).nes
+- Goonies II  The - Fratelli Saigo no Chousen (Japan) (Beta).nes
+- Goonies II  The (Europe).nes
+- Goonies II  The (USA).nes
+- Goonies II The (Europe).zip
+- Goonies II The (USA).zip
+- Goonies The (J) [T+Por1.00_Iyasu].zip
+- Gotcha! - The Sport! (USA).nes
+- Gotcha! - The Sport! (USA).zip
+- Gradius - Luidius (Gradius Hack).zip
+- Gradius (Europe).nes
+- Gradius (Europe).zip
+- Gradius (U) (PT-BR).zip
+- Gradius (USA).nes
+- Gradius (USA).zip
+- Gradius Arcade Conversion V1.4.zip
+- Gradius II (J) [T-BR] [T-devilfox G-POBRE] [V-1.0 P-100% A-2008].zip
+- Gradius II Arcade Conversion V0.8.zip
+- Gran Aventura Submarina La (Spain) (Gluk Video) (Unl).zip
+- Great Waldo Search  The (USA).nes
+- Great Waldo Search The (USA).zip
+- Great Wall  The (Asia) (PAL) (Unl).nes
+- Great Wall The (Asia) (PAL) (Unl).zip
+- Greg Norman's Golf Power (USA).nes
+- Greg Norman's Golf Power (USA).zip
+- Gremlins 2 - The New Batch (Europe) (Beta).nes
+- Gremlins 2 - The New Batch (Europe) (Beta).zip
+- Gremlins 2 - The New Batch (Europe).nes
+- Gremlins 2 - The New Batch (Europe).zip
+- Gremlins 2 - The New Batch (USA).nes
+- Gremlins 2 - The New Batch (USA).zip
+- Guardian Legend - Secret Edition 3.3.zip
+- Guardian Legend  The (Europe).nes
+- Guardian Legend  The (USA).nes
+- Guardian Legend The (Europe).zip
+- Guardian Legend The (USA).zip
+- Guerrilla War (Europe).nes
+- Guerrilla War (Europe).zip
+- Guerrilla War (USA).nes
+- Guerrilla War (USA).zip
+- Gumshoe (USA  Europe).nes
+- Gumshoe (USA Europe).zip
+- Gun Nac (USA).nes
+- Gun Nac (USA).zip
+- Gun.Smoke (Europe).nes
+- Gun.Smoke (Europe).zip
+- Gun.Smoke (U) (PT-BR).zip
+- Gun.Smoke (USA).nes
+- Gun.Smoke (USA).zip
+- Gun-Nac (U) (PT-BR).zip
+- Gyrodine.zip
+- Gyromite (World).zip
+- Gyruss (U) (PT-BR).zip
+- Gyruss (USA).nes
+- Gyruss (USA).zip
+- Hacker The (China) (Unl) (T).zip
+- Hammerin' Harry (Europe).nes
+- Hammerin' Harry (Europe).zip
+- Happily Ever After (USA) (Proto).nes
+- Happily Ever After (USA) (Proto).zip
+- Happy Pairs (Asia) (PAL) (Unl).nes
+- Happy Pairs (Asia) (PAL) (Unl).zip
+- Hard Drivin' (USA) (Proto) (Unl).nes
+- Hard Drivin' (USA) (Proto) (Unl).zip
+- Harlem Globetrotters (USA).nes
+- Harlem Globetrotters (USA).zip
+- Hatris (USA).nes
+- Hatris (USA).zip
+- HAUNTED - Halloween 85.zip
+- HAUNTED - Halloween 86 - The Curse of Possum Hollow.zip
+- Heavy Barrel (USA).nes
+- Heavy Barrel (USA).zip
+- Heavy Shreddin' (USA).nes
+- Heavy Shreddin' (USA).zip
+- Hector.zip
+- Helicopter.zip
+- Hell Fighter (Asia) (PAL) (Unl).nes
+- Hell Fighter (Asia) (PAL) (Unl).zip
+- Hero Quest (Europe) (Proto).nes
+- Hero Quest (Europe) (Proto).zip
+- Hero Quest (USA) (Proto).nes
+- Hero Quest (USA) (Proto).zip
+- Hidden Chinese Chess - An Qi (Asia) (NTSC) (Unl).nes
+- Hidden Chinese Chess - An Qi (Asia) (NTSC) (Unl).zip
+- High Speed (Europe).nes
+- High Speed (Europe).zip
+- High Speed (USA).nes
+- High Speed (USA).zip
+- Hit Marmot (Asia) (Unl).nes
+- Hit Marmot (Asia) (Unl).zip
+- Hit the Ice - VHL - The Video Hockey League (USA) (Proto).nes
+- Hit the Ice - VHL - The Video Hockey League (USA) (Proto).zip
+- Hogan's Alley (World).zip
+- Hokuto no Ken (J) (PT-BR).zip
+- Hokuto no Ken 2 - Seikimatsu Kyuuseishu Densetsu (J) [!] [T-BR] [T-Arara e Solid_One G-Trans-Center] [V-BETA 1 P-100% A-2009].zip
+- Hollywood Squares (USA).nes
+- Hollywood Squares (USA).zip
+- Home Alone (USA) (Rev A).nes
+- Home Alone (USA) (Rev A).zip
+- Home Alone (USA).nes
+- Home Alone (USA).zip
+- Home Alone 2 - Lost in New York (Europe).nes
+- Home Alone 2 - Lost in New York (Europe).zip
+- Home Alone 2 - Lost in New York (USA).nes
+- Home Alone 2 - Lost in New York (USA).zip
+- Honey Peach - Mei Nv Quan (Asia) (Unl).nes
+- Honey Peach - Mei Nv Quan (Asia) (Unl).zip
+- Hook (Europe).nes
+- Hook (Europe).zip
+- Hook (USA).nes
+- Hook (USA).zip
+- Hoops (Europe).nes
+- Hoops (Europe).zip
+- Hoops (USA).nes
+- Hoops (USA).zip
+- Hot Slots (Asia) (Unl).nes
+- Hot Slots (Asia) (Unl).zip
+- Huang Di (Asia) (Unl).nes
+- Huang Di (Asia) (Unl).zip
+- Hudson Hawk (Europe).nes
+- Hudson Hawk (Europe).zip
+- Hudson Hawk (U) (PT-BR).zip
+- Hudson Hawk (USA).nes
+- Hudson Hawk (USA).zip
+- Hudson's Adventure Island (U) (PT-BR).zip
+- Hudson's Adventure Island (USA).nes
+- Hudson's Adventure Island (USA).zip
+- Hudson's Adventure Island II (U) (PT-BR).zip
+- Hudson's Adventure Island II (USA) (Beta).nes
+- Hudson's Adventure Island II (USA) (Beta).zip
+- Huge Insect (Asia) (Unl).nes
+- Huge Insect (Asia) (Unl).zip
+- Hunt for Red October  The (Europe).nes
+- Hunt for Red October  The (USA) (Rev A).nes
+- Hunt for Red October  The (USA).nes
+- Hunt for Red October The (Europe).zip
+- Hunt for Red October The (USA) (Rev A).zip
+- Hunt for Red October The (USA).zip
+- Hydlide (USA).nes
+- Hydlide (USA).zip
+- Hydlide Special by Y.Project (Hack).zip
+- Ice Climber (USA  Europe).nes
+- Ice Climber (USA Europe).zip
+- Ice Climber MacBee (Hack).zip
+- Ice Hockey (Europe).nes
+- Ice Hockey (Europe).zip
+- Ice Hockey (USA).nes
+- Ice Hockey (USA).zip
+- Ikari III - The Rescue (USA).nes
+- Ikari III - The Rescue (USA).zip
+- Ikari Warriors (Europe).nes
+- Ikari Warriors (Europe).zip
+- Ikari Warriors (USA) (Rev A).nes
+- Ikari Warriors (USA) (Rev A).zip
+- Ikari Warriors (USA).nes
+- Ikari Warriors (USA).zip
+- Ikari Warriors II - Victory Road (USA).nes
+- Ikari Warriors II - Victory Road (USA).zip
+- Ikari.zip
+- Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou (J) [T+Por100%_Emuroms].zip
+- Image Fight (USA).nes
+- Immortal  The (USA).nes
+- Immortal The (U) (PT-BR).zip
+- Immortal The (USA).zip
+- Impact Wrestling.zip
+- Impossible Mission II (USA) (Unl).nes
+- Impossible Mission II (USA) (Unl).zip
+- Incantation (Asia) (Unl).nes
+- Incantation (Asia) (Unl).zip
+- Incredible Crash Dummies  The (Europe).nes
+- Incredible Crash Dummies  The (USA).nes
+- Incredible Crash Dummies The (Europe).zip
+- Incredible Crash Dummies The (USA).zip
+- Indiana Jones and the Last Crusade (Europe).nes
+- Indiana Jones and the Last Crusade (Europe).zip
+- Indiana Jones and the Last Crusade (USA) (Taito).nes
+- Indiana Jones and the Last Crusade (USA) (Taito).zip
+- Indiana Jones and the Last Crusade (USA) (UBI Soft).nes
+- Indiana Jones and the Last Crusade (USA) (UBI Soft).zip
+- Indiana Jones and the Temple of Doom (USA) (Rev A).nes
+- Indiana Jones and the Temple of Doom (USA) (Rev A).zip
+- Indiana Jones and the Temple of Doom (USA) (Unl).nes
+- Indiana Jones and the Temple of Doom (USA) (Unl).zip
+- Indiana Jones and the Temple of Doom (USA).nes
+- Indiana Jones and the Temple of Doom (USA).zip
+- Indivisible.zip
+- Infant School.zip
+- Infiltrator (USA).nes
+- Infiltrator (USA).zip
+- International Cricket (Australia) (Beta).zip
+- International Cricket (Australia).zip
+- Iron Tank - The Invasion of Normandy (Europe).nes
+- Iron Tank - The Invasion of Normandy (Europe).zip
+- Iron Tank - The Invasion of Normandy (USA).nes
+- Iron Tank - The Invasion of Normandy (USA).zip
+- IronSword - Wizards & Warriors II (Europe).nes
+- IronSword - Wizards & Warriors II (Europe).zip
+- IronSword - Wizards & Warriors II (USA).nes
+- IronSword - Wizards & Warriors II (USA).zip
+- Isolated Warrior (Europe).nes
+- Isolated Warrior (Europe).zip
+- Isolated Warrior (USA).nes
+- Isolated Warrior (USA).zip
+- Ivan 'Ironman' Stewart's Super Off Road (Europe).nes
+- Ivan 'Ironman' Stewart's Super Off Road (Europe).zip
+- Ivan 'Ironman' Stewart's Super Off Road (USA).nes
+- Ivan 'Ironman' Stewart's Super Off Road (USA).zip
+- J ?????? (??) (??).nes
+- J ?????? (??) (??).nes
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Europe).nes
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Europe).zip
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (USA).nes
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (USA).zip
+- Jackal (U) (PT-BR).zip
+- Jackal (USA).nes
+- Jackal (USA).zip
+- Jackie Chan's Action Kung Fu (Europe).nes
+- Jackie Chan's Action Kung Fu (Europe).zip
+- Jackie Chan's Action Kung Fu (USA).nes
+- Jackie Chan's Action Kung Fu (USA).zip
+- Jackpot (Australia) (Unl).zip
+- James Bond 007-Enhanced Edition.nes
+- James Bond Jr (Europe).nes
+- James Bond Jr (Europe).zip
+- James Bond Jr (USA).nes
+- James Bond Jr (USA).zip
+- Janggun-ui Adeul (Korea) (Unl) (T).zip
+- Janggun-ui Adeul (Korea) (Unl).zip
+- Jason VS Freddy.zip
+- Jaws (USA).nes
+- Jaws (USA).zip
+- Jay and Silent Bob Mall Brawl.zip
+- Jeopardy! (USA) (Rev A).nes
+- Jeopardy! (USA) (Rev A).zip
+- Jeopardy! (USA).nes
+- Jeopardy! (USA).zip
+- Jeopardy! 25th Anniversary Edition (USA).nes
+- Jeopardy! 25th Anniversary Edition (USA).zip
+- Jeopardy! Junior Edition (USA).nes
+- Jeopardy! Junior Edition (USA).zip
+- Jetsons  The - Cogswell's Caper (Europe).nes
+- Jetsons  The - Cogswell's Caper (USA).nes
+- Jetsons The - Cogswell's Caper (Europe).zip
+- Jetsons The - Cogswell's Caper (USA).zip
+- Jimmy Connors Tennis (Europe).nes
+- Jimmy Connors Tennis (Europe).zip
+- Jimmy Connors Tennis (USA).nes
+- Jimmy Connors Tennis (USA).zip
+- Jin Gwok Sei Chuen Saang (Asia) (Unl).nes
+- Jin Gwok Sei Chuen Saang (Asia) (Unl).zip
+- Jing Hua Yuan (China) (Unl) (T).zip
+- Joe & Mac - Caveman Ninja (Europe).nes
+- Joe & Mac - Caveman Ninja (Europe).zip
+- Joe & Mac (USA).nes
+- Joe & Mac (USA).zip
+- John Elway's Quarterback (USA).nes
+- John Elway's Quarterback (USA).zip
+- Jordan vs Bird - One On One (USA).nes
+- Jordan vs Bird - One On One (USA).zip
+- Joshua & the Battle of Jericho (USA) (v5.0) (Unl).nes
+- Joshua & the Battle of Jericho (USA) (v5.0) (Unl).zip
+- Joshua & the Battle of Jericho (USA) (v6.0) (Unl).nes
+- Joshua & the Battle of Jericho (USA) (v6.0) (Unl).zip
+- Journey to Silius (Europe).nes
+- Journey to Silius (Europe).zip
+- Journey to Silius (U) (PT-BR).zip
+- Journey to Silius (USA).nes
+- Journey to Silius (USA).zip
+- Journey to the West (Asia) (Unl).nes
+- Journey to the West (Asia) (Unl).zip
+- Joust (USA).nes
+- Joust (USA).zip
+- Joust.zip
+- Jovial Race (Asia) (PAL) (Unl).nes
+- Jovial Race (Asia) (PAL) (Unl).zip
+- Jovial Race (Unknown) (Unl).zip
+- JUJU ?? (??) (????).nes
+- JUJU ?? (??) (????).nes
+- juju????????.zip
+- juju?????.zip
+- juju????????.zip
+- jump?????????????????.zip
+- JUMP????(??????????).nes
+- Jungle Book  The (Europe).nes
+- Jungle Book  The (USA).nes
+- Jungle Book The (Europe).zip
+- Jungle Book The (USA).zip
+- Jurassic Boy (Asia) (Unl).nes
+- Jurassic Boy (Asia) (Unl).zip
+- Jurassic Park (Europe).nes
+- Jurassic Park (Europe).zip
+- Jurassic Park (PT-BR).zip
+- Jurassic Park (USA).nes
+- Jurassic Park (USA).zip
+- Justice Duel.zip
+- Juuouki (J) (PT-BR).zip
+- j??????????.zip
+- j??????????.zip
+- Kabuki - Quantum Fighter (Europe).nes
+- Kabuki - Quantum Fighter (Europe).zip
+- Kabuki - Quantum Fighter (U) (PT-BR).zip
+- Kabuki - Quantum Fighter (USA).nes
+- Kabuki - Quantum Fighter (USA).zip
+- Kaison Star Force (Hack).zip
+- Karate Champ (USA) (Rev A).nes
+- Karate Champ (USA) (Rev A).zip
+- Karate Champ (USA).nes
+- Karate Champ (USA).zip
+- Karate Kid  The (USA).nes
+- Karate Kid The (USA).zip
+- Karateka.zip
+- Karnov (USA).nes
+- Karnov (USA).zip
+- Kart Fighter (Unl) (T).zip
+- Kero Kero Keroppi no Daibouken 2 - Adoventoro Tcheco v1.0.zip
+- Kick Master (USA).nes
+- Kick Master (USA).zip
+- Kick Off (Europe).nes
+- Kick Off (Europe).zip
+- Kickle Cubicle - Mean Kickle Cubicle (Hack).zip
+- Kickle Cubicle (Europe).nes
+- Kickle Cubicle (Europe).zip
+- Kickle Cubicle (USA).nes
+- Kickle Cubicle (USA).zip
+- Kid Dracula 2019 official localization.zip
+- Kid Icarus - NES Land Journey (Kid Icarus Hack).zip
+- Kid Icarus - Retold Edition.zip
+- Kid Icarus (Europe) (Rev A).nes
+- Kid Icarus (Europe) (Rev A).zip
+- Kid Icarus (UE) (PT-BR).zip
+- Kid Icarus (USA  Europe).nes
+- Kid Icarus (USA Europe).zip
+- Kid Klown in Night Mayor World (USA).nes
+- Kid Klown in Night Mayor World (USA).zip
+- Kid Kool and the Quest for the Seven Wonder Herbs (USA).nes
+- Kid Kool and the Quest for the Seven Wonder Herbs (USA).zip
+- Kid Niki - Radical Ninja (USA) (Rev A).nes
+- Kid Niki - Radical Ninja (USA) (Rev A).zip
+- Kid Niki - Radical Ninja (USA).nes
+- Kid Niki - Radical Ninja (USA).zip
+- Kiddy Sun in Fantasia (Taiwan).zip
+- King Neptune's Adventure (USA) (Beta) (Unl).nes
+- King Neptune's Adventure (USA) (Beta) (Unl).zip
+- King Neptune's Adventure (USA) (Unl).nes
+- King Neptune's Adventure (USA) (Unl).zip
+- King of Ghost.zip
+- King of Kings  The (USA) (v1.1) (Unl).nes
+- King of Kings  The (USA) (v1.2) (Unl).nes
+- King of Kings  The (USA) (v1.3) (Unl).nes
+- King of Kings  The (USA) (v5.0) (Unl).nes
+- King of Kings The (USA) (v1.1) (Unl).zip
+- King of Kings The (USA) (v1.2) (Unl).zip
+- King of Kings The (USA) (v1.3) (Unl).zip
+- King of Kings The (USA) (v5.0) (Unl).zip
+- King's Knight (USA).nes
+- King's Knight (USA).zip
+- Kings of the Beach - Professional Beach Volleyball (USA).nes
+- Kings of the Beach - Professional Beach Volleyball (USA).zip
+- King's Quest V (USA).nes
+- King's Quest V (USA).zip
+- Kira Kira Star Night DX.zip
+- Kira Kira Star Night.zip
+- Kirby's Adventure (Canada).zip
+- Kirby's Adventure (Europe).nes
+- Kirby's Adventure (Europe).zip
+- Kirby's Adventure (France).nes
+- Kirby's Adventure (France).zip
+- Kirby's Adventure (Germany).zip
+- Kirby's Adventure (USA) (Rev A).nes
+- Kirby's Adventure (USA) (Rev A).zip
+- Kirby's Adventure (USA).nes
+- Kirby's Adventure (USA).zip
+- Kitty's Catch (USA) (Proto) (Unl).nes
+- Kitty's Catch (USA) (Proto) (Unl).zip
+- Kiwi Kraze - A Bird-Brained Adventure! (USA).nes
+- Kiwi Kraze - A Bird-Brained Adventure! (USA).zip
+- KlashBall (USA).nes
+- KlashBall (USA).zip
+- Klax (USA) (Beta) (Unl).nes
+- Klax (USA) (Beta) (Unl).zip
+- Klax (USA) (Unl).nes
+- Klax (USA) (Unl).zip
+- Knight Rider (Europe).nes
+- Knight Rider (Europe).zip
+- Knight Rider (USA).nes
+- Knight Rider (USA).zip
+- Koko Adventure (Korea) (Unl).zip
+- Konami Hyper Soccer (Europe).nes
+- Konami Hyper Soccer (Europe).zip
+- Korean Igo (Korea) (Unl).zip
+- Krazy Kreatures (USA) (Beta) (Unl).nes
+- Krazy Kreatures (USA) (Beta) (Unl).zip
+- Krazy Kreatures (USA) (Unl).nes
+- Krazy Kreatures (USA) (Unl).zip
+- Krion Conquest  The (USA).nes
+- Krion Conquest The (PT-BR).zip
+- Krion Conquest The (USA).zip
+- Krusty's Fun House (Europe).nes
+- Krusty's Fun House (Europe).zip
+- Krusty's Fun House (USA).nes
+- Krusty's Fun House (USA).zip
+- Kung Fu (Europe).nes
+- Kung Fu (Europe).zip
+- Kung Fu (Japan  USA).nes
+- Kung Fu (U) (PT-BR).zip
+- Kung-Fu Heroes (USA).nes
+- Kung-Fu Heroes (USA).zip
+- Larry.zip
+- Laser Invasion (USA).nes
+- Laser Invasion (USA).zip
+- Last Action Hero (USA).nes
+- Last Action Hero (USA).zip
+- Last Ninja  The (USA).nes
+- Last Ninja The (USA).zip
+- Last Starfighter  The (USA).nes
+- Last Starfighter The (USA).zip
+- Lee Trevino's Fighting Golf (Europe).nes
+- Lee Trevino's Fighting Golf (Europe).zip
+- Lee Trevino's Fighting Golf (USA).nes
+- Lee Trevino's Fighting Golf (USA).zip
+- Legacy of the Wizard (USA).nes
+- Legacy of the Wizard (USA).zip
+- Legend of Kage  The (USA).nes
+- Legend of Kage The (USA).zip
+- Legend of Prince Valiant  The (Europe).nes
+- Legend of Prince Valiant The (Europe).zip
+- Legend of Robin Hood  The (USA) (Proto).nes
+- Legend of Robin Hood The (USA) (Proto).zip
+- Legend of Zelda - Fall of the Moon v1.0 (Zelda Hack).zip
+- Legend of Zelda - GST (Zelda Hack).zip
+- Legend of Zelda - Outlands Final by GameMakr24.zip
+- Legend of Zelda - Search for Link The (Zelda Hack).zip
+- Legend of Zelda - SouthPark Zelda (Zelda Hack).zip
+- Legend of Zelda  The (Europe) (Rev A).nes
+- Legend of Zelda  The (Europe).nes
+- Legend of Zelda  The (USA) (Rev A) (GameCube Edition).nes
+- Legend of Zelda  The (USA) (Rev A).nes
+- Legend of Zelda  The (USA) (Rev B) (GameCube Edition).nes
+- Legend of Zelda  The (USA).nes
+- Legend of Zelda - Triforce of the Gods (China) (Unl) (T).zip
+- Legend of Zelda - Zelda Story The.zip
+- Legend of Zelda The (Europe) (Rev A).zip
+- Legend of Zelda The (Europe).zip
+- Legend of Zelda The (USA) (Rev A) (GameCube Edition).zip
+- Legend of Zelda The (USA) (Rev A).zip
+- Legend of Zelda The (USA) (Rev B) (GameCube Edition).zip
+- Legend of Zelda The (USA).zip
+- Legendary Wings (USA).nes
+- Legendary Wings (USA).zip
+- Legends of the Diamond - The Baseball Championship Game (USA).nes
+- Legends of the Diamond - The Baseball Championship Game (USA).zip
+- Lei Dian Huang Bi Ka Qiu Chuan Shuo (China) (Unl) (T).zip
+- Lemmings (Europe).nes
+- Lemmings (Europe).zip
+- Lemmings (USA).nes
+- Lemmings (USA).zip
+- Lethal Weapon (Europe).nes
+- Lethal Weapon (Europe).zip
+- Lethal Weapon (USA).nes
+- Lethal Weapon (USA).zip
+- Life Force - Salamander (Europe).nes
+- Life Force - Salamander (Europe).zip
+- Life Force (USA).nes
+- Life Force (USA).zip
+- Lightgun Game 2 in 1 - Cosmocop + Cyber Monster (Asia) (Unl).nes
+- Lightgun Game 2 in 1 - Cosmocop + Cyber Monster (Asia) (Unl).zip
+- Lightgun Game 2 in 1 - Tough Cop + Super Tough Cop (Asia) (Unl).nes
+- Lightgun Game 2 in 1 - Tough Cop + Super Tough Cop (Asia) (Unl).zip
+- Lin Ze Xu Jin Yan (China) (Unl) (T).zip
+- Lin Ze Xu Jin Yan (China) (Unl).zip
+- Linus Spacehead's Cosmic Crusade (USA) (En Fr De Es) (Unl).nes
+- Linus Spacehead's Cosmic Crusade (USA) (En Fr De Es) (Unl).zip
+- Lion King  The (Europe).nes
+- Lion King Legeng (China) (Unl) (T).zip
+- Lion King The (Europe).zip
+- Little League Baseball - Championship Series (USA).nes
+- Little League Baseball - Championship Series (USA).zip
+- Little Medusa.zip
+- Little Mermaid  The (USA).nes
+- Little Mermaid The (PT-BR).zip
+- Little Mermaid The (USA).zip
+- Little Nemo - The Dream Master (Europe).nes
+- Little Nemo - The Dream Master (Europe).zip
+- Little Nemo - The Dream Master (U) (PT-BR).zip
+- Little Nemo - The Dream Master (USA).nes
+- Little Nemo - The Dream Master (USA).zip
+- Little Ninja Brothers (Europe).nes
+- Little Ninja Brothers (Europe).zip
+- Little Ninja Brothers (USA).nes
+- Little Ninja Brothers (USA).zip
+- Little Ninja Hattori.zip
+- Little Red Hood - Xiao Hong Mao (Asia) (Unl).nes
+- Little Red Hood - Xiao Hong Mao (Asia) (Unl).zip
+- Little Red Hood (Australia) (Unl).zip
+- Little Samson (Europe).nes
+- Little Samson (Europe).zip
+- Little Samson (USA).nes
+- Little Samson (USA).zip
+- Lizard.zip
+- Locksmith (Asia) (PAL) (Unl).nes
+- Locksmith (Asia) (PAL) (Unl).zip
+- Lode Runner - Mario Runner by Y.Project (Championship Lode Runner Hack).zip
+- Lode Runner - Omeka (Lode Runner Hack).zip
+- Lode Runner - Takeshikun (Lode Runner Hack).zip
+- Lode Runner (U) (PT-BR).zip
+- Lode Runner (USA).nes
+- Lode Runner (USA).zip
+- Lode Runner Kai (Hack).zip
+- Lode Runner.zip
+- Log Jammers.zip
+- Lone Ranger  The (USA).nes
+- Lone Ranger The (USA).zip
+- Loopz (USA).nes
+- Loopz (USA).zip
+- Lot Lot.zip
+- Love Warrior Nicol.zip
+- Low G Man - The Low Gravity Man (Europe).nes
+- Low G Man - The Low Gravity Man (Europe).zip
+- Low G Man - The Low Gravity Man (USA).nes
+- Low G Man - The Low Gravity Man (USA).zip
+- Lu Ye Xian Zong (China) (Unl) (T).zip
+- Lucky Bingo 777 (Asia) (PAL) (Unl).nes
+- Lucky Bingo 777 (Asia) (PAL) (Unl).zip
+- Lunar Ball - Loony Pool (Lunar Ball Hack).zip
+- Lunar Pool (Europe).nes
+- Lunar Pool (Europe).zip
+- Lunar Pool (PT-BR).zip
+- Lunar Pool (USA).nes
+- Lunar Pool (USA).zip
+- M.C. Kids (USA) (Beta).nes
+- M.C. Kids (USA) (Beta).zip
+- M.C. Kids (USA).nes
+- M.C. Kids (USA).zip
+- M.U.L.E. (USA).nes
+- M.U.L.E. (USA).zip
+- M.U.S.C.L.E. - Tag Team Match (USA).nes
+- M.U.S.C.L.E. - Tag Team Match (USA).zip
+- M82 Game Selectable Working Product Display (Europe).nes
+- M82 Game Selectable Working Product Display (Europe).zip
+- Mach Rider (Europe).nes
+- Mach Rider (Europe).zip
+- Mach Rider (Japan  USA) (Rev A).nes
+- Mach Rider (Japan  USA).nes
+- Mach Rider (PT-BR).zip
+- Macross - Jetfire (Macross Hack).zip
+- Macross.zip
+- Mad Max (USA).nes
+- Mad Max (USA).zip
+- Mafat Conspiracy  The (USA).nes
+- Mafat Conspiracy The (USA).zip
+- Magic Block (Asia) (Mega Soft) (Unl).nes
+- Magic Block (Asia) (Mega Soft) (Unl).zip
+- Magic Cube (Asia) (PAL) (Unl).nes
+- Magic Cube (Asia) (PAL) (Unl).zip
+- Magic Darts (USA).nes
+- Magic Darts (USA).zip
+- Magic Jewelry (Asia) (Unl).nes
+- Magic Jewelry (Asia) (Unl).zip
+- Magic Jewelry 2 (Asia) (Unl).nes
+- Magic Jewelry 2 (Asia) (Unl).zip
+- Magic Jewelry.zip
+- Magic Johnson's Fast Break (USA).nes
+- Magic Johnson's Fast Break (USA).zip
+- Magic Kid Googoo (Korea) (Unl).zip
+- Magic of Scheherazade  The (USA).nes
+- Magic of Scheherazade The (USA).zip
+- Magical Mathematics (Asia) (NTSC) (Unl).nes
+- Magical Mathematics (Asia) (NTSC) (Unl).zip
+- Magical Mathematics (Asia) (PAL) (Unl).nes
+- Magical Mathematics (Asia) (PAL) (Unl).zip
+- Magical Rockman (Magical Doropie Hack).zip
+- Magician (USA) (Beta 1).nes
+- Magician (USA) (Beta 1).zip
+- Magician (USA) (Beta 2).nes
+- Magician (USA) (Beta 2).zip
+- Magician (USA).nes
+- Magician (USA).zip
+- Magmax (USA).nes
+- Magmax (USA).zip
+- Mahjang Companion (Asia) (Hacker) (Unl).nes
+- Mahjang Companion (Asia) (Hacker) (Unl).zip
+- Mahjang Companion (Asia) (Sachen) (Unl).nes
+- Mahjang Companion (Asia) (Sachen) (Unl).zip
+- Mahjong Academy (Asia) (Unl).nes
+- Mahjong Academy (Asia) (Unl).zip
+- Mahjong Block (Unknown) (Unl).zip
+- Mahjong Trap - Si Cuan Ma Que (Asia) (Unl).nes
+- Mahjong Trap - Si Cuan Ma Que (Asia) (Unl).zip
+- Mahjong World  The - Ma Que Shi Jie (Asia) (NTSC) (Unl).nes
+- Mahjong World  The - Ma Que Shi Jie (Asia) (PAL) (Unl).nes
+- Mahjong World The - Ma Que Shi Jie (Asia) (NTSC) (Unl).zip
+- Mahjong World The - Ma Que Shi Jie (Asia) (PAL) (Unl).zip
+- Major League Baseball (USA) (Rev A).nes
+- Major League Baseball (USA) (Rev A).zip
+- Major League Baseball (USA).nes
+- Major League Baseball (USA).zip
+- Makai Island (USA) (Proto).nes
+- Makai Island (USA) (Proto).zip
+- Maniac Mansion (Europe).nes
+- Maniac Mansion (Europe).zip
+- Maniac Mansion (France).nes
+- Maniac Mansion (France).zip
+- Maniac Mansion (Germany).zip
+- Maniac Mansion (Italy).zip
+- Maniac Mansion (Spain).zip
+- Maniac Mansion (Sweden).zip
+- Maniac Mansion (USA) (Beta).nes
+- Maniac Mansion (USA) (Beta).zip
+- Maniac Mansion (USA).nes
+- Maniac Mansion (USA).zip
+- Mappy (Mr.Magoo) (PT-BR).zip
+- Mappy-Land (Mr.Magoo) (PT-BR).zip
+- Mappy-Land (USA).nes
+- Mappy-Land (USA).zip
+- Marble Madness (Europe).nes
+- Marble Madness (Europe).zip
+- Marble Madness (USA).nes
+- Marble Madness (USA).zip
+- Mario & Yoshi (Europe).nes
+- Mario & Yoshi (Europe).zip
+- Mario Bros. - Evil Tetris Hack.zip
+- Mario Bros. - Hell Bros. Edition.zip
+- Mario Bros. (Europe) (Rev A).nes
+- Mario Bros. (Europe) (Rev A).zip
+- Mario Bros. (USA) (GameCube Edition).nes
+- Mario Bros. (USA) (GameCube Edition).zip
+- Mario Bros. (World).zip
+- Mario Bros. Classic (Europe).nes
+- Mario Bros. Classic (Europe).zip
+- Mario Is Missing! (Europe).nes
+- Mario Is Missing! (Europe).zip
+- Mario Is Missing! (USA).nes
+- Mario Is Missing! (USA).zip
+- Mario Runner (PT-BR).zip
+- Mario Runner 2 (PT-BR).zip
+- Mario's Time Machine (USA).nes
+- Mario's Time Machine (USA).zip
+- Masked Ninja Hanamaru.zip
+- Master Chu and the Drunkard Hu (Asia) (PAL) (Unl).nes
+- Master Chu and the Drunkard Hu (Asia) (PAL) (Unl).zip
+- Master Chu and the Drunkard Hu (USA) (Unl).nes
+- Master Chu and the Drunkard Hu (USA) (Unl).zip
+- Master Shooter (Asia) (Unl).nes
+- Master Shooter (Asia) (Unl).zip
+- Maxi 15 (USA) (Rev 1) (Unl).nes
+- Maxi 15 (USA) (Rev 1) (Unl).zip
+- Maxi 15 (USA) (Unl).nes
+- Maxi 15 (USA) (Unl).zip
+- Maxi-15 Pack (Australia) (Unl).zip
+- McDonaldland (Europe).nes
+- McDonaldland (Europe).zip
+- McDonaldland (France).nes
+- McDonaldland (France).zip
+- Mechanized Attack (USA).nes
+- Mechanized Attack (USA).zip
+- Mega Man (Europe).nes
+- Mega Man (Europe).zip
+- Mega Man (USA).nes
+- Mega Man (USA).zip
+- Mega Man 2 (Europe).nes
+- Mega Man 2 (Europe).zip
+- Mega Man 2 (USA).nes
+- Mega Man 2 (USA).zip
+- Mega Man 3 (Europe) (Rev A).nes
+- Mega Man 3 (Europe) (Rev A).zip
+- Mega Man 3 (Europe).nes
+- Mega Man 3 (Europe).zip
+- Mega Man 3 (USA) (Beta).nes
+- Mega Man 3 (USA) (Beta).zip
+- Mega Man 3 (USA).nes
+- Mega Man 3 (USA).zip
+- Mega Man 4 (Europe).nes
+- Mega Man 4 (Europe).zip
+- Mega Man 4 (USA) (Rev A).nes
+- Mega Man 4 (USA) (Rev A).zip
+- Mega Man 4 (USA).nes
+- Mega Man 4 (USA).zip
+- Mega Man 5 (Europe).nes
+- Mega Man 5 (Europe).zip
+- Mega Man 5 (USA).nes
+- Mega Man 5 (USA).zip
+- Mega Man 6 (USA).nes
+- Mega Man 6 (USA).zip
+- MegaMan - 133TMAN V1.0 by Clomax Dominion (Mega Man (U) Hack).zip
+- MegaMan - 1977 (Hack).zip
+- MegaMan - AFF Challenge Redone.zip
+- MegaMan - Alpha (Mega Man Hack).zip
+- MegaMan - Bass Dr. W.zip
+- MegaMan - Bytes Adventure.zip
+- MegaMan - EX V1.0 by The Elite Hacking Force (Mega Man Hack).zip
+- MegaMan - Googies Megamix.zip
+- MegaMan - High Speed Megaman (Mega Man Hack).zip
+- MegaMan - In the Mushroom Kingdom (Megaman Hack).zip
+- MegaMan - Kamikaze Megaman (Mega Man Hack).zip
+- MegaMan - Mega133TMAN V1.0 by Clomax Dominion (Megaman Hack).zip
+- MegaMan - MegaMari.zip
+- MegaMan - Reloaded V1.2.zip
+- MegaMan - Rockman 2000 (J).zip
+- MegaMan - Rockman Claw (J).zip
+- MegaMan - Rockman Kai (J).zip
+- MegaMan - Rockman NEO (Rockman Hack).zip
+- MegaMan - Rockman RX.zip
+- MegaMan - Showdown I (Mega Man Hack).zip
+- MegaMan - Wily's Conquest V0.46 by Clomax Dominion (Megaman Hack).zip
+- Megaman (U) [!] [T-BR] [T-spyblack G-Trans-Center] [V-1.1 FINAL P-100% A-2011].zip
+- MegaMan II - Adventures of Bass 2.zip
+- MegaMan II - AVGN Vs Dr.Wly.zip
+- MegaMan II - Eight Beasts 2 V2.01 by Matrixz (Megaman II Hack).zip
+- MegaMan II - MegaMan In Java Island.zip
+- MegaMan II - NEO (Megaman II Hack).zip
+- MegaMan II - Rockman EXILE (J).zip
+- MegaMan II - Rockman No Constancy Hard Edition (J).zip
+- MegaMan II - Rockman No Constancy Normal Edition (J).zip
+- MegaMan II - Rockman Z (J).zip
+- MegaMan II - The Revenge of the Eight Robot Masters (Hack).zip
+- MegaMan II - Ultra.zip
+- MegaMan II - Wily's Conquest 2 v0.71b (Megaman II Hack).zip
+- MegaMan II - X (Mega Man 2 Hack).zip
+- Megaman II (U) (PT-BR).zip
+- MegaMan III - (Enemy Lifebar Hack).zip
+- MegaMan III - Battle Of Gamma (U).zip
+- MegaMan III - Break Man 3 (U).zip
+- MegaMan III - Dr.Wily Visits Indonesia (U).zip
+- MegaMan III - Ever (U).zip
+- MegaMan III - Hedgehog Trap! - EASY (U).zip
+- MegaMan III - Hedgehog Trap! - HARD (U).zip
+- MegaMan III - Hedgehog Trap! - NORMAL (U).zip
+- MegaMan III - Powa 1 (U).zip
+- MegaMan III - Powa 2 (U).zip
+- MegaMan III - Powa 2 Hard Version (U).zip
+- MegaMan III - Ridley X 1 (U).zip
+- MegaMan III - Ridley X 2 (U).zip
+- MegaMan III - Rise & Fall of Dr.Wily (U).zip
+- MegaMan III - The Return (U).zip
+- Megaman III (U) (PT-BR).zip
+- MegaMan IV - After In Indonesia.zip
+- MegaMan IV - C4 (U).zip
+- MegaMan IV - Eons of dreams part 4 (U).zip
+- MegaMan IV - Gadget Master.zip
+- MegaMan IV - Maverick Revenge.zip
+- MegaMan IV - Minus Infinity.zip
+- MegaMan IV - Ridley X Hack 1 (U).zip
+- MegaMan IV - Ridley X Hack 2 (U).zip
+- Megaman IV (U) (PT-BR).zip
+- MegaMan V - Fly by Matrixz (Hack).zip
+- MegaMan V - Time Attack V0.311 by Matrixz (Hack).zip
+- Megaman V (U) (PT-BR).zip
+- MegaMan VI - Showdown VI (Megaman VI Hack).zip
+- Megaman VI (U) (PT-BR).zip
+- Mei Guo Fu Hao - American Man (China) (Unl).zip
+- Menace Beach (USA) (Unl).nes
+- Menace Beach (USA) (Unl).zip
+- Mendel Palace (USA).nes
+- Mendel Palace (USA).zip
+- Meng Huan - Xiang Shuai Chuan Qi Zhi Xue Hai Piao Ling (China) (Unl).zip
+- Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).nes
+- Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).zip
+- Metal Fighter (Asia) (Sachen) (Unl).nes
+- Metal Fighter (Asia) (Sachen) (Unl).zip
+- Metal Fighter (USA) (Unl).nes
+- Metal Fighter (USA) (Unl).zip
+- Metal Force (Korea) (Unl).zip
+- Metal Gear (Europe).nes
+- Metal Gear (Europe).zip
+- Metal Gear (U) (PT-BR).zip
+- Metal Gear (USA).nes
+- Metal Gear (USA).zip
+- Metal Mech - Man & Machine (USA).nes
+- Metal Mech - Man & Machine (USA).zip
+- Metal Storm (USA).nes
+- Metal Storm (USA).zip
+- Metroid - 2000.zip
+- Metroid - Adventure.zip
+- Metroid - Challenge.zip
+- Metroid - Challenger V0.87 (Metroid Hack).zip
+- Metroid - Deluxe v1.1 (Metroid Hack).zip
+- Metroid - Genocide (Metroid Hack).zip
+- Metroid - Hard Core Elite (Metroid Hack).zip
+- Metroid - Invasion (U).zip
+- Metroid - M (Metroid Hack).zip
+- Metroid - Mutation (Metroid Hack).zip
+- Metroid - Omega (Metroid Hack).zip
+- Metroid - Planet (Metroid Hack).zip
+- Metroid - Remix V1.2 (Metroid Hack).zip
+- Metroid - Revenge (U).zip
+- Metroid - TSI (Metroid Hack).zip
+- Metroid - Wart's Invasion (Metroid Hack).zip
+- Metroid - X V1.0 (Metroid Hack).zip
+- Metroid (Europe).nes
+- Metroid (Europe).zip
+- Metroid (U) (PT-BR).zip
+- Metroid (USA).nes
+- Metroid (USA).zip
+- Metroid Origin (alt Samus).zip
+- Metroid Origin (enhanced).zip
+- Metroid Origin.zip
+- Michael Andretti's World GP (USA).nes
+- Michael Andretti's World GP (USA).zip
+- Mickey Mouse - Dream Balloon (USA) (Beta).nes
+- Mickey Mouse - Dream Balloon (USA) (Beta).zip
+- Mickey Mousecapade (USA).nes
+- Mickey Mousecapade (USA).zip
+- Mickey's Adventure in Numberland (USA).nes
+- Mickey's Adventure in Numberland (USA).zip
+- Mickey's Safari in Letterland (USA).nes
+- Mickey's Safari in Letterland (USA).zip
+- Micro Machines (Europe) (Unl).nes
+- Micro Machines (Europe) (Unl).zip
+- Micro Machines (USA) (Aladdin Compact Cartridge) (Unl).nes
+- Micro Machines (USA) (Aladdin Compact Cartridge) (Unl).zip
+- Micro Machines (USA) (Unl).nes
+- Micro Machines (USA) (Unl).zip
+- Micro Mages.zip
+- MiG 29 - Soviet Fighter (USA) (Unl).nes
+- MiG 29 - Soviet Fighter (USA) (Unl).zip
+- Might & Magic - Secret of the Inner Sanctum (USA).nes
+- Might & Magic - Secret of the Inner Sanctum (USA).zip
+- Mighty Bomb Jack (Europe).nes
+- Mighty Bomb Jack (Europe).zip
+- Mighty Bomb Jack (USA).nes
+- Mighty Bomb Jack (USA).zip
+- Mighty Final Fight (Europe).nes
+- Mighty Final Fight (Europe).zip
+- Mighty Final Fight (U) (PT-BR).zip
+- Mighty Final Fight (USA).nes
+- Mighty Final Fight (USA).zip
+- Mike Tyson's Intergalactic Power Punch (USA) (Beta) [b].nes
+- Mike Tyson's Intergalactic Power Punch (USA) (Beta) [b].zip
+- Mike Tyson's Punch-Out!! (Europe) (Rev A).nes
+- Mike Tyson's Punch-Out!! (Europe) (Rev A).zip
+- Mike Tyson's Punch-Out!! (Europe).nes
+- Mike Tyson's Punch-Out!! (Europe).zip
+- Mike Tyson's Punch-Out!! (Japan  USA) (Rev A).nes
+- Mike Tyson's Punch-Out!! (Japan  USA).nes
+- Millionaire (Asia) (PAL) (Unl).nes
+- Millionaire (Asia) (PAL) (Unl).zip
+- Millipede (USA).nes
+- Millipede (USA).zip
+- Millipede.zip
+- Milon's Secret Castle (USA).nes
+- Milon's Secret Castle (USA).zip
+- Mind Blower Pak (Australia) (Unl).zip
+- Miracle Piano Teaching System  The (France).nes
+- Miracle Piano Teaching System  The (USA).nes
+- Miracle Piano Teaching System The (France).zip
+- Miracle Piano Teaching System The (Germany).zip
+- Miracle Piano Teaching System The (USA).zip
+- Miss Peach World (Unl).zip
+- Mission Cobra (USA) (Unl).nes
+- Mission Cobra (USA) (Unl).zip
+- Mission Impossible (Europe).nes
+- Mission Impossible (Europe).zip
+- Mission Impossible (France).nes
+- Mission Impossible (France).zip
+- Mission Impossible (USA).nes
+- Mission Impossible (USA).zip
+- Mitsume ga Tooru (J) (PT-BR).zip
+- Moai-kun - Luigi-Kun by Googie (J).zip
+- Moai-kun - Mario-kun (Moai-kun Hack).zip
+- Monkey King (China) (Unl) (T).zip
+- Monkey King (Unl).zip
+- Monopoly (France).nes
+- Monopoly (France).zip
+- Monopoly (Germany).zip
+- Monopoly (USA).nes
+- Monopoly (USA).zip
+- Monster in My Pocket (Europe).nes
+- Monster in My Pocket (Europe).zip
+- Monster in my Pocket (PT-BR).zip
+- Monster in My Pocket (USA) (Beta).nes
+- Monster in My Pocket (USA) (Beta).zip
+- Monster in My Pocket (USA).nes
+- Monster in My Pocket (USA).zip
+- Monster Party (USA).nes
+- Monster Party (USA).zip
+- Monster Truck Rally (USA).nes
+- Monster Truck Rally (USA).zip
+- Monstruo de los Globos El (Spain) (Gluk Video) (Unl).zip
+- Monstruo de los Globos El (Spain) (Rev 1) (Gluk Video) (Unl).zip
+- Moon Crystal (J) (PT-BR).zip
+- Moon Ranger (USA) (Unl).nes
+- Moon Ranger (USA) (Unl).zip
+- Mortal Kombat 2 (Unl) [!].zip
+- Mortal Kombat 3 - Special 56 Peoples (Unl) [!].zip
+- Mortal Kombat 3 (Unl).zip
+- Mortal Kombat 3 Extra 60 (Unl) [!].zip
+- Mortal Kombat 4.zip
+- Mortal Kombat II Special (Unl) [!].zip
+- Mortal Kombat Trilogy - MK5 (16player) (Unl) [!].zip
+- Mortal Kombat V1996 Turbo 30 Peoples (Unl) [!].zip
+- MotorCity Patrol (USA).nes
+- MotorCity Patrol (USA).zip
+- Mr. Gimmick (Europe).nes
+- Mr. Gimmick (Europe).zip
+- Mr. Gimmick (USA) (Proto).nes
+- Mr. Gimmick (USA) (Proto).zip
+- Mr. Gimmick 2.zip
+- Ms. Pac-Man (USA) (Unl).nes
+- Ms. Pac-Man (USA) (Unl).zip
+- Ms. Pac-Man (USA).nes
+- Ms. Pac-Man (USA).zip
+- Muppet Adventure - Chaos at the Carnival (USA).nes
+- Muppet Adventure - Chaos at the Carnival (USA).zip
+- Mutant Virus  The - Crisis in a Computer World (USA).nes
+- Mutant Virus The - Crisis in a Computer World (USA).zip
+- Mystery Quest (USA).nes
+- Mystery Quest (USA).zip
+- Mystery World Dizzy (Europe) (En Pt Pl) (Unl).zip
+- NARC (USA).nes
+- NARC (USA).zip
+- nba??.zip
+- nebs-n-debs.zip
+- Nekketsu Kouha - Kunio Kun (J).nes
+- Nekketsu Kouha - Kunio-kun (Girl Version Hack).zip
+- Nekketsu Koukou Dodgeball Bu - Soccer Hen (J) [o1].nes
+- Nekketsu Koukou Dodgeball Bu - Soccer Hen (J).nes
+- Nekketsu Koukou Dodgeball Bu (J) [hFFE].nes
+- Nekketsu Koukou Dodgeball Bu (J) [o1].nes
+- Nekketsu Koukou Dodgeball Bu (J) [o1][T+Chi_OLD LIU].nes
+- Nekketsu Koukou Dodgeball Bu (J) [T+Chi_OLD LIU].nes
+- Nekketsu Koukou Dodgeball Bu (J).nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J) [o1].nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J) [T+Eng.75_ICE].nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J) [T+Rus].nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J) [T-Eng.50].nes
+- Nekketsu! Street Basket - Ganbare Dunk Heroes (J).nes
+- Nemo - Pajama Hero (J) [o1].nes
+- Nemo - Pajama Hero (J) [o1][T+Chi].nes
+- Nemo - Pajama Hero (J) [p1].nes
+- Nemo - Pajama Hero (J) [T+Chi].nes
+- Nemo - Pajama Hero (J).nes
+- NES Audio Tester V1.3 (PD).nes
+- NES Color Bars Demo by Quietust (PD).nes
+- NES Color Bars Demo V2 by Quietust (PD).nes
+- NES CPU Test by Kevin Horton (PD).nes
+- NES Dream Team (Cocoron Hack) [o1].nes
+- NES Dream Team (Cocoron Hack).nes
+- NES Land Journey (Kid Icarus Hack) [o1].nes
+- NES Land Journey (Kid Icarus Hack).nes
+- NES Music Programming Language Example by Bob Rost (PD).nes
+- NES NTSC Branch Timing Tests - Backward Branch by Shay Green (PD).nes
+- NES NTSC Branch Timing Tests - Branch Basics by Shay Green (PD).nes
+- NES NTSC Branch Timing Tests - Forward Branch by Shay Green (PD).nes
+- NES NTSC Frame Phase Test by Shay Green (PD).nes
+- NES NTSC Line Phase Test by Shay Green (PD).nes
+- NES NTSC Special Frame Phase by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Basics by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Details by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Emulator by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Obscure by Shay Green (PD).nes
+- NES NTSC Sprite Overflow Tests - Timing by Shay Green (PD).nes
+- NES Open Tournament Golf (Europe).nes
+- NES Open Tournament Golf (Europe).zip
+- NES Open Tournament Golf (U) [!].nes
+- NES Open Tournament Golf (U) [b1].nes
+- NES Open Tournament Golf (U) [o1].nes
+- NES Open Tournament Golf (USA).nes
+- NES Open Tournament Golf (USA).zip
+- NES Play Action Football (U) [!].nes
+- NES Play Action Football (U) [b1].nes
+- NES Play Action Football (U) [o1].nes
+- NES Play Action Football (USA).nes
+- NES Play Action Football (USA).zip
+- NES PowerPad Test Cart (U) [!].nes
+- NES Quine Demo (PD).nes
+- NES Scrolling Test by Lasse Oorni (Cadaver) (PD).nes
+- NES Test Cart (Official Nintendo) (U) [!].nes
+- NES Test Program by Memblers (PD).nes
+- NES Tutor 101 by Michael Martin (PD).nes
+- NES Tutor 101 Rev 1.2, 23 Mar 2002 by Michael Martin (PD).nes
+- NES Virus Cleaner (USA) (Unl).zip
+- NESA Audio Player - Little Nemo Sample by Chris Covell (PD).nes
+- NESA Audio Player - Times of Lore by Chris Covell (PD).nes
+- NESHLA Demo Program - Hello, World by Brian Provinciano (PD).nes
+- NESmas  03 by Mic (PD).nes
+- NESmas  05 by Mic (PD).nes
+- NeSnake (NTSC) by Matrixz (PD).nes
+- NeSnake 2 (Preview Demo) by Matrixz (PD).nes
+- NeSnake 2 (V1.2) (NTSC) by Matrixz (PD).nes
+- NeSnake 2 (V1.2) (PAL) by Matrixz (PD).nes
+- NeSnake 2 (V1.x) by Matrixz (PD).nes
+- NEStress (PD) [a1].nes
+- NEStress (PD).nes
+- New Ghostbusters II (E) [!].nes
+- New Ghostbusters II (E) [T+Rus].nes
+- New Ghostbusters II (Europe).nes
+- New Ghostbusters II (Europe).zip
+- New Ghostbusters II (J) [hFFE].nes
+- New Ghostbusters II (J) [hFFE][b1].nes
+- New Ghostbusters II (J) [p1][hM01].nes
+- New Ghostbusters II (J).nes
+- New Ghostbusters II (USA) (Proto).nes
+- New Ghostbusters II (USA) (Proto).zip
+- New Quest After SMB2j, The - Clouds by AP (SMB1 Hack).nes
+- New Quest After SMB2j, The - DX by AP (SMB1 Hack).nes
+- New Quest After SMB2j, The - Y.R.P.P. by AP (SMB1 Hack).nes
+- New Quest After SMB2j, The by AP (SMB1 Hack).nes
+- New York Nyankies (J) [o1].nes
+- New York Nyankies (J).nes
+- New Zealand Story  The (Europe).nes
+- New Zealand Story The (Europe).zip
+- New Zealand Story, The (E).nes
+- New-River City Ransom (Hack).nes
+- NewZealand Story The (Europe).zip
+- NFL (USA).nes
+- NFL (USA).zip
+- NFL 99 (Tecmo Super Bowl Hack).nes
+- NFL Football (U) [!].nes
+- NFL Football (U) [b1].nes
+- NFL Football (U) [b2].nes
+- NFL Football (U) [o1].nes
+- Nibbles by Damian Yeppick (PD).nes
+- Nichibutsu Mahjong 3 - Mahjong G Men (J).nes
+- Nigel Mansell s World Championship Challenge (U) [!].nes
+- Nigel Mansell s World Championship Challenge (U) [b1].nes
+- Nigel Mansell s World Championship Challenge (U) [o1].nes
+- Nigel Mansell's World Championship Challenge (USA).nes
+- Nigel Mansell's World Championship Challenge (USA).zip
+- Nigel Mansell's World Championship Racing (Europe) (En Fr De Es It).nes
+- Nigel Mansell's World Championship Racing (Europe) (En Fr De Es It).zip
+- Nigger Tennis (Tennis Hack) [o1].nes
+- Nigger Tennis (Tennis Hack).nes
+- Night Arrow (Ch).nes
+- Night of the Lee High Slayer (PD).nes
+- Nightmare on Elm Street  A (USA).nes
+- Nightmare on Elm Street A (U) (PT-BR).zip
+- Nightmare on Elm Street A (USA).zip
+- Nightmare on Elm Street, A (U) [!].nes
+- Nightmare on Elm Street, A (U) [o1].nes
+- Nightmare on Elm Street, A (U) [T+Por_BRGames].nes
+- Nightmare on Elm Street, A (U) [T+Spa1.00_ShinjiE].nes
+- Nightshade (U) [!].nes
+- Nightshade (U) [b1].nes
+- Nightshade (U) [b2].nes
+- Nightshade (U) [b3].nes
+- Nightshade (U) [o1].nes
+- Nightshade (USA).nes
+- Nightshade (USA).zip
+- Nihonichi no Mei Kantoku (J).nes
+- Niji no Silk Road (J) [b1].nes
+- Niji no Silk Road (J) [o1].nes
+- Niji no Silk Road (J) [o1][T+Eng1.01_Gaijin Productions].nes
+- Niji no Silk Road (J) [T+Eng1.01_Gaijin Productions].nes
+- Niji no Silk Road (J) [T+Eng1.01_Gaijin Productions][o1].nes
+- Niji no Silk Road (J) [T+Eng1.01_Gaijin Productions][o2].nes
+- Niji no Silk Road (J).nes
+- Nim-tendo by Erik Jakobsson 2004 (PD).nes
+- Ningen Heiki - Dead Fox (J) [b1].nes
+- Ningen Heiki - Dead Fox (J) [b2].nes
+- Ningen Heiki - Dead Fox (J) [o1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a1][o1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a2].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a2][o1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a3].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][a3][o1].nes
+- Ningen Heiki - Dead Fox (J) [T+Chi][o1].nes
+- Ningen Heiki - Dead Fox (J).nes
+- Ninja 3.zip
+- Ninja Cop Saizou (J) [o1].nes
+- Ninja Cop Saizou (J).nes
+- Ninja Crusaders - Ryuuga (J) [o1].nes
+- Ninja Crusaders - Ryuuga (J).nes
+- Ninja Crusaders (U) (PT-BR).zip
+- Ninja Crusaders (U) [!p].nes
+- Ninja Crusaders (U) [b1].nes
+- Ninja Crusaders (U) [o1].nes
+- Ninja Crusaders (U) [T+Por100%_Central de Traducuo].nes
+- Ninja Crusaders (U) [T+Rus].nes
+- Ninja Crusaders (USA).nes
+- Ninja Crusaders (USA).zip
+- Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Beta) (1990-01-18).nes
+- Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Beta) (1990-01-18).zip
+- Ninja Gaiden - Evil Edition (U) [!].zip
+- Ninja Gaiden - Virgin Edition (U) [!].zip
+- Ninja Gaiden (PC10).nes
+- Ninja Gaiden (U) (PT-BR).zip
+- Ninja Gaiden (U) [!].nes
+- Ninja Gaiden (U) [b1].nes
+- Ninja Gaiden (U) [b1][o1].nes
+- Ninja Gaiden (U) [b1][o1][T+Por1.1_Hellmatic].nes
+- Ninja Gaiden (U) [b1][o2].nes
+- Ninja Gaiden (U) [b2].nes
+- Ninja Gaiden (U) [b2][o1].nes
+- Ninja Gaiden (U) [b3].nes
+- Ninja Gaiden (U) [b3][o1].nes
+- Ninja Gaiden (U) [b4].nes
+- Ninja Gaiden (U) [b5].nes
+- Ninja Gaiden (U) [b5][o1][T-Por].nes
+- Ninja Gaiden (U) [b5][T-Por].nes
+- Ninja Gaiden (U) [b6].nes
+- Ninja Gaiden (U) [o1].nes
+- Ninja Gaiden (U) [T+Ita1.1_SadNES_City].nes
+- Ninja Gaiden (U) [T+Por1.1_Hellmatic].nes
+- Ninja Gaiden (U) [T+Por100%_IPS Point].nes
+- Ninja Gaiden (U) [T+Spa_DJ Traducciones].nes
+- Ninja Gaiden (U) [T+Swe.9_MetalHead].nes
+- Ninja Gaiden (U) [T-Ita1.0_SadNES_City].nes
+- Ninja Gaiden (U) [T-Por1.0].nes
+- Ninja Gaiden (USA) (Beta).nes
+- Ninja Gaiden (USA) (Beta).zip
+- Ninja Gaiden (USA).nes
+- Ninja Gaiden (USA).zip
+- Ninja Gaiden 2 - The dark sword of chaos (U) (PT-BR).zip
+- Ninja Gaiden 3 - The Ancient Ship of Doom (U) (PT-BR).zip
+- Ninja Gaiden II - The Dark Sword of Chaos (PC10).nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) (Prototype).nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [!].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [b1].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [b2].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [o1].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [o2].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Arabian].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Arabian][o1].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Fre_Terminus].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Ita1.0].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Por100%Emulacao Brasil].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Ser1.0_MadFox].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (U) [T+Swe1.0_MetalHead].nes
+- Ninja Gaiden II - The Dark Sword of Chaos (USA).nes
+- Ninja Gaiden II - The Dark Sword of Chaos (USA).zip
+- Ninja Gaiden III - The Ancient Ship of Doom (PC10).nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [!].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [b1].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [b2].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [b3].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [b4].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [o1].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [o2].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [T+Fre_Terminus].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [T+Por1.0_CBT].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [T+Por100%_ZERO].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [T+Rus].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (U) [t1].nes
+- Ninja Gaiden III - The Ancient Ship of Doom (USA).nes
+- Ninja Gaiden III - The Ancient Ship of Doom (USA).zip
+- Ninja Hattori Kun (J) [b1].nes
+- Ninja Hattori Kun (J) [b1][o1].nes
+- Ninja Hattori Kun (J) [b2].nes
+- Ninja Hattori Kun (J) [o1].nes
+- Ninja Hattori Kun (J) [p1].nes
+- Ninja Hattori Kun (J) [p2].nes
+- Ninja Hattori Kun (J).nes
+- Ninja II.zip
+- Ninja Jajamaru - Ginga Daisakusen (J) [b1].nes
+- Ninja Jajamaru - Ginga Daisakusen (J) [b1][o1].nes
+- Ninja Jajamaru - Ginga Daisakusen (J) [T+Eng1.00_HTI].nes
+- Ninja Jajamaru - Ginga Daisakusen (J).nes
+- Ninja Jajamaru Kun (J) [hM03].nes
+- Ninja Jajamaru Kun (J) [hM03][b1].nes
+- Ninja Jajamaru Kun (J) [hM03][p1].nes
+- Ninja Jajamaru Kun (J) [hM03][p1][o1].nes
+- Ninja Jajamaru Kun (J) [t1].nes
+- Ninja Jajamaru Kun (J) [t1][T+Chi_MS emumax].nes
+- Ninja Jajamaru Kun (J) [t1][T-Chi_MS emumax].nes
+- Ninja Jajamaru Kun (J) [t1][T-Chi_MS emumax][a1].nes
+- Ninja Jajamaru Kun (J) [t1][T-Chi_MS emumax][a2].nes
+- Ninja Jajamaru Kun (J) [t1][T-Chi_MS emumax][a3].nes
+- Ninja Jajamaru Kun (J).nes
+- Ninja Jajamaru Kun (VS).nes
+- Ninja Kid (U) [!].nes
+- Ninja Kid (U) [b1].nes
+- Ninja Kid (U) [o1].nes
+- Ninja Kid (U) [o2].nes
+- Ninja Kid (USA).nes
+- Ninja Kid (USA).zip
+- Ninja Kun - Ashura no Shou (J) [b1].nes
+- Ninja Kun - Ashura no Shou (J) [b2].nes
+- Ninja Kun - Ashura no Shou (J) [o1].nes
+- Ninja Kun - Ashura no Shou (J) [o1][T+Eng].nes
+- Ninja Kun - Ashura no Shou (J) [o2].nes
+- Ninja Kun - Ashura no Shou (J) [o3].nes
+- Ninja Kun - Ashura no Shou (J) [T+Chi].nes
+- Ninja Kun - Ashura no Shou (J) [T+Eng].nes
+- Ninja Kun - Ashura no Shou (J).nes
+- Ninja Kun (J) [b1].nes
+- Ninja Kun (J) [o1].nes
+- Ninja Kun (J) [p1].nes
+- Ninja Kun (J) [p1][o1].nes
+- Ninja Kun (J) [p2].nes
+- Ninja Kun (J).nes
+- Ninja Ryukenden (J) [b1].nes
+- Ninja Ryukenden (J) [o1].nes
+- Ninja Ryukenden (J) [T+Chi].nes
+- Ninja Ryukenden (J).nes
+- Ninja Ryukenden II - Ankoku no Jashin Ken (J) [o1].nes
+- Ninja Ryukenden II - Ankoku no Jashin Ken (J) [T+Chi].nes
+- Ninja Ryukenden II - Ankoku no Jashin Ken (J).nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [a1].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [a1][o1].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [o1].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [o1][T+Chi].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [o1][T-Chi].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [T+Chi].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [T+Kor].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J) [T-Chi].nes
+- Ninja Ryukenden III - Yomi no Hakobune (J).nes
+- Ninja.zip
+- Ninjara Hoi! (J) [b1].nes
+- Ninjara Hoi! (J) [b2].nes
+- Ninjara Hoi! (J).nes
+- Nintendo - NTF2 System Cartridge (USA).nes
+- Nintendo - NTF2 System Cartridge (USA).zip
+- Nintendo - NTF2 Test Cartridge (NES Test) (USA) (Rev 1).nes
+- Nintendo - NTF2 Test Cartridge (NES Test) (USA) (Rev 1).zip
+- Nintendo - NTF2 Test Cartridge (USA).nes
+- Nintendo - NTF2 Test Cartridge (USA).zip
+- Nintendo World Championships 1990 (U) [!].nes
+- Nintendo World Championships 1990 (USA).nes
+- Nintendo World Championships 1990 (USA).zip
+- Nintendo World Class Service - Control Deck Test Cartridge (USA).nes
+- Nintendo World Class Service - Control Deck Test Cartridge (USA).zip
+- Nintendo World Class Service - Joystick Test Cartridge (USA).nes
+- Nintendo World Class Service - Joystick Test Cartridge (USA).zip
+- Nintendo World Class Service - Port Test Cartridge (USA).nes
+- Nintendo World Class Service - Port Test Cartridge (USA).zip
+- Nintendo World Class Service - Power Pad Test Cartridge (USA).nes
+- Nintendo World Class Service - Power Pad Test Cartridge (USA).zip
+- Nintendo World Cup (E) (PRG0).nes
+- Nintendo World Cup (E) (PRG1).nes
+- Nintendo World Cup (Europe) (Rev A).nes
+- Nintendo World Cup (Europe) (Rev A).zip
+- Nintendo World Cup (Europe) (Rev B).nes
+- Nintendo World Cup (Europe) (Rev B).zip
+- Nintendo World Cup (Europe).nes
+- Nintendo World Cup (Europe).zip
+- Nintendo World Cup (PC10) [b1].nes
+- Nintendo World Cup (PC10).nes
+- Nintendo World Cup (U) [!].nes
+- Nintendo World Cup (U) [b1].nes
+- Nintendo World Cup (U) [b2].nes
+- Nintendo World Cup (U) [b3].nes
+- Nintendo World Cup (U) [b4].nes
+- Nintendo World Cup (U) [b5].nes
+- Nintendo World Cup (U) [o1].nes
+- Nintendo World Cup (U) [T+Fre99%_YF06].nes
+- Nintendo World Cup (USA).nes
+- Nintendo World Cup (USA).zip
+- Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (J) [b1].nes
+- Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (J) [o1].nes
+- Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (J).nes
+- Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (J) [b1].nes
+- Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (J) [o1].nes
+- Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (J).nes
+- Nishitetsu Busjack (Buggy Popper Hack).nes
+- Nittereb (Arkanoid Hack).nes
+- NMI Suppression Timing Test by Shay Green (6 Nov 2005) (PD).nes
+- NMI Timing Test by Shay Green (6 Nov 2005) (PD).nes
+- Noah s Ark (E) [!].nes
+- Noah s Ark (E) [b1].nes
+- Noah s Ark (E) [b2].nes
+- Noah's Ark (Europe).nes
+- Noah's Ark (Europe).zip
+- Nobunaga no Yabou - Bushou Fuuun Roku (J).nes
+- Nobunaga no Yabou - Sengoku Gunyuu Den (J) [o1].nes
+- Nobunaga no Yabou - Sengoku Gunyuu Den (J).nes
+- Nobunaga no Yabou - Zenkoku Han (J) [a1].nes
+- Nobunaga no Yabou - Zenkoku Han (J) [hM02].nes
+- Nobunaga no Yabou - Zenkoku Han (J).nes
+- Nobunaga s Ambition (U) [!].nes
+- Nobunaga s Ambition (U) [b1].nes
+- Nobunaga s Ambition (U) [b2].nes
+- Nobunaga s Ambition (U) [b3].nes
+- Nobunaga s Ambition (U) [o1].nes
+- Nobunaga s Ambition 2 (U) [!p].nes
+- Nobunaga s Ambition 2 (U) [b1].nes
+- Nobunaga s Ambition 2 (U) [o1].nes
+- Nobunaga's Ambition (USA).nes
+- Nobunaga's Ambition (USA).zip
+- Nobunaga's Ambition II (USA).nes
+- Nobunaga's Ambition II (USA).zip
+- nomolos.zip
+- North & South (Europe).nes
+- North & South (Europe).zip
+- North _ South (E) [!].nes
+- North _ South (E) [T+FreFinal_Generation IX].nes
+- North _ South (J).nes
+- North _ South (U) [!].nes
+- North _ South (U) [b1].nes
+- North _ South (U) [b1][o1].nes
+- North _ South (U) [b1][o2].nes
+- North _ South (U) [b2].nes
+- North _ South (U) [b3].nes
+- North _ South (U) [b4].nes
+- North _ South (U) [b5].nes
+- North _ South (U) [T+Swe1.0_TheTranslator].nes
+- North and South (USA).nes
+- North and South (USA).zip
+- NTF2 System Cart (U).nes
+- NTF2 Test Cart (PD).nes
+- Nude Barbie (Beta 1) (Barbie Hack) [b1].nes
+- Nude Barbie (Beta 1) (Barbie Hack) [o1].nes
+- Nude Barbie (Beta 1) (Barbie Hack).nes
+- Nude Punch Out (Punch-Out!! Hack).nes
+- Nullsleep - Kuribos Requiem (PD).nes
+- Nuts & Milk (J) (PT-BR).zip
+- Nuts _ Milk (J) [o1].nes
+- Nuts _ Milk (J) [o2].nes
+- Nuts _ Milk (J) [p1].nes
+- Nuts _ Milk (J) [p1][o1].nes
+- Nuts _ Milk (J) [T+Chi_MS emumax].nes
+- Nuts _ Milk (J) [T+FreFinal_ks151].nes
+- Nuts _ Milk (J) [T-Chi_MS emumax].nes
+- Nuts _ Milk (J) [T-Chi_MS emumax][a1].nes
+- Nuts _ Milk (J) [T-Chi_MS emumax][a2].nes
+- Nuts _ Milk (J).nes
+- Nuts _ Milk by PE (Hack) [o1].nes
+- Nuts _ Milk by PE (Hack).nes
+- Oaty Invaders by Pope Hentai (Space Invaders Hack).nes
+- Obake no Q Tarou - Wanwan Panic (J) [p1].nes
+- Obake no Q Tarou - Wanwan Panic (J).nes
+- Obocchama Kun (J) [o1].nes
+- Obocchama Kun (J).nes
+- Oct Man v0.7 (Pac-Man Hack).nes
+- Oeka Kids - Anpanman no Hiragana Daisuki (J).nes
+- Oeka Kids - Anpanman to Oekaki Shiyou!! (J).nes
+- Oishinbo (J) [b1].nes
+- Oishinbo (J) [b2].nes
+- Oishinbo (J) [o1].nes
+- Oishinbo (J).nes
+- Old Pond, Diving Frog and Water Sound by U1 (SMB1 Hack).nes
+- Olympic I.Q. (Asia) (PAL) (Unl).nes
+- Olympic I.Q. (Asia) (PAL) (Unl).zip
+- Olympic IQ (Sachen) [!].nes
+- Olympus no Tatakai (J) [b1].nes
+- Olympus no Tatakai (J) [b2].nes
+- Olympus no Tatakai (J).nes
+- Omeka (Lode Runner Hack).nes
+- Onyanko Town (J) [!].nes
+- Onyanko Town (J) [o1].nes
+- Onyanko Town (J) [p1].nes
+- Operation Secret Storm (Unl) [!p].nes
+- Operation Secret Storm (Unl) [o1].nes
+- Operation Secret Storm (USA) (Unl).nes
+- Operation Secret Storm (USA) (Unl).zip
+- Operation Wolf (E) [!].nes
+- Operation Wolf (Europe).nes
+- Operation Wolf (Europe).zip
+- Operation Wolf (J).nes
+- Operation Wolf (U) [!].nes
+- Operation Wolf (U) [b1].nes
+- Operation Wolf (U) [b1][o1].nes
+- Operation Wolf (U) [b2].nes
+- Operation Wolf (U) [b3].nes
+- Operation Wolf (U) [b4].nes
+- Operation Wolf (U) [b5].nes
+- Operation Wolf (U) [o1].nes
+- Operation Wolf (U) [o2].nes
+- Operation Wolf (USA) (Rev 0A).nes
+- Operation Wolf (USA) (Rev 0A).zip
+- Orb 3D (U) [!].nes
+- Orb 3D (U) [b1].nes
+- Orb 3D (U) [b2].nes
+- Orb 3D (U) [b3].nes
+- Orb 3D (U) [b4].nes
+- Orb 3D (U) [o1].nes
+- Orb 3D (USA).nes
+- Orb 3D (USA).zip
+- Orgada (TwinBee Hack) [b1].nes
+- Osama Hunt (Duck Hunt Hack).nes
+- Osomatsu Kun (J) [a1].nes
+- Osomatsu Kun (J) [o1].nes
+- Osomatsu Kun (J).nes
+- Otaku no Seiza - An Adventure in the Otaku Galaxy (J) [o1].nes
+- Otaku no Seiza - An Adventure in the Otaku Galaxy (J) [T+Eng0.0001cg_Suicidal].nes
+- Otaku no Seiza - An Adventure in the Otaku Galaxy (J).nes
+- Othello (Australia) (Unl).zip
+- Othello (HES) [!].nes
+- Othello (HES) [b1].nes
+- Othello (HES) [o1].nes
+- Othello (J) (FDS Hack).nes
+- Othello (U) (PT-BR).zip
+- Othello (U) [!].nes
+- Othello (U) [o1].nes
+- Othello (U) [o2].nes
+- Othello (U) [T+Por100%_Solus].nes
+- Othello (USA).nes
+- Othello (USA).zip
+- Othello.zip
+- Our Demo (PD).nes
+- Our Demo NEW1 (PD).nes
+- Our Demo NEW2 (PD).nes
+- Our Demo NEW3 (PD).nes
+- Outlanders (J) [a1].nes
+- Outlanders (J) [a2].nes
+- Outlanders (J) [o1].nes
+- Outlanders (J).nes
+- Over Horizon (E) [!].nes
+- Over Horizon (Europe).nes
+- Over Horizon (Europe).zip
+- Over Horizon (J) [o1].nes
+- Over Horizon (J).nes
+- Overflow Test (PD).nes
+- Overlord (U) [!].nes
+- Overlord (U) [b1].nes
+- Overlord (U) [o1].nes
+- Overlord (USA).nes
+- Overlord (USA).zip
+- P radikus Conflict, The (Unl) [!p].nes
+- P radikus Conflict, The (Unl) [o1].nes
+- P.O.W. - Prisoners of War (Europe).nes
+- P.O.W. - Prisoners of War (Europe).zip
+- P.O.W. - Prisoners of War (U) (PT-BR).zip
+- P.O.W. - Prisoners of War (U) [!].nes
+- P.O.W. - Prisoners of War (U) [b1].nes
+- P.O.W. - Prisoners of War (U) [b2].nes
+- P.O.W. - Prisoners of War (U) [o1].nes
+- P.O.W. - Prisoners of War (U) [T+Chi].nes
+- P.O.W. - Prisoners of War (U) [T+Chi_MS emumax].nes
+- P.O.W. - Prisoners of War (U) [T+Chi_PEACOCKWANG].nes
+- P.O.W. - Prisoners of War (U) [T+Chi_PEACOCKWANG][t1].nes
+- P.O.W. - Prisoners of War (U) [T+Por1.0_GTC].nes
+- P.O.W. - Prisoners of War (U) [T+Por90%_Leon Games].nes
+- P.O.W. - Prisoners of War (USA).nes
+- P.O.W. - Prisoners of War (USA).zip
+- Paaman - Enban wo Torikaese!! (J) [b1].nes
+- Paaman - Enban wo Torikaese!! (J) [o1].nes
+- Paaman - Enban wo Torikaese!! (J).nes
+- Paaman Part 2 - Himitsu Kessha Madoodan wo Taose! (J) [o1].nes
+- Paaman Part 2 - Himitsu Kessha Madoodan wo Taose! (J) [T+Eng1.00_KingMike].nes
+- Paaman Part 2 - Himitsu Kessha Madoodan wo Taose! (J).nes
+- Pachi Com (J) [o1].nes
+- Pachi Com (J) [o2].nes
+- Pachi Com (J) [p1].nes
+- Pachi Com (J).nes
+- Pachinko Daisakusen (J) [b1].nes
+- Pachinko Daisakusen (J) [o1].nes
+- Pachinko Daisakusen (J).nes
+- Pachinko Daisakusen 2 (J) [o1].nes
+- Pachinko Daisakusen 2 (J).nes
+- Pachio Kun 2 (J) [o1].nes
+- Pachio Kun 2 (J) [p1][hM02].nes
+- Pachio Kun 2 (J).nes
+- Pachio Kun 3 (J) [o1].nes
+- Pachio Kun 3 (J).nes
+- Pachio Kun 4 (J) [b1].nes
+- Pachio Kun 4 (J) [o1].nes
+- Pachio Kun 4 (J).nes
+- Pachio Kun 5 (J).nes
+- Pachi-Slot Adventure 2 - Sorotta Kun no Pachi Slot Tanteidan (J) [!].nes
+- Pachi-Slot Adventure 2 - Sorotta Kun no Pachi Slot Tanteidan (J) [b1].nes
+- Pachi-Slot Adventure 2 - Sorotta Kun no Pachi Slot Tanteidan (J) [o1].nes
+- Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan! (J) [!].nes
+- Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan! (J) [b1].nes
+- Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan! (J) [o1].nes
+- Pac-Land (J) [b1].nes
+- Pac-Land (J) [b1][o1].nes
+- Pac-Land (J) [b2].nes
+- Pac-Land (J) [p1].nes
+- Pac-Land (J).nes
+- Pac-Man (E) [!].nes
+- Pac-Man (E) [T+FreFinal_ks151].nes
+- Pac-Man (Europe).nes
+- Pac-Man (Europe).zip
+- Pac-Man (J) [o1].nes
+- Pac-Man (J) [p1].nes
+- Pac-Man (J) [p1][b1].nes
+- Pac-Man (J) [p1][o1].nes
+- Pac-Man (J) [p1][o2].nes
+- Pac-Man (J) [p1][o3].nes
+- Pac-Man (J) [p2].nes
+- Pac-Man (J) [p2][o1].nes
+- Pac-Man (J) [T+Chi_MS emumax].nes
+- Pac-Man (J).nes
+- Pac-Man (Japan) (En) (Rev B).nes
+- Pac-Man (U) (Namco) [!p].nes
+- Pac-Man (U) (Namco) [o1].nes
+- Pac-Man (U) (PT-BR).zip
+- Pac-Man (U) (Tengen) [!].nes
+- Pac-Man (U) (Tengen) [b1].nes
+- Pac-Man (U) (Tengen) [o1].nes
+- Pac-Man (U) (Tengen) [T+Por85%_BRGames].nes
+- Pac-Man (Unl) [!].nes
+- Pac-Man (Unl) [o1].nes
+- Pac-Man (USA) (Namco).nes
+- Pac-Man (USA) (Namco).zip
+- Pac-Man (USA) (Tengen) (Unl).nes
+- Pac-Man (USA) (Tengen) (Unl).zip
+- Pac-Man (USA) (Tengen).nes
+- Pac-Man (USA) (Tengen).zip
+- Pac-Man 3 by DahrkDaiz (Ms. Pac-Man Hack) [a1].nes
+- Pac-Man 3 by DahrkDaiz (Ms. Pac-Man Hack).nes
+- Pac-Man 3 by DahrkDaiz (Ms. Pac-Man Hack).zip
+- Pac-Man Bros (SMB1 Hack).nes
+- Pac-Man Bubble Bobble (Bubble Bobble Hack) [o1].nes
+- Pac-Man Bubble Bobble (Bubble Bobble Hack).nes
+- Pac-Man Remix by Lagomorph (Hack) [o1].nes
+- Pac-Man Remix by Lagomorph (Hack).nes
+- Pac-Man.zip
+- Pac-Mania (Unl) [!].nes
+- Pac-Mania (Unl) [b1].nes
+- Pac-Mania (Unl) [o1].nes
+- Pac-Mania (USA) (Unl).nes
+- Pac-Mania (USA) (Unl).zip
+- Pac-Mix 2 (SMB2 Hack).nes
+- Palamedes (J) [b1].nes
+- Palamedes (J) [b2].nes
+- Palamedes (J).nes
+- Palamedes (U) [!].nes
+- Palamedes (U) [o1].nes
+- Palamedes (USA).nes
+- Palamedes (USA).zip
+- Palamedes 2 - Star Twinkles (J).nes
+- Palette Test by Loopy (PD).nes
+- Panic Restaurant (Europe).nes
+- Panic Restaurant (Europe).zip
+- Panic Restaurant (U) [!].nes
+- Panic Restaurant (U) [b1].nes
+- Panic Restaurant (U) [b2].nes
+- Panic Restaurant (U) [o1].nes
+- Panic Restaurant (U) [p1][!].nes
+- Panic Restaurant (U) [T+Fre].nes
+- Panic Restaurant (U) [T+Rus].nes
+- Panic Restaurant (USA).nes
+- Panic Restaurant (USA).zip
+- Paperboy (Europe).nes
+- Paperboy (Europe).zip
+- Paperboy (J).nes
+- Paperboy (U) [!].nes
+- Paperboy (U) [f1].nes
+- Paperboy (U) [o1].nes
+- Paperboy (U) [p1].nes
+- Paperboy (U) [p1][o1].nes
+- Paperboy (U) [p1][o2].nes
+- Paperboy (U) [p2].nes
+- Paperboy (USA).nes
+- Paperboy (USA).zip
+- Paperboy 2 (Europe).nes
+- Paperboy 2 (Europe).zip
+- Paperboy 2 (U) [!].nes
+- Paperboy 2 (U) [b1].nes
+- Paperboy 2 (U) [b2].nes
+- Paperboy 2 (U) [b3].nes
+- Paperboy 2 (U) [o1].nes
+- Paperboy 2 (USA).nes
+- Paperboy 2 (USA).zip
+- Papergirl (Paperboy Hack) [o1].nes
+- Papergirl (Paperboy Hack).nes
+- Papillon (Joy Van) [!].nes
+- Papillon (Joy Van) [b1].nes
+- Parallel World (J) [o1].nes
+- Parallel World (J) [T+Eng1.00_PentarouZero].nes
+- Paranoiz by Nurv Cockyman (PD).nes
+- Parasol Henbee (J) [o1].nes
+- Parasol Stars - Rainbow Islands II (Europe).nes
+- Parasol Stars - Rainbow Islands II (Europe).zip
+- Parasol Stars - The Story of Bubble Bobble 3 (E) (Prototype) [!].nes
+- Parasol Stars - The Story of Bubble Bobble 3 (E) [!].nes
+- Parasol Stars - The Story of Bubble Bobble III (Europe) (Beta).nes
+- Parasol Stars - The Story of Bubble Bobble III (Europe) (Beta).zip
+- Paris-Dakar Rally Special (J) [b1].nes
+- Paris-Dakar Rally Special (J) [o1].nes
+- Paris-Dakar Rally Special (J).nes
+- Parodius (E) [!].nes
+- Parodius (E) [T+Chi].nes
+- Parodius (Europe) (Beta).nes
+- Parodius (Europe) (Beta).zip
+- Parodius (Europe).nes
+- Parodius (Europe).zip
+- Parodius da! (J) [!].nes
+- Parodius da! (J) [hFFE][p1].nes
+- Parodius da! (J) [hFFE][p1][b1].nes
+- Parodius da! (J) [hFFE][p1][b2].nes
+- Parodius da! (J) [hFFE][p1][b3].nes
+- Parodius da! (J) [p1][hM04].nes
+- PasoFami Demo 1 (PD).nes
+- PasoFami Demo 2 (TwinBee) (PD).nes
+- PCGC Tank (Battle City Chinese Hack).nes
+- PCM Demo (PD).nes
+- Peach _ Daisy - The Royal Quest (Alpha) (SMB1 Hack) [a1].nes
+- Peach _ Daisy - The Royal Quest (Alpha) (SMB1 Hack).nes
+- Peach _ Daisy in The Ultimate Quest (SMB3 PRG0 Hack).nes
+- Peach _ Daisy in The Ultimate Quest (SMB3 PRG1 Hack) [a1].nes
+- Peach _ Daisy in The Ultimate Quest (SMB3 PRG1 Hack).nes
+- Peach _ Daisy in The Ultimate Quest V2b (SMB3 PRG1 Hack).nes
+- Peach s Nightmare - No Mercy (Beta) (SMB1 Hack).nes
+- Peach s Nightmare - No Mercy (SMB1 Hack).nes
+- Peek-A-Boo Poker (Asia) (Unl).nes
+- Peek-A-Boo Poker (Asia) (Unl).zip
+- Peek-A-Boo Poker (Unl) [!].nes
+- Peek-A-Boo Poker (Unl) [o1].nes
+- Peepar Time (J) [o1].nes
+- Pegasus 4 in 1 (Unknown) (Unl).zip
+- Pegasus 5 in 1 (Unknown) (Unl).zip
+- Pegs.zip
+- Pencilvania (CV Hack).nes
+- Penguin & Seal  The (Asia  Australia) (Unl).nes
+- Penguin & Seal The (Asia Australia) (Unl).zip
+- Penguin _ Seal, The (Sachen-HES) [!].nes
+- Penguin _ Seal, The (Sachen-HES) [o1].nes
+- Penguin Kun Wars (J) [b1].nes
+- Penguin Kun Wars (J) [p1].nes
+- Penguin Kun Wars (J) [T+Eng1.012_Penguin].nes
+- Penguin Kun Wars (J) [T+Fre1.0_ks151].nes
+- Penguin Kun Wars (J) [T-Eng1.011_Penguin].nes
+- Penguin Kun Wars (J).nes
+- Penguin Kun Wars by Rinkaku (Hack).nes
+- Penisian (Galaxian Hack).nes
+- PepsiMan by Mogemogesama (Metro-Cross Hack).nes
+- Perfect Bowling (J) [o1].nes
+- Perfect Bowling (J).nes
+- Perfect Dark.zip
+- Perfect Fit (U) [!].nes
+- Perfect Fit (U) [b1].nes
+- Perfect Fit (U) [o1].nes
+- Perfect Pair (USA) (Unl).zip
+- Pescatore (J) (Prototype).nes
+- Pesterminator - The Western Exterminator (Unl) [!p].nes
+- Pesterminator - The Western Exterminator (Unl) [o1].nes
+- Pesterminator (USA) (Unl).nes
+- Pesterminator (USA) (Unl).zip
+- Peter Pan _ The Pirates (U) [!].nes
+- Peter Pan _ The Pirates (U) [b1].nes
+- Peter Pan _ The Pirates (U) [b2].nes
+- Peter Pan _ The Pirates (U) [b3].nes
+- Peter Pan _ The Pirates (U) [o1].nes
+- Peter Pan _ The Pirates (U) [o2].nes
+- Peter Pan _ The Pirates (U) [o3].nes
+- Peter Pan _ The Pirates (U) [o4].nes
+- Phantasy Star 2 (Unl).nes
+- Phantom Air Mission (Europe).nes
+- Phantom Air Mission (Europe).zip
+- Phantom Fighter (U) [!].nes
+- Phantom Fighter (U) [b1].nes
+- Phantom Fighter (U) [b2].nes
+- Phantom Fighter (U) [b3].nes
+- Phantom Fighter (U) [o1].nes
+- Phantom Fighter (U) [o2].nes
+- Phantom Fighter (USA).nes
+- Phantom Fighter (USA).zip
+- Phat (SMB1 Hack) [o1].nes
+- Phat (SMB1 Hack).nes
+- Pi Nu Cao De Fu Su (China) (Unl) (T).zip
+- Pi Nuo Cao De Fu Su (Ch) [b1].nes
+- Pi Nuo Cao De Fu Su (Ch).nes
+- PICLoading (PD).nes
+- Pictionary - The Game of Video Quick Draw (USA).nes
+- Pictionary - The Game of Video Quick Draw (USA).zip
+- Pictionary (U) [!].nes
+- Pictionary (U) [b1].nes
+- Pictionary (U) [o1].nes
+- Pictionary (U) [o2].nes
+- PICUnreal (PD).nes
+- PICWindows (PD).nes
+- Pig River City Ransom (Hack).nes
+- Pikachu (Unl).nes
+- Pikachu Bros V0.2 (SMB1 Hack).nes
+- Pikachu Bros Vx.x (SMB1 Hack).nes
+- Pikachu Dig Dug by Mogemogesama (Dig Dug Hack).nes
+- Pikachu Y2K (Unl) [a1].nes
+- Pikachu Y2K (Unl) [b1].nes
+- Pikachu Y2K (Unl).nes
+- Pill Bros (SMB1 Hack).nes
+- Pimpin Extasy (Little Nemo - The Dream Master Hack).nes
+- Pin Bot (E).nes
+- Pin Bot (Europe).nes
+- Pin Bot (Europe).zip
+- Pin Bot (PC10).nes
+- Pin Bot (U) [!].nes
+- Pin Bot (U) [b1].nes
+- Pin Bot (U) [b1][o1].nes
+- Pin Bot (U) [o1].nes
+- Pin Bot (U) [o2].nes
+- Pin Bot (U) [o3].nes
+- Pin Bot (USA).nes
+- Pin Bot (USA).zip
+- Pinball (E) [!].nes
+- Pinball (E) [T+FreFinal_ks151].nes
+- Pinball (Europe) (Rev A).nes
+- Pinball (Europe) (Rev A).zip
+- Pinball (GBA e-Reader) (U).nes
+- Pinball (GC).nes
+- Pinball (J-AC).nes
+- Pinball (JU) [!].nes
+- Pinball (JU) [b1].nes
+- Pinball (JU) [o1].nes
+- Pinball (JU) [o2].nes
+- Pinball (JU) [o3].nes
+- Pinball (JU) [o4].nes
+- Pinball (JU) [p1].nes
+- Pinball (JU) [p1][o1].nes
+- Pinball (JU) [T+Chi_MS emumax].nes
+- Pinball (USA) (GameCube Edition).nes
+- Pinball (USA) (GameCube Edition).zip
+- Pinball (VS) [a1].nes
+- Pinball (VS).nes
+- Pinball (World).zip
+- Pinball CV by Redrum (Hack) [o1].nes
+- Pinball CV by Redrum (Hack).nes
+- Pinball II (Pinball Hack).nes
+- Pinball Macbee (Hack).nes
+- Pinball Quest (Australia).zip
+- Pinball Quest (E) [!].nes
+- Pinball Quest (J).nes
+- Pinball Quest (U) [!].nes
+- Pinball Quest (U) [b1].nes
+- Pinball Quest (U) [b2].nes
+- Pinball Quest (U) [o1].nes
+- Pinball Quest (U) [o2].nes
+- Pinball Quest (USA).nes
+- Pinball Quest (USA).zip
+- Pinball Quest Nude (Hack).nes
+- Pipe 5 (Asia) (Unl).nes
+- Pipe 5 (Asia) (Unl).zip
+- Pipe Dream (U) (PT-BR).zip
+- Pipe Dream (U) [!].nes
+- Pipe Dream (U) [b1].nes
+- Pipe Dream (U) [b1][o1].nes
+- Pipe Dream (USA).nes
+- Pipe Dream (USA).zip
+- Pipemania (Australia) (HES) (Unl).zip
+- Pirates! (E) [!].nes
+- Pirates! (Europe).zip
+- Pirates! (Germany).zip
+- Pirates! (U) [!].nes
+- Pirates! (U) [b1].nes
+- Pirates! (U) [b2].nes
+- Pirates! (U) [b3].nes
+- Pirates! (U) [b4].nes
+- Pirates! (U) [o1].nes
+- Pirates! (USA).zip
+- Pizza Pop! (J) [b1].nes
+- Pizza Pop! (J) [o1].nes
+- Pizza Pop! (J).nes
+- Plasma Ball (J) [o1].nes
+- PLATINA (SMB1 Hack).nes
+- Platoon (U) (PRG0) [b1].nes
+- Platoon (U) (PRG0) [b2].nes
+- Platoon (U) (PRG0) [o1].nes
+- Platoon (U) (PRG0).nes
+- Platoon (U) (PRG1) [!].nes
+- Platoon (U) (PRG1) [hFFE][b1].nes
+- Platoon (U) (PRG1) [hFFE][b2].nes
+- Platoon (USA) (Rev A).nes
+- Platoon (USA) (Rev A).zip
+- Platoon (USA).nes
+- Platoon (USA).zip
+- Platoon (VS) [b1].nes
+- Platoon (VS) [b2].nes
+- Platoon (VS).nes
+- Playbox BASIC (Prototype V0.0).nes
+- Po Po Team (Sachen) [!].nes
+- Pocahontas (Unl).nes
+- Pocket Monster (Unl) [!].nes
+- Pocket Monster (Unl) [o1].nes
+- Pocket Monsters Red (Ch) [!].nes
+- Pocket Monsters Red (Ch) [b1].nes
+- Pocket Zaurus - Juu Ouken no Nazo (J) [hFFE].nes
+- Pocket Zaurus - Juu Ouken no Nazo (J) [o1].nes
+- Pocket Zaurus - Juu Ouken no Nazo (J).nes
+- Poke Block (Asia) (Unl).nes
+- Poke Block (Asia) (Unl).zip
+- Poke Block (Unl) (Prototype).nes
+- Pokecide (SMB2 Hack).nes
+- Poker (Hacker) [b1].nes
+- Poker (Hacker) [b2].nes
+- Poker (Hacker).nes
+- Poker (Unl) [!p].nes
+- Poker (Unl) [b1].nes
+- Poker (Unl) [b1][T+Chi].nes
+- Poker II (Asia) (Unl).nes
+- Poker II (Asia) (Unl).zip
+- Poker II (Sachen) [!].nes
+- Poker III (Asia) (Unl).nes
+- Poker III (Asia) (Unl).zip
+- Poker III (Sachen) [!].nes
+- Poker III (Sachen) [a1].nes
+- Poker III 5-in-1 (Sachen) [!].nes
+- Poker Mahjong - Pu Ke Mao Que (Asia) (Unl).nes
+- Poker Mahjong - Pu Ke Mao Que (Asia) (Unl).zip
+- Poker Mahjong (Sachen) [!].nes
+- Polar Pinwheel Demo by Chris Covell (PD).nes
+- Polar Pop Demo by Chris Covell (PD).nes
+- Polar Rotation 1 Demo by Chris Covell (PD).nes
+- Polar Rotation 21 Demo by Chris Covell (PD).nes
+- Polar Rotation 79 Demo by Chris Covell (PD).nes
+- Polar Rotation 8 Demo by Chris Covell (PD).nes
+- Pole Tchudes (R) [!].nes
+- Pole Tchudes 2 (R) [!].nes
+- Policeman (Spain) (Gluk Video) (Unl).zip
+- Pong and Head Bounce by Bob Rost (PD).nes
+- Pong by Paul Talbot (PD).nes
+- Pony Cat.zip
+- Pooyan (J) (PT-BR).zip
+- Pooyan (J) [b1].nes
+- Pooyan (J) [b1][o1].nes
+- Pooyan (J) [b1][o2].nes
+- Pooyan (J) [b1][o3].nes
+- Pooyan (J) [b2].nes
+- Pooyan (J) [p1].nes
+- Pooyan (J) [p1][o1].nes
+- Pooyan (J) [p2].nes
+- Pooyan (J) [T+Chi_MS emumax].nes
+- Pooyan (J) [T-Chi_MS emumax].nes
+- Pooyan (J) [T-Chi_MS emumax][a1].nes
+- Pooyan (J).nes
+- Pooyan.zip
+- Popeye (J) (PRG0) [!].nes
+- Popeye (J) (PRG0) [o1].nes
+- Popeye (J) (PRG0) [o1][T+Ger].nes
+- Popeye (J) (PRG0) [o2].nes
+- Popeye (J) (PRG0) [o3].nes
+- Popeye (J) (PRG0) [o4].nes
+- Popeye (J) (PRG0) [o5].nes
+- Popeye (J) (PRG0) [o6].nes
+- Popeye (J) (PRG0) [o7].nes
+- Popeye (J) (PRG0) [p1].nes
+- Popeye (J) (PRG0) [p1][o1].nes
+- Popeye (J) (PRG0) [T+Ger].nes
+- Popeye (J) (PRG0) [T+Spa_PaladinKnights].nes
+- Popeye (W) (PRG1) [!].nes
+- Popeye (W) (PRG1) [p1].nes
+- Popeye (W) (PRG1) [T+Chi_MS emumax].nes
+- Popeye (W) (PRG1) [T-Chi_MS emumax].nes
+- Popeye (W) (PRG1) [T-Chi_MS emumax][a1].nes
+- Popeye (World) (Rev A).zip
+- Popeye 2 - Travels in Persia (Unl) [!].nes
+- Popeye no Eigo Asobi (J) [o1].nes
+- Popeye no Eigo Asobi (J) [o2].nes
+- Popeye no Eigo Asobi (J) [o3].nes
+- Popeye no Eigo Asobi (J) [T+Eng1.0_KingMike].nes
+- Popeye no Eigo Asobi (J).nes
+- Popo Team (Asia) (Unl).nes
+- Popo Team (Asia) (Unl).zip
+- Poppy s Pinball (Pinball Hack).nes
+- Porno Island (Takahashi Meijin no Bouken Shima Hack).nes
+- Port Test Cartridge (U).nes
+- Porter (Asia) (Unl).nes
+- Porter (Asia) (Unl).zip
+- Portopia Renzoku Satsujin Jiken (J) [b1].nes
+- Portopia Renzoku Satsujin Jiken (J) [b2].nes
+- Portopia Renzoku Satsujin Jiken (J) [h1].nes
+- Portopia Renzoku Satsujin Jiken (J).nes
+- Potman 3 (Rockman 3 Hack).nes
+- Power Blade (E) [!].nes
+- Power Blade (Europe).nes
+- Power Blade (Europe).zip
+- Power Blade (PC10) [!].nes
+- Power Blade (U) [!] (T-BR) (T-OX-Carnage G-Central de Tradu--es) (2007).zip
+- Power Blade (U) [!].nes
+- Power Blade (U) [b1].nes
+- Power Blade (U) [b2].nes
+- Power Blade (U) [b3].nes
+- Power Blade (U) [o1].nes
+- Power Blade (U) [T+Fre99%_yf06].nes
+- Power Blade (USA).nes
+- Power Blade (USA).zip
+- Power Blade 2 (U) (PT-BR).zip
+- Power Blade 2 (U) [!].nes
+- Power Blade 2 (U) [o1].nes
+- Power Blade 2 (U) [p1].nes
+- Power Blade 2 (U) [T+Fre99%_YF06].nes
+- Power Blade 2 (U) [T+Rus_Barsick].nes
+- Power Blade 2 (USA).nes
+- Power Blade 2 (USA).zip
+- Power Blazer (J) (PT-BR).zip
+- Power Blazer (J) [o1].nes
+- Power Blazer (J).nes
+- Power Pad Test Program by Tennessee Carmel-Veilleux (PD).nes
+- Power Punch 2 (U) [!p].nes
+- Power Punch 2 (U) [b1].nes
+- Power Punch 2 (U) [b2].nes
+- Power Punch 2 (U) [o1].nes
+- Power Punch II (USA).nes
+- Power Punch II (USA).zip
+- Power Rangers 2 (Unl) [!].nes
+- Power Rangers III (Unl) [!].nes
+- Power Rangers IV (Unl) [!].nes
+- Power Soccer (J).nes
+- Power Up Palette Table Contents Test by Shay Green (15 Sep 2005) (PD).nes
+- PPU Palette RAM Access _ Mirroring Test by Shay Green (15 Sep 2005) (PD).nes
+- PPU Timing V2 by Kevin Horton (PD).nes
+- P'Radikus Conflict (USA) (Unl).nes
+- P'Radikus Conflict (USA) (Unl).zip
+- Pravila Doroznogo Dvizenija (R) [!].nes
+- Predator - Schwarzenegger - Soon the Hunt Will Begin (Hack).nes
+- Predator (Australia).zip
+- Predator (J) [b1].nes
+- Predator (J) [b2].nes
+- Predator (J) [o1].nes
+- Predator (J).nes
+- Predator (PT-BR).zip
+- Predator (U) [!].nes
+- Predator (U) [b1].nes
+- Predator (U) [b1][o1].nes
+- Predator (U) [b2].nes
+- Predator (U) [b3].nes
+- Predator (U) [b4].nes
+- Predator (U) [o1].nes
+- Predator (U) [o2].nes
+- Predator (USA).nes
+- Predator (USA).zip
+- President no Sentaku (J) [b1].nes
+- President no Sentaku (J) [o1].nes
+- President no Sentaku (J).nes
+- Prince of Persia (Europe).nes
+- Prince of Persia (Europe).zip
+- Prince of Persia (F) [!].nes
+- Prince of Persia (France).nes
+- Prince of Persia (France).zip
+- Prince of Persia (Germany).zip
+- Prince of Persia (Spain).zip
+- Prince of Persia (U) [!].nes
+- Prince of Persia (U) [b1].nes
+- Prince of Persia (U) [b1][o1].nes
+- Prince of Persia (U) [b2].nes
+- Prince of Persia (U) [b3].nes
+- Prince of Persia (U) [b4].nes
+- Prince of Persia (U) [o1].nes
+- Prince of Persia (U) [p1].nes
+- Prince of Persia (USA).nes
+- Prince of Persia (USA).zip
+- Princess Tomato in Salad Kingdom (U) (Prototype).nes
+- Princess Tomato in Salad Kingdom (U) [!].nes
+- Princess Tomato in Salad Kingdom (U) [b1].nes
+- Princess Tomato in Salad Kingdom (U) [b2].nes
+- Princess Tomato in Salad Kingdom (U) [o1].nes
+- Princess Tomato in Salad Kingdom (USA) (Beta).nes
+- Princess Tomato in Salad Kingdom (USA) (Beta).zip
+- Princess Tomato in the Salad Kingdom (USA).nes
+- Princess Tomato in the Salad Kingdom (USA).zip
+- Pro Action Replay (E) (No Cart Present) (V1.2 RevB) [!].nes
+- Pro Action Replay (E) (REVA) [!].nes
+- Pro Action Replay (E) (V1.2 RevB) [!].nes
+- Pro Action Replay (Europe) (v1.0) (Unl).nes
+- Pro Action Replay (Europe) (v1.0) (Unl).zip
+- Pro Action Replay (Europe) (v1.2) (Cart Present) (Unl).nes
+- Pro Action Replay (Europe) (v1.2) (Cart Present) (Unl).zip
+- Pro Action Replay (Europe) (v1.2) (No Cart Present) (Unl).nes
+- Pro Action Replay (Europe) (v1.2) (No Cart Present) (Unl).zip
+- Pro Sport Hockey (U) [!].nes
+- Pro Sport Hockey (U) [o1].nes
+- Pro Sport Hockey (USA).nes
+- Pro Sport Hockey (USA).zip
+- Pro Wrestling (E) [!].nes
+- Pro Wrestling (Europe).nes
+- Pro Wrestling (Europe).zip
+- Pro Wrestling (PC10) [b1].nes
+- Pro Wrestling (PC10).nes
+- Pro Wrestling (U) (PRG0) [b1].nes
+- Pro Wrestling (U) (PRG0) [b1][o1].nes
+- Pro Wrestling (U) (PRG0) [b2].nes
+- Pro Wrestling (U) (PRG0) [b3].nes
+- Pro Wrestling (U) (PRG0) [b4].nes
+- Pro Wrestling (U) (PRG0) [o1].nes
+- Pro Wrestling (U) (PRG0) [o2].nes
+- Pro Wrestling (U) (PRG0).nes
+- Pro Wrestling (U) (PRG1) [!].nes
+- Pro Wrestling (U) (PRG1) [b1].nes
+- Pro Wrestling (USA) (Rev A).nes
+- Pro Wrestling (USA) (Rev A).zip
+- Pro Wrestling (USA).nes
+- Pro Wrestling (USA).zip
+- Pro Yakyuu - Family Stadium  85 PAL ( 87 Hack).nes
+- Pro Yakyuu - Family Stadium  87 (J) [b1].nes
+- Pro Yakyuu - Family Stadium  87 (J) [b1][o1].nes
+- Pro Yakyuu - Family Stadium  87 (J).nes
+- Pro Yakyuu - Family Stadium  88 (J) [b1].nes
+- Pro Yakyuu - Family Stadium  88 (J) [b1][o1].nes
+- Pro Yakyuu - Family Stadium  88 (J) [b2].nes
+- Pro Yakyuu - Family Stadium  88 (J).nes
+- Pro Yakyuu - Family Stadium (J).nes
+- Pro Yakyuu Satsujin Jiken! (J) [!].nes
+- Pro Yakyuu Satsujin Jiken! (J) [hM02].nes
+- Pro Yakyuu Satsujin Jiken! (J) [hM02][b1].nes
+- Pro Yakyuu Satsujin Jiken! (J) [p1][hM02].nes
+- Pro Yakyuu Satsujin Jiken! (J) [p1][hM02][o1].nes
+- Probotector (E) [!].nes
+- Probotector (Europe).nes
+- Probotector (Europe).zip
+- Probotector II - Return of the Evil Forces (E) [b1].nes
+- Probotector II - Return of the Evil Forces (E).nes
+- Probotector II - Return of the Evil Forces (Europe).nes
+- Probotector II - Return of the Evil Forces (Europe).zip
+- Project Q (J).nes
+- Propeller Master (Blaster Master Hack) [o1].nes
+- Propeller Master (Blaster Master Hack).nes
+- Protoman - The Red Bomber (Megaman Hack).nes
+- Protoman (Megaman V Hack) [b1].nes
+- Protoman (Megaman V Hack).nes
+- Protoman 5 (Megaman V Hack).nes
+- Protonman (Megaman III Hack).nes
+- Pu Ke Jing Ling (China) (Unl).zip
+- Puc-Man (Pac-Man Hack) [o1].nes
+- Puc-Man (Pac-Man Hack).nes
+- Puffy s Capades (Mickey Mouse Hack).nes
+- Puffy! Land (Older) by Rinkaku (Binary Land Hack).nes
+- Puffy! Land by Rinkaku (Binary Land Hack).nes
+- Punch-Out!! (E) [!].nes
+- Punch-Out!! (Europe).nes
+- Punch-Out!! (Europe).zip
+- Punch-Out!! (J).nes
+- Punch-Out!! (U) [!].nes
+- Punch-Out!! (U) [b1].nes
+- Punch-Out!! (U) [b1][o1].nes
+- Punch-Out!! (U) [b1][o2].nes
+- Punch-Out!! (U) [b2].nes
+- Punch-Out!! (USA).nes
+- Punch-Out!! (USA).zip
+- Punch-Out!! Kirby (Punch-Out!! Hack).nes
+- Punisher  The (USA).nes
+- Punisher The (USA).zip
+- Punisher, The (U) [!].nes
+- Punisher, The (U) [b1].nes
+- Punisher, The (U) [b2].nes
+- Punisher, The (U) [b3].nes
+- Punisher, The (U) [b4].nes
+- Punisher, The (U) [b5].nes
+- Punisher, The (U) [o1].nes
+- Punisher, The (U) [T+Rus].nes
+- Punk Bros (SMB1 Hack).nes
+- Punk Tennis (Tennis Hack) [o1].nes
+- Punk Tennis (Tennis Hack).nes
+- Puss  n Boots - Pero s Great Adventure (U) [!].nes
+- Puss  n Boots - Pero s Great Adventure (U) [b1].nes
+- Puss  n Boots - Pero s Great Adventure (U) [b2].nes
+- Puss  n Boots - Pero s Great Adventure (U) [b3].nes
+- Puss  n Boots - Pero s Great Adventure (U) [o1].nes
+- Puss n Boots - Pero's Great Adventure (USA).nes
+- Puss n Boots - Pero's Great Adventure (USA).zip
+- Pussy City Pimps (River City Ransom Hack).nes
+- Puteshestvie po Europe (R).nes
+- Putt Putt (PD).nes
+- Puyo Puyo (J) [o1].nes
+- Puyo Puyo (J) [o1][T+Eng1.0_AGTP].nes
+- Puyo Puyo (J) [T+Eng1.0_AGTP].nes
+- Puyo Puyo (J).nes
+- Puzslot (J) [!].nes
+- Puzslot (J) [b1].nes
+- Puzzle (NINA03-USA) (Unl) [!].nes
+- Puzzle (Spain) (Gluk Video) (Unl).zip
+- Puzzle (Unl) [a1].nes
+- Puzzle (Unl) [a2].nes
+- Puzzle (Unl) [b1].nes
+- Puzzle (Unl) [b2].nes
+- Puzzle (Unl) [o1].nes
+- Puzzle (Unl) [o2].nes
+- Puzzle (Unl).nes
+- Puzzle (USA) (Beta) (Unl).nes
+- Puzzle (USA) (Beta) (Unl).zip
+- Puzzle (USA) (Unl).nes
+- Puzzle (USA) (Unl).zip
+- Puzznic (E) [!].nes
+- Puzznic (Europe).nes
+- Puzznic (Europe).zip
+- Puzznic (J).nes
+- Puzznic (U) [!].nes
+- Puzznic (U) [o1].nes
+- Puzznic (USA).nes
+- Puzznic (USA).zip
+- Pyokotan no Dai Meiro (J).nes
+- Pyramid (Sachen) [!].nes
+- Pyramid (Sachen) [hFFE][b1].nes
+- Pyramid (Sachen) [o1].nes
+- Pyramid (Sachen) [o2].nes
+- Pyramid (Sachen+NINA03) [!].nes
+- Pyramid (Sachen-Hacker).nes
+- Pyramid (USA) (Rev 1) (Unl).nes
+- Pyramid (USA) (Rev 1) (Unl).zip
+- Pyramid (USA) (Unl).nes
+- Pyramid (USA) (Unl).zip
+- Pyramid [p1].nes
+- Pyramid [p1][b1].nes
+- Pyramid II (Asia) (PAL) (Unl).nes
+- Pyramid II (Asia) (PAL) (Unl).zip
+- Pyramid II (Sachen) [!].nes
+- Q Boy (Asia) (Unl).nes
+- Q Boy (Asia) (Unl).zip
+- Q Boy (Sachen) [!].nes
+- Q ?? (??) (??).nes
+- Q ?? - ???? (??) (??).nes
+- Q ?? (???) (??).nes
+- Q ?? (??) (??).nes
+- Q-bert (U) (PT-BR).zip
+- Q-bert (U) [!].nes
+- Q-bert (U) [b1].nes
+- Q-bert (U) [b2].nes
+- Q-bert (U) [b3].nes
+- Q-bert (U) [o1].nes
+- Q-bert (USA).nes
+- Q-bert (USA).zip
+- Qi Tian Lie Encyclopedia.nes
+- Qi Wang - Chinese Chess (Asia) (Unl).nes
+- Qi Wang - Chinese Chess (Asia) (Unl).zip
+- Qi Wang - Chinese Chess (MGC-001) (Ch) [!].nes
+- Qix (U) [!p].nes
+- Qix (U) [b1].nes
+- Qix (U) [b2].nes
+- Qix (U) [o1].nes
+- QIX (USA).nes
+- QIX (USA).zip
+- Q-taro the Ghost BowWow Panic.zip
+- Quad Challenge.zip
+- Quadruple Dragons (FF1 Hack).nes
+- Quadz (PD).nes
+- Quarter Back Scramble (J).nes
+- Quarth (J).nes
+- Quattro Adventure (Treasure Island Dizzy Only Hack).nes
+- Quattro Adventure (Unl) (Aladdin) [!].nes
+- Quattro Adventure (Unl) (Aladdin) [o1].nes
+- Quattro Adventure (Unl) [!p].nes
+- Quattro Adventure (Unl) [T+Pol(T.Island Only)].nes
+- Quattro Adventure (USA) (Unl).nes
+- Quattro Adventure (USA) (Unl).zip
+- Quattro Arcade (Go! Dizzy Go! Only Hack).nes
+- Quattro Arcade (Unl) [!].nes
+- Quattro Arcade (Unl) [b1].nes
+- Quattro Arcade (Unl) [b2].nes
+- Quattro Arcade (Unl) [o1].nes
+- Quattro Arcade (Unl) [T+Pol].nes
+- Quattro Arcade (USA) (Unl).nes
+- Quattro Arcade (USA) (Unl).zip
+- Quattro Sports (Pro Tennis Only Hack).nes
+- Quattro Sports (Unl) (Aladdin) [!].nes
+- Quattro Sports (Unl) (Aladdin) [o1].nes
+- Quattro Sports (Unl) (V3 Plug-Thru Cart) [b1].nes
+- Quattro Sports (Unl) (V3 Plug-Thru Cart).nes
+- Quattro Sports (Unl) [!p].nes
+- Quattro Sports (USA) (Unl).nes
+- Quattro Sports (USA) (Unl).zip
+- Quest for the Missing Hat (SMB1 Hack) [a1].nes
+- Quest for the Missing Hat (SMB1 Hack).nes
+- Quest Forge.zip
+- Quest of Ki, The (J) [b1].nes
+- Quest of Ki, The (J) [o1].nes
+- Quest of Ki, The (J) [T+Chi].nes
+- Quest of Ki, The (J).nes
+- Questionable Crystalis (Hack) [a1].nes
+- Questionable Crystalis (Hack).nes
+- Quinty (J) [b1].nes
+- Quinty (J) [hFFE].nes
+- Quinty (J) [hM04].nes
+- Quinty (J) [hM04][b1].nes
+- q??????.zip
+- q??????????.zip
+- q????????.zip
+- q???????.zip
+- q??????.zip
+- R.B.I. Baseball - 2003RBI by brisco (R.B.I. Baseball Hack).zip
+- R.B.I. Baseball - 88 89 Diff Teams (R.B.I. Baseball Hack).zip
+- R.B.I. Baseball (USA) (Unl).nes
+- R.B.I. Baseball (USA) (Unl).zip
+- R.B.I. Baseball (USA).nes
+- R.B.I. Baseball (USA).zip
+- R.B.I. Baseball 2 (USA) (Unl).nes
+- R.B.I. Baseball 2 (USA) (Unl).zip
+- R.B.I. Baseball 3 (USA) (Unl).nes
+- R.B.I. Baseball 3 (USA) (Unl).zip
+- R.B.I. League 2006 by Clambutt.zip
+- R.C. Pro-Am (E) (PRG0) [b1].nes
+- R.C. Pro-Am (E) (PRG0).nes
+- R.C. Pro-Am (E) (PRG1).nes
+- R.C. Pro-Am (Europe) (Rev A).nes
+- R.C. Pro-Am (Europe) (Rev A).zip
+- R.C. Pro-Am (Europe).nes
+- R.C. Pro-Am (Europe).zip
+- R.C. Pro-Am (PC10).nes
+- R.C. Pro-Am (U) (PRG0) [!].nes
+- R.C. Pro-Am (U) (PRG1) [!].nes
+- R.C. Pro-Am (U) (PRG1) [b1].nes
+- R.C. Pro-Am (U) (PRG1) [o1].nes
+- R.C. Pro-Am (USA) (Rev A).nes
+- R.C. Pro-Am (USA) (Rev A).zip
+- R.C. Pro-Am (USA).nes
+- R.C. Pro-Am (USA).zip
+- R.C. Pro-Am 2 (U) [!p].nes
+- R.C. Pro-Am 2 (U) [b1].nes
+- R.C. Pro-Am 2 (U) [b2].nes
+- R.C. Pro-Am 2 (U) [b3].nes
+- R.C. Pro-Am 2 (U) [o1].nes
+- R.C. Pro-Am II (Europe).nes
+- R.C. Pro-Am II (Europe).zip
+- R.C. Pro-Am II (USA).nes
+- R.C. Pro-Am II (USA).zip
+- Rabbit and Rope (Mappy Hack).nes
+- Race America (U) [!].nes
+- Race America (U) [b1].nes
+- Race America (U) [o1].nes
+- Race America (U) [o2].nes
+- Race America (USA).nes
+- Race America (USA).zip
+- Racer Mini Yonku - Japan Cup (J) [b1].nes
+- Racer Mini Yonku - Japan Cup (J).nes
+- Racermate Challenge II (USA) (v3.11.088) (Unl).nes
+- Racermate Challenge II (USA) (v3.11.088) (Unl).zip
+- Racermate Challenge II (USA) (v3.12.027) (Unl).nes
+- Racermate Challenge II (USA) (v3.12.027) (Unl).zip
+- Racermate Challenge II (USA) (v5.01.033) (Unl).nes
+- Racermate Challenge II (USA) (v5.01.033) (Unl).zip
+- Racermate Challenge II (USA) (v6.02.002) (Unl).nes
+- Racermate Challenge II (USA) (v6.02.002) (Unl).zip
+- Racermate Challenge II (USA) (v9.03.128) (Unl).nes
+- Racermate Challenge II (USA) (v9.03.128) (Unl).zip
+- Racermate Challenger II V6.02.002 (U).nes
+- Racket Attack (E) [!].nes
+- Racket Attack (Europe).nes
+- Racket Attack (Europe).zip
+- Racket Attack (U) [!].nes
+- Racket Attack (U) [b1].nes
+- Racket Attack (U) [b2].nes
+- Racket Attack (U) [b3].nes
+- Racket Attack (U) [b4].nes
+- Racket Attack (U) [b5].nes
+- Racket Attack (U) [b6].nes
+- Racket Attack (U) [b7].nes
+- Racket Attack (U) [b8].nes
+- Racket Attack (U) [o1].nes
+- Racket Attack (U) [o2].nes
+- Racket Attack (USA).nes
+- Racket Attack (USA).zip
+- Rackets & Rivals (Europe).nes
+- Rackets & Rivals (Europe).zip
+- Rackets _ Rivals (E) [!].nes
+- Rad Racer (E) [!p].nes
+- Rad Racer (Europe).nes
+- Rad Racer (Europe).zip
+- Rad Racer (PC10) [b1].nes
+- Rad Racer (PC10).nes
+- Rad Racer (U) [!].nes
+- Rad Racer (U) [b1].nes
+- Rad Racer (U) [b2].nes
+- Rad Racer (U) [o1].nes
+- Rad Racer (USA).nes
+- Rad Racer (USA).zip
+- Rad Racer 2 (PC10) [!].nes
+- Rad Racer 2 (U) [!].nes
+- Rad Racer 2 (U) [b1].nes
+- Rad Racer 2 (U) [b2].nes
+- Rad Racer 2 (U) [b3].nes
+- Rad Racer 2 (U) [o1].nes
+- Rad Racer II (USA).nes
+- Rad Racer II (USA).zip
+- Rad Racket - Deluxe Tennis II (Unl) [!].nes
+- Rad Racket - Deluxe Tennis II (Unl) [b1].nes
+- Rad Racket - Deluxe Tennis II (Unl) [b2].nes
+- Rad Racket - Deluxe Tennis II (Unl) [o1].nes
+- Rad Racket - Deluxe Tennis II (USA) (Unl).nes
+- Rad Racket - Deluxe Tennis II (USA) (Unl).zip
+- Radia Senki - Reimei Hen (J) [o1].nes
+- Radia Senki - Reimei Hen (J) [o1][T+Eng1.00_dreamless+Jair+cx].nes
+- Radia Senki - Reimei Hen (J) [o2].nes
+- Radia Senki - Reimei Hen (J) [o2][T+Eng1.00_dreamless+Jair+cx].nes
+- Radia Senki - Reimei Hen (J) [T+Eng1.00_dreamless+Jair+cx].nes
+- Radia Senki - Reimei Hen (J) [T+EngBeta1_Dayeigth].nes
+- Radia Senki - Reimei Hen (J).nes
+- Raf World (J) [T+Rus_Boogerman].nes
+- Raf World (J) [T+Spa_Djt].nes
+- Raf World (J) [T+Spa_SARG].nes
+- Raf World (J).nes
+- Raid 2020 (Unl) [!].nes
+- Raid 2020 (Unl) [o1].nes
+- Raid 2020 (Unl) [o2].nes
+- Raid 2020 (Unl) [o3].nes
+- Raid 2020 (Unl) [o4].nes
+- Raid 2020 (Unl) [o5].nes
+- Raid 2020 (USA) (Unl).nes
+- Raid 2020 (USA) (Unl).zip
+- Raid on Bungeling Bay (J) [a1].nes
+- Raid on Bungeling Bay (J) [o1].nes
+- Raid on Bungeling Bay (J).nes
+- Raid on Bungeling Bay (Japan) (En) (Rev A).nes
+- Raid on Bungeling Bay (U) [!].nes
+- Raid on Bungeling Bay (U) [b1].nes
+- Raid on Bungeling Bay (U) [b2].nes
+- Raid on Bungeling Bay (U) [o1].nes
+- Raid on Bungeling Bay (U) [o2].nes
+- Raid on Bungeling Bay (U) [o3].nes
+- Raid on Bungeling Bay (U) [o4].nes
+- Raid on Bungeling Bay (U) [p1].nes
+- Raid on Bungeling Bay (U) [p1][o1].nes
+- Raid on Bungeling Bay (USA).nes
+- Raid on Bungeling Bay (USA).zip
+- Rainbow Islands - Bubble Bobble 2 (Europe).nes
+- Rainbow Islands - Bubble Bobble 2 (Europe).zip
+- Rainbow Islands - The Story of Bubble Bobble 2 (E) [!].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (J) [b1].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (J) [p1].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (J) [p1][a1].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (J).nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (U) [!].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (U) [o1].nes
+- Rainbow Islands - The Story of Bubble Bobble 2 (U) [T+Rus_CaH4e3___Chronix].nes
+- Rainbow Islands (USA).nes
+- Rainbow Islands (USA).zip
+- Rally Bike (U) [!].nes
+- Rally Bike (U) [b1].nes
+- Rally Bike (U) [o1].nes
+- Rally Bike (USA).nes
+- Rally Bike (USA).zip
+- Ralph Belmondo Densetsu by Redrum (Legend of Kage Hack) [a1].nes
+- Ralph Belmondo Densetsu by Redrum (Legend of Kage Hack) [b1].nes
+- Ralph Belmondo Densetsu by Redrum (Legend of Kage Hack).nes
+- Rambo - First Blood Part II (J) [!].nes
+- Rambo - First Blood Part II (J) [b1].nes
+- Rambo - First Blood Part II (J) [b1][o1].nes
+- Rambo - First Blood Part II (J) [b2].nes
+- Rambo - First Blood Part II (J) [b3].nes
+- Rambo - First Blood Part II (J) [o1].nes
+- Rambo - First Blood Part II (J) [o2].nes
+- Rambo (U) (PRG0) [!].nes
+- Rambo (U) (PRG0) [b1].nes
+- Rambo (U) (PRG0) [b2].nes
+- Rambo (U) (PRG0) [b3].nes
+- Rambo (U) (PRG0) [b4].nes
+- Rambo (U) (PRG0) [o1].nes
+- Rambo (U) (PRG0) [T+Rus].nes
+- Rambo (U) (PRG1) [!].nes
+- Rambo (USA) (Rev A).nes
+- Rambo (USA) (Rev A).zip
+- Rambo (USA).nes
+- Rambo (USA).zip
+- Rampage (U) [!].nes
+- Rampage (U) [b1].nes
+- Rampage (U) [b2].nes
+- Rampage (U) [b3].nes
+- Rampage (U) [hFFE][b1].nes
+- Rampage (U) [o1].nes
+- Rampage (U) [o2].nes
+- Rampage (U) [T+Swe1.01_General CoolNES].nes
+- Rampage (USA).nes
+- Rampage (USA).zip
+- Rampart (Europe).nes
+- Rampart (Europe).zip
+- Rampart (J) [!].nes
+- Rampart (U) [!].nes
+- Rampart (U) [b1].nes
+- Rampart (U) [b2].nes
+- Rampart (U) [b3].nes
+- Rampart (U) [o1].nes
+- Rampart (USA).nes
+- Rampart (USA).zip
+- Ran - The Little Commie Bot (Megaman II Hack).nes
+- Rasaaru Ishii no Childs Quest (J) [o1].nes
+- Rasaaru Ishii no Childs Quest (J).nes
+- Raster Chroma Luma Test by Chris Covell (PD).nes
+- Raster Demo by Norix (PD).nes
+- Raster Test 1 by Chris Covell (PD).nes
+- Raster Test 2 by Chris Covell (PD).nes
+- Raster Test 3 by Chris Covell (PD).nes
+- Raster Test 3a by Chris Covell (PD).nes
+- Raster Test 3b by Chris Covell (PD).nes
+- Raster Test 3c by Chris Covell (PD).nes
+- Raster Test 3d by Chris Covell (PD).nes
+- Raster Test 3e by Chris Covell (PD).nes
+- Rayban the Third (Unl) [!].nes
+- Real Player's Pak (Australia) (Unl).zip
+- Red Ariimaa II (J) [!].nes
+- Red Ariimaa II (J) [p1].nes
+- Red Pig (Unl) [o1].nes
+- Red Pig (Unl).nes
+- Reigen Doushi (J) [hM02].nes
+- Reigen Doushi (J).nes
+- Religious Blackjack by RyanVG (Blackjack Hack).nes
+- Remote Control (U) [!].nes
+- Remote Control (U) [b1].nes
+- Remote Control (U) [o1].nes
+- Remote Control (U) [o2].nes
+- Remote Control (U) [o3].nes
+- Remote Control (USA).nes
+- Remote Control (USA).zip
+- Ren & Stimpy Show  The - Buckeroo$! (USA).nes
+- Ren & Stimpy Show The - Buckeroo$! (USA).zip
+- Ren _ Stimpy Show, The (U) [!p].nes
+- Ren _ Stimpy Show, The (U) [b1].nes
+- Ren _ Stimpy Show, The (U) [b2].nes
+- Ren _ Stimpy Show, The (U) [b3].nes
+- Ren _ Stimpy Show, The (U) [o1].nes
+- Ren _ Stimpy Show, The (U) [o2].nes
+- Renegade (U) [!].nes
+- Renegade (U) [b1].nes
+- Renegade (U) [b2].nes
+- Renegade (U) [b3].nes
+- Renegade (U) [o1].nes
+- Renegade (U) [o2].nes
+- Renegade (USA).nes
+- Renegade (USA).zip
+- Rescue - The Embassy Mission (E) [!].nes
+- Rescue - The Embassy Mission (Europe).nes
+- Rescue - The Embassy Mission (Europe).zip
+- Rescue - The Embassy Mission (U) (Prototype).nes
+- Rescue - The Embassy Mission (U) [!].nes
+- Rescue - The Embassy Mission (U) [b1].nes
+- Rescue - The Embassy Mission (U) [b1][o1].nes
+- Rescue - The Embassy Mission (U) [b2].nes
+- Rescue - The Embassy Mission (U) [b3].nes
+- Rescue - The Embassy Mission (U) [b4].nes
+- Rescue - The Embassy Mission (USA) (Beta).nes
+- Rescue - The Embassy Mission (USA) (Beta).zip
+- Rescue - The Embassy Mission (USA).nes
+- Rescue - The Embassy Mission (USA).zip
+- Reset Based 4-in-1 [p1].nes
+- Reset Timing Test by Shay Green (30 Jun 2005) (PD).nes
+- Ret s Escape Puzzle World by Excel (SMB1 Hack).nes
+- Retrocoders Demo for Y2Kode (PD).nes
+- Retrocoders Music Roms - Years Behind (PD).nes
+- Return of the Black Mage by Redrum (Warpman Hack) [o1].nes
+- Return of the Black Mage by Redrum (Warpman Hack).nes
+- Return of the Jedi (Zen Intergalactic Ninja Hack) [p1][!].nes
+- RGB Demo by Chris Covell (PD).nes
+- Riddler s Escape From Arkham (Megaman III Hack) [b1].nes
+- Riddler s Escape From Arkham (Megaman III Hack) [b2].nes
+- Riddler s Escape From Arkham (Megaman III Hack).nes
+- Riddler Tennis (Tennis Hack).nes
+- Rikers Quest (SMB1 Hack) [o1].nes
+- Rikers Quest (SMB1 Hack) [o2].nes
+- Rikers Quest (SMB1 Hack).nes
+- Ring King (U) [!].nes
+- Ring King (U) [b1].nes
+- Ring King (U) [b1][o1].nes
+- Ring King (U) [b1][o2].nes
+- Ring King (U) [b2].nes
+- Ring King (U) [b3].nes
+- Ring King (U) [b4].nes
+- Ring King (U) [o1].nes
+- Ring King (U) [o2].nes
+- Ring King (USA).nes
+- Ring King (USA).zip
+- Risotowa (SMB1 Hack).nes
+- River City Brawl (River City Ransom Hack).nes
+- River City Nudist Colony (River City Ransom Hack).nes
+- River City Ransom (U) (PT-BR).zip
+- River City Ransom (U) [!].nes
+- River City Ransom (U) [b1].nes
+- River City Ransom (U) [b1][T+Ger1.00_StarTrans].nes
+- River City Ransom (U) [b2].nes
+- River City Ransom (U) [b3].nes
+- River City Ransom (U) [b4].nes
+- River City Ransom (U) [o1].nes
+- River City Ransom (U) [T+Fre].nes
+- River City Ransom (U) [T+Fre1.00GoldEdition_Jean-Jacques Goldman].nes
+- River City Ransom (U) [T+Ger1.00_StarTrans].nes
+- River City Ransom (U) [T+Rus1.1_gottaX].nes
+- River City Ransom (U) [T+Spa100%_Chilensis].nes
+- River City Ransom (U) [T-Rus].nes
+- River City Ransom (U) [T-Rus][a1].nes
+- River City Ransom (USA).nes
+- River City Ransom (USA).zip
+- River City Ransom ZERO V1.00 by Vice (Nekketsu Kouha - Kunio Kun Hack) [b1].nes
+- River City Ransom ZERO V1.00 by Vice (Nekketsu Kouha - Kunio Kun Hack).nes
+- River City Ransom ZERO V1.01 by Vice (Nekketsu Kouha - Kunio Kun Hack).nes
+- Road Fighter (E) [!].nes
+- Road Fighter (Europe).nes
+- Road Fighter (Europe).zip
+- Road Fighter (J) (PT-BR).zip
+- Road Fighter (J) [o1].nes
+- Road Fighter (J) [o1][T+Por100%_BRGames].nes
+- Road Fighter (J) [p1][b1].nes
+- Road Fighter (J) [p1][b1][o1].nes
+- Road Fighter (J) [p1][b1][o1][T+Por].nes
+- Road Fighter (J) [p1][b1][o2].nes
+- Road Fighter (J) [p1][b1][T+Por].nes
+- Road Fighter (J) [p2].nes
+- Road Fighter (J) [p2][o1].nes
+- Road Fighter (J) [p3][b1].nes
+- Road Fighter (J) [p3][b1][o1].nes
+- Road Fighter (J) [T+Chi].nes
+- Road Fighter (J) [T+Chi][o1].nes
+- Road Fighter (J).nes
+- Road Runner (Unl) [!].nes
+- Road Runner (Unl) [b1].nes
+- Road Runner (Unl) [b2].nes
+- Road Runner (Unl) [b3].nes
+- Road Runner (Unl) [o1].nes
+- Road Runner (USA) (Unl).nes
+- Road Runner (USA) (Unl).zip
+- RoadBlasters (Europe).nes
+- RoadBlasters (Europe).zip
+- RoadBlasters (U) [!].nes
+- RoadBlasters (U) [b1].nes
+- RoadBlasters (U) [b2].nes
+- RoadBlasters (U) [b3].nes
+- RoadBlasters (U) [b4].nes
+- RoadBlasters (U) [b5].nes
+- RoadBlasters (U) [b6].nes
+- RoadBlasters (U) [o1].nes
+- RoadBlasters (U) [p1][!].nes
+- RoadBlasters (USA).nes
+- RoadBlasters (USA).zip
+- Robert Byrne's Pool Challenge (USA) (Proto) (Unl).nes
+- Robert Byrne's Pool Challenge (USA) (Proto) (Unl).zip
+- Robin Hood - Prince of Thieves (Europe).nes
+- Robin Hood - Prince of Thieves (Europe).zip
+- Robin Hood - Prince of Thieves (G) [!].nes
+- Robin Hood - Prince of Thieves (Germany).zip
+- Robin Hood - Prince of Thieves (Spain).zip
+- Robin Hood - Prince of Thieves (U) (PRG0) [!].nes
+- Robin Hood - Prince of Thieves (U) (PRG0) [o1].nes
+- Robin Hood - Prince of Thieves (USA) (Rev A).nes
+- Robin Hood - Prince of Thieves (USA) (Rev A).zip
+- Robin Hood - Prince of Thieves (USA).nes
+- Robin Hood - Prince of Thieves (USA).zip
+- Robo Warrior (Europe).nes
+- Robo Warrior (Europe).zip
+- Robo Warrior (U) [!].nes
+- Robo Warrior (U) [o1].nes
+- Robo Warrior (USA).nes
+- Robo Warrior (USA).zip
+- Robocco Wars (J) [o1].nes
+- Robocco Wars (J).nes
+- Robocop (E) [!].nes
+- RoboCop (Europe).nes
+- RoboCop (Europe).zip
+- RoboCop (J).nes
+- RoboCop (U) (Prototype).nes
+- RoboCop (U) (PT-BR).zip
+- RoboCop (U) [!].nes
+- RoboCop (U) [b1].nes
+- RoboCop (U) [b2].nes
+- RoboCop (U) [b3].nes
+- RoboCop (U) [b4].nes
+- RoboCop (U) [o1].nes
+- RoboCop (U) [T+Ita1.0_Psyco].nes
+- RoboCop (U) [T+Por100%_BRGames].nes
+- RoboCop (U) [T+Spa99%_Emu4ever].nes
+- RoboCop (USA) (Beta).nes
+- RoboCop (USA) (Beta).zip
+- RoboCop (USA).nes
+- RoboCop (USA).zip
+- RoboCop 2 (E) [!].nes
+- RoboCop 2 (Europe).nes
+- RoboCop 2 (Europe).zip
+- RoboCop 2 (J).nes
+- RoboCop 2 (U) (PRG1) [!].nes
+- RoboCop 2 (U) (PRG1) [b1].nes
+- RoboCop 2 (U) (PRG1) [b1][o1].nes
+- RoboCop 2 (U) (PRG1) [b1][o2].nes
+- RoboCop 2 (U) (PRG1) [b2].nes
+- RoboCop 2 (U) (PRG1) [b3].nes
+- RoboCop 2 (U) (PRG1) [b4].nes
+- RoboCop 2 (U) (PRG1) [T+Rus_Chronix].nes
+- RoboCop 2 (USA) (Rev A).nes
+- RoboCop 2 (USA) (Rev A).zip
+- RoboCop 2 (USA).nes
+- RoboCop 2 (USA).zip
+- Robocop 3 (E) [!].nes
+- RoboCop 3 (Europe).nes
+- RoboCop 3 (Europe).zip
+- RoboCop 3 (U) [!p].nes
+- RoboCop 3 (U) [b1].nes
+- RoboCop 3 (U) [b2].nes
+- RoboCop 3 (U) [o1].nes
+- RoboCop 3 (U) [o2].nes
+- RoboCop 3 (U) [T+Ita1.0_Psyco].nes
+- RoboCop 3 (U) [T+Rus].nes
+- RoboCop 3 (USA).nes
+- RoboCop 3 (USA).zip
+- RoboCop 4 [p1][!].nes
+- RoboCop 4 [p2][!].nes
+- RoboCop 4 [p3].nes
+- RoboCop versus The Terminator (USA) (Proto).nes
+- RoboCop versus The Terminator (USA) (Proto).zip
+- RoboCop Vs The Terminator (U) (Prototype) [b1].nes
+- RoboCop Vs The Terminator (U) (Prototype) [b2].nes
+- RoboCop Vs The Terminator (U) (Prototype) [o1].nes
+- RoboCop Vs The Terminator (U) (Prototype).nes
+- Robodemons (Unl) [!p].nes
+- Robodemons (Unl) [b1].nes
+- Robodemons (Unl) [o1].nes
+- Robodemons (Unl) [o2].nes
+- Robodemons (USA) (Unl).nes
+- Robodemons (USA) (Unl).zip
+- Rock  n  Ball (U) [!].nes
+- Rock  n  Ball (U) [b1].nes
+- Rock  n  Ball (U) [o1].nes
+- Rock  n  Ball (U) [o2].nes
+- Rock 'n' Ball (USA).nes
+- Rock 'n' Ball (USA).zip
+- Rockball (Asia) (Unl).nes
+- Rockball (Asia) (Unl).zip
+- Rockball (Sachen) [!].nes
+- Rocket Ranger (U) [!].nes
+- Rocket Ranger (U) [b1].nes
+- Rocket Ranger (U) [o1].nes
+- Rocket Ranger (USA).nes
+- Rocket Ranger (USA).zip
+- Rocketeer  The (USA).nes
+- Rocketeer The (USA).zip
+- Rocketeer, The (U) [!].nes
+- Rocketeer, The (U) [o1].nes
+- Rockin  Kats (E) [!].nes
+- Rockin  Kats (PC10) [!].nes
+- Rockin  Kats (U) [!].nes
+- Rockin  Kats (U) [b1].nes
+- Rockin  Kats (U) [b2].nes
+- Rockin  Kats (U) [o1].nes
+- Rockin  Kats (U) [T+Por1.0_CBT].nes
+- Rockin  Kats (U) [T+Rus].nes
+- Rockin' Kats (Europe).nes
+- Rockin' Kats (Europe).zip
+- Rockin' Kats (U) (PT-BR).zip
+- Rockin' Kats (USA) (Beta).nes
+- Rockin' Kats (USA) (Beta).zip
+- Rockin' Kats (USA).nes
+- Rockin' Kats (USA).zip
+- Rockman (J) (PT-BR).zip
+- Rockman (J) [!].nes
+- Rockman (J) [b1].nes
+- Rockman (J) [b2].nes
+- Rockman (J) [b3].nes
+- Rockman (J) [b4].nes
+- Rockman (J) [o1].nes
+- Rockman (J) [o2].nes
+- Rockman (J) [p1].nes
+- Rockman (J) [T+Chi].nes
+- Rockman (J) [T+Ger0.90_G-Trans].nes
+- Rockman (J) [T+Por1.00_Emuway].nes
+- Rockman (J) [T+Spa_Chinoman].nes
+- Rockman (J) [T+Spa_PaladinKnights].nes
+- Rockman (J) [T+Spa010_chilensis].nes
+- Rockman (Japan) (En).nes
+- Rockman 2 - 2.5 Small Apple Ver (J).zip
+- Rockman 2 - Chaos (J).zip
+- Rockman 2 - Claw 2 (J).zip
+- Rockman 2 - Dash (J).zip
+- Rockman 2 - Dash Hard Version (J).zip
+- Rockman 2 - Deus Ex Machina (J).zip
+- Rockman 2 - Dr. Wily no Nazo (J) [!].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [b1].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [b2].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [o1].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [o1][T+Eng1.0_AGTP].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [p1].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [T+Chi].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [T+Eng1.0_AGTP].nes
+- Rockman 2 - Dr. Wily no Nazo (J) [T-Eng.9_AGTP].nes
+- Rockman 2 - Exhaust (J).zip
+- Rockman 2 - Grey Zone (J).zip
+- Rockman 2 - GX.zip
+- Rockman 2 - Joho Boshu Edition (J).zip
+- Rockman 2 - Min (J).zip
+- Rockman 2 - NEO (J).zip
+- Rockman 2 - Peercast (J).zip
+- Rockman 2 - Rockman 2nd (J).zip
+- Rockman 2 - Rockman E (J).zip
+- Rockman 2 - Rockman Last (J).zip
+- Rockman 2 - Rockman Plus! (J).zip
+- Rockman 2 - SP (J).zip
+- Rockman 2 - Wed Of Slasher (J).zip
+- Rockman 2 - Yender Code (J).zip
+- Rockman 2 Easy (Hack) [o1].nes
+- Rockman 2 Easy (Hack).nes
+- Rockman 2000 (Rockman Hack) [o1].nes
+- Rockman 2000 (Rockman Hack).nes
+- Rockman 3 - Alpha (J).zip
+- Rockman 3 - Burst Chaser.zip
+- Rockman 3 - Dr. Wily no Saigo! (J) [hFFE][b1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [hFFE][b2].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [o1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1][b1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1][b1][o1].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1][b2].nes
+- Rockman 3 - Dr. Wily no Saigo! (J) [p1][b3].nes
+- Rockman 3 - Eon of Dream Pt3 (J).zip
+- Rockman 3 - Extra (J).zip
+- Rockman 3 - Luokeren MAX 2 Jiaomie (J).zip
+- Rockman 3 - Overdrive (J).zip
+- Rockman 3 - Peercast 2 V1.1 (J).zip
+- Rockman 3 Bass (Hack).nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b1].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b1][o1].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b2].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b3].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b4].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [b5].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [o1].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [o1][T+Chi].nes
+- Rockman 4 - Aratanaru Yabou!! (J) [T+Chi].nes
+- Rockman 4 - Aratanaru Yabou!! (J).nes
+- Rockman 4 - DX (J).zip
+- Rockman 4 - Luokeren 7 Xiyang Xia De Zhandou (J).zip
+- Rockman 4 - Luokeren 8 Emeng De Kaishi (J).zip
+- Rockman 5 - Air Sliding (J).zip
+- Rockman 5 - Blues no Chousen (J).zip
+- Rockman 5 - Blues no Wana! (J) [b1].nes
+- Rockman 5 - Blues no Wana! (J) [o1].nes
+- Rockman 5 - Blues no Wana! (J) [o1][T+Chi].nes
+- Rockman 5 - Blues no Wana! (J).nes
+- Rockman 5 - Dood in Wily's Last (J).zip
+- Rockman 5 - JohoBoshu 1 (J).zip
+- Rockman 5 - KT (J).zip
+- Rockman 5 - Wily's Dream Space (J).zip
+- Rockman 5 (Darkwing Duck Hack) [p1][!].nes
+- Rockman 5-7 V1.0 by Dark Mark (Rockman 5 Hack).nes
+- Rockman 6 - Luokeren 9 MAX Emeng De Zhongjie (J).zip
+- Rockman 6 - Mr.X Returns (J).zip
+- Rockman 6 - RE (J).zip
+- Rockman 6 - Shijou Saidai no Tatakai!! (J) [o1].nes
+- Rockman 6 - Shijou Saidai no Tatakai!! (J) [o1][T+Chi].nes
+- Rockman 6 - Shijou Saidai no Tatakai!! (J) [T+Chi].nes
+- Rockman 6 - Shijou Saidai no Tatakai!! (J).nes
+- Rockman 6 (Rockman 5 Hack).nes
+- Rockman 7 [p1].nes
+- Rockman 7 [p1][b1].nes
+- Rockman 7 [p1][o1].nes
+- Rockman 7 [p1][o2].nes
+- Rockman 7 [p1][T+Eng].nes
+- Rockman EXILE (Megaman II Hack) [T+Chi].nes
+- Rockman EXILE (Megaman II Hack).nes
+- Rockman NEO (Rockman Hack).nes
+- Rockman Z (Rockman 2 Hack) [o1].nes
+- Rockman Z (Rockman 2 Hack).nes
+- Rockman Zero by MB Hacks (Megaman Hack).nes
+- Rocman X (Asia) (Unl).nes
+- Rocman X (Asia) (Unl).zip
+- Rocman X (Sachen) [!].nes
+- Rod Land (E) (Prototype) [!].nes
+- Rod Land (E) [!].nes
+- Rod Land (Europe).nes
+- Rod Land (Europe).zip
+- Rod Land (J).nes
+- Rod Land featuring Rit and Tam (Europe) (Beta).nes
+- Rod Land featuring Rit and Tam (Europe) (Beta).zip
+- Rodland (Europe).zip
+- Roger Clemens' MVP Baseball (USA).nes
+- Roger Clemens' MVP Baseball (USA).zip
+- Rokudenashi Blues (J) [o1].nes
+- Rokudenashi Blues (J).nes
+- Roll (Rockman Hack).nes
+- Roll Chan 1 (Rockman Hack).nes
+- Roller Vs Stunticons (Spy Hunter Hack).nes
+- Rollerball (Australia).zip
+- Rollerball (J) [b1].nes
+- Rollerball (J) [b2].nes
+- Rollerball (J) [o1].nes
+- Rollerball (J) [o2].nes
+- Rollerball (J).nes
+- Rollerball (U) [!].nes
+- Rollerball (U) [b1].nes
+- Rollerball (U) [b2].nes
+- Rollerball (U) [b3].nes
+- Rollerball (U) [o1].nes
+- Rollerball (U) [o2].nes
+- Rollerball (U) [o3].nes
+- Rollerball (U) [o4].nes
+- Rollerball (U) [o5].nes
+- Rollerball (U) [o6].nes
+- Rollerball (USA).nes
+- Rollerball (USA).zip
+- Rollerblade Racer (U) [!].nes
+- Rollerblade Racer (U) [o1].nes
+- Rollerblade Racer (USA).nes
+- Rollerblade Racer (USA).zip
+- Rollergames (Europe).nes
+- Rollergames (Europe).zip
+- Rollergames (U) (PT-BR).zip
+- Rollergames (U) [!].nes
+- Rollergames (U) [b1].nes
+- Rollergames (U) [b1][o1].nes
+- Rollergames (U) [b2].nes
+- Rollergames (U) [b3].nes
+- Rollergames (U) [b4].nes
+- Rollergames (USA).nes
+- Rollergames (USA).zip
+- Rolling Thunder (J) [b1].nes
+- Rolling Thunder (J) [b2].nes
+- Rolling Thunder (J) [b3].nes
+- Rolling Thunder (J) [b4].nes
+- Rolling Thunder (J).nes
+- Rolling Thunder (PT-BR).zip
+- Rolling Thunder (Unl) [!].nes
+- Rolling Thunder (Unl) [o1].nes
+- Rolling Thunder (Unl) [T+Chi_kamming].nes
+- Rolling Thunder (USA) (Unl).nes
+- Rolling Thunder (USA) (Unl).zip
+- Romance of The Three Kingdoms (U) [!].nes
+- Romance of The Three Kingdoms (U) [b1].nes
+- Romance of The Three Kingdoms (U) [b2].nes
+- Romance of The Three Kingdoms (U) [o1].nes
+- Romance of The Three Kingdoms (U) [o2].nes
+- Romance of the Three Kingdoms (USA).nes
+- Romance of the Three Kingdoms (USA).zip
+- Romance of The Three Kingdoms II (U) [!].nes
+- Romance of The Three Kingdoms II (U) [b1].nes
+- Romance of The Three Kingdoms II (U) [b2].nes
+- Romance of The Three Kingdoms II (U) [b3].nes
+- Romance of The Three Kingdoms II (U) [b4].nes
+- Romance of The Three Kingdoms II (U) [b5].nes
+- Romance of The Three Kingdoms II (U) [b6].nes
+- Romance of The Three Kingdoms II (U) [b7].nes
+- Romance of The Three Kingdoms II (U) [b8].nes
+- Romance of The Three Kingdoms II (U) [o1].nes
+- Romance of the Three Kingdoms II (USA).nes
+- Romance of the Three Kingdoms II (USA).zip
+- Romancia (J) [p1][hFFE][b1].nes
+- Romancia (J) [p1][hFFE][b2].nes
+- Romancia (J).nes
+- Romman Love (Battle City Hack) [o1].nes
+- Romman Love (Battle City Hack).nes
+- Roto Runner (Lode Runner Hack).nes
+- Roundball - 2-on-2 Challenge (Europe).nes
+- Roundball - 2-on-2 Challenge (Europe).zip
+- Roundball - 2-on-2 Challenge (U) [!].nes
+- Roundball - 2-on-2 Challenge (U) [b1].nes
+- Roundball - 2-on-2 Challenge (U) [b2].nes
+- Roundball - 2-on-2 Challenge (U) [b3].nes
+- Roundball - 2-on-2 Challenge (U) [b4].nes
+- Roundball - 2-on-2 Challenge (U) [o1].nes
+- Roundball - 2-on-2 Challenge (USA).nes
+- Roundball - 2-on-2 Challenge (USA).zip
+- Route 16.zip
+- Route-16 Turbo (J) [p1].nes
+- Royal Blood (J) [o1].nes
+- Royal Blood (J).nes
+- RPG Bros (SMB1 Hack).nes
+- RPG Jinsei Game (J) [b1].nes
+- RPG Jinsei Game (J).nes
+- RPG ???? (??) (????).nes
+- rpg??????????.zip
+- Rumble Station - 15 in 1 (USA) (Unl).nes
+- Rumble Station - 15 in 1 (USA) (Unl).zip
+- RumbleStation 15-in-1 (Unl) [b1].nes
+- RumbleStation 15-in-1 (Unl).nes
+- Ruo Ke and the adventures of his friends.nes
+- Rush (Pac-Man Hack).nes
+- Rush n Attack (E).nes
+- Rush n Attack (PC10) [b1].nes
+- Rush n Attack (PC10).nes
+- Rush n Attack (U) [!].nes
+- Rush n Attack (U) [o1].nes
+- Rush n Attack (U) [o2].nes
+- Rush n Attack (U) [o3].nes
+- Rush n Attack (U) [T+Chi].nes
+- Rush n Attack (U) [T+Chi][a1].nes
+- Rush n Attack (U) [T+Chi][p1].nes
+- Rush n Attack (U) [T+Chi][t1].nes
+- Rush n Attack (U) [T+Swe1.0_TheTranslator].nes
+- Rush'n Attack - G Version by Googie.zip
+- Rush'n Attack - Ultra Difficult Edition.zip
+- Rush'n Attack (Europe).nes
+- Rush'n Attack (Europe).zip
+- Rush'n Attack (USA).nes
+- Rush'n Attack (USA).zip
+- Ryan s Adventure Demo (SMB1 Hack).nes
+- Rygar (E) [!].nes
+- Rygar (E) [T+Fre_Terminus].nes
+- Rygar (E) [T+FreBeta_Generation IX].nes
+- Rygar (E) [T+Spa099_spctrmxd].nes
+- Rygar (E) [T-FreBeta].nes
+- Rygar (Europe).nes
+- Rygar (Europe).zip
+- Rygar (PC10) [b1].nes
+- Rygar (PC10).nes
+- Rygar (U) (PRG1) [!].nes
+- Rygar (U) (PRG1) [b1].nes
+- Rygar (U) (PRG1) [b1][o1].nes
+- Rygar (U) (PRG1) [b1][T+Gre1.0_Lugia_13gr].nes
+- Rygar (U) (PRG1) [b1][T+Ita1.0_Otacon].nes
+- Rygar (U) (PRG1) [b1][T+Spa99%_Kale_1942].nes
+- Rygar (U) (PRG1) [b2].nes
+- Rygar (U) (PRG1) [T+Por100%_BRGames].nes
+- Rygar (U) (PRG1) [T+Rus].nes
+- Rygar (U) (PT-BR).zip
+- Rygar (USA) (Rev A).nes
+- Rygar (USA) (Rev A).zip
+- Rygar (USA).nes
+- Rygar (USA).zip
+- S.C.A.T. - Special Cybernetic Attack Team (U) [!p].nes
+- S.C.A.T. - Special Cybernetic Attack Team (U) [b1].nes
+- S.C.A.T. - Special Cybernetic Attack Team (U) [b2].nes
+- S.C.A.T. - Special Cybernetic Attack Team (U) [o1].nes
+- S.C.A.T. - Special Cybernetic Attack Team (U) [T+Por100%_CBT].nes
+- S.C.A.T. - Special Cybernetic Attack Team (U) [T+Rus].nes
+- S.C.A.T. - Special Cybernetic Attack Team (U) [t1].nes
+- S.C.A.T. - Special Cybernetic Attack Team (USA) (Beta).nes
+- S.C.A.T. - Special Cybernetic Attack Team (USA) (Beta).zip
+- S.C.A.T. - Special Cybernetic Attack Team (USA).nes
+- S.C.A.T. - Special Cybernetic Attack Team (USA).zip
+- Sack of Flour - Early Egypt Test by CMU NESdev Team (PD).nes
+- Sack of Flour - Forest Music by CMU NESdev Team (PD).nes
+- Sack of Flour - Hills Music by CMU NESdev Team (PD).nes
+- Sack of Flour - Plains Music by CMU NESdev Team (PD).nes
+- Sack of Flour - Space Music by CMU NESdev Team (PD).nes
+- Sack of Flour V1b by CMU NESdev Team (PD).nes
+- Sack of Flour V1d by CMU NESdev Team (PD) [o1].nes
+- Sack of Flour V1d by CMU NESdev Team (PD).nes
+- Saint Saiya - Tian Ma Huan Xiang (Ch) [!].nes
+- Saint Seiya - Ougon Densetsu (J) [hFFE].nes
+- Saint Seiya - Ougon Densetsu (J) [hFFE][b1].nes
+- Saint Seiya - Ougon Densetsu (J) [hFFE][b2].nes
+- Saint Seiya - Ougon Densetsu (J) [hFFE][b3].nes
+- Saint Seiya - Ougon Densetsu (J) [hFFE][b4].nes
+- Saint Seiya - Ougon Densetsu (J) [hFFE][o1].nes
+- Saint Seiya - Ougon Densetsu (J) [T+Eng1.00_KingMike].nes
+- Saint Seiya - Ougon Densetsu (J).nes
+- Saint Seiya - Ougon Densetsu Kanketsu Hen (J) [b1].nes
+- Saint Seiya - Ougon Densetsu Kanketsu Hen (J) [hFFE].nes
+- Saint Seiya - Ougon Densetsu Kanketsu Hen (J) [T+Chi0.01GB_dwt_so].nes
+- Saint Seiya - Ougon Densetsu Kanketsu Hen (J).nes
+- Saint Seiya - Ougon Densetsu Kanketsu Hen (Prototype).nes
+- Saint Seiya - Ougon Densetsu Kanketsu Hen [T+Por1.0 Final_L_Victor G-Nenhum_2010].zip
+- Saiyuuki World (J) [f1].nes
+- Saiyuuki World (J) [f1][b1].nes
+- Saiyuuki World (J).nes
+- Saiyuuki World 2 - Tenjoukai no Majin (J) [hFFE][p1].nes
+- Saiyuuki World 2 - Tenjoukai no Majin (J) [hFFE][p2].nes
+- Saiyuuki World 2 - Tenjoukai no Majin (J) [T+Eng1.00_PentarouZero].nes
+- Saiyuuki World 2 - Tenjoukai no Majin (J).nes
+- Sakigake!! Otoko Juku - Shippuu Ichi Gou Sei (J) [b1].nes
+- Sakigake!! Otoko Juku - Shippuu Ichi Gou Sei (J).nes
+- Salad no Kuni no Tomato Hime (J) [!].nes
+- Salad no Kuni no Tomato Hime (J) [hM02].nes
+- Salamander (J) [b1].nes
+- Salamander (J) [b2].nes
+- Salamander (J) [b3].nes
+- Salamander (J) [hM02].nes
+- Salamander (J) [hM02][o1].nes
+- Salamander (J).nes
+- Sampled Sound Test (PD).nes
+- San Guo Zhi - Qun Xiong Zheng Ba (Asia) (Unl).nes
+- San Guo Zhi - Qun Xiong Zheng Ba (Asia) (Unl).zip
+- San Guo Zhi - Qun Xiong Zheng Ba (Ch).nes
+- San Guo Zhi - Ying Jie Zhan (Ch) [a1].nes
+- San Guo Zhi - Ying Jie Zhan (Ch).nes
+- San Guo Zhi (Ch) [b1].nes
+- San Guo Zhi (Ch) [b2].nes
+- San Guo Zhi (Ch) [hFFE][b1].nes
+- San Guo Zhi (Ch).nes
+- San Guo Zhi 4 - Chi Bi Feng Yun (Ch) [!].nes
+- San Guo Zhong Lie Zhuan (China) (Unl).zip
+- San Mierde Homeroom Homicide (River City Ransom Hack).nes
+- San Shi Liu Ji (Ch) [b1].nes
+- San Shi Liu Ji (Ch).nes
+- Sanada Juu Yuushi (J) [b1].nes
+- Sanada Juu Yuushi (J) [b2].nes
+- Sanada Juu Yuushi (J) [b3].nes
+- Sanada Juu Yuushi (J).nes
+- Sangokushi - Chuugen no Hasha (J).nes
+- Sangokushi - Chuugen no Hasha by Echigoya (Hack).nes
+- Sangokushi - Eiketsu Den (Beta) [o1].nes
+- Sangokushi - Eiketsu Den (Beta).nes
+- Sangokushi (J) [f1].nes
+- Sangokushi (J) [f1][o1].nes
+- Sangokushi (J).nes
+- Sangokushi 2 - Haou no Tairiku - Lau Edition (Hack) [o1].nes
+- Sangokushi 2 - Haou no Tairiku - Lau Edition (Hack).nes
+- Sangokushi 2 - Haou no Tairiku (J) [b1].nes
+- Sangokushi 2 - Haou no Tairiku (J) [h1].nes
+- Sangokushi 2 - Haou no Tairiku (J) [h1][o1].nes
+- Sangokushi 2 - Haou no Tairiku (J) [hFFE][p1].nes
+- Sangokushi 2 - Haou no Tairiku (J) [hFFE][p1][b1].nes
+- Sangokushi 2 - Haou no Tairiku (J) [o1].nes
+- Sangokushi 2 - Haou no Tairiku (J) [T+Chi(Trad)].nes
+- Sangokushi 2 - Haou no Tairiku (J) [T+Chi(Trad)][a1].nes
+- Sangokushi 2 - Haou no Tairiku (J) [T+Chi(Trad)][b1].nes
+- Sangokushi 2 - Haou no Tairiku (J) [T+Chi(Trad)][b2].nes
+- Sangokushi 2 - Haou no Tairiku (J) [T-Chi].nes
+- Sangokushi 2 - Haou no Tairiku (J) [T-Chi][b1].nes
+- Sangokushi 2 - Haou no Tairiku (J).nes
+- Sangokushi 2 (J).nes
+- Sanguo Chunqiu - Sichuan Sheng (Multicart Rip) (Unl) (T).zip
+- Sanma no Mei Tantei (J) [b1].nes
+- Sanma no Mei Tantei (J) [o1].nes
+- Sanma no Mei Tantei (J) [o2].nes
+- Sanma no Mei Tantei (J).nes
+- Sanma no Mei Tantei by Rinkaku (Hack).nes
+- Sanrio Carnival (J) [p1].nes
+- Sanrio Carnival (J).nes
+- Sanrio Carnival 2 (J) [o1].nes
+- Sanrio Carnival 2 (J) [o1][T+Eng1.0_Suicidal].nes
+- Sanrio Carnival 2 (J) [T+Eng1.0_Suicidal].nes
+- Sanrio Carnival 2 (J).nes
+- Sanrio Cup - Pon Pon Volley (J) [o1].nes
+- Sanrio Cup - Pon Pon Volley (J) [o1][T+Eng1.00_Gaijin Productions].nes
+- Sanrio Cup - Pon Pon Volley (J) [T+Eng1.00_Gaijin Productions].nes
+- Sanrio Cup - Pon Pon Volley (J) [T-Eng0.85_Gaijin Productions].nes
+- Sanrio Cup - Pon Pon Volley (J).nes
+- Sansaara Naaga (J) [b1].nes
+- Sansaara Naaga (J) [b2].nes
+- Sansaara Naaga (J).nes
+- Sansuu 1 Nen - Keisan Game (J) [b1].nes
+- Sansuu 1 Nen - Keisan Game (J) [hM03].nes
+- Sansuu 1 Nen - Keisan Game (J) [hM03][a1].nes
+- Sansuu 1 Nen - Keisan Game (J).nes
+- Sansuu 2 Nen - Keisan Game (J) [b1].nes
+- Sansuu 2 Nen - Keisan Game (J) [hM03].nes
+- Sansuu 2 Nen - Keisan Game (J) [hM03][b1].nes
+- Sansuu 2 Nen - Keisan Game (J) [p1][hM03].nes
+- Sansuu 2 Nen - Keisan Game (J).nes
+- Sansuu 3 Nen - Keisan Game (J) [hM03].nes
+- Sansuu 3 Nen - Keisan Game (J) [hM03][o1].nes
+- Sansuu 3 Nen - Keisan Game (J).nes
+- Sansuu 4 Nen - Keisan Game (J) (Prototype) [!].nes
+- Sansuu 4 Nen - Keisan Game (J).nes
+- Sansuu 5 _ 6 Nen - Keisan Game (J) (Prototype) [!].nes
+- Sansuu 5 _ 6 Nen - Keisan Game (J).nes
+- SARS Kung Fu 2003 by Jeremiah Johnson (Kung Fu Hack) [o1].nes
+- SARS Kung Fu 2003 by Jeremiah Johnson (Kung Fu Hack).nes
+- Satanic Freak Bros (SMB1 Hack) [o1].nes
+- Satanic Freak Bros (SMB1 Hack).nes
+- Satomi Hakkenden (J) [b1].nes
+- Satomi Hakkenden (J) [b2].nes
+- Satomi Hakkenden (J) [b3].nes
+- Satomi Hakkenden (J) [b4].nes
+- Satomi Hakkenden (J) [b5].nes
+- Satomi Hakkenden (J) [p1][hFFE].nes
+- Satomi Hakkenden (J) [p1][hFFE][b1].nes
+- Satomi Hakkenden (J).nes
+- Satsui no Kaisou - Power Soft Satsujin Jiken (J) [hM02].nes
+- Satsui no Kaisou - Power Soft Satsujin Jiken (J).nes
+- Satsujin Club (J) [o1].nes
+- Satsujin Club (J).nes
+- Saw Scale Demo (PD).nes
+- Saw Song Demo (PD).nes
+- Sayoonara! by Chris Covell (PD) [a1].nes
+- Sayoonara! by Chris Covell (PD).nes
+- Scanline PPU Test by Quietust (PD) [a1].nes
+- Scanline PPU Test by Quietust (PD).nes
+- Scarabeus (USA) (Sample).nes
+- Scarabeus (USA) (Sample).zip
+- SCAT -Special cibernetic attack team -Port (U) (PT-BR).zip
+- Schoolvania (CV Hack).nes
+- Scranton Bros (SMB1 Hack).nes
+- Screen Saver Demo by KZ-S (PD).nes
+- Scroll Demo by HollowOne11 (PD).nes
+- SD Battle Oozumou - Heisei Hero Basho (J).nes
+- SD Gundam - Gachapon Senshi 2 - Capsule Senki (J) [b1].nes
+- SD Gundam - Gachapon Senshi 2 - Capsule Senki (J) [b2].nes
+- SD Gundam - Gachapon Senshi 2 - Capsule Senki (J) [b3].nes
+- SD Gundam - Gachapon Senshi 2 - Capsule Senki (J) [hM34].nes
+- SD Gundam - Gachapon Senshi 2 - Capsule Senki (J).nes
+- SD Gundam - Gachapon Senshi 2.1 pr3 (Hack).nes
+- SD Gundam - Gachapon Senshi 3 - Eiyuu Senki (J) [T+Kor].nes
+- SD Gundam - Gachapon Senshi 3 - Eiyuu Senki (J).nes
+- SD Gundam - Gachapon Senshi 4 - NewType Story (J) [o1].nes
+- SD Gundam - Gachapon Senshi 4 - NewType Story (J) [p1].nes
+- SD Gundam - Gachapon Senshi 4 - NewType Story (J).nes
+- SD Gundam - Gachapon Senshi 4 V2.1 (Hack).nes
+- SD Gundam - Gachapon Senshi 5 - Battle of Universal Century (J).nes
+- SD Gundam Gaiden - Knight Gundam Monogatari (J) [b1].nes
+- SD Gundam Gaiden - Knight Gundam Monogatari (J) [T+Eng0.10_Assassin_Productions].nes
+- SD Gundam Gaiden - Knight Gundam Monogatari (J).nes
+- SD Gundam Gaiden - Knight Gundam Monogatari 2 - Hikari no Kishi (J) [hFFE][p1].nes
+- SD Gundam Gaiden - Knight Gundam Monogatari 2 - Hikari no Kishi (J).nes
+- SD Gundam Gaiden - Knight Gundam Monogatari 3 - Densetsu no Kishi Dan (J).nes
+- SD Hero Soukessen - Taose! Aku no Gundan (J) [!].nes
+- SD Hero Soukessen - Taose! Aku no Gundan (J) [T+Chi].nes
+- SD Hero Soukessen - Taose! Aku no Gundan (J) [T+Chi][a1].nes
+- SD Keiji - Blader (J).nes
+- SD Sengoku Bushou Retsuden (J) [b1].nes
+- SD Sengoku Bushou Retsuden (J).nes
+
+---
+
+## PC Engine / TurboGrafx-16 (291 jogos)
+
+- 1943 Kai (Japan).zip
+- 21 Emon - Mezase Hotel Ou!! (Japan).zip
+- Adventure Island (Japan).zip
+- Aero Blasters (Japan).zip
+- After Burner II (Japan).zip
+- Alien Crush (Japan).zip
+- Ankoku Densetsu (Japan).zip
+- Aoi Blink (Japan).zip
+- Appare Gateball (Japan).zip
+- Armed Formation F (Japan).zip
+- Artist Tool (Japan).zip
+- Atomic Robo-Kid Special (Japan).zip
+- AV Poker (Japan).zip
+- Ballistix (Japan).zip
+- Bari Bari Densetsu (Japan).zip
+- Barunba (Japan).zip
+- Batman (Japan).zip
+- Battle Lode Runner (Japan).zip
+- Be Ball (Japan).zip
+- Benkei Gaiden (Japan).zip
+- Bikkuriman World (Japan).zip
+- Blodia (Japan).zip
+- Body Conquest II (Japan).zip
+- Bomberman (Japan).zip
+- Bomberman '93 (Japan).zip
+- Bomberman '94 (Japan).zip
+- Bouken Danshaku Don - The Lost Sunheart (Japan).zip
+- Break In (Japan).zip
+- Bubblegum Crash! - Knight Sabers 2034 (Japan).zip
+- Bull Fight - Ring no Haja (Japan).zip
+- Burning Angels (Japan).zip
+- Busou Keiji - Cyber Cross (Japan).zip
+- Cadash (Japan).zip
+- Champion Wrestler (Japan).zip
+- Chibi Maruko Chan - Quiz de Piihyara (Japan).zip
+- Chikudenya Toubei - Kubikiri Yakata Yori (Japan).zip
+- Chouzetsu Rinjin - Bravoman (Japan).zip
+- Circus Lido (Japan).zip
+- City Hunter (Japan).zip
+- Columns (Japan).zip
+- Coryoon - Child of Dragon (Japan).zip
+- Cross Wiber - Cyber Combat Police (Japan).zip
+- Cyber Core (Japan).zip
+- Cyber Dodge (Japan).zip
+- Cyber Knight (Japan).zip
+- Dai Senpu (Japan).zip
+- Daichi Kun Crisis - Do Natural (Japan).zip
+- Daisenpuu (Japan).zip
+- Darius Alpha (Japan).zip
+- Darius Plus (Japan).zip
+- Dead Moon (Japan).zip
+- Deep Blue - Kaitei Shinwa (Japan).zip
+- Detana!! TwinBee (Japan).zip
+- Devil Crash - Naxat Pinball (Japan).zip
+- Die Hard (Japan).zip
+- Digital Champ (Japan).zip
+- Don Doko Don! (Japan).zip
+- Doraemon - Meikyuu Dai Sakusen (Japan).zip
+- Doraemon - Nobita no Dorabian Night (Japan).zip
+- Double Dungeons - W (Japan).zip
+- Download (Japan).zip
+- Dragon Egg! (Japan).zip
+- Dragon Saber - After Story of Dragon Spirit (Japan).zip
+- Dragon Spirit (Japan).zip
+- Drop Rock Hora Hora (Japan).zip
+- Dungeon Explorer (Japan).zip
+- Energy (Japan).zip
+- F1 Circus (Japan).zip
+- F1 Circus '91 - World Championship (Japan).zip
+- F1 Circus '92 - The Speed of Sound (Japan).zip
+- F-1 Dream (Japan).zip
+- F-1 Pilot - You're King of Kings (Japan).zip
+- F1 Triple Battle (Japan).zip
+- Fantasy Zone (Japan).zip
+- Fighting Run (Japan).zip
+- Final Blaster (Japan).zip
+- Final Lap Twin (Japan).zip
+- Final Match Tennis (Japan).zip
+- Final Soldier (Japan).zip
+- Fire Pro Wrestling - Combination Tag (Japan).zip
+- Fire Pro Wrestling 2 - 2nd Bout (Japan).zip
+- Fire Pro Wrestling 3 - Legend Bout (Japan).zip
+- Formation Soccer - Human Cup '90 (Japan).zip
+- Formation Soccer - On J. League (Japan).zip
+- Fushigi no Yume no Alice (Japan).zip
+- Gai Flame (Japan).zip
+- Gaia no Monshou (Japan).zip
+- Galaga '88 (Japan).zip
+- Ganbare! Golf Boys (Japan).zip
+- Gekisha Boy (Japan).zip
+- Genji Tsuushin Agedama (Japan).zip
+- Genpei Toumaden (Japan).zip
+- Genpei Toumaden Ni no Maki (Japan).zip
+- Gokuraku! Chuuka Taisen (Japan).zip
+- Gomola Speed (Japan).zip
+- Gradius (Japan).zip
+- Gunhed (Japan).zip
+- Hana Taaka Daka! (Japan).zip
+- Hanii in the Sky (Japan).zip
+- Hanii on the Road (Japan).zip
+- Hatris (Japan).zip
+- Heavy Unit (Japan).zip
+- Hisou Kihei - Xserd (Japan).zip
+- Hit the Ice - VHL the Official Video Hockey League (Japan).zip
+- Honoo no Toukyuuji Dodge Danpei (Japan).zip
+- Idol Hanafuda Fan Club (Japan).zip
+- Image Fight (Japan).zip
+- J. League Greatest Eleven (Japan).zip
+- Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Japan).zip
+- Jackie Chan (Japan).zip
+- Jigoku Meguri (Japan).zip
+- Jinmu Denshou (Japan).zip
+- Juuouki (Japan).zip
+- Kaizou Choujin Shubibinman (Japan).zip
+- Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).zip
+- Kato Chan & Ken Chan (Japan).zip
+- Kattobi! Takuhai Kun (Japan).zip
+- KickBall (Japan).zip
+- Kiki Kaikai (Japan).zip
+- King of Casino (Japan).zip
+- Klax (Japan).zip
+- Knight Rider Special (Japan).zip
+- Kore ga Pro Yakyuu '89 (Japan).zip
+- Kore ga Pro Yakyuu '90 (Japan).zip
+- Kung Fu, The (Japan).zip
+- Kyuukyoku Mahjong - Idol Graphics (Japan).zip
+- Kyuukyoku Mahjong II (Japan).zip
+- Kyuukyoku Tiger (Japan).zip
+- Lady Sword (Japan).zip
+- Legend of Hero Tonma (Japan).zip
+- Lode Runner - Lost Labyrinth (Japan).zip
+- Maerchen Maze (Japan).zip
+- Magical Chase (Japan).zip
+- Mahjong Gakuen - Touma Soushirou Toujou (Japan).zip
+- Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).zip
+- Mahjong Gokuu Special (Japan).zip
+- Mahjong Haou Den - Kaiser's Quest (Japan).zip
+- Mahjong Shikyaku Retsuden - Mahjong Wars (Japan).zip
+- Maison Ikkoku (Japan).zip
+- Majin Eiyuu Den Wataru (Japan).zip
+- Makai Hakken Den Shada (Japan).zip
+- Makai Prince Dorabocchan (Japan).zip
+- Makyou Densetsu (Japan).zip
+- Maniac Puroresu - Asu heno Tatakai (Japan).zip
+- Mesopotamia (Japan).zip
+- Metal Stoker (Japan).zip
+- Mizubaku Dai Bouken (Japan).zip
+- Momotarou Densetsu Gaiden Dai 1 Shuu (Japan).zip
+- Momotarou Densetsu II (Japan).zip
+- Momotarou Densetsu Turbo (Japan).zip
+- Momotarou Katsugeki (Japan).zip
+- Monster Puroresu (Japan).zip
+- Morita Shougi PC (Japan).zip
+- Moto Roader (Japan).zip
+- Moto Roader II (Japan).zip
+- Mr. Heli no Daibouken (Japan).zip
+- Narazumono Sentai Butai - Bloody Wolf (Japan).zip
+- Naxat Open (Japan).zip
+- Naxat Stadium (Japan).zip
+- Nazo no Mascarade (Japan).zip
+- Necromancer (Japan).zip
+- Necros no Yousai (Japan).zip
+- Nectaris (Japan).zip
+- Nekketsu Koukou Dodgeball Bu - PC Bangai Hen (Japan).zip
+- Nekketsu Koukou Dodgeball Bu - Soccer PC Hen (Japan).zip
+- Neutopia (Japan).zip
+- Neutopia II (Japan).zip
+- New Zealand Story, The (Japan).zip
+- NHK Taiga Drama - Taiheiki (Japan).zip
+- Niko Niko Pun (Japan).zip
+- Ninja Ryuuken Den (Japan).zip
+- Ninja Warriors, The (Japan).zip
+- Obocchama Kun (Japan).zip
+- Operation Wolf (Japan).zip
+- Ordyne (Japan).zip
+- Out Live (Japan).zip
+- Out Run (Japan).zip
+- Override (Japan).zip
+- P-47 - The Freedom Fighter (Japan).zip
+- Pachio Kun - Juuban Shoubu (Japan).zip
+- Pac-Land (Japan).zip
+- Paranoia (Japan).zip
+- Parasol Stars - The Story of Bubble Bobble III (Japan).zip
+- Parodius da! - Shinwa Kara Owarai he (Japan).zip
+- PC Denjin - Punkic Cyborgs (Japan).zip
+- PC Genjin - Pithecanthropus Computerurus (Japan).zip
+- PC Genjin 2 - Pithecanthropus Computerurus (Japan).zip
+- PC Genjin 3 - Pithecanthropus Computerurus (Japan).zip
+- PC Pachi-Slot (Japan).zip
+- Populous (Japan).zip
+- Power Drift (Japan).zip
+- Power Eleven (Japan).zip
+- Power Gate (Japan).zip
+- Power Golf (Japan).zip
+- Power League (Japan).zip
+- Power League '93 (Japan).zip
+- Power League II (Japan).zip
+- Power League III (Japan).zip
+- Power League IV (Japan).zip
+- Power League V (Japan).zip
+- Power Sports (Japan).zip
+- Power Tennis (Japan).zip
+- Pro Tennis World Court (Japan).zip
+- Pro Yakyuu World Stadium (Japan).zip
+- Pro Yakyuu World Stadium '91 (Japan).zip
+- Psycho Chaser (Japan).zip
+- Puzzle Boy (Japan).zip
+- Puzznic (Japan).zip
+- Quiz Toukou Shashin (Japan).zip
+- Rabio Lepus Special (Japan).zip
+- Racing Damashii (Japan).zip
+- Raiden (Japan).zip
+- Rastan Saga II (Japan).zip
+- Rock-On (Japan).zip
+- R-Type Part-1 (Japan).zip
+- R-Type Part-2 (Japan).zip
+- Ryukyu (Japan).zip
+- Sadakichi 7 Series - Hideyoshi no Ougon (Japan).zip
+- Saigo no Nindou - Ninja Spirit (Japan).zip
+- Salamander (Japan).zip
+- Sekigahara (Japan).zip
+- Sengoku Mahjong (Japan).zip
+- Shanghai (Japan).zip
+- Shinobi (Japan).zip
+- Shiryou Sensen (Japan).zip
+- Shougi Shodan Icchokusen (Japan).zip
+- Shougi Shoshinsha Muyou (Japan).zip
+- SideArms - Hyper Dyne (Japan).zip
+- Silent Debuggers (Japan).zip
+- Sindibad Chitei no Dai Makyuu (Japan).zip
+- Skweek (Japan).zip
+- Soldier Blade (Japan).zip
+- Son Son II (Japan).zip
+- Soukoban World (Japan).zip
+- Space Harrier (Japan).zip
+- Space Invaders - Fukkatsu no Hi (Japan).zip
+- Special Criminal Investigation (Japan).zip
+- Spin Pair (Japan).zip
+- Spiral Wave (Japan).zip
+- Splatterhouse (Japan).zip
+- Stratego (Japan).zip
+- Street Fighter II' - Champion Edition (Japan).zip
+- Strip Fighter II (Japan).zip
+- Super Metal Crusher (Japan).zip
+- Super Momotarou Dentetsu (Japan).zip
+- Super Momotarou Dentetsu II (Japan).zip
+- Super Star Soldier (Japan).zip
+- Super Volleyball (Japan).zip
+- Susanoo Densetsu (Japan).zip
+- Taito Chase H.Q. (Japan).zip
+- Takahashi Meijin no Shin Boukenjima (Japan).zip
+- Takeda Shingen (Japan).zip
+- Tatsujin (Japan).zip
+- Tatsunoko Fighter (Japan).zip
+- Tenseiryuu - Saint Dragon (Japan).zip
+- Terra Cresta II - Mandoraa no Gyakushuu (Japan).zip
+- Thunder Blade (Japan).zip
+- Time Cruise II (Japan).zip
+- Titan (Japan).zip
+- Toilet Kids (Japan).zip
+- Tora heno Michi (Japan).zip
+- Toshi Tensou Keikaku - Eternal City (Japan).zip
+- Tower of Druaga, The (Japan).zip
+- Toy Shop Boys (Japan).zip
+- Tricky (Japan).zip
+- Tsuppari Oozumou - Heisei Ban (Japan).zip
+- Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).zip
+- TV Sports Basketball (Japan).zip
+- TV Sports Football (Japan).zip
+- TV Sports Hockey (Japan).zip
+- USA Pro Basketball (Japan).zip
+- Veigues - Tactical Gladiator (Japan).zip
+- Victory Run (Japan).zip
+- Vigilante (Japan).zip
+- Violent Soldier (Japan).zip
+- Volfied (Japan).zip
+- Wai Wai Mahjong - Yukaina Janyuu Tachi (Japan).zip
+- Walkuere no Densetsu (Japan).zip
+- Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).zip
+- Winning Shot (Japan).zip
+- Wonder Momo (Japan).zip
+- World Beach Volley (Japan).zip
+- World Circuit (Japan).zip
+- World Jockey (Japan).zip
+- W-Ring - The Double Rings (Japan).zip
+- Xevious - Fardraut Densetsu (Japan).zip
+- Youkai Douchuuki (Japan).zip
+- Yuu Yuu Jinsei - Victory Life (Japan).zip
+- Zero 4 Champ (Japan) (v1.5).zip
+- Zipang (Japan).zip
+
+---
+
+## PSP (30 jogos)
+
+- Alien Zombie Death (USA).cso
+- Alpha Mission (USA).cso
+- Ancient Game Treasures - Mill (USA).cso
+- Angry Birds (USA).cso
+- Apache Overkill (USA).cso
+- Athena (USA).cso
+- Battle Poker (USA).cso
+- Beam  em Up (USA).cso
+- Bee Wars (Europe).cso
+- Bermuda Triangle (USA).cso
+- Burnin  Rubber (USA).cso
+- Charge! Tank Squad (USA).cso
+- Circles, Circles, Circles (USA).cso
+- Crime Spree (Europe).cso
+- Dr. Maybee and the Adventures of Scarygirl (USA).cso
+- Dr. Mini Games (USA).cso
+- Dracula - Undead Awakening (USA).cso
+- Duael Invaders (USA).cso
+- eFootball 2023 Version Beta ADLZ GAMING PRO.cso
+- Enigmo (USA).cso
+- Fish Tank (USA).cso
+- Forest Puzzle (USA).cso
+- Fort Commander - King s Gambit (USA).cso
+- Fort Commander II - Counterattack (USA).cso
+- Free Shot Frenzy (Europe).cso
+- Gamocracy One - Legend of Robot (USA).cso
+- Gang Wars (USA).cso
+- God of War - Chains of Olympis.cso
+- Gold Fever (USA).cso
+- Grand Theft Auto - Vice City Stories.cso
+
+---
+
+## PlayStation (8 jogos)
+
+- Championship Motocross featuring Ricky Carmichael (Europe).chd
+- Crash Bandicoot 2 - Cortex Strikes Back.PBP
+- Crash Bandicoot 3 - Warped.PBP
+- Jackie Chan Stuntmaster (USA).chd
+- Resident Evil 3 - Nemesis [NTSC-BR].chd
+- Street Fighter EX2 Plus.PBP
+- Syphon Filter (USA).chd
+- Tekken 3.PBP
+
+---
+
+## ScummVM (0 jogos - apenas arquivos de sistema)
+
+- menu.scummvm
+- Scan_for_new_games.scummvm
+
+---
+
+## Super Famicom (312 jogos)
+
+- 0001 Mortal Kombat.smc
+- 0002 Mortal Kombat 2.smc
+- 0003 Mortal Kombat 3.smc
+- 0004 Rockman X.smc
+- 0005 Rockman X 2.smc
+- 0006 Rockman and Frudi.smc
+- 0007 Rockman football.smc
+- 0008 Super Street Fighter II.smc
+- 0009 Super Street Fighter II - Recovery.smc
+- 0010 Super King Kong 1.smc
+- 0011 Super King Kong 2.sfc
+- 0012 Super King Kong 3.sfc
+- 0013 Star Kabi - Dream Journey.smc
+- 0014 Star of Kabi 3.smc
+- 0015 Star Cards Super Premier Deluxe Edition.smc
+- 0016 Quick whirlwind (Chinese version).sfc
+- 0017 Quick whirlwind 2.smc
+- 0018 Quick whirlwind 5.smc
+- 0019 Final Fantasy 5 (Chinese version).sfc
+- 0020 Final Fantasy 6 (Chinese version).sfc
+- 0021 Dragon Quest 6 (Chinese version).sfc
+- 0022 Reloaded Marines Returns (Chinese version).sfc
+- 0023 Romantic Sharjah 3 (Chinese version).sfc
+- 0024 Magical Machine God 1 (Chinese version).sfc
+- 0025 Time and Space Tour (Chinese version).sfc
+- 0026 Electric fine (Chinese version).sfc
+- 0027 Frontline task (Chinese version).sfc
+- 0028 Langurissa (Chinese version).sfc
+- 0029 Slam Dunk 2 (Chinese version).sfc
+- 0030 Angel Wing 5 (Chinese version).sfc
+- 0031 Beidou Shenquan 7 (Chinese version).sfc
+- 0032 Swallowing the world (Chinese version).sfc
+- 0033 Three Kingdoms 3 (Chinese version).sfc
+- 0034 Yokoyama Glory Three Kingdoms (Chinese version).sfc
+- 0035 Ghost Boy - Fighting Thunder (Chinese version).sfc
+- 0036 Dragon Ball Z Super Goku Pass - Surprise (Chinese version).sfc
+- 0037 The Galaxy Warring States Group (Chinese version).sfc
+- 0038 Cut3 (Chinese version).sfc
+- 0039 Teenage Mutant Ninja Turtle.sfc
+- 0040 Teenage Mutant Ninja Turtles 4.sfc
+- 0041 Sonic speed striker.smc
+- 0042 Sonic Quick Strike 2.smc
+- 0043 Shaped vs. Iron Warrior.smc
+- 0044 Alien 3.smc
+- 0045 Theater 88.smc
+- 0046 Super double dragon.smc
+- 0047 Double dragon 5.smc
+- 0048 Ninja Dragon Sword.smc
+- 0049 Legend of Salda.smc
+- 0050 Hungry Wolf Legend 2.smc
+- 0051 Hungry Wolf Legend Special Edition.smc
+- 0052 Ninja Frog and Double Dragon.smc
+- 0053 Ninja frog.sfc
+- 0054 Ranch Story.smc
+- 0055 Castlevania X Chronicles.smc
+- 0056 Castlevania 4.smc
+- 0057 Amazing Spider-Man - Deadly Enemy.smc
+- 0058 Spiderman and Vicious - Massacre.smc
+- 0059 Spiderman.smc
+- 0060 X-Men - Variant Endings.sfc
+- 0061 Wolverine.sfc
+- 0062 Superman - life in the dead.smc
+- 0063 Lightning Superman.sfc
+- 0064 Justice Superman vs. Justice.smc
+- 0065 Wheel of time.smc
+- 0066 Machine Warrior 3.smc
+- 0067 Machine Warrior VS Terminator.smc
+- 0068 Devil Terminator 2 - Judgment Day.smc
+- 0069 Bomb superman.smc
+- 0070 Bomb Superman 2.smc
+- 0071 Bomb Superman 3.smc
+- 0072 Bomb Superman 4.sfc
+- 0073 Bomb Superman 5.smc
+- 0074 Bomb Superman Puzzle.smc
+- 0075 Bomb superman square.smc
+- 0076 Aretha.smc
+- 0077 Aretha 2.smc
+- 0078 Forever Batman.smc
+- 0079 Batman and Robin Adventures.smc
+- 0080 Batman reproduces the rivers and lakes.smc
+- 0081 Top racing 1.smc
+- 0082 Top racing 2.smc
+- 0083 Top racing car 3000.smc
+- 0084 Demon Village rumor - heraldic articles.smc
+- 0085 Super Devils Village.smc
+- 0086 Super Adventure Island 1.sfc
+- 0087 Super Adventure Island 2.sfc
+- 0088 Marvel Superhero - Battle of the Secret.smc
+- 0089 Charles Boxing.smc
+- 0090 Charles Boxing 2.smc
+- 0091 Classic King Kong 1.smc
+- 0092 Super Tetris 3.smc
+- 0093 Russian flash square 2.smc
+- 0094 Jerry Kid.smc
+- 0095 Jerry Kid 2.smc
+- 0096 Wild commando.smc
+- 0097 Galaxy Flyer - Secret Mission.smc
+- 0098 Reza attack 1.smc
+- 0099 Raisa attack 2.smc
+- 0100 Thunder Mission 1.smc
+- 0101 Thunder mission rumor.smc
+- 0102 Dinosaurs Team - Movie Edition.smc
+- 0103 Dinosaurs Team - King Kong vs..sfc
+- 0104 Dinosaur team racing.sfc
+- 0105 Dragon Warrior 1.smc
+- 0106 Dragon Warrior 2.smc
+- 0107 Super shaped fighter.sfc
+- 0108 Super Shaped Fighter 3.smc
+- 0109 Flying dragon.smc
+- 0110 Star Wars 5 - Empire counterattack.smc
+- 0111 Star Wars 6 - Jedi Counterattack.smc
+- 0112 Captain America.smc
+- 0113 Appeal order.smc
+- 0114 Snoopy concert.smc
+- 0115 Hulk.sfc
+- 0116 Jurassic Park.sfc
+- 0117 Jurassic Park 2.smc
+- 0118 Aladdin.sfc
+- 0119 Jungle prince.smc
+- 0120 Cartoon highlights.smc
+- 0121 Lion king.sfc
+- 0122 Tom and Jerry.smc
+- 0123 Bunny.smc
+- 0124 Naughty rabbit adventure.smc
+- 0125 Toy Story.smc
+- 0126 Disney cartoon basketball.smc
+- 0127 Goofy dog pirate island adventure.smc
+- 0128 Duffy Duck - Mars Mission.smc
+- 0129 Mickey Mouse.sfc
+- 0130 Mickey Mouse's ultimate challenge.sfc
+- 0131 Mickey Mouse and Donald Duck 3.smc
+- 0132 Pinocchio.sfc
+- 0133 Angel Wings 4.smc
+- 0134 Warrior 1.smc
+- 0135 The earthworm Jim 2.smc
+- 0136 Battle primitive 1.sfc
+- 0137 Battle primitive 2.sfc
+- 0138 Super original.sfc
+- 0139 Space Vikings 1.smc
+- 0140 Space Viking 2.smc
+- 0141 Odd strange world 1.smc
+- 0142 Odd strange world 2-month night grass.sfc
+- 0143 Thief Wuyouweimen 3.smc
+- 0144 Thief Wu Youwei 4.smc
+- 0145 Four Mad God Wars 1.smc
+- 0146 Four Mad God Wars 2.smc
+- 0147 Yu Yu White Book.smc
+- 0148 Yu Yu Bai Shu - the strongest biography of the devil.smc
+- 0149 Yuyou White Book - Special Article.smc
+- 0150 Simulated city.sfc
+- 0151 Simulated City 2000.smc
+- 0152 Spell.smc
+- 0153 Deadly weapon.smc
+- 0154 Galaxy Ranger.smc
+- 0155 WWF Wrestling Wars.smc
+- 0156 Bergman.smc
+- 0157 Madden NBA Basketball - Athletics.smc
+- 0158 Holy Dragon War.smc
+- 0159 Earth adventure.smc
+- 0160 Creation of heaven and earth.smc
+- 0161 Dinosaur fighting.sfc
+- 0162 Weapon Master.sfc
+- 0163 Bell tower.smc
+- 0164 Galaxy Warrior - Mitterrod.sfc
+- 0165 Shining.smc
+- 0166 Evanescent darkness.sfc
+- 0167 Xilin.sfc
+- 0168 FIFA Football Match 98.smc
+- 0169 Shura Warrior - Steel.smc
+- 0170 Indiana Jones Adventure.smc
+- 0171 Snoopy Haunted House Adventure.smc
+- 0172 back to the start.smc
+- 0173 Babis.smc
+- 0174 Modern sacred.smc
+- 0175 Invincible single wheeler.sfc
+- 0176 Future water world.sfc
+- 0177 Maniac knight.smc
+- 0178 Pig younger Halloween adventure.sfc
+- 0179 Maya Adventure.smc
+- 0180 Gaia Fantasy.smc
+- 0181 Western Star.sfc
+- 0182 Super boxing.smc
+- 0183 Urban attack.sfc
+- 0184 Metal robot battle.sfc
+- 0185 Fishing Taro.sfc
+- 0186 Zero commando.sfc
+- 0187 Magic bubble 2.smc
+- 0188 Dragon King Five Fighters.smc
+- 0189 4.6 billion years of story.smc
+- 0190 GO!GO! Devil Boy.sfc
+- 0191 Doraemon 4.sfc
+- 0192 Knights.smc
+- 0193 Monopoly 2.smc
+- 0194 Granville Ice Hockey.sfc
+- 0195 Ninja warrior.sfc
+- 0196 Tima and Peng Peng.sfc
+- 0197 Beavis and big egg.smc
+- 0198 Royal Knights.smc
+- 0199 Beautiful new world 2.smc
+- 0200 Super Robot Wars EX.smc
+- 0201 Super Baseball 2020.smc
+- 0202 Football kid.sfc
+- 0203 Iron Eagle Warrior.smc
+- 0204 Adams.sfc
+- 0205 Zombie neighbor.smc
+- 0206 Champion billiard.sfc
+- 0207 Creation of the world.smc
+- 0208 International superstar football.smc
+- 0209 Tank Battle 2.smc
+- 0210 Sky Warrior - King Kalou.smc
+- 0211 Tianlong.sfc
+- 0212 Space fighter 2.smc
+- 0213 Space master.sfc
+- 0214 Evil sword.smc
+- 0215 Combat submarine.sfc
+- 0216 Lemmings.smc
+- 0217 Sunset knight.smc
+- 0218 Motorized armor.smc
+- 0219 Squirrel adventure.sfc
+- 0220 Desert storm.smc
+- 0221 Mars Rat Racing.smc
+- 0222 Rocket knight.smc
+- 0223 Yujia Bear Adventure.sfc
+- 0224 Crazy big shot.smc
+- 0225 True treasure beads kid.smc
+- 0226 The Dark Age of the Pig Warrior.sfc
+- 0227 Pink Silly Leopard - Hollywood Adventure.sfc
+- 0228 Fancy billiards.smc
+- 0229 Captain Hook.sfc
+- 0230 Ant warrior.sfc
+- 0231 Super Dream Warrior 4.sfc
+- 0232 Simpsons family - the nightmare of the tyrant.smc
+- 0233 Next door devil.sfc
+- 0234 Galaxy Storm.smc
+- 0235 Sonic rat adventure.sfc
+- 0236 Dark eagle.smc
+- 0237 Triangle shooting square.sfc
+- 0238 Congo boy.smc
+- 0239 Superman Eggs - Going to the future.sfc
+- 0240 Salted Egg Superman 7.smc
+- 0241 Altman.sfc
+- 0242 Cyclone robot.sfc
+- 0243 TV fighter.sfc
+- 0244 Stereo jump box 3.sfc
+- 0245 Super bowling.sfc
+- 0246 Super helicopter 3.smc
+- 0247 Send newsboy 2.smc
+- 0248 Alien.sfc
+- 0249 Frog crossing the street.smc
+- 0250 SD Hero Challenge 4.smc
+- 0251 SD up to G century - beyond the world.smc
+- 0252 King Arthur World.smc
+- 0253 Genesis 6.smc
+- 0254 Moving book factory.smc
+- 0255 Doramie's fantasy.smc
+- 0256 Lucky Luke - Western Shootout.smc
+- 0257 Fight criminally - chaos.smc
+- 0258 Dinosaur Kingdom Adventure.smc
+- 0259 Combat racing.smc
+- 0260 Battle dodgeball.smc
+- 0261 Desert Storm-1.smc
+- 0262 Tekumo Super American Football 3.smc
+- 0263 SWAT Pioneer Cat.smc
+- 0264 Barbie Holiday Adventure.smc
+- 0265 Super hot wrestling value edition.smc
+- 0266 Super Chinese boxing.smc
+- 0267 Super International Baseball.smc
+- 0268 Super Earth Defense Force.smc
+- 0269 Super volleyball.smc
+- 0270 Simpsons Family - Super Happy House.smc
+- 0271 Metal team.smc
+- 0272 Rennes and Historic - Crazy Family.smc
+- 0273 Haunted house adventure.smc
+- 0274 Magic star.smc
+- 0275 Dark kingdom.smc
+- 0276 SD up to 2.smc
+- 0277 X revolution.smc
+- 0278 Night sniper.smc
+- 0279 Incredible doll.smc
+- 0280 Yi Rendao.smc
+- 0281 Nobunaga's wild vision.smc
+- 0282 Genesis - mysterious virtue 2.smc
+- 0283 Sword mad 2097.smc
+- 0284 Carmen San Diego.smc
+- 0285 Double gun.smc
+- 0286 Big tank 2.smc
+- 0287 Space fighter - supernova.smc
+- 0288 Cosmic warrior.smc
+- 0289 Lucky runner.smc
+- 0290 Fantasy pinball.smc
+- 0291 Fight criminally - chaos.smc
+- 0292 Nemco Baseball 5.smc
+- 0293 Space time special police.smc
+- 0294 Dance of death.smc
+- 0295 Submarine attack.smc
+- 0296 Fury kendo.smc
+- 0297 Frankenstein.smc
+- 0298 Racing Tianlong.smc
+- 0299 Beautiful girl swordsman.smc
+- 0300 Food team.smc
+- 0301 Illusory dream.smc
+- 0302 Street underground fighting.smc
+- 0303 Street fighting.smc
+- 0304 Super original 2.smc
+- 0305 Super hot wrestling 3.smc
+- 0306 Super champion football.smc
+- 0307 Super virtual baseball 1000.smc
+- 0308 Magic pile ball 2.smc
+- 0309 Magician.smc
+- 0310 Lubang III.smc
+- 0311 Theater 88.sfc
+- 0312 Zero chariot.smc
+
+---
+
+## Super Nintendo - SNES (830 jogos)
+
+- 2020 Super Baseball (USA).zip
+- 3 Ninjas Kick Back (USA).zip
+- 90 Minutes - European Prime Goal (Europe).zip
+- A.S.P. - Air Strike Patrol (USA).zip
+- ABC Monday Night Football (USA).zip
+- ACME Animation Factory (USA).zip
+- ActRaiser (USA).zip
+- ActRaiser 2 (USA).zip
+- Addams Family Values (USA) (En,Fr,De).zip
+- Addams Family, The (USA).zip
+- Advanced Dungeons & Dragons - Eye of the Beholder (USA).zip
+- Adventures of Batman & Robin, The (USA).zip
+- Adventures of Dr. Franken, The (USA).zip
+- Adventures of Kid Kleets, The (USA) (En,Fr,Es).zip
+- Adventures of Mighty Max, The (Europe).zip
+- Adventures of Rocky and Bullwinkle and Friends, The (USA).zip
+- Adventures of Yogi Bear (USA).zip
+- Aero Fighters (USA).zip
+- Aero the Acro-Bat (USA).zip
+- Aero the Acro-Bat 2 (USA).zip
+- Aerobiz (USA).zip
+- Aerobiz Supersonic (USA).zip
+- Aguri Suzuki F-1 Super Driving (Europe).zip
+- Air Cavalry (USA).zip
+- Al Unser Jr.'s Road to the Top (USA).zip
+- Aladdin (USA).zip
+- Alfred Chicken (Europe).zip
+- Alien 3 (USA).zip
+- Alien vs Predator (USA).zip
+- All-American Championship Football (Europe).zip
+- American Gladiators (USA).zip
+- American Tail, An - Fievel Goes West (USA).zip
+- Andre Agassi Tennis (USA).zip
+- Animaniacs (USA).zip
+- Another World (Europe).zip
+- Apocalypse II (Europe) (Proto).zip
+- Arcade's Greatest Hits - The Atari Collection 1 (USA).zip
+- Arcana (USA).zip
+- Archer Maclean's Super Dropzone (Europe).zip
+- Ardy Lightfoot (USA).zip
+- Arkanoid - Doh It Again (USA).zip
+- Art of Fighting (USA).zip
+- Asterix & Obelix (Europe) (En,Fr,De,Es).zip
+- Asterix (Europe) (En,Fr,De,Es).zip
+- Axelay (USA).zip
+- B.O.B. (USA).zip
+- Ballz 3D - Fighting at Its Ballziest (USA).zip
+- Barbie Super Model (USA).zip
+- Barbie Vacation Adventure (USA) (Proto).zip
+- Barkley Shut Up and Jam! (USA).zip
+- Bass Masters Classic - Pro Edition (USA).zip
+- Bass Masters Classic (USA).zip
+- Bassin's Black Bass (USA).zip
+- Batman - Revenge of the Joker (USA) (Proto).zip
+- Batman (USA) (Proto) [b].zip
+- Batman Forever (USA).zip
+- Batman Returns (USA).zip
+- Battle Blaze (USA).zip
+- Battle Cars (USA).zip
+- Battle Clash (USA).zip
+- Battle Grand Prix (USA).zip
+- Battletoads in Battlemaniacs (USA).zip
+- Bazooka Blitzkrieg (USA).zip
+- Beauty and the Beast (USA).zip
+- Beavis and Butt-Head (USA).zip
+- Bebe's Kids (USA).zip
+- Beethoven - The Ultimate Canine Caper! (USA).zip
+- Best of the Best - Championship Karate (USA).zip
+- Big Sky Trooper (USA).zip
+- Biker Mice from Mars (USA).zip
+- Bill Laimbeer's Combat Basketball (USA).zip
+- Bill Walsh College Football (USA).zip
+- BioMetal (USA).zip
+- Blackhawk (Europe) (En,Fr,De).zip
+- Blackthorne (USA).zip
+- BlaZeon - The Bio-Cyborg Challenge (USA).zip
+- Blazing Skies (Europe).zip
+- Blues Brothers, The (USA).zip
+- Bonkers (USA).zip
+- Boogerman - A Pick and Flick Adventure (USA).zip
+- Boxing Legends of the Ring (USA).zip
+- Brain Lord (USA).zip
+- Brainies, The (USA).zip
+- Bram Stoker's Dracula (USA).zip
+- Brandish (USA).zip
+- Brawl Brothers (USA).zip
+- BreakThru! (USA).zip
+- Breath of Fire (USA).zip
+- Breath of Fire II (USA).zip
+- Brett Hull Hockey (USA).zip
+- Brett Hull Hockey 95 (USA).zip
+- Bronkie the Bronchiasaurus (USA) (En,Es).zip
+- Brunswick World Tournament of Champions (USA).zip
+- Brutal - Paws of Fury (USA).zip
+- Bubsy II (USA).zip
+- Bubsy in - Claws Encounters of the Furred Kind (USA).zip
+- Bulls vs Blazers and the NBA Playoffs (USA) (Rev 1).zip
+- Bust-A-Move (USA).zip
+- Cacoma Knight in Bizyland (USA).zip
+- Cal Ripken Jr. Baseball (USA).zip
+- California Games II (USA).zip
+- Cannon Fodder (Europe).zip
+- Cannondale Cup (USA).zip
+- Capcom's MVP Football (USA).zip
+- Capcom's Soccer Shootout (USA).zip
+- Captain Commando (USA).zip
+- Captain Novolin (USA) (En,Fr,Es).zip
+- Carrier Aces (USA).zip
+- Casper (USA).zip
+- Castlevania - Dracula X (USA).zip
+- Champions - World Class Soccer (USA) (En,Fr,De,Es).zip
+- Championship Pool (USA).zip
+- Championship Soccer '94 (USA) (En,Fr,De,It).zip
+- Chaos Engine, The (Europe).zip
+- Chavez (USA) (Es).zip
+- Chavez II (USA) (Es).zip
+- Chessmaster, The (USA).zip
+- Chester Cheetah - Too Cool to Fool (USA).zip
+- Chester Cheetah - Wild Wild Quest (USA).zip
+- Choplifter III - Rescue-Survive (USA).zip
+- Chuck Rock (USA).zip
+- Clay Fighter - Tournament Edition (USA).zip
+- Clay Fighter (USA).zip
+- Clay Fighter 2 - Judgment Clay (USA).zip
+- Claymates (USA).zip
+- Cliffhanger (USA).zip
+- Clue (USA).zip
+- College Football USA 97 (USA).zip
+- College Slam (USA).zip
+- Combatribes, The (USA).zip
+- Congo - The Movie - Secret of Zinj (USA) (Proto).zip
+- Congo's Caper (USA).zip
+- Contra III - The Alien Wars (USA).zip
+- Cool Spot (USA).zip
+- Cool World (USA).zip
+- Corn Buster (Europe) (Proto).zip
+- Cutthroat Island (USA).zip
+- Cyber Spin (USA).zip
+- Daffy Duck - The Marvin Missions (USA).zip
+- Darius Twin (USA).zip
+- David Crane's Amazing Tennis (USA).zip
+- Daze Before Christmas (Europe).zip
+- Death and Return of Superman, The (USA) (Rev 1).zip
+- Demolition Man (USA).zip
+- Dennis the Menace (USA).zip
+- Desert Fighter (Europe).zip
+- Desert Strike - Return to the Gulf (USA).zip
+- D-Force (USA).zip
+- Dig & Spike Volleyball (USA).zip
+- Dino City (USA).zip
+- Dino Dini's Soccer! (Europe) (En,Fr,De).zip
+- Dirt Racer (Europe) (En,Fr,De).zip
+- Dirt Trax FX (USA).zip
+- Donald in Maui Mallard (Europe).zip
+- Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).zip
+- Doom (USA).zip
+- Doom Troopers - Mutant Chronicles (USA).zip
+- Doomsday Warrior (USA).zip
+- Double Dragon V - The Shadow Falls (USA).zip
+- Dragon - The Bruce Lee Story (USA).zip
+- Dragon View (USA).zip
+- Dragon's Lair (USA).zip
+- Drakkhen (USA).zip
+- Dream T.V. (USA).zip
+- Duel, The - Test Drive II (USA).zip
+- Dungeon Master (USA).zip
+- Earth Defense Force (USA).zip
+- EarthBound (USA).zip
+- Earthworm Jim (USA).zip
+- Earthworm Jim 2 (USA).zip
+- Eek! The Cat (USA).zip
+- Elite Soccer (USA).zip
+- Emmitt Smith Football (USA).zip
+- Equinox (USA).zip
+- ESPN Baseball Tonight (USA).zip
+- ESPN National Hockey Night (USA).zip
+- ESPN Speedworld (USA).zip
+- ESPN Sunday Night NFL (USA).zip
+- Eurit (USA) (Proto).zip
+- Euro Football Champ (Europe).zip
+- Exertainment Mountain Bike Rally (USA).zip
+- Exertainment Mountain Bike Rally + Speed Racer (USA).zip
+- Exhaust Heat (Europe).zip
+- Extra Innings (USA).zip
+- F1 Pole Position (USA).zip
+- F1 Pole Position 2 (Europe).zip
+- F1 ROC - Race of Champions (USA).zip
+- F1 World Championship Edition (Europe).zip
+- F1-ROC II - Race of Champions (USA).zip
+- Faceball 2000 (USA).zip
+- Falcon (USA) (Proto).zip
+- Family Dog (USA).zip
+- Family Feud (USA) (Rev 1).zip
+- Fatal Fury (USA).zip
+- Fatal Fury 2 (USA).zip
+- Fatal Fury Special (USA).zip
+- Fever Pitch Soccer (Europe) (En,Fr,De,Es,It).zip
+- FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv).zip
+- FIFA Soccer 96 (USA) (En,Fr,De,Es,It,Sv).zip
+- FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv).zip
+- Fighter's History (USA) (Rev 1).zip
+- Final Fantasy - Mystic Quest (USA) (Rev 1).zip
+- Final Fantasy II (USA) (Rev 1).zip
+- Final Fight (USA).zip
+- Final Fight 2 (USA).zip
+- Final Fight 3 (USA).zip
+- Firearm (USA) (Proto).zip
+- Firemen, The (Europe) (En,Fr,De).zip
+- Firepower 2000 (USA).zip
+- FireStriker (USA).zip
+- Fireteam Rogue (USA) (Proto 2).zip
+- First Samurai (USA).zip
+- Flintstones, The - The Treasure of Sierra Madrock (USA).zip
+- Flintstones, The (USA) (En,Fr,De,Es,It).zip
+- Football Fury (USA).zip
+- Foreman for Real (USA).zip
+- Frank Thomas Big Hurt Baseball (USA).zip
+- Frantic Flea (USA).zip
+- Frogger (USA).zip
+- Full Throttle - All-American Racing (USA).zip
+- Fun 'n Games (USA).zip
+- F-Zero (USA).zip
+- Garry Kitchen's Super Battletank - War in the Gulf (USA) (Rev 1).zip
+- Gemfire (USA).zip
+- Genghis Khan II - Clan of the Gray Wolf (USA).zip
+- George Foreman's KO Boxing (USA) (Rev 1).zip
+- Ghoul Patrol (USA).zip
+- Goal! (USA).zip
+- Gods (USA).zip
+- GP-1 - Part II (USA).zip
+- GP-1 (USA).zip
+- Gradius III (USA).zip
+- Great Circus Mystery Starring Mickey & Minnie, The (USA).zip
+- Great Waldo Search, The (USA).zip
+- GunForce (USA).zip
+- Hagane - The Final Conflict (USA).zip
+- HAL's Hole in One Golf (USA).zip
+- Hammer Lock Wrestling (USA).zip
+- HardBall III (USA).zip
+- Harley's Humongous Adventure (USA).zip
+- Harvest Moon (USA).zip
+- Head-On Soccer (USA).zip
+- Hebereke's Popoitto (Europe).zip
+- Hebereke's Popoon (Europe).zip
+- Hit the Ice - VHL - The Official Video Hockey League (USA).zip
+- Home Alone (USA).zip
+- Home Alone 2 - Lost in New York (USA).zip
+- Home Improvement - Power Tool Pursuit! (USA).zip
+- Hook (USA).zip
+- Humans, The (Europe).zip
+- Hungry Dinosaurs (Europe).zip
+- Hunt for Red October, The (USA).zip
+- Hurricanes (USA).zip
+- HyperZone (USA).zip
+- Ignition Factor, The (USA).zip
+- Illusion of Time (Europe).zip
+- Imperium (USA).zip
+- Incantation (USA).zip
+- Incredible Crash Dummies, The (USA).zip
+- Incredible Hulk, The (USA).zip
+- Indiana Jones' Greatest Adventures (USA).zip
+- Inindo - Way of the Ninja (USA).zip
+- Inspector Gadget (USA).zip
+- International Superstar Soccer Deluxe (USA).zip
+- International Tennis Tour (USA).zip
+- Irem Skins Game, The (USA).zip
+- Itchy & Scratchy Game, The (USA).zip
+- Izzy's Quest for the Olympic Rings (USA).zip
+- J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA).zip
+- Jack Nicklaus Golf (USA).zip
+- James Bond Jr (USA).zip
+- James Pond's Crazy Sports (Europe).zip
+- Jeff's Shoot'Em Up (USA) (Proto).zip
+- Jelly Boy (Europe).zip
+- Jeopardy! - Deluxe Edition (USA).zip
+- Jeopardy! - Sports Edition (USA).zip
+- Jeopardy! (USA).zip
+- Jetsons, The - Invasion of the Planet Pirates (USA).zip
+- Jim Lee's WildC.A.T.S - Covert-Action-Teams (USA).zip
+- Jim Power - The Lost Dimension in 3D (USA).zip
+- Jimmy Connors Pro Tennis Tour (USA).zip
+- Jimmy Houston's Bass Tournament U.S.A. (USA).zip
+- Joe & Mac (USA).zip
+- Joe & Mac 2 - Lost in the Tropics (USA).zip
+- Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De).zip
+- John Madden Football (USA).zip
+- John Madden Football '93 (USA) (Rev 1).zip
+- Judge Dredd (USA).zip
+- Jungle Book, The (USA).zip
+- Jungle Strike (USA).zip
+- Jurassic Park (USA) (Rev 1).zip
+- Jurassic Park Part 2 - The Chaos Continues (USA) (En,Fr,De,It).zip
+- Justice League Task Force (USA).zip
+- Ka-blooey (USA).zip
+- Kawasaki Caribbean Challenge (USA).zip
+- Kawasaki Superbike Challenge (USA).zip
+- Ken Griffey Jr.'s Winning Run (USA).zip
+- Kendo Rage (USA).zip
+- Kevin Keegan's Player Manager (Europe).zip
+- Kick Off (Europe).zip
+- Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It).zip
+- Kid Klown in Crazy Chase (USA).zip
+- King Arthur & The Knights of Justice (USA).zip
+- King Arthur's World (USA).zip
+- King of Dragons (USA).zip
+- King of Fighters 2000 (Brazil) (Unl) (Pirate).zip
+- King of the Monsters (USA).zip
+- King of the Monsters 2 (USA).zip
+- Kirby Super Star (USA).zip
+- Kirby's Avalanche (USA).zip
+- Kirby's Dream Course (USA).zip
+- Kirby's Dream Land 3 (USA).zip
+- Kirby's Fun Pak (Europe).zip
+- Kirby's Ghost Trap (Europe).zip
+- Knights of the Round (USA).zip
+- Krusty's Super Fun House (USA) (Rev 1).zip
+- Kyle Petty's No Fear Racing (USA).zip
+- Lagoon (USA).zip
+- Lamborghini American Challenge (USA).zip
+- Last Action Hero (USA).zip
+- Lawnmower Man, The (USA).zip
+- Legend (USA).zip
+- Legend of the Mystical Ninja, The (USA).zip
+- Legend of Zelda, The - A Link to the Past (USA).zip
+- Lemmings 2 - The Tribes (USA).zip
+- Lester the Unlikely (USA).zip
+- Lethal Enforcers (USA).zip
+- Lethal Weapon (USA).zip
+- Liberty or Death (USA).zip
+- Lobo (USA) (Proto).zip
+- Lock On (USA).zip
+- Looney Tunes - Road Runner (Europe).zip
+- Looney Tunes B-Ball (USA).zip
+- Lord of Darkness (USA).zip
+- Lost Vikings 2 (USA).zip
+- Lost Vikings, The (USA).zip
+- Lucky Luke (Europe) (En,Fr,De,Es).zip
+- Lufia & the Fortress of Doom (USA).zip
+- Lufia II - Rise of the Sinistrals (USA).zip
+- M.A.C.S. Basic Rifle Marksmanship (USA) [b].zip
+- Madden NFL '94 (USA).zip
+- Madden NFL 95 (USA).zip
+- Madden NFL 96 (USA).zip
+- Madden NFL 97 (USA).zip
+- Madden NFL 98 (USA).zip
+- Magic Boy (USA).zip
+- Magic Sword (USA).zip
+- Magical Quest Starring Mickey Mouse, The (USA).zip
+- Major Title (Europe).zip
+- Manchester United Championship Soccer (Europe).zip
+- Mario Is Missing! (USA).zip
+- Mario Paint (USA) (Joystick Hack).zip
+- Mario's Early Years - Fun with Letters (USA).zip
+- Mario's Early Years - Fun with Numbers (USA).zip
+- Mario's Early Years - Preschool Fun (USA).zip
+- Mario's Time Machine (USA).zip
+- Mark Davis' The Fishing Master (USA).zip
+- Marko's Magic Football (Europe) (En,Fr,De,Es).zip
+- Mary Shelley's Frankenstein (USA).zip
+- Mask, The (USA).zip
+- Math Blaster - Episode 1 (USA).zip
+- Maui Mallard in Cold Shadow (USA).zip
+- Mecarobot Golf (USA).zip
+- MechWarrior (USA).zip
+- MechWarrior 3050 (USA).zip
+- Mega Man Soccer (USA).zip
+- Mega Man X2 (USA).zip
+- Mega-lo-Mania (Europe) (En,Fr,De).zip
+- Metal Combat - Falcon's Revenge (USA).zip
+- Metal Marines (USA).zip
+- Metal Morph (USA).zip
+- Metal Warriors (USA).zip
+- Michael Andretti's IndyCar Challenge (USA).zip
+- Michael Jordan - Chaos in the Windy City (USA).zip
+- Mick & Mack as the Global Gladiators (USA) (Proto) [b].zip
+- Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).zip
+- Mickey's Playtown Adventure - A Day of Discovery! (USA) (Proto).zip
+- Mickey's Ultimate Challenge (USA).zip
+- Micro Machines (USA).zip
+- Micro Machines 2 - Turbo Tournament (Europe).zip
+- Might and Magic II (Europe).zip
+- Might and Magic III - Isles of Terra (USA).zip
+- Mighty Max (USA).zip
+- Mighty Morphin Power Rangers - The Fighting Edition (USA).zip
+- Mighty Morphin Power Rangers - The Movie (USA).zip
+- Mighty Morphin Power Rangers (USA).zip
+- Miracle Piano Teaching System, The (USA).zip
+- MLBPA Baseball (USA).zip
+- Mohawk & Headphone Jack (USA).zip
+- Monopoly (USA) (Rev 1).zip
+- Mortal Kombat (USA).zip
+- Mortal Kombat 3 (USA).zip
+- Mr. Bloopy - Saves the World (USA) (Proto) (1995-02-16).zip
+- Mr. Do! (USA).zip
+- Mr. Nutz (USA) (En,Fr).zip
+- Mr. Tuff (USA) (En,Fr,De) (Proto) (1994-07-12).zip
+- Ms. Pac-Man (USA).zip
+- Muhammad Ali Heavyweight Boxing (USA) (Proto).zip
+- Musya - The Classic Japanese Tale of Horror (USA).zip
+- Mystic Quest Legend (Europe).zip
+- Natsume Championship Wrestling (USA).zip
+- NBA All-Star Challenge (USA).zip
+- NBA Give 'n Go (USA).zip
+- NBA Hang Time (USA).zip
+- NBA Jam - Tournament Edition (USA).zip
+- NBA Jam (USA) (Rev 1).zip
+- NBA Live 96 (USA).zip
+- NBA Live 97 (USA).zip
+- NBA Live 98 (USA).zip
+- NBA Showdown (USA).zip
+- NCAA Basketball (USA) (Rev 1).zip
+- NCAA Final Four Basketball (USA).zip
+- NCAA Football (USA).zip
+- Network Q Rally (USA) (Proto).zip
+- New Horizons (USA).zip
+- Newman Haas IndyCar featuring Nigel Mansell (USA).zip
+- NFL Football (Europe) (Proto).zip
+- NFL Football (USA).zip
+- NFL Quarterback Club (USA).zip
+- NFL Quarterback Club 96 (USA).zip
+- NHL '94 (USA).zip
+- NHL 95 (USA).zip
+- NHL 96 (USA).zip
+- NHL 97 (USA) (Rev 1).zip
+- NHL 98 (USA).zip
+- NHL Stanley Cup (USA) (En,Fr).zip
+- NHLPA Hockey 93 (USA).zip
+- Nickelodeon GUTS (USA).zip
+- Nigel Mansell's World Championship Racing (USA).zip
+- Nightmare Busters (USA) (Unl).zip
+- Ninja Gaiden Trilogy (USA).zip
+- Ninjawarriors (USA).zip
+- Nintendo Scope 6 (Europe).zip
+- No Escape (USA).zip
+- Nobunaga's Ambition (USA).zip
+- Nolan Ryan's Baseball (USA).zip
+- Nosferatu (USA).zip
+- Obitus (USA).zip
+- Ogre Battle - The March of the Black Queen (USA).zip
+- Olympic Summer Games (USA).zip
+- On the Ball (USA).zip
+- Operation Europe - Path to Victory 1939-45 (USA).zip
+- Operation Logic Bomb - The Ultimate Search & Destroy (USA).zip
+- Operation Starfi5h (Europe).zip
+- Operation Thunderbolt (USA).zip
+- Oscar (USA).zip
+- Out of this World (USA).zip
+- Out to Lunch (USA).zip
+- Outlander (USA).zip
+- P.T.O. - Pacific Theater of Operations (USA).zip
+- P.T.O. II - Pacific Theater of Operations (USA).zip
+- Pac-Attack (USA).zip
+- Pac-In-Time (USA).zip
+- Packy & Marlon (USA) (En,Fr,Es).zip
+- Pac-Man 2 - The New Adventures (USA).zip
+- Pagemaster, The (USA).zip
+- Paladin's Quest (USA).zip
+- Paperboy 2 (USA).zip
+- Parodius (Europe).zip
+- Peace Keepers, The (USA).zip
+- PGA European Tour (USA).zip
+- PGA Tour 96 (USA) (Rev 1).zip
+- PGA Tour Golf (USA) (Rev 1).zip
+- Phalanx (USA).zip
+- Phantom 2040 (USA).zip
+- Pieces (USA).zip
+- Pierre le Chef Is... Out to Lunch (Europe).zip
+- Pilotwings (USA).zip
+- Pinball Dreams (USA).zip
+- Pinball Fantasies (USA).zip
+- Pink Goes to Hollywood (USA).zip
+- Pinkie (USA) (Proto).zip
+- Pinocchio (USA).zip
+- Pirates of Dark Water, The (USA).zip
+- Pitfall - The Mayan Adventure (USA).zip
+- Pit-Fighter (USA).zip
+- Plok (USA).zip
+- Pocky & Rocky (USA).zip
+- Pocky & Rocky 2 (USA).zip
+- Pokemon Stadium (World) (Unl) (Pirate).zip
+- Pop'n TwinBee (Europe).zip
+- Populous (USA).zip
+- Populous II - Trials of the Olympian Gods (Europe).zip
+- Porky Pig's Haunted Holiday (USA).zip
+- Power Drive (Europe) (En,Fr,De,Es,Pt).zip
+- Power Instinct (USA).zip
+- Power Moves (USA).zip
+- Power Piggs of the Dark Age (USA).zip
+- Power Rangers (Europe).zip
+- Power Rangers Zeo - Battle Racers (USA).zip
+- Power Slide (Europe) (Proto) (1994-04-12).zip
+- PowerFest 94 - Ken Griffey Jr. Presents Major League Baseball (USA).zip
+- PowerFest 94 - Super Mario Bros. - The Lost Levels (USA).zip
+- PowerMonger (Europe).zip
+- Prehistorik Man (USA) (En,Fr,Es).zip
+- Primal Rage (USA).zip
+- Prime (USA) (Proto).zip
+- Prince of Persia (USA).zip
+- Prince of Persia 2 (USA).zip
+- Pro Quarterback (USA).zip
+- Pro Sport Hockey (USA).zip
+- Push-Over (USA).zip
+- Putty Squad (Europe).zip
+- Puzzle Bobble - Bust-A-Move (Europe).zip
+- Q-bert 3 (USA).zip
+- Race Drivin' (USA).zip
+- Radical Psycho Machine Racing (USA).zip
+- Radical Rex (USA).zip
+- Raiden Trad (USA).zip
+- Rampart (USA).zip
+- Ranma 1-2 - Hard Battle (USA).zip
+- Rap Basketball (USA) (Proto).zip
+- Rap Jam - Volume One (USA) (En,Fr,Es).zip
+- Realm (USA).zip
+- Redline F-1 Racer (USA).zip
+- Relief Pitcher (USA).zip
+- Ren & Stimpy Show, The - Buckeroo$! (USA).zip
+- Ren & Stimpy Show, The - Fire Dogs (USA).zip
+- Ren & Stimpy Show, The - Time Warp (USA).zip
+- Ren & Stimpy Show, The - Veediots! (USA).zip
+- Revolution X (USA).zip
+- Rex Ronan - Experimental Surgeon (USA) (En,Es).zip
+- RHI Roller Hockey '95 (USA) (Proto).zip
+- Riddick Bowe Boxing (USA).zip
+- Rise of the Phoenix (USA).zip
+- Rise of the Robots (USA).zip
+- Rival Turf! (USA).zip
+- Road Riot 4WD (USA).zip
+- Road Runner's Death Valley Rally (USA).zip
+- RoboCop 3 (USA).zip
+- RoboCop versus The Terminator (USA).zip
+- Robotrek (USA).zip
+- Rock n' Roll Racing (USA).zip
+- Rocketeer, The (USA).zip
+- Rocko's Modern Life - Spunky's Dangerous Day (USA).zip
+- Rocky Rodent (USA).zip
+- Roger Clemens' MVP Baseball (USA) (Rev 1).zip
+- Romance of the Three Kingdoms II (USA).zip
+- Romance of the Three Kingdoms III - Dragon of Destiny (USA).zip
+- Romance of the Three Kingdoms IV - Wall of Fire (USA).zip
+- R-Type III (USA).zip
+- Run Saber (USA).zip
+- S.O.S - Sink or Swim (USA).zip
+- Samurai Shodown (USA).zip
+- Saturday Night Slam Masters (USA).zip
+- Scooby-Doo Mystery (USA).zip
+- SeaQuest DSV (USA).zip
+- Secret of Evermore (USA).zip
+- Secret of Mana (USA).zip
+- Sensible Soccer - European Champions (Europe) (En,Fr,De,It).zip
+- Shadow, The (USA) (Proto 2).zip
+- Shadowhawk (USA) (Proto).zip
+- Shadowrun (USA).zip
+- Shanghai II - Dragon's Eye (USA).zip
+- Shaq-Fu (USA).zip
+- Shien's Revenge (USA).zip
+- Shooter (USA) (Proto).zip
+- Side Pocket (USA).zip
+- SimAnt - The Electronic Ant Colony (USA).zip
+- SimCity (USA).zip
+- SimCity 2000 - The Ultimate City Simulator (USA).zip
+- SimEarth - The Living Planet (USA).zip
+- Simpsons, The - Bart's Nightmare (USA).zip
+- Skuljagger - Revolt of the Westicans (USA).zip
+- Smart Ball (USA).zip
+- Smash Tennis (Europe).zip
+- Smurfs Travel the World, The (Europe) (En,Fr,De,Es).zip
+- Smurfs, The (Europe) (En,Fr,De,Es,It).zip
+- Snow White in Happily Ever After (USA).zip
+- Soccer Kid (Europe) (En,Fr,De,Es,It).zip
+- Soccer Shootout (Europe).zip
+- Socks the Cat Rocks The Hill.zip
+- Soldiers of Fortune (USA).zip
+- Sonic Blast Man (USA).zip
+- Sonic Blast Man II (USA).zip
+- SOS (USA).zip
+- Soul Blade (World) (Unl) (Pirate).zip
+- Soul Blazer (USA).zip
+- Space Football - One on One (USA).zip
+- Space Invaders (USA).zip
+- Space Megaforce (USA).zip
+- Spanky's Quest (USA).zip
+- Sparkster (USA).zip
+- Spectre (USA).zip
+- Speed Racer in My Most Dangerous Adventures (USA).zip
+- Speedy Gonzales - Los Gatos Bandidos (USA) (Rev 1).zip
+- Spider-Man - Venom - Maximum Carnage (USA).zip
+- Spider-Man - X-Men - Arcade's Revenge (USA).zip
+- Spider-Man (USA).zip
+- Spindizzy Worlds (USA).zip
+- Spirou (Europe) (En,Fr,De,Es).zip
+- Sporting News Baseball, The (USA).zip
+- Sports Illustrated Championship Football & Baseball (USA).zip
+- Star Fox (USA) (Rev 2).zip
+- Star Trek - Deep Space Nine - Crossroads of Time (USA).zip
+- Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).zip
+- Star Trek - The Next Generation - Future's Past (USA).zip
+- Stargate (USA).zip
+- Starwing - Competition (Europe).zip
+- Steel Talons (USA).zip
+- Sterling Sharpe - End 2 End (USA).zip
+- Steven Seagal Is The Final Option (USA) (Proto).zip
+- Stone Protectors (USA).zip
+- Street Combat (USA).zip
+- Street Fighter Alpha 2 (USA).zip
+- Street Fighter EX (World) (Unl) (Pirate).zip
+- Street Fighter II (USA).zip
+- Street Fighter II Turbo (USA) (Rev 1).zip
+- Street Racer (USA).zip
+- Street Sports - Jammit (USA).zip
+- Street Sports - Street Hockey '95 (USA).zip
+- Strike Gunner S.T.G (USA).zip
+- Striker (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+- Stunt Race FX (USA) (Rev 1).zip
+- Sunset Riders (USA).zip
+- Super 3D Noah's Ark (USA) (Unl).zip
+- Super Adventure Island (USA).zip
+- Super Adventure Island II (USA).zip
+- Super Air Diver (Europe).zip
+- Super Aleste (Europe).zip
+- Super Alfred Chicken (USA).zip
+- Super Aquatic Games Starring the Aquabats, The (USA).zip
+- Super B.C. Kid (Europe).zip
+- Super Baseball Simulator 1.000 (USA).zip
+- Super Bases Loaded (USA).zip
+- Super Bases Loaded 2 (USA).zip
+- Super Bases Loaded 3 - License to Steal (USA).zip
+- Super Batter Up (USA).zip
+- Super Battleship (USA).zip
+- Super Battletank 2 (USA).zip
+- Super Black Bass (USA).zip
+- Super Bomberman (USA).zip
+- Super Bomberman 2 (USA).zip
+- Super Bomberman 3 (Europe).zip
+- Super Bonk (USA).zip
+- Super Bowling (USA).zip
+- Super Buster Bros. (USA) (Rev 1).zip
+- Super Caesars Palace (USA).zip
+- Super Castlevania IV (USA).zip
+- Super Chase H.Q. (USA).zip
+- Super Conflict (USA).zip
+- Super Copa (Brazil) (Es,Pt).zip
+- Super Dany (France).zip
+- Super Double Dragon (USA).zip
+- Super Full Metal (Europe) (It,Sv) (Proto).zip
+- Super Ghouls'n Ghosts (USA).zip
+- Super Goal! (Europe).zip
+- Super Goal! 2 (USA).zip
+- Super Godzilla (USA).zip
+- Super High Impact (USA).zip
+- Super Hockey (Europe).zip
+- Super Ice Hockey (Europe).zip
+- Super International Cricket (Europe).zip
+- Super James Pond (USA).zip
+- Super James Pond II (Europe).zip
+- Super Mario All-Stars (USA).zip
+- Super Mario All-Stars + Super Mario World (USA).zip
+- Super Mario RPG - Legend of the Seven Stars (USA).zip
+- Super Mario World (USA).zip
+- Super Mario World 2 - Yoshi's Island (USA) (Rev 1).zip
+- Super Metroid (Japan, USA) (En,Ja).zip
+- Super Morph (Europe).zip
+- Super Ninja Boy (USA).zip
+- Super Nova (USA).zip
+- Super Off Road - The Baja (USA).zip
+- Super Off Road (USA).zip
+- Super Pang (Europe).zip
+- Super Pinball - Behind the Mask (USA) (Rev 1).zip
+- Super Play Action Football (USA).zip
+- Super Probotector - Alien Rebels (Europe).zip
+- Super Punch-Out!! (USA).zip
+- Super Putty (USA).zip
+- Super R.B.I. Baseball (USA).zip
+- Super R-Type (USA).zip
+- Super Scope 6 (USA).zip
+- Super Shadow of the Beast (USA) (Proto).zip
+- Super Slam Dunk (USA).zip
+- Super Slap Shot (USA).zip
+- Super Smash T.V. (USA).zip
+- Super Soccer (USA).zip
+- Super Soccer Champ (USA).zip
+- Super Solitaire (USA) (En,Fr,De,Es,It).zip
+- Super Star Fox Weekend (USA).zip
+- Super Star Wars - Return of the Jedi (V1.1).zip
+- Super Star Wars - The Empire Strikes Back (V1.1).zip
+- Super Star Wars (USA) (Rev 1).zip
+- Super Strike Eagle (USA).zip
+- Super Strike Gunner (Europe).zip
+- Super SWIV (Europe).zip
+- Super Tennis (USA).zip
+- Super Troll Islands (USA).zip
+- Super Turrican (USA).zip
+- Super Turrican 2 (USA).zip
+- Super Valis IV (USA).zip
+- Super Widget (USA).zip
+- Suzuka 8 Hours (USA).zip
+- SWAT Kats - The Radical Squadron (USA).zip
+- Sydney Hunter and the Caverns of Death.zip
+- Sylvester and Tweety (USA) (Proto 2).zip
+- Syndicate (USA).zip
+- Syvalion (Europe).zip
+- T2 - The Arcade Game (USA).zip
+- Taiwan 16 Mahjong II - Horoscope Girls Edition (Hong Kong) (Unl) [b].zip
+- Taz-Mania (USA) (Rev 1).zip
+- Tecmo Super Baseball (USA).zip
+- Tecmo Super Bowl (USA).zip
+- Tecmo Super Bowl II - Special Edition (USA).zip
+- Tecmo Super Bowl III - Final Edition (USA).zip
+- Tecmo Super NBA Basketball (USA).zip
+- Teenage Mutant Ninja Turtles - Tournament Fighters (USA).zip
+- Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).zip
+- Tekken 2 (World) (Unl) (Pirate).zip
+- Terminator 2 - Judgment Day (USA).zip
+- Terminator, The (USA).zip
+- Terranigma (Europe).zip
+- Tetris & Dr. Mario (USA).zip
+- Tetris 2 (USA) (Rev 1).zip
+- Tetris Attack (USA) (En,Ja).zip
+- Theme Park (Europe) (En,Fr,De).zip
+- Thomas the Tank Engine & Friends (USA).zip
+- Thunder Spirits (USA).zip
+- Tick, The (USA).zip
+- Time Slip (USA).zip
+- Time Trax (USA).zip
+- Timecop (USA).zip
+- Timon & Pumbaa's Jungle Games (USA).zip
+- Tin Star (USA).zip
+- Tinhead (Europe) (Proto).zip
+- Tintin - Prisoners of the Sun (Europe) (En,Fr,De,Es).zip
+- Tintin in Tibet (Europe) (En,Fr,De,Nl).zip
+- Tiny Toon Adventures - Buster Busts Loose! (USA).zip
+- Tiny Toon Adventures - Wacky Sports Challenge (USA).zip
+- TKO Super Championship Boxing (USA).zip
+- TNN Bass Tournament of Champions (USA).zip
+- Tom and Jerry (USA).zip
+- Tommy Moe's Winter Extreme - Skiing and Snowboarding (USA).zip
+- Top Gear (USA).zip
+- Top Gear 2 (USA).zip
+- Top Gear 3000 (USA).zip
+- Total Carnage (USA).zip
+- Toy Story (USA).zip
+- Toys - Let the Toy Wars begin! (USA).zip
+- Troddlers (USA).zip
+- Troy Aikman NFL Football (USA).zip
+- True Golf Classics - Pebble Beach Golf Links (USA).zip
+- True Golf Classics - Waialae Country Club (USA).zip
+- True Golf Classics - Wicked 18 (USA).zip
+- True Lies (USA).zip
+- Tuff E Nuff (USA).zip
+- Turbo Toons (Europe).zip
+- Turn and Burn - No-Fly Zone (USA).zip
+- Twisted Tales of Spike McFang, The (USA).zip
+- U.N. Squadron (USA).zip
+- Ultima - Runes of Virtue II (USA).zip
+- Ultima - The Black Gate (USA).zip
+- Ultima - The False Prophet (USA).zip
+- Ultimate Fighter (USA).zip
+- Ultimate Mortal Kombat 3 (USA).zip
+- Ultraman (USA).zip
+- Uncharted Waters (USA).zip
+- Uniracers (USA).zip
+- Unirally (Europe).zip
+- Universal Soldier (USA) (Proto).zip
+- Untouchables, The (USA).zip
+- Urban Strike (USA).zip
+- Utopia - The Creation of a Nation (USA).zip
+- Val d'Isere Championship (Europe).zip
+- Vegas Stakes (USA).zip
+- Venom - Spider-Man - Separation Anxiety (USA).zip
+- Virtual Bart (USA).zip
+- Virtual Soccer (Europe).zip
+- Vortex (USA) (En,Es).zip
+- War 2410 (USA).zip
+- War 3010 - The Revolution (USA).zip
+- Wario's Woods (USA).zip
+- WarpSpeed (USA).zip
+- Waterworld (Europe).zip
+- Wayne Gretzky and the NHLPA All-Stars (USA).zip
+- Wayne's World (USA).zip
+- WCW Super Brawl Wrestling (USA).zip
+- WeaponLord (USA).zip
+- We're Back! - A Dinosaur's Story (USA).zip
+- Wheel of Fortune - Deluxe Edition (USA).zip
+- Wheel of Fortune (USA).zip
+- Where in the World Is Carmen Sandiego (USA) (En,Fr,De,Es,It).zip
+- Where in Time Is Carmen Sandiego (USA) (En,Fr,De,Es,It).zip
+- Whirlo (Europe).zip
+- Whizz (USA).zip
+- Wild Guns (USA).zip
+- Wild Snake (USA).zip
+- Wile E's Revenge (Europe) (Proto).zip
+- Williams Arcade's Greatest Hits (USA).zip
+- Wing Commander - The Secret Missions (USA).zip
+- Wing Commander (USA).zip
+- Wings 2 - Aces High (USA).zip
+- Winter Gold (Europe).zip
+- Winter Olympic Games - Lillehammer '94 (USA) (En,Fr,De,Es,It,Pt,Sv,No).zip
+- Wizard of Oz, The (USA).zip
+- Wizardry V - Heart of the Maelstrom (USA).zip
+- Wolfchild (USA).zip
+- Wolfenstein 3-D (USA).zip
+- Wolverine - Adamantium Rage (USA).zip
+- Wordtris (USA).zip
+- World Class Rugby (Europe).zip
+- World Cup Striker (Europe) (En,Fr,De).zip
+- World Cup USA 94 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+- World Heroes (USA).zip
+- World Heroes 2 (USA).zip
+- World League Soccer (USA).zip
+- World Masters Golf (Europe).zip
+- World Soccer (Europe).zip
+- World Soccer 94 - Road to Glory (USA).zip
+- Worms (Europe).zip
+- WWF Raw (USA).zip
+- WWF Royal Rumble (USA).zip
+- WWF Super WrestleMania (USA).zip
+- WWF WrestleMania - The Arcade Game (USA).zip
+- X Zone (Japan, USA).zip
+- Xardion (USA).zip
+- X-Kaliber 2097 (USA).zip
+- X-Men - Mutant Apocalypse (USA).zip
+- Yogi Bear's Cartoon Capers (Europe).zip
+- Yoshi's Cookie (USA).zip
+- Yoshi's Safari (USA).zip
+- Young Merlin (USA).zip
+- Ys III - Wanderers from Ys (USA).zip
+- Zero the Kamikaze Squirrel (USA).zip
+- Zombies Ate My Neighbors (USA).zip
+- Zool - Ninja of the 'Nth' Dimension (USA).zip
+- Zoop (USA).zip
+
+---
+
+## Plataformas sem jogos
+
+- 3do
+- advision
+- amiga
+- amigacd32
+- amstradcpc
+- Android
+- apple2
+- arduboy
+- astrocde
+- atari2600
+- atari5200
+- atari7800
+- atari800
+- atarijaguar
+- atarilynx
+- atarist
+- atarixegs
+- atomiswave
+- Audiobooks
+- backup
+- bbcmicro
+- bgmusic
+- c128
+- c16
+- c64
+- cavestory
+- channelf
+- coco3
+- coleco
+- daphne
+- doom
+- dos
+- dragon32
+- enterprise
+- fds
+- gameandwatch
+- genesis
+- gx4000
+- intellivision
+- j2me
+- launchimages
+- love2d
+- lowresnx
+- mame2003
+- mastersystem
+- megaduck
+- msumd
+- msx
+- msx2
+- mv
+- n64dd
+- naomi
+- neogeocd
+- ngp
+- ngpc
+- odyssey2
+- onscripter
+- openbor
+- palm
+- pc98
+- pcenginecd
+- pcfx
+- pico
+- pico-8
+- piece
+- pokemonmini
+- ports
+- ports_scripts
+- pspminis
+- puzzlescript
+- satellaview
+- saturn
+- savestates
+- scv
+- sega32x
+- segacd
+- sg-1000
+- sgb
+- snes-hacks
+- snesmsu1
+- solarus
+- sufami
+- supergrafx
+- supervision
+- themes
+- thomson
+- ti99
+- tic80
+- turbografx
+- turbografxcd
+- tvc
+- uzebox
+- vectrex
+- vic20
+- videopac
+- vircon32
+- virtualboy
+- vmac
+- vmu
+- wasm4
+- wonderswan
+- wonderswancolor
+- x1
+- x68000
+- zx81
+- zxspectrum
