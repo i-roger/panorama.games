@@ -5,6 +5,7 @@ import MainContent from '@/components/layout/MainContent'
 import { useFavorites } from '@/hooks/useFavorites'
 import { usePlatformGames } from '@/hooks/usePlatformGames'
 import { useTheme } from '@/hooks/useTheme'
+import { Analytics } from "@vercel/analytics/react"
 
 export default function App() {
   const [selectedPlatform, setSelectedPlatform] = useState('all')
@@ -51,6 +52,7 @@ export default function App() {
           onToggleFavorite={toggle}
         />
       </div>
+      <Analytics/> 
     </div>
   )
 }
