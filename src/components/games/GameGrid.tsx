@@ -50,14 +50,14 @@ export default function GameGrid({
 
   if (showSkeleton && games.length === 0) {
     return (
-      <div className="space-y-2">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         {Array.from({ length: 12 }).map((_, i) => (
-          <div key={i} className="flex items-center gap-2 p-2.5">
-            <div className="flex-1 space-y-1">
+          <div key={i} className="flex flex-col gap-0 overflow-hidden rounded-xl border">
+            <Skeleton className="aspect-video w-full rounded-none" />
+            <div className="space-y-1 p-2.5">
               <Skeleton className="h-4 w-3/4" />
               <Skeleton className="h-3 w-1/2" />
             </div>
-            <Skeleton className="h-8 w-8 rounded-md" />
           </div>
         ))}
       </div>
