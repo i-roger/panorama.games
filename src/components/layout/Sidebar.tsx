@@ -1,6 +1,7 @@
 import { cn } from '@/lib/utils'
 import { Gamepad2 } from 'lucide-react'
 import type { Platform } from '@/types'
+import { InstagramIcon } from '@/assets/instagram.tsx'
 
 interface SidebarProps {
   platforms: Platform[]
@@ -20,10 +21,14 @@ export default function Sidebar({
       <div className="flex flex-col gap-0.5 p-4 border-b shrink-0">
         <div className="flex items-center gap-2 text-base font-medium text-foreground">
           <Gamepad2 className="h-4 w-4 text-primary md:hidden" />
-          <span className='md:hidden'>Panorama</span>
+          <span className=''>Plataformas de jogos</span>
+          
         </div>
+        
+        
       </div>
       <div className="flex-1 overflow-y-auto min-h-0 py-1">
+        
         <button
           onClick={() => onSelectPlatform('all')}
           className={cn(
@@ -59,6 +64,9 @@ export default function Sidebar({
           </button>
         ))}
       </div>
+      <p className="p-4 text-xs text-center tracking-tight text-slate-500">
+            Powered by <span className="text-black dark:text-slate-300 font-semibold">rogertech</span> — © 2026 panoramapanorama.com.br
+          </p>
     </aside>
   )
 }

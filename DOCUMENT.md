@@ -13,6 +13,9 @@ Usuários podem favoritar jogos e copiar a lista formatada com nome + plataforma
 
 ```
 src/
+  assets/
+    instagram.tsx              # Ícone SVG do Instagram (componente)
+    youtube.tsx                # Ícone SVG do YouTube (componente)
   data/games.json              # Gerado automaticamente na build
   types/index.ts               # Game { name: string; platform: string; imageUrl?: string }
   hooks/
@@ -24,9 +27,11 @@ src/
   components/
     layout/
       Header.tsx               # Busca, tema, favoritos, contagem total
-      Sidebar.tsx              # Lista de plataformas + "All Games"
+      Navbar.tsx               # Links sociais Instagram/Youtube, responsivo
+      Sidebar.tsx              # Lista de plataformas + "All Games" + rodapé créditos
       MainContent.tsx          # Grid com badge da plataforma
       ThemeToggle.tsx          # Botão sol/lua
+      Topbanner.tsx            # Banner promocional panoramapanorama.com.br
     games/
       GameCard.tsx             # Card vertical com imagem (aspect-video), placeholder Gamepad2 e botão favorito
       GameGrid.tsx             # Render progressivo (batch 10 mobile / 50 desktop, IntersectionObserver)
@@ -57,16 +62,30 @@ DOCUMENT.md                    # Este arquivo
 - Copiar lista com fallback para iOS (`execCommand('copy')`)
 - Toast de confirmação ao copiar (`fixed`, auto-dismiss 2s)
 
+### Topbanner
+- Banner promocional no topo da página com link para `panoramapanorama.com.br`
+- Texto diferente para mobile ("Acesse a loja completa") e desktop ("Adquira a versão oficial")
+- Background `#6a659e` com efeito hover brightness
+- Abre em nova aba (`target="_blank"`)
+
+### Navbar / Links Sociais
+- Barra com links para Instagram e YouTube abaixo do Topbanner
+- Ícones SVG customizados em `src/assets/` (`instagram.tsx`, `youtube.tsx`)
+- Layout responsivo: uma linha em mobile, centralizado em desktop
+- Botões com estilo `rounded-full` e efeito hover brightness
+
 ### Sidebar
 - Scroll gerenciado internamente (`flex-1 overflow-y-auto min-h-0`), sem dependência de ScrollArea externo
 - Wrapper em App.tsx apenas constrange altura (`min-h-0`)
-- Cabeçalho "Panorama" visível em mobile e desktop, mesmo estilo do header de favoritos
+- Cabeçalho "Plataformas de jogos" visível em mobile e desktop
 - Sheet mobile fecha ao selecionar plataforma (estado controlado `open`/`onOpenChange`)
+- Rodapé com créditos "Powered by rogertech — © 2026 panoramapanorama.com.br"
 
 ### Responsividade
 - Sidebar em desktop (`w-60 lg:w-72`), vira `Sheet` (drawer) em mobile com scroll independente
 - Batch loading: 10 jogos por vez mobile, 50 desktop
 - Cards com `max-w-full overflow-hidden` para não vazar
+- Input de busca com `text-base md:text-sm` (16px mobile) p/ evitar auto-zoom do Safari ao focar
 
 ### Dados
 - 22 plataformas, ~14.389 jogos
@@ -91,11 +110,16 @@ npm run build     # Parse → tsc → vite build
 - Build: OK (1.35MB JS, 42KB CSS)
 - Tema: funcional
 - Favoritos: funcional c/ fallback iOS e toast de confirmação
-- Sidebar: scroll independente em desktop e mobile, fecha ao selecionar
+- Topbanner: banner promocional com link externo
+- Navbar: links Instagram/YouTube com ícones SVG customizados
+- Sidebar: scroll independente, fecha ao selecionar, rodapé de créditos
 - Responsivo: funcional
 - Toast de cópia: implementado
 - GameCard: layout vertical com imagem (aspect-video), placeholder Gamepad2
 - Imagens: sistema manual via `imageUrl` no JSON (URLs externas ou `public/images/`)
+- Dados: limpeza de entradas duplicadas/indevidas no games.json
+- Analytics: corrigido import de `/next` para `/react` (Vite puro não resolve `next/navigation.js`)
+- Busca mobile: `font-size: 16px` (`text-base`) no input p/ evitar auto-zoom do iOS Safari
 
 ## Backup
 
@@ -106,6 +130,8 @@ Criada branch `backup-pre-rawg` (commit `793a9e0`) como ponto de referência ant
 - Adicionar imagens manualmente via `imageUrl` no `games.json`
 - Badge de plataforma com cor distinta
 - Scroll suave na navegação entre plataformas
+- ~~Import incorreto do @vercel/analytics (`/next` → `/react`)~~ ✅
+- ~~Auto-zoom iOS no campo de busca~~ ✅
 
 ## Imagens — Sistema Manual
 
