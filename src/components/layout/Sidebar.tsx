@@ -1,7 +1,6 @@
 import { cn } from '@/lib/utils'
 import { Gamepad2 } from 'lucide-react'
 import type { Platform } from '@/types'
-import { InstagramIcon } from '@/assets/instagram.tsx'
 
 interface SidebarProps {
   platforms: Platform[]
