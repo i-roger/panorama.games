@@ -4,13 +4,6 @@
 
 ---
 
-## Arcade (2 jogos)
-
-- galaga.zip
-- galaga88.zip
-
----
-
 ## CPS-1 (32 jogos)
 
 - 1941.zip
@@ -99,9 +92,6 @@
 
 ---
 
-
----
-
 ## Dreamcast (5 jogos)
 
 - Crazy Taxi 2.cdi
@@ -109,13 +99,6 @@
 - GigaWing 2 (USA)[RDC].cdi
 - Legacy of Kain - Soul Reaver (USA)[RDC].cdi
 - Marvel Vs Capcom 2 (USA).cdi
-
----
-
-## EasyRPG (2 jogos)
-
-- Scan_for_new_games.easyrpg
-- menu.ldb
 
 ---
 
@@ -20043,15 +20026,13 @@
 
 ---
 
-## PlayStation (8 jogos)
+## PlayStation (5 jogos)
 
-- Championship Motocross featuring Ricky Carmichael (Europe).chd
+
 - Crash Bandicoot 2 - Cortex Strikes Back.PBP
 - Crash Bandicoot 3 - Warped.PBP
-- Jackie Chan Stuntmaster (USA).chd
 - Resident Evil 3 - Nemesis [NTSC-BR].chd
 - Street Fighter EX2 Plus.PBP
-- Syphon Filter (USA).chd
 - Tekken 3.PBP
 
 ---
