@@ -1,6 +1,6 @@
 import { useCallback, useSyncExternalStore } from 'react'
 
-const STORAGE_KEY = 'r36s-favorites'
+const STORAGE_KEY = 'panorama-games-favorites'
 
 function readStorage(): string[] {
   try {

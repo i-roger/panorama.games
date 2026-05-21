@@ -1,4 +1,4 @@
-# R36S Game Collection
+# Panorama Games Collection
 
 ## Visão Geral
 Site mobile-first para navegar ~14.389 jogos retrô (22 plataformas, do Arcade ao PlayStation).
@@ -50,13 +50,13 @@ DOCUMENT.md                    # Este arquivo
 ## Funcionalidades Implementadas
 
 ### Tema Dark/Light
-- Persiste em `localStorage('r36s-theme')`
+- Persiste em `localStorage('panorama-games-theme')`
 - Inicializa respeitando `prefers-color-scheme`
 - Aplicado sincronamente no módulo (sem flash)
 - CSS com duas camadas: `@theme inline` → `var(--*)` → `:root` / `.dark`
 
 ### Favoritos
-- Salvos em `localStorage('r36s-favorites')`
+- Salvos em `localStorage('panorama-games-favorites')`
 - `useSyncExternalStore` com variável `cached` para estabilizar referência
 - Sheet lateral com scroll (`min-h-0` + `overflow-hidden`)
 - Copiar lista com fallback para iOS (`execCommand('copy')`)

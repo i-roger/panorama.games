@@ -1,4 +1,4 @@
-# Lista de Jogos - R36S
+# Lista de Jogos - Panorama Games
 
 ## Total de Jogos: ~14.747
 

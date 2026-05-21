@@ -53026,27 +53026,27 @@
       ]
     },
     {
-      "name": "PlayStation 1",
+      "name": "PlayStation",
       "games": [
         {
-          "name": "Resident Evil 3 - Nemesis [NTSC-BR].chd",
-          "platform": "Playstation 1"
-        },
-        {
           "name": "Crash Bandicoot 2 - Cortex Strikes Back.PBP",
-          "platform": "PlayStation 1"
+          "platform": "PlayStation"
         },
         {
           "name": "Crash Bandicoot 3 - Warped.PBP",
-          "platform": "PlayStation 1"
+          "platform": "PlayStation"
+        },
+        {
+          "name": "Resident Evil 3 - Nemesis [NTSC-BR].chd",
+          "platform": "PlayStation"
         },
         {
           "name": "Street Fighter EX2 Plus.PBP",
-          "platform": "PlayStation 1"
+          "platform": "PlayStation"
         },
         {
           "name": "Tekken 3.PBP",
-          "platform": "PlayStation 1"
+          "platform": "PlayStation"
         }
       ]
     },
@@ -57629,5 +57629,5 @@
       ]
     }
   ],
-  "totalGames": 14389
+  "totalGames": 14382
 }

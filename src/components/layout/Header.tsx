@@ -1,10 +1,12 @@
 import { useState } from 'react'
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet'
-import { Menu, Gamepad2 } from 'lucide-react'
+import { Menu } from 'lucide-react'
 import Sidebar from './Sidebar'
 import FavoritesButton from '@/components/favorites/FavoritesButton'
 import ThemeToggle from './ThemeToggle'
 import type { Platform } from '@/types'
+import logoBlack from '@/assets/logo/PANORAMALOGOBLACK.png'
+import logoWhite from '@/assets/logo/PANORAMALOGOWHITE.png'
 
 interface HeaderProps {
   platforms: Platform[]
@@ -52,8 +54,13 @@ export default function Header({
         </Sheet>
 
         <div className="flex items-center gap-2 shrink-0">
-          <Gamepad2 className="h-5 w-5 text-primary" />
-          <span className="font-semibold text-sm hidden sm:inline">PANORAMA.</span>
+          <img
+            src={theme === 'dark' ? logoWhite : logoBlack}
+            alt="PANORAMA"
+            width={90}
+            height={17.88007268322229}
+            className="hidden sm:inline transform-all duration-700"
+          />
         </div>
 
         <div className="flex-1 max-w-md mx-auto">

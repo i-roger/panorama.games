@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 
-const STORAGE_KEY = 'r36s-theme'
+const STORAGE_KEY = 'panorama-games-theme'
 
 type Theme = 'dark' | 'light'
 
